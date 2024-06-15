@@ -24,14 +24,15 @@ Here are some ideas to get you started:
 
 
 
-### 🐧 About Me :
+### 🪶 About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in development!
 
 - 🔭 I’m studying to become a Software Engineer.
 - 🌱 Always as possible into the wild!
 - 🦆 In my free time I meditate, read macroeconomics articles and watch quanthum physics videos.
-- ⚡  Moving over more 20+ countries in the last 3y. 
+- ⚡  Moving over more 20+ countries in the last 3y.
+- 🐧 Not following the sun!
 
 ---
 ## 📫 Pigeon post !
