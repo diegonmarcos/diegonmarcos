@@ -24,17 +24,17 @@ Here are some ideas to get you started:
 
 
 
-### About Me :
+### 🐧 About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in development!
 
-- 🔭 I’m studyng to become a Software Engineer.
+- 🔭 I’m studying to become a Software Engineer.
 - 🌱 Always as possible into the wild!
-- ⚡ In my free time I meditate, read macroeconomics articles and watch quanthum physics videos.
-- 📫 How to reach me: &nbsp; 
+- 🦆 In my free time I meditate, read macroeconomics articles and watch quanthum physics videos.
+- ⚡  Moving over more 20+ countries in the last 3y. 
 
 ---
-## 📱 Connect With Me!
+## 📫 Pigeon post !
 [![Linkedin Badge](https://img.shields.io/badge/-diegonmarcos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diegonmarcos)
 [![Gmail](https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white)](mailto:diegonmarcos@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/diegonmarcos/)
