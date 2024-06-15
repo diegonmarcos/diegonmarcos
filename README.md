@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **diegonmarcos/diegonmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,11 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/diegonmarcos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
+---
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
 
 
 
@@ -31,9 +27,9 @@ Here are some ideas to get you started:
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in development!
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 🔭 I’m studyng to become a Software Engineer.
+- 🌱 Always as possible into the wild!
+- ⚡ In my free time I meditate, read macroeconomics articles and watch quanthum physics videos.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-diegonmarcos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diegonmarcos)
 
 ---
@@ -58,5 +54,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonmarcos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+<p align="center"> <a href="https://www.buymeacoffee.com/diegonmarcos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> </p>
 
 
