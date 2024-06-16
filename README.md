@@ -41,7 +41,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/diegonmarcos/)
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square)](https://diegonmarcos.github.io)  
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages, Tools and Frameorks :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="Spring" width="40" height="40"/>&nbsp;
@@ -52,6 +52,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
+
+---
+
+![](https://github.com/diegonmarcos/L-ecole-42/blob/aa1b2c1be4094f0c000adb662a6c695acc04d8bc/zimg/img1.png)
+![](https://github.com/diegonmarcos/L-ecole-42/blob/e478c87431825324fe7887f78b41b5068304ca71/zimg/img2.png)
+
+
+
+
+
 
 ---
 
