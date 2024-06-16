@@ -41,7 +41,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/diegonmarcos/)
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square)](https://diegonmarcos.github.io)  
 
-### 🛠 &nbsp;Languages, Tools and Frameorks :
+### 🛠 &nbsp;Languages, Frameworks, Tools and Skills :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="Spring" width="40" height="40"/>&nbsp;
