@@ -40,7 +40,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Gmail](https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white)](mailto:diegonmarcos@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/diegonmarcos/)
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square)](https://diegonmarcos.github.io)
-<a href='https://profile.intra.42.fr/users/dnepomuc' target="_blank"><img alt='42 profile' height="22" src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegonmarcos'/></a>
+<a href='https://github.com/diegonmarcos' target="_blank"><img alt='42 profile' height="22" src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegonmarcos'/></a>
 
  
 ### 🛠 &nbsp;Languages, Frameworks, Tools and Skills :
