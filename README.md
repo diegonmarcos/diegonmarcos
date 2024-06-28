@@ -22,24 +22,24 @@ Here are some ideas to get you started:
 ### 📚 Projects
 
 ## *[Lecole42](https://github.com/diegonmarcos/L-ecole-42)*
-
-### *[Piscine](https://github.com/diegonmarcos/L-ecole-42/1.Piscine)*
+https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common
+### *[Piscine](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)*
 <details>
 <summary>Projects</summary>
 
-- **[Sh00](https://github.com/diegonmarcos/L-ecole-42/1.Piscine)** 
-- **[Sh01](https://github.com/diegonmarcos/L-ecole-42/1.Piscine)**
-- **[C00](https://github.com/diegonmarcos/L-ecole-42/1.Piscine)**
+- **[Sh00](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)** 
+- **[Sh01](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+- **[C00](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
 </details>
 
-### *[Common Core](https://github.com/diegonmarcos/L-ecole-42/2.Common)*
+### *[Common Core](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)*
 
 <details>
 <summary>Projects</summary>
 
-- **[Reloaded](https://github.com/diegonmarcos/L-ecole-42/2.Common)** 
-- **[Libft](https://github.com/diegonmarcos/L-ecole-42/2.Common)**
-- **[get_next_libe](https://github.com/diegonmarcos/L-ecole-42/2.Common)**
+- **[Reloaded](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)** 
+- **[Libft](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)**
+- **[get_next_libe](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)**
 </details>
 
 
