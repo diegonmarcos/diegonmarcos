@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: follow the penguin!
 - ⚡ Fun fact: ...
 -->
-<p align="center"><img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=790b761192bw40kszown5q9l04h3c3693aw0uwdfmgzjs5ea&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" width="200"></p>
+<p align="center"><img src="https://github.com/diegonmarcos/L-ecole-42/raw/main/zimg/peng.jpg" alt="" width="600"></p>
+
 
 # 🪶 About Me :
 
@@ -347,7 +348,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ---
-
+<p align="center"><img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=790b761192bw40kszown5q9l04h3c3693aw0uwdfmgzjs5ea&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" width="200"></p>
 <p align="center"> <a href="https://www.buymeacoffee.com/diegonmarcos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=100614489)
