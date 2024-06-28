@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### 📚 Projects
 
 ## *[Lecole42](https://github.com/diegonmarcos/L-ecole-42)*
-https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common
+
 ### *[Piscine](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)*
 <details>
 <summary>Projects</summary>
