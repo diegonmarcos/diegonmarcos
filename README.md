@@ -48,7 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <tr>
     <td> 
 <details>
-<summary>Projects</summary>
+<summary>Projects by Deadline</summary>
 
 * **[Sh00 - Introduction to Sehll commands](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)** 
 * **[Sh01 - Shell 2](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
@@ -69,7 +69,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </details>
 
 <details>
-<summary>Projects/Formulas</summary>
+<summary>Projects by topic</summary>
 
 <details>
 <summary>Shell00 - Intro to Unix</summary>
@@ -249,7 +249,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 <details>
-<summary>Common Core - Projects by Topic</summary>
+<summary>Projects by Topic</summary>
 
 ### Unix
 * Libft
