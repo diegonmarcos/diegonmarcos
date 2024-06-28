@@ -213,7 +213,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <td>
 
 <details>
-<summary>Projects</summary>
+<summary>Projects by Deadline</summary>
 
 - Circle 0 - Library
   - Library
@@ -247,6 +247,49 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - Circle 7 - ?
 </details> 
 
+<details>
+<summary>Projects by Topic</summary>
+
+<details>
+<summary>Unix</summary>
+* Libft
+* Reloaded
+</details>
+
+<details>
+<summary>Algorithms & AI</summary>
+* get_next_line
+* Born2BeRoot
+* ft_printf
+</details>
+
+<details>
+<summary>System & Network</summary>
+* push_swap
+* pipex_or_minitalk
+* fdf_or_so_long_or_fract-ol
+* Minishell
+* Philosophers
+* Webserv_or_ft_IRC
+* NetPractice
+</details>
+
+<details>
+<summary>Graphics</summary>
+* Cub3D_or_MiniRT
+* Transcendence
+</details>
+
+<details>
+<summary>C++</summary>
+* CPP 00-04
+* CPP 05-09
+* Inception
+</details>
+
+</details>
+
+<!---
 <details>
 <summary>Circles</summary>
 
@@ -293,7 +336,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     Exam Rank 06 (CPP05-09 / Webserv_or_IRC / Inception).
   </details>
 </details>
-
+--->
 
 </td>
   </tr>
