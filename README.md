@@ -24,21 +24,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - ⚡  Moving over more 20+ countries in the last 3y.
 - 🐧 Not following the sun!
 
-
----
-
+<br>
+<br>
 
 # 📚 Projects
-
+  
 ## *[L'ecole42](https://github.com/diegonmarcos/L-ecole-42)*
-
-<!DOCTYPE html>
-<html>
-<head>
-
-</head>
-<body>
-
 <table>
   <tr>
     <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine">Piscine</a></h3></th>
@@ -341,9 +332,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-
-
----
+<br>
+<br>
  
 ## 🛠 &nbsp;Languages, Frameworks, Tools and Skills :
 
@@ -362,8 +352,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 -->
 
 
-
----
+<br>
+<br>
 
 ## 🔥 &nbsp; My Stats :
 
@@ -371,9 +361,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diegonmarcos&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonmarcos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 <p align="center"><img src="https://komarev.com/ghpvc/?username=diegonmarcos&style=flat-square&color=blue" alt=""></p>  
 
----
+<br>
+<br>
 
-# 📫 Get in Touch !
+# 📫 Ask Me!
 [![Linkedin Badge](https://img.shields.io/badge/-diegonmarcos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diegonmarcos)
 [![Gmail](https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white)](mailto:diegonmarcos@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/diegonmarcos/)
