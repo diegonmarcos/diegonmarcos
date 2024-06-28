@@ -50,14 +50,35 @@ Here are some ideas to get you started:
 <details>
 <summary>Projects</summary>
 
-- Circle 0 - Library - Reloaded
-- Circle 0 - Library - Libft
-- Circle 1 - Algorithms_AI - get_next_line/Born2BeRoot/ft_printf
-- Circle 2 - SystemNetwork - push_swap/pipex_or_minitalk/fdf_or_so_long_or_fract-ol
-- Circle 3 - SystemNetwork - Minishell/Philosophers
-- Circle 4 - C++/Graphics/SystemNetwork - CPP00-04/Cub3D_or_MiniRT/NetPractice 
-- Circle 5 - C++/SystemNetworkCPP05-09/Webserv_or_IRC/Inception
-- Circle 6 - Graphics - icsTranscendence
+- Circle 0 - Library
+  - Library
+  - Reloaded
+- Circle 1 - Algorithms_AI
+  - get_next_line
+  - Born2BeRoot
+  - ft_printf
+- Circle 2 - SystemNetwork
+  - push_swap
+  - pipex_or_minitalk
+  - fdf_or_so_long_or_fract-ol
+  - Exam Rank 02
+- Circle 3 - SystemNetwork
+  - Minishell
+  - Philosophers
+  - - Exam Rank 03 
+- Circle 4 - C++/Graphics/SystemNetwork
+  - CPP00-04
+  - Cub3D_or_MiniRT
+  - NetPractice
+  - Exam Rank 04
+- Circle 5 - C++/SystemNetwork
+  - CPP05-09
+  - Webserv_or_IRC
+  - Inception
+  - Exam Rank 05
+- Circle 6 - Graphics
+  - Transcendence
+  - Exam Rank 06
 - Circle 7 - ?
 </details> 
 
