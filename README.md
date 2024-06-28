@@ -30,6 +30,17 @@ Here are some ideas to get you started:
 - **[Sh00](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)** 
 - **[Sh01](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
 - **[C00](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+- **[C02](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+- **[C03](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+- **[C04](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+- **[C05](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+- **[C06](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+- **[C07](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+- **[C09](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+- **[C10](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+- **[C11](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+- **[C12](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+- **[C13](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
 </details>
 
 ### *[Common Core](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)*
@@ -40,7 +51,55 @@ Here are some ideas to get you started:
 - **[Reloaded](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)** 
 - **[Libft](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)**
 - **[get_next_libe](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)**
+</details> 
+
+<details>
+<summary>Circles</summary>
+
+* <details>
+  <summary>Circle 00</summary>
+   Reloaded
+   Libft
+  </details>
+* <details>
+  <summary>Circle 01</summary>
+    get_next_line,    
+    Born2BeRoot,  
+    ft_printf.
+  </details>
+* <details>
+  <summary>Circle 02</summary>
+   push_swap,
+   pipex_or_minitalk,
+   fdf_or_so_long_or_fract-ol,
+   Exam Rank 02 (Libft). 
+  </details>
+* <details>
+  <summary>Circle 03</summary>
+    Minishell,
+    Philosophers.
+  </details>
+* <details>
+  <summary>Circle 04</summary>
+    CPP 00-04,
+    Cub3D_or_MiniRT,
+    NetPractice,
+    Exam Rank 04 (Minishell (pipex_or_minitalk) / Philosophers).
+  </details>
+* <details>
+  <summary>Circle 05</summary>
+    CPP 05-09,
+    Webserv_or_ft_IRC,
+    Inception,
+    Exam Rank 05 (CPP00-04 / Cub3D_or_MiniRT / NetPractice).
+  </details>
+* <details>
+  <summary>Circle 06</summary>
+    Transcendence,
+    Exam Rank 06 (CPP05-09 / Webserv_or_IRC / Inception).
+  </details>
 </details>
+
 
 
 
