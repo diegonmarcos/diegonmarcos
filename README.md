@@ -27,20 +27,22 @@ Here are some ideas to get you started:
 <details>
 <summary>Projects</summary>
 
-- **[Sh00](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)** 
-- **[Sh01](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-- **[C00](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-- **[C02](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-- **[C03](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-- **[C04](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-- **[C05](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-- **[C06](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-- **[C07](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-- **[C09](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-- **[C10](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-- **[C11](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-- **[C12](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-- **[C13](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+* **[Sh00 - Introduction to Sehll commands](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)** 
+* **[Sh01 - Shell 2](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+* **[C00 - Introduction to C](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+* **[C01 - Pointers and If Statements](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+* **[C02 - Introduction To Strings and Arrays](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+* **[C03 - String Functions, Manipulation and Concatenation](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+* **[C04 - Analyzing String Qualities and Manipulating Ints](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+* **[C05 - Mathematical Concepts in C](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+* **[C06 - Understanding Argc and Argv](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+* **[C07 - Memory Allocation](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+* **[C08 - Structures and Linked Lists](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+* **[C09 - More Linked Lists and Function Pointers](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+* **[C10 - Macros and Variadic Functions](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+* **[C11 - Advanced String Manipulation](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+* **[C12 - Binary Trees](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+* **[C13 - Advanced Topics](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
 </details>
 
 ### *[Common Core](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)*
@@ -48,9 +50,19 @@ Here are some ideas to get you started:
 <details>
 <summary>Projects</summary>
 
-- **[Reloaded](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)** 
-- **[Libft](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)**
-- **[get_next_libe](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)**
+- Circle 0 - Reloaded
+- Circle 0 - Libft
+- Circle 1 - get_next_line/Born2BeRoot/ft_printf
+- Circle 2 - push_swap/pipex_or_minitalk/fdf_or_so_long_or_fract-ol
+- Circle 2 - Libft
+- Circle 3 - Minishell/Philosophers
+- Circle 3 - get_next_line/Born2BeRoot/ft_printf
+- Circle 4 - CPP00-04/Cub3D_or_MiniRT/NetPractice
+- Circle 4 - Minishell(pipex_or_minitalk)/Philosophers
+- Circle 5 - CPP05-09/Webserv_or_IRC/Inception
+- Circle 5 - CPP00-04/Cub3D_or_MiniRT/NetPractice
+- Circle 6 - Transcendence
+- Circle 6 - CPP05-09/Webserv_or_IRC/Inception
 </details> 
 
 <details>
