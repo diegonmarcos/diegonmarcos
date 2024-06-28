@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 # 📚 Projects
 
-## *[Lecole42](https://github.com/diegonmarcos/L-ecole-42)*
+## *[L'ecole42](https://github.com/diegonmarcos/L-ecole-42)*
 
 <!DOCTYPE html>
 <html>
