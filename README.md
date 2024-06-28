@@ -21,6 +21,48 @@ Here are some ideas to get you started:
 ---
 
 
+### 📚 42 School Projects
+
+**Piscine:**
+- **[42-Subjects](https://github.com/rphlr/42-Subjects):** Your launchpad to the 42 School curriculum with project PDFs in English and French. 📚🌐🚀
+- **[42-Evals](https://github.com/rphlr/42-Evals):** A telescope to peer into the evaluation process with official 42 School evaluation sheets. 🔭✅📄
+
+Check out the live version of my 42-Evals repository to navigate the stars of peer evaluation with ease: 🌟👨‍🚀 [42-Evals Web Page](https://42Evals.com)
+
+**Explore More Repositories:**
+
+<details>
+<summary>📚 Piscine </summary>
+<details>
+<summary>📚 C01 </summary>
+- **[42-Subjects](https://github.com/rphlr/42-Subjects):** Your launchpad to the 42 School curriculum with project PDFs in English and French. 📚🌐🎒
+</details>
+<details>
+<summary>📚 C02 </summary>
+- **[42-Subjects](https://github.com/rphlr/42-Subjects):** Your launchpad to the 42 School curriculum with project PDFs in English and French. 📚🌐🎒
+</details>
+
+
+</details>
+
+<details>
+<summary>🔍 Piscine details</summary>
+
+Coming soon...
+
+</details>
+
+<details>
+<summary>🔍 Specializations details</summary>
+
+Coming soon...
+
+</details>
+
+</details>
+
+
+---
 
 
 
