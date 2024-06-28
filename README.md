@@ -13,8 +13,16 @@ Here are some ideas to get you started:
 -->
 <p align="center"><img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=790b761192bw40kszown5q9l04h3c3693aw0uwdfmgzjs5ea&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" width="200"></p>
 
+# 🪶 About Me :
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=diegonmarcos&style=flat-square&color=blue" alt=""></p>
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in development!
+
+- 🔭 I’m studying to become a Software Engineer.
+- 🌱 Always as possible into the wild!
+- 🦆 In my free time I meditate, read macroeconomics articles and watch quanthum physics videos.
+- ⚡  Moving over more 20+ countries in the last 3y.
+- 🐧 Not following the sun!
+
 
 ---
 
@@ -300,29 +308,6 @@ Here are some ideas to get you started:
 
 
 ---
-
-
-
-# 🪶 About Me :
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in development!
-
-- 🔭 I’m studying to become a Software Engineer.
-- 🌱 Always as possible into the wild!
-- 🦆 In my free time I meditate, read macroeconomics articles and watch quanthum physics videos.
-- ⚡  Moving over more 20+ countries in the last 3y.
-- 🐧 Not following the sun!
-
----
-
-## 📫 Get in Touch !
-[![Linkedin Badge](https://img.shields.io/badge/-diegonmarcos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diegonmarcos)
-[![Gmail](https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white)](mailto:diegonmarcos@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/diegonmarcos/)
-[![Personal Website](https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square)](https://diegonmarcos.github.io)
-<a href='https://github.com/diegonmarcos' target="_blank"><img alt='42 profile' height="22" src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegonmarcos'/></a>
-
- ---
  
 ## 🛠 &nbsp;Languages, Frameworks, Tools and Skills :
 
@@ -342,12 +327,24 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-
-
 ---
 
 ## 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diegonmarcos&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonmarcos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diegonmarcos&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonmarcos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+<p align="center"><img src="https://komarev.com/ghpvc/?username=diegonmarcos&style=flat-square&color=blue" alt=""></p>  
+
+---
+
+# 📫 Get in Touch !
+[![Linkedin Badge](https://img.shields.io/badge/-diegonmarcos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diegonmarcos)
+[![Gmail](https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white)](mailto:diegonmarcos@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/diegonmarcos/)
+[![Personal Website](https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square)](https://diegonmarcos.github.io)
+<a href='https://github.com/diegonmarcos' target="_blank"><img alt='42 profile' height="22" src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegonmarcos'/></a>
+
+
 
 ---
 
