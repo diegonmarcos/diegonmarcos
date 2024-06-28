@@ -215,38 +215,78 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <details>
 <summary>Projects by Deadline</summary>
 
-- Circle 0 - Library
+- ### Circle 0 - Library
   - Library
   - Reloaded
-- Circle 1 - Algorithms_AI
+- ### Circle 1 - Algorithms_AI
   - get_next_line
   - Born2BeRoot
   - ft_printf
-- Circle 2 - SystemNetwork
+- ### Circle 2 - SystemNetwork
   - push_swap
   - pipex_or_minitalk
   - fdf_or_so_long_or_fract-ol
   - Exam Rank 02
-- Circle 3 - SystemNetwork
+- ### Circle 3 - SystemNetwork
   - Minishell
   - Philosophers
   - - Exam Rank 03 
-- Circle 4 - C++/Graphics/SystemNetwork
+- ### Circle 4 - C++/Graphics/SystemNetwork
   - CPP00-04
   - Cub3D_or_MiniRT
   - NetPractice
   - Exam Rank 04
-- Circle 5 - C++/SystemNetwork
+- ### Circle 5 - C++/SystemNetwork
   - CPP05-09
   - Webserv_or_IRC
   - Inception
   - Exam Rank 05
-- Circle 6 - Graphics
+- ### Circle 6 - Graphics
   - Transcendence
   - Exam Rank 06
-- Circle 7 - ?
+- ### Circle 7 - ?
 </details> 
 
+
+<details>
+<summary>Common Core - Projects by Topic</summary>
+
+### Unix
+* Libft
+* Reloaded
+
+### Algorithms & AI
+* get_next_line
+* Born2BeRoot
+* ft_printf
+
+### System & Network
+* push_swap
+* pipex_or_minitalk
+* fdf_or_so_long_or_fract-ol
+* Minishell
+* Philosophers
+* Webserv_or_ft_IRC
+* NetPractice
+* Inception
+
+### Graphics
+* Cub3D_or_MiniRT
+* Transcendence
+
+### C++
+* CPP 00-04
+* CPP 05-09
+
+</details>
+
+
+
+
+
+
+
+<!---
 <details>
 <summary>Projects by Topic</summary>
 
@@ -287,54 +327,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 * Inception
 </details>
 
-</details>
-
-<!---
-<details>
-<summary>Circles</summary>
-
-* <details>
-  <summary>Circle 00</summary>
-   Reloaded
-   Libft
-  </details>
-* <details>
-  <summary>Circle 01</summary>
-    get_next_line,    
-    Born2BeRoot,  
-    ft_printf.
-  </details>
-* <details>
-  <summary>Circle 02</summary>
-   push_swap,
-   pipex_or_minitalk,
-   fdf_or_so_long_or_fract-ol,
-   Exam Rank 02 (Libft). 
-  </details>
-* <details>
-  <summary>Circle 03</summary>
-    Minishell,
-    Philosophers.
-  </details>
-* <details>
-  <summary>Circle 04</summary>
-    CPP 00-04,
-    Cub3D_or_MiniRT,
-    NetPractice,
-    Exam Rank 04 (Minishell (pipex_or_minitalk) / Philosophers).
-  </details>
-* <details>
-  <summary>Circle 05</summary>
-    CPP 05-09,
-    Webserv_or_ft_IRC,
-    Inception,
-    Exam Rank 05 (CPP00-04 / Cub3D_or_MiniRT / NetPractice).
-  </details>
-* <details>
-  <summary>Circle 06</summary>
-    Transcendence,
-    Exam Rank 06 (CPP05-09 / Webserv_or_IRC / Inception).
-  </details>
 </details>
 --->
 
