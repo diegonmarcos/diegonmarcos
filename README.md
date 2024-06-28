@@ -69,7 +69,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </details>
 
 <details>
-<summary>Projects by topic</summary>
+<summary>Projects by Topic</summary>
 
 <details>
 <summary>Shell00 - Intro to Unix</summary>
