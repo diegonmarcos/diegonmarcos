@@ -46,16 +46,19 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary>1. Piscine</summary>
+<summary>Projects/Formulas</summary>
 
 <details>
-<summary>1.1 Shell</summary>
+<summary>Shell00 - Intro to Unix</summary>
+* **[Sh00](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)** 
+* **[Sh01](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
+</details>
+<details>
+<summary>Shell01 - Intro to Unix</summary>
 * **[Sh00](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)** 
 * **[Sh01](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
 </details>
 
-<details>
-<summary>1.2 C - Standard Library</summary>
 
 <details>
 <summary>C00 - Introduction to C</summary>
@@ -181,7 +184,6 @@ Here are some ideas to get you started:
 </details>
 
 </details> 
-</details>
 
 
 
