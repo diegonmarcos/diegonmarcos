@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 
 
-### 📚 Projects
+# 📚 Projects
 
 ## *[Lecole42](https://github.com/diegonmarcos/L-ecole-42)*
 
