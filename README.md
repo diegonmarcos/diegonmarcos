@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 ---
 
 
-### 📚 42 School Projects - *[Lecole42](https://github.com/diegonmarcos/L-ecole-42)*
+### 📚 Projects
 
-**Piscine** - *[Lecole42](https://github.com/diegonmarcos/L-ecole-42/1.Piscine)*
+## *[Lecole42](https://github.com/diegonmarcos/L-ecole-42)*
+
+### *[Piscine](https://github.com/diegonmarcos/L-ecole-42/1.Piscine)*
 <details>
 <summary>Projects</summary>
 
@@ -32,7 +34,7 @@ Here are some ideas to get you started:
 - **[C00](https://github.com/diegonmarcos/L-ecole-42/1.Piscine)**
 </details>
 
-**Common Core**- *[Lecole42](https://github.com/diegonmarcos/L-ecole-42/2.Common)*
+### *[Common Core](https://github.com/diegonmarcos/L-ecole-42/2.Common)*
 
 <details>
 <summary>Projects</summary>
