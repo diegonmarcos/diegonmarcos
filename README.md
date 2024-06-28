@@ -23,7 +23,21 @@ Here are some ideas to get you started:
 
 ## *[Lecole42](https://github.com/diegonmarcos/L-ecole-42)*
 
-### *[Piscine](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)*
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+
+<table>
+  <tr>
+    <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine">Piscine</a></h3></th>
+    <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common">Common Core</a></h3>
+</th>
+  </tr>
+  <tr>
+    <td> 
 <details>
 <summary>Projects</summary>
 
@@ -186,9 +200,8 @@ Here are some ideas to get you started:
 </details> 
 
 
-
-
-### *[Common Core](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)*
+</td>
+    <td>
 
 <details>
 <summary>Projects</summary>
@@ -271,6 +284,21 @@ Here are some ideas to get you started:
     Exam Rank 06 (CPP05-09 / Webserv_or_IRC / Inception).
   </details>
 </details>
+
+
+</td>
+  </tr>
+  <tr>
+    <td>Data 3</td>
+    <td>Data 4</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
+
 
 
 
