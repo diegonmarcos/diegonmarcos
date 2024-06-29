@@ -9,8 +9,8 @@
   <tr>
     <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine">Piscine</a></h3></th>
     <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common">Common Core</a></h3></th>
-    <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common"> </a></a></h3></th>
-    <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common"> Tools & Resources</a></h3></th>
+    <th> <h3><a href=""> </a></a></h3></th>
+    <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/blob/main/0.Tools/README.md"> Tools & Resources</a></h3></th>
   </tr>
   <tr>
     <td> 
