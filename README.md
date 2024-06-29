@@ -251,21 +251,104 @@
 
 <td>
 <details>
-<summary>Tools & Resources</summary>
+<summary>Links</summary>
 
-### Tools
+### Links
 * <a href="https://github.com/diegonmarcos/L-ecole-42/blob/main/0.Tools/README.md">Main Tools</a> <br>
 * <a href="https://github.com/diegonmarcos/L-ecole-42/blob/main/0.Tools/General.md">General</a> <br>
-
-### Tools for 42
-* Francinette(Paco)
-* Norminette
-
 &nbsp;
-
-</td>
+</details>
+<details>
+  <summary>General 42 Information</summary>
+  <ul>
+    <li>Information and Facts</li>
+    <li>Trivia</li>
+    <li>Rewards</li>
+    <li>Network</li>
+    <li>Social</li>
+  </ul>
 </details>
 
+<details>
+  <summary>Curriculum & Learning</summary>
+  <ul>
+    <li>Piscine and Common Core</li>
+    <li>Exams</li>
+    <li>Peer-To-Peer</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Tools & Resources</summary>
+  <ul>
+    <li>Websites & Guides</li>
+    <li>Extensions</li>
+    <li>Grammar</li>
+    <li>Browser</li>
+    <li>Apps</li>
+    <li>Readme</li>
+    <li>Productivity</li>
+    <li>Others</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Common Core Projects</summary>
+  <ul>
+    <li>Libft</li>
+    <li>Born2beroot</li>
+    <li>Ft_printf</li>
+    <li>Get_next_line</li>
+    <li>Minitalk & Pipex</li>
+    <li>Minilibx</li>
+    <li>So_long</li>
+    <li>Fract-ol</li>
+    <li>Fdf</li>
+    <li>Push_swap</li>
+    <li>Philosophers</li>
+    <li>Minishell</li>
+    <li>Netpractice</li>
+    <li>Cub3d</li>
+    <li>MiniRT</li>
+    <li>CPP Module (00-09)</li>
+    <li>Webserv</li>
+    <li>Ft_irc</li>
+    <li>Inception</li>
+    <li>Ft_transcendence</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Cybersecurity</summary>
+  <ul>
+    <li>Crack the Code</li>
+    <li>Pentesting Tools</li>
+    <li>Digital Footprint</li>
+    <li>VPN</li>
+    <li>Bootable USB</li>
+    <li>Data Forensics</li>
+    <li>Package Manager</li>
+    <li>Operating System and Tools</li>
+    <li>Exploits and Vulnerabilities</li>
+    <li>Guides and Resources</li>
+    <li>Podcasts, News and Videos</li>
+    <li>Hacking Google</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Miscellaneous</summary>
+  <ul>
+    <li>Wikimedia Foundation</li>
+    <li>Campuses</li>
+    <li>Artificial Intelligence</li>
+    <li>Educational Resources</li>
+    <li>Design Tools</li>
+    <li>Entertainment</li>
+    <li>Development Tools</li>
+    <li>Others</li>
+  </ul>
+</details>
 </td>
   </tr>
 </table>
