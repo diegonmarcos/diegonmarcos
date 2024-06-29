@@ -1,31 +1,6 @@
-<!--
-**diegonmarcos/diegonmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: follow the penguin!
-- ⚡ Fun fact: ...
--->
 <p align="center"><img src="https://github.com/diegonmarcos/L-ecole-42/raw/main/zimg/peng.jpg" alt="" width="600"></p>
 
-
-# 🪶 About Me
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in development!
-
-- 🔭 I’m studying to become a Software Engineer.
-- 🌱 Always as possible into the wild!
-- 🦆 In my free time I meditate, read macroeconomics articles and watch quanthum physics videos.
-- ⚡  Moving over more 20+ countries in the last 3y.
-- 🐧 Not following the sun!
-
-<br>
-<br>
 
 # 📚 Projects
   
@@ -33,8 +8,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <table>
   <tr>
     <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine">Piscine</a></h3></th>
-    <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common">Common Core</a></h3>
-</th>
+    <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common">Common Core</a></h3></th>
+    <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common"> </a></a></h3></th>
+    <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common"> Tools & Resources</a></h3></th>
   </tr>
   <tr>
     <td> 
@@ -334,8 +310,21 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <br>
 <br>
+
+# 🪶 About Me
+## Mini Bio
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in development!
+
+- 🔭 I’m studying to become a Software Engineer.
+- 🌱 Always as possible into the wild!
+- 🦆 In my free time I meditate, read macroeconomics articles and watch quanthum physics videos.
+- ⚡  Moving over more 20+ countries in the last 3y.
+- 🐧 Not following the sun!
+
+<br>
+<br>
  
-## 🛠 &nbsp;Languages, Frameworks, Tools and Skills :
+## 🛠 Languages, Frameworks, Tools and Skills :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="Spring" width="40" height="40"/>&nbsp;
@@ -355,7 +344,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br>
 <br>
 
-## 🔥 &nbsp; My Stats :
+## 🔥 My Stats :
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diegonmarcos&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonmarcos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
@@ -368,18 +357,47 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br>
 <br>
 
-# 📫 Ask Me!
+# 📫 Platforms
+
 [![Linkedin Badge](https://img.shields.io/badge/-diegonmarcos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diegonmarcos)
 [![Gmail](https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white)](mailto:diegonmarcos@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/diegonmarcos/)
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square)](https://diegonmarcos.github.io)
 <a href='https://github.com/diegonmarcos' target="_blank"><img alt='42 profile' height="22" src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegonmarcos'/></a>
 
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
 
 
----
+
+
 <p align="center"><img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=790b761192bw40kszown5q9l04h3c3693aw0uwdfmgzjs5ea&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" width="200"></p>
 <p align="center"> <a href="https://www.buymeacoffee.com/diegonmarcos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> </p>
 
+
 ![](https://hit.yhype.me/github/profile?user_id=100614489)
 
+
+
+
+  
+<!--
+**diegonmarcos/diegonmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: follow the penguin!
+- ⚡ Fun fact: ...
+-->
