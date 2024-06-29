@@ -252,11 +252,9 @@
 <td>
 <details>
 <summary>Links</summary>
-
-### Links
+  
 * <a href="https://github.com/diegonmarcos/L-ecole-42/blob/main/0.Tools/README.md">Main Tools</a> <br>
 * <a href="https://github.com/diegonmarcos/L-ecole-42/blob/main/0.Tools/General.md">General</a> <br>
-&nbsp;
 </details>
 <details>
   <summary>General 42 Information</summary>
@@ -289,50 +287,6 @@
     <li>Readme</li>
     <li>Productivity</li>
     <li>Others</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Common Core Projects</summary>
-  <ul>
-    <li>Libft</li>
-    <li>Born2beroot</li>
-    <li>Ft_printf</li>
-    <li>Get_next_line</li>
-    <li>Minitalk & Pipex</li>
-    <li>Minilibx</li>
-    <li>So_long</li>
-    <li>Fract-ol</li>
-    <li>Fdf</li>
-    <li>Push_swap</li>
-    <li>Philosophers</li>
-    <li>Minishell</li>
-    <li>Netpractice</li>
-    <li>Cub3d</li>
-    <li>MiniRT</li>
-    <li>CPP Module (00-09)</li>
-    <li>Webserv</li>
-    <li>Ft_irc</li>
-    <li>Inception</li>
-    <li>Ft_transcendence</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Cybersecurity</summary>
-  <ul>
-    <li>Crack the Code</li>
-    <li>Pentesting Tools</li>
-    <li>Digital Footprint</li>
-    <li>VPN</li>
-    <li>Bootable USB</li>
-    <li>Data Forensics</li>
-    <li>Package Manager</li>
-    <li>Operating System and Tools</li>
-    <li>Exploits and Vulnerabilities</li>
-    <li>Guides and Resources</li>
-    <li>Podcasts, News and Videos</li>
-    <li>Hacking Google</li>
   </ul>
 </details>
 
