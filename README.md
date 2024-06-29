@@ -253,13 +253,14 @@
 <details>
 <summary>Tools & Resources</summary>
 
+### Tools
+* <a href="https://github.com/diegonmarcos/L-ecole-42/blob/main/0.Tools/README.md">Main Tools</a> <br>
+* <a href="https://github.com/diegonmarcos/L-ecole-42/blob/main/0.Tools/General.md">General</a> <br>
+
 ### Tools for 42
 * Francinette(Paco)
 * Norminette
 
-### Tools
-* <a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine">Tools</a> <br>
-* <a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine">Resources</a> <br>
 &nbsp;
 
 </td>
@@ -271,9 +272,6 @@
 
 </body>
 </html>
-
-
-
 
 
 <br>
