@@ -182,36 +182,35 @@
 <details>
 <summary>Projects by Deadline</summary>
 
-- ### Circle 0 - Library
+- **Circle 0**
   - Library
   - Reloaded
-- ### Circle 1 - Algorithms_AI
+- **Circle 1**
   - get_next_line
   - Born2BeRoot
   - ft_printf
-- ### Circle 2 - SystemNetwork
+- **Circle 2**
   - push_swap
   - pipex_or_minitalk
   - fdf_or_so_long_or_fract-ol
   - Exam Rank 02
-- ### Circle 3 - SystemNetwork
+- **Circle 3**
   - Minishell
   - Philosophers
   - Exam Rank 03 
-- ### Circle 4 - C++/Graphics/SystemNetwork
+- **Circle 4**
   - CPP00-04
   - Cub3D_or_MiniRT
   - NetPractice
   - Exam Rank 04
-- ### Circle 5 - C++/SystemNetwork
+- **Circle 5**
   - CPP05-09
   - Webserv_or_IRC
   - Inception
   - Exam Rank 05
-- ### Circle 6 - Graphics
+- **Circle 6**
   - Transcendence
   - Exam Rank 06
-- ### Circle 7 - ?
 </details> 
 
 
@@ -399,7 +398,7 @@ Front-End Web
 
 
 
-# .
+# 
 <!---
 <details>
 <summary>Projects by Topic</summary>
