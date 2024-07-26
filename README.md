@@ -79,59 +79,11 @@
 
 
 <td>
-<details>
-<summary>Links</summary>
-  
-* <a href="https://github.com/diegonmarcos/L-ecole-42/blob/main/0.Tools/README.md">Main Tools</a> <br>
-* <a href="https://github.com/diegonmarcos/L-ecole-42/blob/main/0.Tools/General.md">General</a> <br>
-</details>
-<details>
-  <summary>General 42 Information</summary>
-  <ul>
-    <li>Information and Facts</li>
-    <li>Trivia</li>
-    <li>Rewards</li>
-    <li>Network</li>
-    <li>Social</li>
-  </ul>
-</details>
 
-<details>
-  <summary>Curriculum & Learning</summary>
-  <ul>
-    <li>Piscine and Common Core</li>
-    <li>Exams</li>
-    <li>Peer-To-Peer</li>
-  </ul>
-</details>
+</td>
 
-<details>
-  <summary>Tools & Resources</summary>
-  <ul>
-    <li>Websites & Guides</li>
-    <li>Extensions</li>
-    <li>Grammar</li>
-    <li>Browser</li>
-    <li>Apps</li>
-    <li>Readme</li>
-    <li>Productivity</li>
-    <li>Others</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Miscellaneous</summary>
-  <ul>
-    <li>Wikimedia Foundation</li>
-    <li>Campuses</li>
-    <li>Artificial Intelligence</li>
-    <li>Educational Resources</li>
-    <li>Design Tools</li>
-    <li>Entertainment</li>
-    <li>Development Tools</li>
-    <li>Others</li>
-  </ul>
-</details>
+<td>
+  Tools
 </td>
   </tr>
 </table>
