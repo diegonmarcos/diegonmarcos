@@ -197,7 +197,7 @@
 - ### Circle 3 - SystemNetwork
   - Minishell
   - Philosophers
-  - - Exam Rank 03 
+  - Exam Rank 03 
 - ### Circle 4 - C++/Graphics/SystemNetwork
   - CPP00-04
   - Cub3D_or_MiniRT
