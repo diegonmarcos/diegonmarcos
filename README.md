@@ -45,8 +45,8 @@
 <summary>Projects by Deadline</summary>
 
 - **Circle 0**
-  - **[Reloaded](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**  
-  - **[Libft](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**    
+  - **[Reloaded](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)**  
+  - **[Libft](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)**    
 - **Circle 1**
   - **[get_next_line](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)**
   - **[Born2BeRoot](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)**
