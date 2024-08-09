@@ -7,8 +7,8 @@
 ## *[L'ecole42](https://github.com/diegonmarcos/L-ecole-42)*
 <table>
   <tr>
-    <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine">Piscine</a></h3></th>
-    <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common">Common Core</a></h3></th>
+    <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/B0_Piscine">Piscine</a></h3></th>
+    <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects">Common Core</a></h3></th>
     <th> <h3><a href=""> </a></a></h3></th>
     <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/blob/main/0.Tools/README.md"> Tools & Resources</a></h3></th>
   </tr>
@@ -45,12 +45,12 @@
 <summary>Projects by Deadline</summary>
 
 - **Circle 0**
-  - **[Reloaded](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)**  
-  - **[Libft](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)**    
+  - **[Reloaded](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C0_Reloaded)**  
+  - **[Libft](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C0_libft)**    
 - **Circle 1**
-  - **[get_next_line](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)**
-  - **[Born2BeRoot](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)**
-  - **[ft_printf](https://github.com/diegonmarcos/L-ecole-42/tree/main/2.Common)**
+  - **[get_next_line](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C1_get_next_line)**
+  - **[Born2BeRoot](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C1_born2beroot)**
+  - **[ft_printf](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C1_ft_printf)**
 - **Circle 2**
   - push_swap
   - pipex_or_minitalk
