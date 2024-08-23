@@ -248,4 +248,3 @@ https://gist.github.com/diegonmarcos
   
 ``` gist diegonmarcos/gist.css
 
-```
