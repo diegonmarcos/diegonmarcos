@@ -249,5 +249,4 @@ https://gist.github.com/diegonmarcos
 
 ```  
 
-  
-``` gist 0f16ae4b4161120822685508105ed115
+<script src="https://gist.github.com/diegonmarcos/0f16ae4b4161120822685508105ed115.js"></script>
