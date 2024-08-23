@@ -249,6 +249,9 @@ https://gist.github.com/diegonmarcos
 
 ```  
 
-<script src="https://gist.github.com/diegonmarcos/0f16ae4b4161120822685508105ed115.js"></script>  
+<script src="https://gist.github.com/diegonmarcos/0f16ae4b4161120822685508105ed115.js"></script> 
+   
 
-{% gist  0f16ae4b4161120822685508105ed115 %}
+{% gist  0f16ae4b4161120822685508105ed115 %}  
+  
+[gist] https://gist.github.com/diegonmarcos/0f16ae4b4161120822685508105ed115 [/gist]  
