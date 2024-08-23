@@ -1,4 +1,4 @@
-I'll
+I'llI'll
 <p align="center"><img src="https://github.com/diegonmarcos/L-ecole-42/raw/main/zimg/peng.jpg" alt="" width="600"></p>
 
 
@@ -247,5 +247,3 @@ https://gist.github.com/diegonmarcos
 
   
 ``` gist 0f16ae4b4161120822685508105ed115
-
-```
