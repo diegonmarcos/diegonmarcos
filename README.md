@@ -56,7 +56,7 @@
   - **[Born2BeRoot](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C1_born2beroot)**
   - **[ft_printf](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C1_ft_printf)**
 - **Circle 2**
-  - Exam Rank 02
+  - [Exam Rank 02](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C2_ExamRank02)
   - [push_swap](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C2_push_swap)
   - [minitalk(pipex)](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C2_minitalk)
   - [fdf](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C2_fdf)
