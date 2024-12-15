@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/diegonmarcos/L-ecole-42/raw/main/zimg/peng.jpg" alt="" width="600"></p>
 
 
-# 📚 Projects -  *[L'ecole42](https://github.com/diegonmarcos/L-ecole-42)*
+# 📚 *[L'ecole42](https://github.com/diegonmarcos/L-ecole-42)*
 <table>
   <tr>
     <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/B0_Piscine">Piscine</a></h3></th>
@@ -82,12 +82,14 @@
 
 # 📚 Side Projects
 
-## Unit Testing
+## [Unit Testing](https://github.com/diegonmarcos/lib_unit)
 ``` bash
 https://github.com/diegonmarcos/LibUnit.git
 ```
-## Documentation
-[landpage](https://badge.mediaplus.ma/darkblue/dnepomuc?1337Badge=off&UM6P=off)
+## [Documentation](https://badge.mediaplus.ma/darkblue/dnepomuc?1337Badge=off&UM6P=off)
+### [Tools](https://github.com/diegonmarcos/documentation/tree/main/B_Tools)
+> Use Obsidian!
+> 
 ``` bash
 https://github.com/diegonmarcos/documentation.git
 ```
