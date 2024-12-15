@@ -1,15 +1,12 @@
 <p align="center"><img src="https://github.com/diegonmarcos/L-ecole-42/raw/main/zimg/peng.jpg" alt="" width="600"></p>
 
 
-# 📚 Projects
-  
-## *[L'ecole42](https://github.com/diegonmarcos/L-ecole-42)*
+# 📚 Projects -  *[L'ecole42](https://github.com/diegonmarcos/L-ecole-42)*
 <table>
   <tr>
     <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/B0_Piscine">Piscine</a></h3></th>
     <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects">Common Core</a></h3></th>
-    <th> <h3><a href=""> </a></a></h3></th>
-    <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/blob/main/0.Tools/README.md"> Tools & Resources</a></h3></th>
+	<th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects">Advanced Core</a></h3></th>
   </tr>
   <tr>
     <td> 
@@ -33,10 +30,6 @@
 * **[C12 - Binary Trees](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
 * **[C13 - Advanced Topics](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
 </details>
-
-
-
-
 </td>
     <td>
 
@@ -74,19 +67,6 @@
   - Exam Rank 06
 </details> 
 
-
-
-
-<td>
-
-</td>
-
-<td>
-  Tools
-</td>
-<td>
-
-  </td>
   </tr>
 </table>
 
@@ -96,14 +76,18 @@
 </body>
 </html>
 
-  [Milestones](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxdmic1XmPiT521WHBYBPsSKTC4a8Deb4X2Oy8D8v5sb_mueKel1Ol76UHDrdibUV1b2mZobq1_akN/pubhtml?gid=478330990&amp;single=true&amp;widget=true&amp;headers=false)
+  ### [Milestones Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxdmic1XmPiT521WHBYBPsSKTC4a8Deb4X2Oy8D8v5sb_mueKel1Ol76UHDrdibUV1b2mZobq1_akN/pubhtml?gid=478330990&amp;single=true&amp;widget=true&amp;headers=false)
 <br>
 <br>
-# Tester
+
+# 📚 Side Projects
+
+## Unit Testing
 ``` bash
 https://github.com/diegonmarcos/LibUnit.git
 ```
-# Documentation
+## Documentation
+[landpage](https://badge.mediaplus.ma/darkblue/dnepomuc?1337Badge=off&UM6P=off)
 ``` bash
 https://github.com/diegonmarcos/documentation.git
 ```
@@ -158,7 +142,10 @@ Front-End Web
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diegonmarcos&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonmarcos&layout=compact&theme=vision-friendly-dark)](https://github.com/diegonmarcos/github-readme-stats)  
 
+
+<a href="https://profile.intra.42.fr/users/dinepomu"> <p align="center"><img src="https://badge.mediaplus.ma/darkblue/dinepomu?1337Badge=off&UM6P=off"></p>  </a>
 <a href="https://profile.intra.42.fr/users/dnepomuc"> <p align="center"><img src="https://badge.mediaplus.ma/darkblue/dnepomuc?1337Badge=off&UM6P=off"></p>  </a>
+
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=diegonmarcos&style=flat-square&color=blue" alt=""></p>  
 
@@ -196,67 +183,12 @@ Front-End Web
 
 
 # 
-<!---
-<details>
-<summary>Projects by Topic</summary>
 
-<details>
-<summary>Unix</summary>
-* Libft
-* Reloaded
-</details>
-
-<details>
-<summary>Algorithms & AI</summary>
-* get_next_line
-* Born2BeRoot
-* ft_printf
-</details>
-
-<details>
-<summary>System & Network</summary>
-* push_swap
-* pipex_or_minitalk
-* fdf_or_so_long_or_fract-ol
-* Minishell
-* Philosophers
-* Webserv_or_ft_IRC
-* NetPractice
-</details>
-
-<details>
-<summary>Graphics</summary>
-* Cub3D_or_MiniRT
-* Transcendence
-</details>
-
-<details>
-<summary>C++</summary>
-* CPP 00-04
-* CPP 05-09
-* Inception
-</details>
-
-</details>
---->
 
 
 
 
   
-<!--
-**diegonmarcos/diegonmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: follow the penguin!
-- ⚡ Fun fact: ...
--->
   
 https://gist.github.com/diegonmarcos  
 
