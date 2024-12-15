@@ -51,14 +51,14 @@
   - **[Born2BeRoot](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C1_born2beroot)**
   - **[ft_printf](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C1_ft_printf)**
 - **Circle 2**
-  - push_swap
-  - pipex_or_minitalk
-  - fdf_or_so_long_or_fract-ol
   - Exam Rank 02
+  - [push_swap](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C2_push_swap)
+  - [minitalk(pipex)](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C2_minitalk)
+  - [fdf](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C2_fdf)
 - **Circle 3**
+  - Exam Rank 03
   - Minishell
-  - Philosophers
-  - Exam Rank 03 
+  - Philosophers 
 - **Circle 4**
   - CPP00-04
   - Cub3D_or_MiniRT
