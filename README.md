@@ -112,7 +112,7 @@ https://github.com/diegonmarcos/documentation.git
 ## Mini Bio
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in development!
 
-- 🔭 I’m studying to become a Software Engineer.
+- 🔭 I’m studying to become a Software Engineer in 42 Schol Berlin.
 - 🌱 Always as possible into the wild!
 - 🦆 In my free time I meditate, read macroeconomics articles and watch quanthum physics videos.
 - ⚡  Moving over 30+ countries and 120+ cities in the last 3y.
