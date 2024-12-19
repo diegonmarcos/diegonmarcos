@@ -175,7 +175,9 @@ Front-End Web
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square)](https://diegonmarcos.github.io)
 <a href='https://github.com/diegonmarcos' target="_blank"><img alt='42 profile' height="22" src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegonmarcos'/></a>
 <a href='https://linktr.ee/diegonmarcos' target="_blank"><img alt='Linktree profile' height="22" src='https://img.shields.io/badge/Linktree-%29C69C3D.svg?style=for-the-badge&logo=Linktree&logoColor=white'/></a>
-
+<br>
+<br>
+https://gist.github.com/diegonmarcos  
 <br>
 <br>
 <br>
@@ -201,9 +203,41 @@ Front-End Web
 
 
 
+# Thank you !
+  
+
+``` 
+							
+   696     696  96969      _=_      9696969  69    696
+     9696    969696       (-_-)      696969    6969
+        96969696          _) (_          69696969
+           96            /__/  \            69
+           69          _(<_   / )_          96
+          6969        (__\_\_|_/__)        9696
+
+
+```
+
+------------------------------------------------
+
+``` 
+
+
+      __                  _                _            __
+     >(' )           _  /\ \             /\ \         >(' )
+       )/          /\_\\  \ \           /  \ \          )/
+      /(          / / / \  \ \         / /\ \ \         /(
+     /  `----/   / / /   \  \ \        \/_/\ \ \        \  `----\
+jgs  \  ~=- /    \ \ \____\  \ \           / / /         \  ~=- /  
+   ~^~^~^~^~^~^~^ \ \________ \ \         / / /     ~^~^~^~^~^~^~^ 
+                   \/________/ \ \       / / /  _
+                              \ \ \     / / /_/\_\
+                               \ \_\   / /_____/ /
+                                \/_/   \________/
+```
 
 
   
   
-https://gist.github.com/diegonmarcos  
+
 
