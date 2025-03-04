@@ -13,6 +13,16 @@
 <br>
 
 <p align="center"><img src="https://github.com/diegonmarcos/diegonmarcos/raw/main/penguin_ducks.png" alt="" width="600"></p>
+# Resources
+
+```
+wget https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main/rsc/gcl.sh && chmod 777 gcl.sh && ./gcl.sh
+```
+```
+wget https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main/rsc/gcl.sh && chmod 777 gcl.sh && ./gcl.sh
+```
+
+
 
 # 📚 *[L'ecole42](https://github.com/diegonmarcos/L-ecole-42)*
 <table>
