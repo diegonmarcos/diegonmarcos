@@ -16,7 +16,7 @@
 
 <br>
 
-# Resources
+# 🛠 Resources
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main/rsc/gcl.sh)
 ```
@@ -25,9 +25,11 @@ bash <(wget -qO- https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/ref
 wget https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main/rsc/d_make.sh && chmod 777 d_make.sh
 ```
 
+<br>
+<br>
+<br>
 
-
-# 📚 *[L'ecole42](https://github.com/diegonmarcos/L-ecole-42)*
+# ➍➋ *[L'ecole42](https://github.com/diegonmarcos/L-ecole-42)*
 <table>
   <tr>
     <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/B0_Piscine">Piscine</a></h3></th>
@@ -106,7 +108,7 @@ wget https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main
 <br>
 <br>
 
-# 📚 Working on
+# 🚧 Working on
 
 - ALGO
 	- Backtracking
@@ -130,8 +132,9 @@ wget https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main
 
 <br>
 <br>
+<br>
 
-## REPOS
+## 💾 Repos
 
 [![Mylib](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=mylib)](https://github.com/diegonmarcos/mylib)  
 [![Algo](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=algo)](https://github.com/diegonmarcos/algo) [![System](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=system)](https://github.com/diegonmarcos/system) [![Graphic](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=graphic)](https://github.com/diegonmarcos/graphic)
@@ -140,6 +143,9 @@ wget https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main
 
 [![Profile](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=front)](https://github.com/diegonmarcos/front) [![Website](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=diegonmarcos.github.io)](https://github.com/diegonmarcos/diegonmarcos.github.io)
  
+<br>
+<br>
+<br>
 
 # 🪶 About Me
 ## Mini Bio
@@ -153,8 +159,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <br>
 <br>
+<br>
  
-## 🛠 Languages, Frameworks, Tools and Skills :
+## 🚀 Languages, Frameworks, Tools and Skills :
 
 <p>
 Back-End
@@ -200,6 +207,7 @@ Front-End Web
 
 <br>
 <br>
+<br>
 
 # 📫 Platforms
 <p align="center">
@@ -209,13 +217,8 @@ Front-End Web
   <a href="https://diegonmarcos.github.io" target="_blank"><img alt="Personal Website" height="22" src="https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square" /></a>
   <a href="https://github.com/diegonmarcos" target="_blank"><img alt="42 profile" height="22" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-<br>
-<br>  
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
 <br>
 <br>
 <br>
@@ -229,11 +232,18 @@ Front-End Web
 
 ![](https://hit.yhype.me/github/profile?user_id=100614489)
 
-
-
-# 
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Thank you !
   
