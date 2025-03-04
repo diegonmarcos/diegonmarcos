@@ -29,12 +29,12 @@ wget https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main
 <br>
 <br>
 
-# ➍➋ *[L'ecole42](https://github.com/diegonmarcos/L-ecole-42)*
+# ➍➋ *[L'ecole42](https://42berlin.de/)*
 <table>
   <tr>
     <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/B0_Piscine">Piscine</a></h3></th>
-    <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects">Common Core</a></h3></th>
-	<th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects">Advanced Core</a></h3></th>
+    <th> <h3><a href="https://42berlin.de/curriculum-42-berlin/">Common Core</a></h3></th>
+	<th> <h3><a href="https://42berlin.de/curriculum-42-berlin/">Advanced Core</a></h3></th>
   </tr>
   <tr>
     <td> 
