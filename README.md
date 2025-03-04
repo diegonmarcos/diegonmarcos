@@ -87,7 +87,7 @@
 </body>
 </html>
 
-  ### [Milestones Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxdmic1XmPiT521WHBYBPsSKTC4a8Deb4X2Oy8D8v5sb_mueKel1Ol76UHDrdibUV1b2mZobq1_akN/pubhtml?gid=478330990&amp;single=true&amp;widget=true&amp;headers=false)
+  ### [Milestones Sheet](https://docs.google.com/spreadsheets/d/1hO7-bcwCUwWHTZB4HAjGrbOVy3lpZ6FLFl6wugM32KU/edit?usp=sharing)
 <br>
 <br>
 
