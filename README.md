@@ -105,7 +105,7 @@ wget https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main
 </html>
 
   ### [Milestones Sheet](https://docs.google.com/spreadsheets/d/1hO7-bcwCUwWHTZB4HAjGrbOVy3lpZ6FLFl6wugM32KU/edit?usp=sharing)
-  !(https://github.com/diegonmarcos/diegonmarcos/raw/main/img/penguin_ducks.png)
+  ![](https://github.com/diegonmarcos/diegonmarcos/raw/main/img/42_milestones.png)
 <br>
 <br>
 
