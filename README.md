@@ -12,7 +12,7 @@
 
 <br>
 
-<p align="center"><img src="https://github.com/diegonmarcos/diegonmarcos/raw/main/penguin_ducks.png" alt="" width="600"></p>
+<p align="center"><img src="https://github.com/diegonmarcos/diegonmarcos/raw/main/img/penguin_ducks.png" alt="" width="600"></p>
 
 <br>
 
@@ -105,6 +105,7 @@ wget https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main
 </html>
 
   ### [Milestones Sheet](https://docs.google.com/spreadsheets/d/1hO7-bcwCUwWHTZB4HAjGrbOVy3lpZ6FLFl6wugM32KU/edit?usp=sharing)
+  !(https://github.com/diegonmarcos/diegonmarcos/raw/main/img/penguin_ducks.png)
 <br>
 <br>
 
