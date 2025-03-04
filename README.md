@@ -131,9 +131,13 @@ wget https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main
 <br>
 <br>
 
-[![Algo](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=algo)](https://github.com/diegonmarcos/algo)
+[![Algo](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&repo=algo)](https://github.com/diegonmarcos/algo)
 [![System](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=system)](https://github.com/diegonmarcos/system)
 [![Graphic](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=graphic)](https://github.com/diegonmarcos/graphic)
+
+<br>
+
+[![Profile](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=diegonmarcos)](https://github.com/diegonmarcos/diegonmarcos)
  
 
 # 🪶 About Me
