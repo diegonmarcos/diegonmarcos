@@ -10,8 +10,7 @@
 
 <br>
 
-<p align="center"><img src="https://github.com/diegonmarcos/diegonmarcosraw/main/penguin_ducks.png" alt="" width="600"></p>
-
+<p align="center"><img src="https://github.com/diegonmarcos/diegonmarcos/raw/main/penguin_ducks.png" alt="" width="600"></p>
 
 # 📚 *[L'ecole42](https://github.com/diegonmarcos/L-ecole-42)*
 <table>
