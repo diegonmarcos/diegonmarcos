@@ -4,8 +4,9 @@
   <a href="mailto:diegonmarcos@gmail.com"><img alt="Gmail" height="22" src="https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://diegonmarcos.github.io" target="_blank"><img alt="Personal Website" height="22" src="https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square" /></a>
   <a href="https://github.com/diegonmarcos" target="_blank"><img alt="42 profile" height="22" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://gist.github.com/diegonmarcos target="_blank"><img alt="42 profile" height="22" src= /></a>
+  <a href="https://wakatime.com/@6f56765e-0869-4b64-bacd-a8abcfd854ff"><img src="https://wakatime.com/badge/user/6f56765e-0869-4b64-bacd-a8abcfd854ff.svg" alt="Waka" height="22 /></a>
 </p>
+
 
 ---
 
@@ -117,6 +118,11 @@
 <br>
 <br>
 
+[![Algo](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=algo)](https://github.com/diegonmarcos/github-readme-stats)
+[![System](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=system)](https://github.com/diegonmarcos/github-readme-stats)
+[![Graphic](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=graphic)](https://github.com/diegonmarcos/github-readme-stats)
+ 
+
 # 🪶 About Me
 ## Mini Bio
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in development!
@@ -163,11 +169,12 @@ Front-End Web
 
 ## 🔥 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diegonmarcos&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonmarcos&layout=compact&theme=vision-friendly-dark)](https://github.com/diegonmarcos/github-readme-stats)  
+[![wakatime](https://wakatime.com/badge/user/6f56765e-0869-4b64-bacd-a8abcfd854ff.svg)](https://wakatime.com/@6f56765e-0869-4b64-bacd-a8abcfd854ff)  
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegonmarcos&show_icons=true&theme=dark)](https://github.com/diegonmarcos/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegonmarcos&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonmarcos&show_icons=true&theme=dark)](https://github.com/diegonmarcos)
 
 
-<a href="https://profile.intra.42.fr/users/dinepomu"> <p align="center"><img src="https://badge.mediaplus.ma/darkblue/dinepomu?1337Badge=off&UM6P=off"></p>  </a>
-<a href="https://profile.intra.42.fr/users/dnepomuc"> <p align="center"><img src="https://badge.mediaplus.ma/darkblue/dnepomuc?1337Badge=off&UM6P=off"></p>  </a>
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=diegonmarcos&style=flat-square&color=blue" alt=""></p>  
@@ -195,6 +202,8 @@ Front-End Web
 <br>
 <br>
 <br>
+<a href="https://profile.intra.42.fr/users/dinepomu"> <p align="center"><img src="https://badge.mediaplus.ma/darkblue/dinepomu?1337Badge=off&UM6P=off"></p>  </a>
+<a href="https://profile.intra.42.fr/users/dnepomuc"> <p align="center"><img src="https://badge.mediaplus.ma/darkblue/dnepomuc?1337Badge=off&UM6P=off"></p>  </a>
 
 
 <p align="center"><img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=790b761192bw40kszown5q9l04h3c3693aw0uwdfmgzjs5ea&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" width="200"></p>
