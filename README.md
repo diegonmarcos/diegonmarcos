@@ -138,7 +138,7 @@ wget https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main
 
 <br>
 
-[![Profile](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=diegonmarcos)](https://github.com/diegonmarcos/diegonmarcos) [![Website](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=website)](https://github.com/diegonmarcos/diegonmarcos)
+[![Profile](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=front)](https://github.com/diegonmarcos/front) [![Website](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=diegonmarcos.github.io)](https://github.com/diegonmarcos/diegonmarcos.github.io)
  
 
 # 🪶 About Me
