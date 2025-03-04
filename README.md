@@ -13,6 +13,9 @@
 <br>
 
 <p align="center"><img src="https://github.com/diegonmarcos/diegonmarcos/raw/main/penguin_ducks.png" alt="" width="600"></p>
+
+<br>
+
 # Resources
 
 ```
