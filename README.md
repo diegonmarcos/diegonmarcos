@@ -91,19 +91,28 @@
 <br>
 <br>
 
-# 📚 Side Projects
+# 📚 Working on
 
-## [Unit Testing](https://github.com/diegonmarcos/lib_unit)
-``` bash
-https://github.com/diegonmarcos/LibUnit.git
-```
-## [Documentation](https://github.com/diegonmarcos/documentation/)
-### [Tools](https://github.com/diegonmarcos/documentation/tree/main/B_Tools)
-> Use Obsidian!
-> 
-``` bash
-https://github.com/diegonmarcos/documentation.git
-```
+- ALGO
+	- Backtracking
+
+- SYS
+	- Multithreading Orchestrating and Shell Implementation
+	- WebServer
+
+- GRAPHIC
+	- 2D/3D Games
+	- Wireframe Render and Bresenham's line algorithm
+
+- MYLIBC
+	- Memory Management
+	- IO
+	- Data Manipulation
+
+- TOOLS
+	- Unix
+	- Coding
+
 <br>
 <br>
 
