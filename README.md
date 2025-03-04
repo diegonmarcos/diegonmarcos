@@ -4,6 +4,7 @@
   <a href="mailto:diegonmarcos@gmail.com"><img alt="Gmail" height="22" src="https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://diegonmarcos.github.io" target="_blank"><img alt="Personal Website" height="22" src="https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square" /></a>
   <a href="https://github.com/diegonmarcos" target="_blank"><img alt="42 profile" height="22" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://gist.github.com/diegonmarcos target="_blank"><img alt="42 profile" height="22" src= /></a>
 </p>
 
 ---
@@ -176,27 +177,24 @@ Front-End Web
 <br>
 
 # 📫 Platforms
-
-[![Linkedin Badge](https://img.shields.io/badge/-diegonmarcos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diegonmarcos)
-[![Gmail](https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white)](mailto:diegonmarcos@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/diegonmarcos/)
-[![Personal Website](https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square)](https://diegonmarcos.github.io)
-<a href='https://github.com/diegonmarcos' target="_blank"><img alt='42 profile' height="22" src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegonmarcos'/></a>
-<a href='https://linktr.ee/diegonmarcos' target="_blank"><img alt='Linktree profile' height="22" src='https://img.shields.io/badge/Linktree-%29C69C3D.svg?style=for-the-badge&logo=Linktree&logoColor=white'/></a>
+<p align="center">
+  <a href="https://linktr.ee/diegonmarcos" target="_blank"><img alt="Linktree profile" height="22" src="https://img.shields.io/badge/Linktree-%29C69C3D.svg?style=for-the-badge&logo=Linktree&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/diegonmarcos" target="_blank"><img alt="Linkedin Badge" height="22" src="https://img.shields.io/badge/-diegonmarcos-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:diegonmarcos@gmail.com"><img alt="Gmail" height="22" src="https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://diegonmarcos.github.io" target="_blank"><img alt="Personal Website" height="22" src="https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square" /></a>
+  <a href="https://github.com/diegonmarcos" target="_blank"><img alt="42 profile" height="22" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://gist.github.com/diegonmarcos target="_blank"><img alt="42 profile" height="22" src= /></a>
+</p>
 <br>
-<br>
-https://gist.github.com/diegonmarcos  
-<br>
-<br>
-<br>
-<br>
-
+<br>  
 <br>
 <br>
 <br>
 <br>
-
-
+<br>
+<br>
+<br>
+<br>
 
 
 <p align="center"><img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=790b761192bw40kszown5q9l04h3c3693aw0uwdfmgzjs5ea&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" width="200"></p>
