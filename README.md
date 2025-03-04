@@ -22,7 +22,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/ref
 ```
 
 ```
-wget https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main/rsc/d_make.sh && chmod 777 d_make.sh
+wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_docker/src/d_make.sh && chmod 777 d_make.sh
 ```
 
 <br>
