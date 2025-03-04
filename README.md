@@ -190,7 +190,6 @@ Front-End Web
   <a href="mailto:diegonmarcos@gmail.com"><img alt="Gmail" height="22" src="https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://diegonmarcos.github.io" target="_blank"><img alt="Personal Website" height="22" src="https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square" /></a>
   <a href="https://github.com/diegonmarcos" target="_blank"><img alt="42 profile" height="22" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://gist.github.com/diegonmarcos target="_blank"><img alt="42 profile" height="22" src= /></a>
 </p>
 <br>
 <br>  
