@@ -83,6 +83,7 @@ FROM ubuntu:latest
 RUN apt update && \
 	apt install -y \
 	build-essential bash-completion command-not-found less man-db time \
+	zsh \
 	vim nano \
 	make cmake \
 	git tar wget \
@@ -98,6 +99,7 @@ RUN pipx install \
 	pipenv \
 	gdown \
 	&& rm -rf /var/lib/apt/lists/*
+RUN sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 ### Additional packages (separately from the above layer to avoid re-processing)
 #RUN apt install -y \

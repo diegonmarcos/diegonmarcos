@@ -17,12 +17,12 @@
 <br>
 
 # Resources
+```
+bash <(wget -qO- https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main/rsc/gcl.sh)
+```
 
 ```
-wget https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main/rsc/gcl.sh && chmod 777 gcl.sh && ./gcl.sh
-```
-```
-wget https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main/rsc/gcl.sh && chmod 777 gcl.sh && ./gcl.sh
+wget https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main/rsc/d_make.sh && chmod 777 d_make.sh
 ```
 
 
