@@ -155,7 +155,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m studying to become a Software Engineer in 42 School Berlin.
 - 🌱 Always as possible into the wild!
 - 🦆 In my free time I meditate, read macroeconomics articles and watch quanthum physics videos.
-- ⚡  Moving over 30+ countries and 120+ cities in the last 3y.
+- ⚡  Moving over 30+ countries and 120+ cities in the last 4y.
 - 🐧 Not following the sun!
 
 <br>
