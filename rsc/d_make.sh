@@ -1,1 +1,0 @@
-../../system/S1_docker/src/d_make.sh
