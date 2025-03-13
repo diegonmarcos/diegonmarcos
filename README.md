@@ -138,11 +138,14 @@ wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_do
 ## 💾 Repos
 
 [![Mylib](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=mylib)](https://github.com/diegonmarcos/mylib)  
-[![Algo](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=algo)](https://github.com/diegonmarcos/algo) [![System](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=system)](https://github.com/diegonmarcos/system) [![Graphics](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=graphic)](https://github.com/diegonmarcos/graphic)
+<br>
+[![Algo](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=algo)](https://github.com/diegonmarcos/algo)  
+[![System](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=system)](https://github.com/diegonmarcos/system)  
+[![Graphics](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=graphic)](https://github.com/diegonmarcos/graphic)
 
 <br>
 
-[![Profile](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=front)](https://github.com/diegonmarcos/front) [![Website](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=diegonmarcos.github.io)](https://github.com/diegonmarcos/diegonmarcos.github.io)
+[![Front](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=diegonmarcos.github.io)](https://github.com/diegonmarcos/diegonmarcos.github.io)
  
 <br>
 <br>
