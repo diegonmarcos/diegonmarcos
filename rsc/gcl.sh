@@ -47,7 +47,7 @@ main() {
     if [ "$mode" == "0" ]; then
         ### HTTPS URLs
         $pull_function "profile" "https://github.com/diegonmarcos/diegonmarcos.git"
-        $pull_function "mylib" "https://github.com/diegonmarcos/mylib.git"
+        $pull_function "mylibs" "https://github.com/diegonmarcos/mylibs.git"
         $pull_function "system" "https://github.com/diegonmarcos/system.git"
         $pull_function "algo" "https://github.com/diegonmarcos/algo.git"
         $pull_function "graphic" "https://github.com/diegonmarcos/graphic.git"
@@ -55,7 +55,7 @@ main() {
     elif [ "$mode" == "1" ]; then
         ### SSH URLs
         $pull_function "profile" "git@github.com:diegonmarcos/diegonmarcos.git"
-        $pull_function "mylib" "git@github.com:diegonmarcos/mylib.git"
+        $pull_function "mylibs" "git@github.com:diegonmarcos/mylibs.git"
         $pull_function "system" "git@github.com:diegonmarcos/system.git"
         $pull_function "algo" "git@github.com:diegonmarcos/algo.git"
         $pull_function "graphic" "git@github.com:diegonmarcos/graphic.git"

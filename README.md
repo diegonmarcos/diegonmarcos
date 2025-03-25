@@ -18,7 +18,7 @@
 
 # 🛠 Resources
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main/rsc/gcl.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main/rsc/gcl.sh) 1|0
 ```
 
 ```
