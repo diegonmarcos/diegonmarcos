@@ -59,6 +59,9 @@ main() {
         $pull_function "system" "git@github.com:diegonmarcos/system.git"
         $pull_function "algo" "git@github.com:diegonmarcos/algo.git"
         $pull_function "graphic" "git@github.com:diegonmarcos/graphic.git"
+		$pull_function "dev" "git@github.com:diegonmarcos/DevelopmentProjects.git"
+        $pull_function "lecole42" "git@github.com:diegonmarcos/lecole42.git"
+        $pull_function "website" "git@github.com:diegonmarcos/diegonmarcos.github.io.git"
 
     else
 		echo "### USE"
