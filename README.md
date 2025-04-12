@@ -169,22 +169,22 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
     
 #### OS, Containers, IDEs, and Version Control
-| OS | Flavor | Script Language | Container | IDE   | Version Control |
-|----|--------|------			 |---------- |-------|-------			|
-| Linux       | KDE plasma         | Bash/Zsh | Docker    | VSCode | GitHub				|
-| ![Linux](https://skillicons.dev/icons?i=linux) | ![Linux](https://skillicons.dev/icons?i=ubuntu) | ![Bash](https://skillicons.dev/icons?i=bash)| ![Docker](https://skillicons.dev/icons?i=docker)   | ![VSCode](https://skillicons.dev/icons?i=vscode)  | ![GitHub](https://skillicons.dev/icons?i=github) |
+| OS | Flavor | Script Language |  IDE   | Version Control |
+|----|--------|------			|---------- |-------	|
+| Linux       | KDE plasma         | Bash/Zsh | VSCode | GitHub				|
+| ![Linux](https://skillicons.dev/icons?i=linux) | ![KDE](https://www.shareicon.net/data/64x64/2015/09/18/102871_kde_512x512.png) | ![Bash](https://skillicons.dev/icons?i=bash)| ![VSCode](https://skillicons.dev/icons?i=vscode)  | ![GitHub](https://skillicons.dev/icons?i=github) |
 | ☆☆☆ | ☆☆☆ | ☆☆ | ☆ | ☆☆☆ | ☆☆ | ☆☆☆ |
 
-####  Backend/Low-Level and Object-Oriented
-| C    | C++  | Rust |
-|------|------|------|
-| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Rust](https://skillicons.dev/icons?i=rust) |
-| ☆☆ | - | - 
+####  Backend: Low-Level and Object-Oriented
+| C    | C++  | Rust | Make
+|------|------|------| --- |
+| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Rust](https://skillicons.dev/icons?i=rust) | ![Make](https://skillicons.dev/icons?i=cmake) |
+| ☆☆ | - | - | ☆☆☆☆ |
 
-#### Backend: DataBases
-| Cloud | MongoDB |
+#### Backend: DataBase
+| MySQL | MongoDB | 
 |-------|-------|
-| ![AWS](https://skillicons.dev/icons?i=aws)  | ![MongoDB](https://skillicons.dev/icons?i=mongodb)  |
+| ![MYSQL](https://skillicons.dev/icons?i=mysql)  | ![MongoDB](https://skillicons.dev/icons?i=mongodb)  |
 | - | - 
 
 #### Backend: Web Servers
@@ -193,17 +193,24 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 | ![PHP](https://skillicons.dev/icons?i=php)  | ![Nginx](https://skillicons.dev/icons?i=nginx)  | ![Apache](https://skillicons.dev/icons?i=apache) |
 | - | - | - |
 
-#### Frontend
+#### DevOps
+| Cloud | Containers	| Cont. Orch.	| API	|
+|-------|------		| ---			| --- 	|
+| AWS	| Docker	| Kurbenetes K8	| Express.js (Node.js)|
+| ![AWS](https://skillicons.dev/icons?i=aws)  | ![Docker](https://skillicons.dev/icons?i=docker)   | ![Kurbenet](https://skillicons.dev/icons?i=kurbenetes) 
+| - | ☆ | - | - |
+
+#### Frontend: UI
 | Obsidian | Markdown | HTML5 | CSS 3 | JavaScript | React |
 |----------|----------|-------|-------|------------|-------|
 | ![OBSIDIAN](https://skillicons.dev/icons?i=obsidian)		| ![Markdown](https://skillicons.dev/icons?i=md) | ![HTML](https://skillicons.dev/icons?i=html)  | ![CSS](https://skillicons.dev/icons?i=css) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![React](https://skillicons.dev/icons?i=react)  |
 | ☆☆ | ☆☆☆☆☆  | ☆☆☆☆   | ☆   | -        | -  |
 
 #### Data Science Frameworks
-Phyton | Notebook | Django |
+| Phyton | Django | Notebook
 | ---- |----------|--------|
-| ![Python](https://skillicons.dev/icons?i=python)  | Icon     | Icon   |
-| ☆☆ | ☆☆☆☆☆  | ☆☆☆☆   | ☆  
+| ![Python](https://skillicons.dev/icons?i=python)  |      |    |
+| ☆ | -  | -   | -
 
 #### Machine Learning Frameworks
 
