@@ -165,28 +165,55 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br>
 <br>
  
-## 🚀 Languages, Frameworks, Tools and Skills :
+## 🚀 My Setup (Languages, Frameworks and Tools) :
 
-<p>
-Back-End
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="C++" alt="Spring" width="40" height="40"/>&nbsp;
-_
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="MySQL" width="40" height="40"/>&nbsp;
-_
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="GitHub" alt="Git" width="40" height="40"/>&nbsp;
-<br>
-  
-Front-End Web
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    
+#### OS, Containers, IDEs, and Version Control
+| OS | Flavor | Script Language | Container | IDE   | Version Control |
+|----|--------|------			 |---------- |-------|-------			|
+| Linux       | KDE plasma         | Bash/Zsh | Docker    | VSCode | GitHub				|
+| ![Linux](https://skillicons.dev/icons?i=linux) | ![Linux](https://skillicons.dev/icons?i=ubuntu) | ![Bash](https://skillicons.dev/icons?i=bash)| ![Docker](https://skillicons.dev/icons?i=docker)   | ![VSCode](https://skillicons.dev/icons?i=vscode)  | ![GitHub](https://skillicons.dev/icons?i=github) |
+| ☆☆☆ | ☆☆☆ | ☆☆ | ☆ | ☆☆☆ | ☆☆ | ☆☆☆ |
 
+####  Backend/Low-Level and Object-Oriented
+| C    | C++  | Rust |
+|------|------|------|
+| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Rust](https://skillicons.dev/icons?i=rust) |
+| ☆☆ | - | - 
 
-</p>
+#### Backend: DataBases
+| Cloud | MongoDB |
+|-------|-------|
+| ![AWS](https://skillicons.dev/icons?i=aws)  | ![MongoDB](https://skillicons.dev/icons?i=mongodb)  |
+| - | - 
+
+#### Backend: Web Servers
+| PHP | Nginx | Apache
+|---|---|---|
+| ![PHP](https://skillicons.dev/icons?i=php)  | ![Nginx](https://skillicons.dev/icons?i=nginx)  | ![Apache](https://skillicons.dev/icons?i=apache) |
+| - | - | - |
+
+#### Frontend
+| Obsidian | Markdown | HTML5 | CSS 3 | JavaScript | React |
+|----------|----------|-------|-------|------------|-------|
+| ![OBSIDIAN](https://skillicons.dev/icons?i=obsidian)		| ![Markdown](https://skillicons.dev/icons?i=md) | ![HTML](https://skillicons.dev/icons?i=html)  | ![CSS](https://skillicons.dev/icons?i=css) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![React](https://skillicons.dev/icons?i=react)  |
+| ☆☆ | ☆☆☆☆☆  | ☆☆☆☆   | ☆   | -        | -  |
+
+#### Data Science Frameworks
+Phyton | Notebook | Django |
+| ---- |----------|--------|
+| ![Python](https://skillicons.dev/icons?i=python)  | Icon     | Icon   |
+| ☆☆ | ☆☆☆☆☆  | ☆☆☆☆   | ☆  
+
+#### Machine Learning Frameworks
+
+| TensorFlow  |PyTorch |
+|------|------|
+| ![Python](https://skillicons.dev/icons?i=tensorflow) | ![Python](https://skillicons.dev/icons?i=pytorch)
+| - | - |
+
+</div>
+
 <!--
 ![](https://github.com/diegonmarcos/L-ecole-42/blob/aa1b2c1be4094f0c000adb662a6c695acc04d8bc/zimg/img1.png)
 ![](https://github.com/diegonmarcos/L-ecole-42/blob/e478c87431825324fe7887f78b41b5068304ca71/zimg/img2.png)
