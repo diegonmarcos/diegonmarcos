@@ -104,13 +104,12 @@ wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_do
 </body>
 </html>
 
-  ### [Milestones Sheet](https://docs.google.com/spreadsheets/d/1hO7-bcwCUwWHTZB4HAjGrbOVy3lpZ6FLFl6wugM32KU/edit?usp=sharing1)
+  ### [Milestones Sheet]()
   ![](https://github.com/diegonmarcos/diegonmarcos/raw/main/img/42_milestones.png)
 <br>
 <br>
 
 # 🚧 Working on
-  ![](https://github.com/diegonmarcos/diegonmarcos/raw/main/img/mario_coder.gif)
 
 - ALGO
 	- Backtracking
@@ -271,6 +270,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![](https://hit.yhype.me/github/profile?user_id=100614489)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+![](https://github.com/diegonmarcos/diegonmarcos/raw/main/img/mario_coder.gif)
 <br>
 <br>
 <br>
