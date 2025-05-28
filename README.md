@@ -282,7 +282,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br>
 <br>
 <br>
+
 ![](https://github.com/diegonmarcos/diegonmarcos/raw/main/img/mario_coder.gif)
+
 <br>
 <br>
 <br>
