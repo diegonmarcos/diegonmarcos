@@ -283,7 +283,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br>
 <br>
 
-![](https://github.com/diegonmarcos/diegonmarcos/raw/main/img/mario_coder.gif)
 
 <br>
 <br>
@@ -335,4 +334,5 @@ jgs  \  ~=- /    \ \ \____\  \ \           / / /         \  ~=- /
   
   
 
+![](https://github.com/diegonmarcos/diegonmarcos/raw/main/img/mario_coder.gif)
 
