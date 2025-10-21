@@ -17,7 +17,7 @@
 <br>
 
 ## 💾 Repos
-| Repository | Description | Languages | Stack (Lib/Fram.) | Phrases |
+| Repository | Description | Languages | Stack (Lib/Fram.) | Ha |
 |---|---|---|---|---|
 | 📚 [Mylib](https://github.com/diegonmarcos/mylib) | Utility library and helpers | C | C standard library, custom utilities | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
 | 🧠 [Algo](https://github.com/diegonmarcos/algo) | Algorithm implementations and practice | C, C++ | C stdlib, C++ STL, unit-test helpers | <i>Turning coffee into sort functions and occasional existential bugs.</i> |
@@ -27,7 +27,7 @@
 
 <br>
 
-| Repository |  |
+| |  |
 |---|---|
 | [![Mylib](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=mylib)](https://github.com/diegonmarcos/mylib)   | [![Algo](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=algo)](https://github.com/diegonmarcos/algo)  |
 |   |  |
