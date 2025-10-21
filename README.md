@@ -16,6 +16,30 @@
 
 <br>
 
+## 💾 Repos
+| Repository | Description | phrases |
+|---|---|---|
+| [Mylib](https://github.com/diegonmarcos/mylib) | Utility library and helpers | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
+| [Algo](https://github.com/diegonmarcos/algo) | Algorithm implementations and practice | <i>Turning coffee into sort functions and occasional existential bugs.</i> |
+| [System](https://github.com/diegonmarcos/system) | System scripts, tooling and orchestration | <i>"Making servers behave like well‑trained poodles (treats = scripts)."</i> |
+| [Graphic](https://github.com/diegonmarcos/graphic) | 2D/3D graphics and rendering demos | <i>"Pixel wrangling and shader sorcery — welcome to the polygon party."</i> |
+| [Front](https://github.com/diegonmarcos/diegonmarcos.github.io) | Front-end Devs | <i>"Styling buttons until they cry and users click with joy."</i> |
+
+<br>
+
+| Repository |  |
+|---|---|
+| [![Mylib](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=mylib)](https://github.com/diegonmarcos/mylib)   | [![Algo](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=algo)](https://github.com/diegonmarcos/algo)  |
+|   |  |
+| [![System](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=system)](https://github.com/diegonmarcos/system)  |  [![Graphics](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=graphic)](https://github.com/diegonmarcos/graphic) |
+|  | |
+| [![Front](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=diegonmarcos.github.io)](https://github.com/diegonmarcos/diegonmarcos.github.io) |  |
+
+
+<br>
+<br>
+<br>
+
 # 🛠 Resources
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main/rsc/gcl.sh) 1|0
@@ -135,21 +159,7 @@ wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_do
 <br>
 <br>
 
-## 💾 Repos
 
-[![Mylib](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=mylib)](https://github.com/diegonmarcos/mylib)  
-<br>
-[![Algo](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=algo)](https://github.com/diegonmarcos/algo)  
-[![System](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=system)](https://github.com/diegonmarcos/system)  
-[![Graphics](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=graphic)](https://github.com/diegonmarcos/graphic)
-
-<br>
-
-[![Front](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=diegonmarcos.github.io)](https://github.com/diegonmarcos/diegonmarcos.github.io)
- 
-<br>
-<br>
-<br>
 
 # 🪶 About Me
 ## Mini Bio
