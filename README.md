@@ -17,13 +17,13 @@
 <br>
 
 ## 💾 Repos
-| Repository | Description | phrases |
-|---|---|---|
-| [Mylib](https://github.com/diegonmarcos/mylib) | Utility library and helpers | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
-| [Algo](https://github.com/diegonmarcos/algo) | Algorithm implementations and practice | <i>Turning coffee into sort functions and occasional existential bugs.</i> |
-| [System](https://github.com/diegonmarcos/system) | System scripts, tooling and orchestration | <i>"Making servers behave like well‑trained poodles (treats = scripts)."</i> |
-| [Graphic](https://github.com/diegonmarcos/graphic) | 2D/3D graphics and rendering demos | <i>"Pixel wrangling and shader sorcery — welcome to the polygon party."</i> |
-| [Front](https://github.com/diegonmarcos/diegonmarcos.github.io) | Front-end Devs | <i>"Styling buttons until they cry and users click with joy."</i> |
+| Repository | Description | Languages | Stack (Lib/Fram.) | Phrases |
+|---|---|---|---|---|
+| 📚 [Mylib](https://github.com/diegonmarcos/mylib) | Utility library and helpers | C | C standard library, custom utilities | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
+| 🧠 [Algo](https://github.com/diegonmarcos/algo) | Algorithm implementations and practice | C, C++ | C stdlib, C++ STL, unit-test helpers | <i>Turning coffee into sort functions and occasional existential bugs.</i> |
+| 🛠️ [System](https://github.com/diegonmarcos/system) | System scripts, tooling and orchestration | Bash, Shell, Python | coreutils, Docker, shell utilities, Python stdlib | <i>"Making servers behave like well‑trained poodles (treats = scripts)."</i> |
+| 🎨 [Graphic](https://github.com/diegonmarcos/graphic) | 2D/3D graphics and rendering demos | C, C++, GLSL | SDL2, OpenGL/GLFW, GLM | <i>"Pixel wrangling and shader sorcery — welcome to the polygon party."</i> |
+| 🌐 [Front](https://github.com/diegonmarcos/diegonmarcos.github.io) | Front-end Devs | HTML, CSS, JavaScript | Bootstrap, CSS utilities, vanilla JavaScript | <i>"Styling buttons until they cry and users click with joy."</i> |
 
 <br>
 
