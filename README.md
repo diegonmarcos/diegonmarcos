@@ -40,6 +40,71 @@
 <br>
 <br>
 
+# 🪶 About Me
+## Mini Bio
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in development!
+
+- 🔭 I’m studying to become a Software Engineer in 42 School Berlin.
+- 🌱 Always as possible into the wild!
+- 🦆 In my free time I meditate, read macroeconomics articles and watch quanthum physics videos.
+- ⚡  Moving over 40+ countries and 170+ cities in the last 5y.
+- 🐧 Not following the sun!  
+ 
+[Linktree](https://linktr.ee/diegonmarcos)
+
+
+<br>
+<br>
+<br>
+
+ ## 💻 My Tech Stack
+ ### 🚀 DevOps
+| SCRIPT                                       |                                                                                                                  |                                                  | VC/CI                                            |                                                                 | CONT                                             | CLOUD                                               | MONIT                                                    |
+| :------------------------------------------- | :--------------------------------------------------------------------------------------------------------------- | :----------------------------------------------- | :----------------------------------------------- | :-------------------------------------------------------------- | :----------------------------------------------- | :-------------------------------------------------- | :------------------------------------------------------- |
+| Linux/Bash                                   | VBA                                                                                                              | Python                                           | GitHub                                           | GitHub Actions                                                  | Docker                                           | Google Cloud                                        | Prometheus                                               |
+| ![Bash](https://skillicons.dev/icons?i=bash) | ![](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualbasic/visualbasic-line.svg) | ![Python](https://skillicons.dev/icons?i=python) | ![GitHub](https://skillicons.dev/icons?i=github) | ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Google Cloud](https://skillicons.dev/icons?i=gcp) | ![Prometheus](https://skillicons.dev/icons?i=prometheus) |
+| ☆☆                                           | ☆☆☆                                                                                                              | ☆                                                | ☆☆                                               | -                                                               | ☆                                                | ☆☆                                                  | -                                                        |
+
+***
+
+### ⚙️ Back-End
+| SYS                                    |                                            |                                              |                                               | LANG                                     | FRAME                                            |                                                  | WEBSRVS                                        | API                                        | AUTH                                       | TESTING                                          |
+| :------------------------------------- | :----------------------------------------- | :------------------------------------------- | :-------------------------------------------- | :--------------------------------------- | :----------------------------------------------- | :----------------------------------------------- | :--------------------------------------------- | :----------------------------------------- | :----------------------------------------- | :----------------------------------------------- |
+| C                                      | C++                                        | Rust                                         | Make                                          | Go                                       | Django                                           | Spring                                           | Nginx                                          | REST                                       | JWT                                        | Pytest                                           |
+| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Rust](https://skillicons.dev/icons?i=rust) | ![Make](https://skillicons.dev/icons?i=cmake) | ![Go](https://skillicons.dev/icons?i=go) | ![Django](https://skillicons.dev/icons?i=django) | ![Spring](https://skillicons.dev/icons?i=spring) | ![Nginx](https://skillicons.dev/icons?i=nginx) | ![JWT](https://skillicons.dev/icons?i=net) | ![JWT](https://skillicons.dev/icons?i=jwt) | ![Pytest](https://skillicons.dev/icons?i=pytest) |
+| ☆☆                                     | -                                          | -                                            | ☆☆☆☆                                          | -                                        | -                                                | -                                                | -                                              | -                                          | -                                          | -                                                |
+
+***
+
+### 🖥️ Front-End
+| MARK                                                 |                                                |                                              |                                            | LANG                                             | FRAME                                          |
+| :--------------------------------------------------- | :--------------------------------------------- | :------------------------------------------- | :----------------------------------------- | :----------------------------------------------- | :--------------------------------------------- |
+| Obsidian                                             | Markdown                                       | Html                                         | Css                                        | TypeScript                                       | React                                          |
+| ![Obsidian](https://skillicons.dev/icons?i=obsidian) | ![Markdown](https://skillicons.dev/icons?i=md) | ![Html](https://skillicons.dev/icons?i=html) | ![Css](https://skillicons.dev/icons?i=css) | ![TypeScript](https://skillicons.dev/icons?i=ts) | ![React](https://skillicons.dev/icons?i=react) |
+| ☆☆                                                   | ☆☆☆☆☆                                          | ☆☆☆                                          | -                                          | -                                                | -                                              |
+
+***
+
+### 📊 Data Science & ML
+| DATA-FRAME                                                                                                            |                                                                                                           | ML-FRAME                                                | DL-FRAME                                           | BIG-DATA                                                                                                   |
+| :-------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------ | :------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| Pandas                                                                                                                | NumPy                                                                                                     | Scikit-learn                                            | PyTorch                                            | Spark                                                                                                      |
+| ![Pandas](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pandas/pandas-line-wordmark.svg) | ![NumPy](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/numpy/numpy-line.svg) | ![Scikit-learn](https://skillicons.dev/icons?i=sklearn) | ![PyTorch](https://skillicons.dev/icons?i=pytorch) | ![Spark](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spack/spack-plain.svg) |
+| ☆                                                                                                                     | -                                                                                                         | -                                                       | -                                                  | -                                                                                                          |
+
+### My Setup 
+
+| OS                                             | FLAVOR                                                                         | SCRIPT                                       | IDE                                              | VC                                               | CLOUD                                         |
+| ---------------------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ | --------------------------------------------- |
+| Linux                                          | KDE plasma                                                                     | Bash/Zsh/Fish                                | VSCode                                           | GitHub                                           | Google                                        |
+| ![Linux](https://skillicons.dev/icons?i=linux) | ![KDE](https://www.shareicon.net/data/64x64/2015/09/18/102871_kde_512x512.png) | ![Bash](https://skillicons.dev/icons?i=bash) | ![VSCode](https://skillicons.dev/icons?i=vscode) | ![GitHub](https://skillicons.dev/icons?i=github) | ![GitHub](https://skillicons.dev/icons?i=gcp) |
+| ☆☆☆                                            | ☆☆☆                                                                            | ☆☆                                           | ☆☆☆                                              | ☆☆                                               | ☆                                             |
+
+---
+<br>
+<br>
+<br>
+
 # 🛠 Resources
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main/rsc/gcl.sh) 1|0
@@ -52,67 +117,6 @@ wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_do
 <br>
 <br>
 <br>
-
-# 🪶 About Me
-## Mini Bio
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in development!
-
-- 🔭 I’m studying to become a Software Engineer in 42 School Berlin.
-- 🌱 Always as possible into the wild!
-- 🦆 In my free time I meditate, read macroeconomics articles and watch quanthum physics videos.
-- ⚡  Moving over 40+ countries and 170+ cities in the last 5y.
-- 🐧 Not following the sun!
-
-<br>
-<br>
-<br>
-
- ## 💻 My Tech Stack
- ### 🚀 DevOps
-| SCRIPT                                       | SCRIPT | SCRIPT                                           | VC/CI                                            | VC/CI                                                           | CONT                                             | CLOUD                                               | MONIT                                                    |
-| :------------------------------------------- | :----- | :----------------------------------------------- | :----------------------------------------------- | :-------------------------------------------------------------- | :----------------------------------------------- | :-------------------------------------------------- | :------------------------------------------------------- |
-| Linux/Bash                                   | VBA    | Python                                           | GitHub                                           | GitHub Actions                                                  | Docker                                           | Google Cloud                                        | Prometheus                                               |
-| ![Bash](https://skillicons.dev/icons?i=bash) | VBA    | ![Python](https://skillicons.dev/icons?i=python) | ![GitHub](https://skillicons.dev/icons?i=github) | ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Google Cloud](https://skillicons.dev/icons?i=gcp) | ![Prometheus](https://skillicons.dev/icons?i=prometheus) |
-| ☆☆                                           | ☆☆☆    | ☆                                                | ☆☆                                               | -                                                               | ☆                                                | ☆☆                                                  | -                                                        |
-
-***
-
-### ⚙️ Back-End
-| SYS                                    | SYS                                        | SYS                                          | SYS                                           | LANG                                     | FRAME                                            | FRAME                                            | WEBSRVS                                        | API                                        | AUTH                                       | TESTING                                          |
-| :------------------------------------- | :----------------------------------------- | :------------------------------------------- | :-------------------------------------------- | :--------------------------------------- | :----------------------------------------------- | :----------------------------------------------- | :--------------------------------------------- | :----------------------------------------- | :----------------------------------------- | :----------------------------------------------- |
-| C                                      | C++                                        | Rust                                         | Make                                          | Go                                       | Django                                           | Spring                                           | Nginx                                          | REST                                       | JWT                                        | Pytest                                           |
-| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Rust](https://skillicons.dev/icons?i=rust) | ![Make](https://skillicons.dev/icons?i=cmake) | ![Go](https://skillicons.dev/icons?i=go) | ![Django](https://skillicons.dev/icons?i=django) | ![Spring](https://skillicons.dev/icons?i=spring) | ![Nginx](https://skillicons.dev/icons?i=nginx) | ![JWT](https://skillicons.dev/icons?i=net) | ![JWT](https://skillicons.dev/icons?i=jwt) | ![Pytest](https://skillicons.dev/icons?i=pytest) |
-| ☆☆                                     | -                                          | -                                            | ☆☆☆☆                                          | -                                        | -                                                | -                                                | -                                              | -                                          | -                                          | -                                                |
-
-***
-
-### 🖥️ Front-End
-| MARK                                                 | MARK                                           | MARK                                         | MARK                                       | LANG                                             | FRAME                                          |
-| :--------------------------------------------------- | :--------------------------------------------- | :------------------------------------------- | :----------------------------------------- | :----------------------------------------------- | :--------------------------------------------- |
-| Obsidian                                             | Markdown                                       | Html                                         | Css                                        | TypeScript                                       | React                                          |
-| ![Obsidian](https://skillicons.dev/icons?i=obsidian) | ![Markdown](https://skillicons.dev/icons?i=md) | ![Html](https://skillicons.dev/icons?i=html) | ![Css](https://skillicons.dev/icons?i=css) | ![TypeScript](https://skillicons.dev/icons?i=ts) | ![React](https://skillicons.dev/icons?i=react) |
-| ☆☆                                                   | ☆☆☆☆☆                                          | ☆☆☆                                          | -                                          | -                                                | -                                              |
-
-***
-
-### 📊 Data Science & ML
-| DATA-FRAME                                       | DATA-FRAME                                     | ML-FRAME                                                | DL-FRAME                                           | BIG-DATA                                       |
-| :----------------------------------------------- | :--------------------------------------------- | :------------------------------------------------------ | :------------------------------------------------- | :--------------------------------------------- |
-| Pandas                                           | NumPy                                          | Scikit-learn                                            | PyTorch                                            | Spark                                          |
-| ![Pandas](https://skillicons.dev/icons?i=pandas) | ![NumPy](https://skillicons.dev/icons?i=numpy) | ![Scikit-learn](https://skillicons.dev/icons?i=sklearn) | ![PyTorch](https://skillicons.dev/icons?i=pytorch) | ![Spark](https://skillicons.dev/icons?i=spark) |
-| -                                                | -                                              | -                                                       | -                                                  | -                                              |
-
-### My Setup 
-
-| OS                                             | Flavor                                                                         | Script Language                              | IDE                                              | Version Control                                  | Cloud                                         |
-| ---------------------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ | --------------------------------------------- |
-| Linux                                          | KDE plasma                                                                     | Bash/Zsh/Fish                                | VSCode                                           | GitHub                                           | Google                                        |
-| ![Linux](https://skillicons.dev/icons?i=linux) | ![KDE](https://www.shareicon.net/data/64x64/2015/09/18/102871_kde_512x512.png) | ![Bash](https://skillicons.dev/icons?i=bash) | ![VSCode](https://skillicons.dev/icons?i=vscode) | ![GitHub](https://skillicons.dev/icons?i=github) | ![GitHub](https://skillicons.dev/icons?i=gcp) |
-| ☆☆☆                                            | ☆☆☆                                                                            | ☆☆                                           | ☆☆☆                                              | ☆☆☆                                              | ☆☆☆                                           |
-
-
-
-
 
 </div>
 
