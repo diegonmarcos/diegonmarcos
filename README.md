@@ -53,6 +53,211 @@ wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_do
 <br>
 <br>
 
+# 🪶 About Me
+## Mini Bio
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in development!
+
+- 🔭 I’m studying to become a Software Engineer in 42 School Berlin.
+- 🌱 Always as possible into the wild!
+- 🦆 In my free time I meditate, read macroeconomics articles and watch quanthum physics videos.
+- ⚡  Moving over 40+ countries and 170+ cities in the last 5y.
+- 🐧 Not following the sun!
+
+<br>
+<br>
+<br>
+
+ ## 💻 My Tech Stack
+ ### 🚀 DevOps
+| SCRIPT                                       | SCRIPT | SCRIPT                                           | VC/CI                                            | VC/CI                                                           | CONT                                             | CLOUD                                               | MONIT                                                    |
+| :------------------------------------------- | :----- | :----------------------------------------------- | :----------------------------------------------- | :-------------------------------------------------------------- | :----------------------------------------------- | :-------------------------------------------------- | :------------------------------------------------------- |
+| Linux/Bash                                   | VBA    | Python                                           | GitHub                                           | GitHub Actions                                                  | Docker                                           | Google Cloud                                        | Prometheus                                               |
+| ![Bash](https://skillicons.dev/icons?i=bash) | VBA    | ![Python](https://skillicons.dev/icons?i=python) | ![GitHub](https://skillicons.dev/icons?i=github) | ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Google Cloud](https://skillicons.dev/icons?i=gcp) | ![Prometheus](https://skillicons.dev/icons?i=prometheus) |
+| ☆☆                                           | ☆☆☆    | ☆                                                | ☆☆                                               | -                                                               | ☆                                                | ☆☆                                                  | -                                                        |
+
+***
+
+### ⚙️ Back-End
+| SYS                                    | SYS                                        | SYS                                          | SYS                                           | LANG                                     | FRAME                                            | FRAME                                            | WEBSRVS                                        | API                                        | AUTH                                       | TESTING                                          |
+| :------------------------------------- | :----------------------------------------- | :------------------------------------------- | :-------------------------------------------- | :--------------------------------------- | :----------------------------------------------- | :----------------------------------------------- | :--------------------------------------------- | :----------------------------------------- | :----------------------------------------- | :----------------------------------------------- |
+| C                                      | C++                                        | Rust                                         | Make                                          | Go                                       | Django                                           | Spring                                           | Nginx                                          | REST                                       | JWT                                        | Pytest                                           |
+| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Rust](https://skillicons.dev/icons?i=rust) | ![Make](https://skillicons.dev/icons?i=cmake) | ![Go](https://skillicons.dev/icons?i=go) | ![Django](https://skillicons.dev/icons?i=django) | ![Spring](https://skillicons.dev/icons?i=spring) | ![Nginx](https://skillicons.dev/icons?i=nginx) | ![JWT](https://skillicons.dev/icons?i=net) | ![JWT](https://skillicons.dev/icons?i=jwt) | ![Pytest](https://skillicons.dev/icons?i=pytest) |
+| ☆☆                                     | -                                          | -                                            | ☆☆☆☆                                          | -                                        | -                                                | -                                                | -                                              | -                                          | -                                          | -                                                |
+
+***
+
+### 🖥️ Front-End
+| MARK                                                 | MARK                                           | MARK                                         | MARK                                       | LANG                                             | FRAME                                          |
+| :--------------------------------------------------- | :--------------------------------------------- | :------------------------------------------- | :----------------------------------------- | :----------------------------------------------- | :--------------------------------------------- |
+| Obsidian                                             | Markdown                                       | Html                                         | Css                                        | TypeScript                                       | React                                          |
+| ![Obsidian](https://skillicons.dev/icons?i=obsidian) | ![Markdown](https://skillicons.dev/icons?i=md) | ![Html](https://skillicons.dev/icons?i=html) | ![Css](https://skillicons.dev/icons?i=css) | ![TypeScript](https://skillicons.dev/icons?i=ts) | ![React](https://skillicons.dev/icons?i=react) |
+| ☆☆                                                   | ☆☆☆☆☆                                          | ☆☆☆                                          | -                                          | -                                                | -                                              |
+
+***
+
+### 📊 Data Science & ML
+| DATA-FRAME                                       | DATA-FRAME                                     | ML-FRAME                                                | DL-FRAME                                           | BIG-DATA                                       |
+| :----------------------------------------------- | :--------------------------------------------- | :------------------------------------------------------ | :------------------------------------------------- | :--------------------------------------------- |
+| Pandas                                           | NumPy                                          | Scikit-learn                                            | PyTorch                                            | Spark                                          |
+| ![Pandas](https://skillicons.dev/icons?i=pandas) | ![NumPy](https://skillicons.dev/icons?i=numpy) | ![Scikit-learn](https://skillicons.dev/icons?i=sklearn) | ![PyTorch](https://skillicons.dev/icons?i=pytorch) | ![Spark](https://skillicons.dev/icons?i=spark) |
+| -                                                | -                                              | -                                                       | -                                                  | -                                              |
+
+### My Setup 
+
+| OS                                             | Flavor                                                                         | Script Language                              | IDE                                              | Version Control                                  | Cloud                                         |
+| ---------------------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ | --------------------------------------------- |
+| Linux                                          | KDE plasma                                                                     | Bash/Zsh/Fish                                | VSCode                                           | GitHub                                           | Google                                        |
+| ![Linux](https://skillicons.dev/icons?i=linux) | ![KDE](https://www.shareicon.net/data/64x64/2015/09/18/102871_kde_512x512.png) | ![Bash](https://skillicons.dev/icons?i=bash) | ![VSCode](https://skillicons.dev/icons?i=vscode) | ![GitHub](https://skillicons.dev/icons?i=github) | ![GitHub](https://skillicons.dev/icons?i=gcp) |
+| ☆☆☆                                            | ☆☆☆                                                                            | ☆☆                                           | ☆☆☆                                              | ☆☆☆                                              | ☆☆☆                                           |
+
+
+
+
+
+</div>
+
+<!--
+![](https://github.com/diegonmarcos/L-ecole-42/blob/aa1b2c1be4094f0c000adb662a6c695acc04d8bc/zimg/img1.png)
+![](https://github.com/diegonmarcos/L-ecole-42/blob/e478c87431825324fe7887f78b41b5068304ca71/zimg/img2.png)
+-->
+
+
+<br>
+<br>
+
+## 🔥 My Stats :
+
+[![wakatime](https://wakatime.com/badge/user/6f56765e-0869-4b64-bacd-a8abcfd854ff.svg)](https://wakatime.com/@6f56765e-0869-4b64-bacd-a8abcfd854ff)  
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegonmarcos&show_icons=true&theme=dark)](https://github.com/diegonmarcos/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegonmarcos&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonmarcos&show_icons=true&theme=dark)](https://github.com/diegonmarcos)
+
+
+
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=diegonmarcos&style=flat-square&color=blue" alt=""></p>  
+
+
+<br>
+<br>
+<br>
+
+
+
+# 📫 Platforms
+<p align="center">
+  <a href="https://linktr.ee/diegonmarcos" target="_blank"><img alt="Linktree profile" height="22" src="https://img.shields.io/badge/Linktree-%29C69C3D.svg?style=for-the-badge&logo=Linktree&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/diegonmarcos" target="_blank"><img alt="Linkedin Badge" height="22" src="https://img.shields.io/badge/-diegonmarcos-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:diegonmarcos@gmail.com"><img alt="Gmail" height="22" src="https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://diegonmarcos.github.io" target="_blank"><img alt="Personal Website" height="22" src="https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square" /></a>
+  <a href="https://github.com/diegonmarcos" target="_blank"><img alt="42 profile" height="22" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+
+<br>
+<br>
+<br>
+<a href="https://profile.intra.42.fr/users/dinepomu"> <p align="center"><img src="https://badge.mediaplus.ma/darkblue/dinepomu?1337Badge=off&UM6P=off"></p>  </a>
+<a href="https://profile.intra.42.fr/users/dnepomuc"> <p align="center"><img src="https://badge.mediaplus.ma/darkblue/dnepomuc?1337Badge=off&UM6P=off"></p>  </a>
+
+
+<p align="center"><img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=790b761192bw40kszown5q9l04h3c3693aw0uwdfmgzjs5ea&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" width="200"></p>
+<p align="center"> <a href="https://www.buymeacoffee.com/diegonmarcos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> </p>
+
+
+![](https://hit.yhype.me/github/profile?user_id=100614489)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Thank you !
+  
+
+``` 
+							
+   696     696  96969      _=_      9696969  69    696
+     9696    969696       (-_-)      696969    6969
+        96969696          _) (_          69696969
+           96            /__/  \            69
+           69          _(<_   / )_          96
+          6969        (__\_\_|_/__)        9696
+
+
+```
+
+------------------------------------------------
+
+``` 
+
+
+      __                  _                _            __
+     >(' )           _  /\ \             /\ \         >(' )
+       )/          /\_\\  \ \           /  \ \          )/
+      /(          / / / \  \ \         / /\ \ \         /(
+     /  `----/   / / /   \  \ \        \/_/\ \ \        \  `----\
+jgs  \  ~=- /    \ \ \____\  \ \           / / /         \  ~=- /  
+   ~^~^~^~^~^~^~^ \ \________ \ \         / / /     ~^~^~^~^~^~^~^ 
+                   \/________/ \ \       / / /  _
+                              \ \ \     / / /_/\_\
+                               \ \_\   / /_____/ /
+                                \/_/   \________/
+```
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  
+  
+
+![](https://github.com/diegonmarcos/diegonmarcos/raw/main/img/mario_coder.gif)
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 # ➍➋ *[L'ecole42](https://42berlin.de/)*
 <table>
   <tr>
@@ -158,202 +363,3 @@ wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_do
 <br>
 <br>
 <br>
-
-
-
-# 🪶 About Me
-## Mini Bio
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in development!
-
-- 🔭 I’m studying to become a Software Engineer in 42 School Berlin.
-- 🌱 Always as possible into the wild!
-- 🦆 In my free time I meditate, read macroeconomics articles and watch quanthum physics videos.
-- ⚡  Moving over 40+ countries and 170+ cities in the last 5y.
-- 🐧 Not following the sun!
-
-<br>
-<br>
-<br>
- 
-## 🚀 My Setup (Languages, Frameworks and Tools) :
-
-    
-#### OS, Containers, IDEs, and Version Control
-| OS | Flavor | Script Language |  IDE   | Version Control |
-|----|--------|------			|---------- |-------	|
-| Linux       | KDE plasma         | Bash/Zsh | VSCode | GitHub				|
-| ![Linux](https://skillicons.dev/icons?i=linux) | ![KDE](https://www.shareicon.net/data/64x64/2015/09/18/102871_kde_512x512.png) | ![Bash](https://skillicons.dev/icons?i=bash)| ![VSCode](https://skillicons.dev/icons?i=vscode)  | ![GitHub](https://skillicons.dev/icons?i=github) |
-| ☆☆☆ | ☆☆☆ | ☆☆ | ☆ | ☆☆☆ | ☆☆ | ☆☆☆ |
-
-####  Backend: Low-Level and Object-Oriented
-| C    | C++  | Rust | Make
-|------|------|------| --- |
-| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Rust](https://skillicons.dev/icons?i=rust) | ![Make](https://skillicons.dev/icons?i=cmake) |
-| ☆☆ | - | - | ☆☆☆☆ |
-
-#### Backend: DataBase
-| MySQL | MongoDB | 
-|-------|-------|
-| ![MYSQL](https://skillicons.dev/icons?i=mysql)  | ![MongoDB](https://skillicons.dev/icons?i=mongodb)  |
-| - | - 
-
-#### Backend: Web Servers
-| PHP | Nginx | Apache
-|---|---|---|
-| ![PHP](https://skillicons.dev/icons?i=php)  | ![Nginx](https://skillicons.dev/icons?i=nginx)  | ![Apache](https://skillicons.dev/icons?i=apache) |
-| - | - | - |
-
-#### DevOps
-| Cloud | Containers	| Cont. Orch.	| API	|
-|-------|------		| ---			| --- 	|
-| AWS	| Docker	| Kurbenetes K8	| Express.js (Node.js)|
-| ![AWS](https://skillicons.dev/icons?i=aws)  | ![Docker](https://skillicons.dev/icons?i=docker)   | ![Kurbenet](https://skillicons.dev/icons?i=kurbenetes) 
-| - | ☆ | - | - |
-
-#### Frontend: UI
-| Obsidian | Markdown | HTML5 | CSS 3 | JavaScript | React |
-|----------|----------|-------|-------|------------|-------|
-| ![OBSIDIAN](https://skillicons.dev/icons?i=obsidian)		| ![Markdown](https://skillicons.dev/icons?i=md) | ![HTML](https://skillicons.dev/icons?i=html)  | ![CSS](https://skillicons.dev/icons?i=css) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![React](https://skillicons.dev/icons?i=react)  |
-| ☆☆ | ☆☆☆☆☆  | ☆☆☆☆   | ☆   | -        | -  |
-
-#### Data Science Frameworks
-| Phyton | Django | Notebook
-| ---- |----------|--------|
-| ![Python](https://skillicons.dev/icons?i=python)  |      |    |
-| ☆ | -  | -   | -
-
-#### Machine Learning Frameworks
-
-| TensorFlow  |PyTorch |
-|------|------|
-| ![Python](https://skillicons.dev/icons?i=tensorflow) | ![Python](https://skillicons.dev/icons?i=pytorch)
-| - | - |
-
-</div>
-
-<!--
-![](https://github.com/diegonmarcos/L-ecole-42/blob/aa1b2c1be4094f0c000adb662a6c695acc04d8bc/zimg/img1.png)
-![](https://github.com/diegonmarcos/L-ecole-42/blob/e478c87431825324fe7887f78b41b5068304ca71/zimg/img2.png)
--->
-
-
-<br>
-<br>
-
-## 🔥 My Stats :
-
-[![wakatime](https://wakatime.com/badge/user/6f56765e-0869-4b64-bacd-a8abcfd854ff.svg)](https://wakatime.com/@6f56765e-0869-4b64-bacd-a8abcfd854ff)  
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegonmarcos&show_icons=true&theme=dark)](https://github.com/diegonmarcos/)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegonmarcos&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonmarcos&show_icons=true&theme=dark)](https://github.com/diegonmarcos)
-
-
-
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=diegonmarcos&style=flat-square&color=blue" alt=""></p>  
-
-
-<br>
-<br>
-<br>
-
-# 📫 Platforms
-<p align="center">
-  <a href="https://linktr.ee/diegonmarcos" target="_blank"><img alt="Linktree profile" height="22" src="https://img.shields.io/badge/Linktree-%29C69C3D.svg?style=for-the-badge&logo=Linktree&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/diegonmarcos" target="_blank"><img alt="Linkedin Badge" height="22" src="https://img.shields.io/badge/-diegonmarcos-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:diegonmarcos@gmail.com"><img alt="Gmail" height="22" src="https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://diegonmarcos.github.io" target="_blank"><img alt="Personal Website" height="22" src="https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square" /></a>
-  <a href="https://github.com/diegonmarcos" target="_blank"><img alt="42 profile" height="22" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-
-<br>
-<br>
-<br>
-<a href="https://profile.intra.42.fr/users/dinepomu"> <p align="center"><img src="https://badge.mediaplus.ma/darkblue/dinepomu?1337Badge=off&UM6P=off"></p>  </a>
-<a href="https://profile.intra.42.fr/users/dnepomuc"> <p align="center"><img src="https://badge.mediaplus.ma/darkblue/dnepomuc?1337Badge=off&UM6P=off"></p>  </a>
-
-
-<p align="center"><img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=790b761192bw40kszown5q9l04h3c3693aw0uwdfmgzjs5ea&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" width="200"></p>
-<p align="center"> <a href="https://www.buymeacoffee.com/diegonmarcos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> </p>
-
-
-![](https://hit.yhype.me/github/profile?user_id=100614489)
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-# Thank you !
-  
-
-``` 
-							
-   696     696  96969      _=_      9696969  69    696
-     9696    969696       (-_-)      696969    6969
-        96969696          _) (_          69696969
-           96            /__/  \            69
-           69          _(<_   / )_          96
-          6969        (__\_\_|_/__)        9696
-
-
-```
-
-------------------------------------------------
-
-``` 
-
-
-      __                  _                _            __
-     >(' )           _  /\ \             /\ \         >(' )
-       )/          /\_\\  \ \           /  \ \          )/
-      /(          / / / \  \ \         / /\ \ \         /(
-     /  `----/   / / /   \  \ \        \/_/\ \ \        \  `----\
-jgs  \  ~=- /    \ \ \____\  \ \           / / /         \  ~=- /  
-   ~^~^~^~^~^~^~^ \ \________ \ \         / / /     ~^~^~^~^~^~^~^ 
-                   \/________/ \ \       / / /  _
-                              \ \ \     / / /_/\_\
-                               \ \_\   / /_____/ /
-                                \/_/   \________/
-```
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  
-  
-
-![](https://github.com/diegonmarcos/diegonmarcos/raw/main/img/mario_coder.gif)
-
