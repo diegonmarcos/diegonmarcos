@@ -32,10 +32,15 @@
 
 |  **Repo Name** |  **Classification** |  **Languages** | **Frameworks** |  **Description** |
 | :---: | :---: | :---: | :---: | :---: |
-| 🌐 [Front](https://github.com/diegonmarcos/diegonmarcos.github.io) | **Web Development / Portfolio** | TypeScript, CSS, HTML | **React, Vue.js** | *"A lightning-fast, modern portfolio showcasing skills with sleek design and accessibility."* |
-| 📚 [Data Science](https://github.com/diegonmarcos/ds) | **Utility / Snippets Library** | Python, Shell | **Django, Flask** | *"A collection of highly optimized Python helpers and system scripts for everyday development tasks."* |
-| 🧠 [Machine Learning & Deep Learning](https://github.com/diegonmarcos/mldl) | **Algorithms / Data Structures** | Go, C | **TensorFlow, PyTorch** | *"Canonical implementations of efficient algorithms and concurrent data structures, focused on performance."* |
-| 🎨 [Agentic AI](https://github.com/diegonmarcos/agentic) | **Agentic AI / LLM Orchestration** | **Python, YAML** | **LangChain, AutoGen** | *"A system for orchestrating multiple Large Language Models to collaboratively solve complex tasks."* |
+| 🌐 [Front](https://github.com/diegonmarcos/diegonmarcos.github.io) | **Web Development / Portfolio** | TypeScript, CSS, HTML | **React, Vue.js** | *"Styling buttons until they cry and users click with joy."* |
+| 📚 [Data Science](https://github.com/diegonmarcos/ds) | **Utility / Snippets Library** | Python, Shell | **Django, Flask** | *"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."* |
+| 🧠 [Machine Learning & Deep Learning](https://github.com/diegonmarcos/mlearning) | **Algorithms / Data Structures** | Go, C | **TensorFlow, PyTorch** | *"Where I teach computers to be smart so I don't have to be."* |
+| 🎨 [Agentic AI](https://github.com/diegonmarcos/agentic) | **Agentic AI / LLM Orchestration** | **Python, YAML** | **LangChain, AutoGen** | *""It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
+
+
+
+
+
 
 <br>
 
