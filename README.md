@@ -19,6 +19,7 @@
 
 ## 💾 Repos
 ### Back-end
+
 | Repository | Description | Languages | Stack (Lib/Fram.) | Ha |
 |---|---|---|---|---|
 | 📚 [Mylib](https://github.com/diegonmarcos/mylib) | **Utility library and helpers** | C | C standard library, custom utilities | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
@@ -30,8 +31,10 @@
 
 ### Front-end & DS/Machine Learning
 
-|  **Repo Name** |  **Classification** |  **Languages** | **Frameworks** |  **Description** |
-| :---: | :---: | :---: | :---: | :---: |
+
+
+| Repository | Classification| Languages |Frameworks** | Description |
+| --- | --- | --- | --- | --- |
 | 🌐 [Front](https://github.com/diegonmarcos/diegonmarcos.github.io) | **Web Development / Portfolio** | TypeScript, CSS, HTML | **React, Vue.js** | *"Styling buttons until they cry and users click with joy."* |
 | 📚 [Data Science](https://github.com/diegonmarcos/ds) | **Utility / Snippets Library** | Python, Shell | **Django, Flask** | *"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."* |
 | 🧠 [Machine Learning & Deep Learning](https://github.com/diegonmarcos/mlearning) | **Algorithms / Data Structures** | Go, C | **TensorFlow, PyTorch** | *"Where I teach computers to be smart so I don't have to be."* |
