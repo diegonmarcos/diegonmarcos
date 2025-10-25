@@ -9,6 +9,7 @@
 
 
 ---
+---
 
 <br>
 
@@ -17,13 +18,24 @@
 <br>
 
 ## 💾 Repos
+### Back-end
 | Repository | Description | Languages | Stack (Lib/Fram.) | Ha |
 |---|---|---|---|---|
-| 📚 [Mylib](https://github.com/diegonmarcos/mylib) | Utility library and helpers | C | C standard library, custom utilities | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
-| 🧠 [Algo](https://github.com/diegonmarcos/algo) | Algorithm implementations and practice | C, C++ | C stdlib, C++ STL, unit-test helpers | <i>Turning coffee into sort functions and occasional existential bugs.</i> |
-| 🛠️ [System](https://github.com/diegonmarcos/system) | System scripts, tooling and orchestration | Bash, Shell, Python | coreutils, Docker, shell utilities, Python stdlib | <i>"Making servers behave like well‑trained poodles (treats = scripts)."</i> |
-| 🎨 [Graphic](https://github.com/diegonmarcos/graphic) | 2D/3D graphics and rendering demos | C, C++, GLSL | SDL2, OpenGL/GLFW, GLM | <i>"Pixel wrangling and shader sorcery — welcome to the polygon party."</i> |
-| 🌐 [Front](https://github.com/diegonmarcos/diegonmarcos.github.io) | Front-end Devs | HTML, CSS, JavaScript | Bootstrap, CSS utilities, vanilla JavaScript | <i>"Styling buttons until they cry and users click with joy."</i> |
+| 📚 [Mylib](https://github.com/diegonmarcos/mylib) | **Utility library and helpers** | C | C standard library, custom utilities | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
+| 🧠 [Algo](https://github.com/diegonmarcos/algo) | **Algorithm implementations and practice**| C, C++ | C stdlib, C++ STL, unit-test helpers | <i>Turning coffee into sort functions and occasional existential bugs.</i> |
+| 🛠️ [System](https://github.com/diegonmarcos/system) | **System scripts, tooling and orchestration** | Bash, Shell, Python | coreutils, Docker, shell utilities, Python stdlib | <i>"Making servers behave like well‑trained poodles (treats = scripts)."</i> |
+| 🎨 [Graphic](https://github.com/diegonmarcos/graphic) | **2D/3D graphics and rendering demos** | C, C++, GLSL | SDL2, OpenGL/GLFW, GLM | <i>"Pixel wrangling and shader sorcery — welcome to the polygon party."</i> |
+
+<br>
+
+### Front-end & DS/Machine Learning
+
+|  **Repo Name** |  **Classification** |  **Languages** | **Frameworks** |  **Description** |
+| :---: | :---: | :---: | :---: | :---: |
+| 🌐 [Front](https://github.com/diegonmarcos/diegonmarcos.github.io) | **Web Development / Portfolio** | TypeScript, CSS, HTML | **React, Vue.js** | *"A lightning-fast, modern portfolio showcasing skills with sleek design and accessibility."* |
+| 📚 [Data Science](https://github.com/diegonmarcos/ds) | **Utility / Snippets Library** | Python, Shell | **Django, Flask** | *"A collection of highly optimized Python helpers and system scripts for everyday development tasks."* |
+| 🧠 [Machine Learning & Deep Learning](https://github.com/diegonmarcos/mldl) | **Algorithms / Data Structures** | Go, C | **TensorFlow, PyTorch** | *"Canonical implementations of efficient algorithms and concurrent data structures, focused on performance."* |
+| 🎨 [Agentic AI](https://github.com/diegonmarcos/agentic) | **Agentic AI / LLM Orchestration** | **Python, YAML** | **LangChain, AutoGen** | *"A system for orchestrating multiple Large Language Models to collaboratively solve complex tasks."* |
 
 <br>
 
