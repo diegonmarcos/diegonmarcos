@@ -36,9 +36,10 @@
 | Repository | Classification| Languages |Frameworks** | Description |
 | --- | --- | --- | --- | --- |
 | 🌐 [Front](https://github.com/diegonmarcos/diegonmarcos.github.io) | **Web Development / Portfolio** | TypeScript, CSS, HTML | **React, Vue.js** | *"Styling buttons until they cry and users click with joy."* |
+| 🎨 [Agentic AI](https://github.com/diegonmarcos/agentic) | **Agentic AI / LLM Orchestration** | **Python, YAML** | **LangChain, AutoGen** | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
 | 📚 [Data Science](https://github.com/diegonmarcos/ds) | **Utility / Snippets Library** | Python, Shell | **Django, Flask** | *"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."* |
 | 🧠 [Machine Learning & Deep Learning](https://github.com/diegonmarcos/mlearning) | **Algorithms / Data Structures** | Go, C | **TensorFlow, PyTorch** | *"Where I teach computers to be smart so I don't have to be."* |
-| 🎨 [Agentic AI](https://github.com/diegonmarcos/agentic) | **Agentic AI / LLM Orchestration** | **Python, YAML** | **LangChain, AutoGen** | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
+
 
 
 
