@@ -43,7 +43,7 @@
 | --- | --- | --- | --- | --- |
 | 📚 [Data Science](https://github.com/diegonmarcos/ml-DataScience) | **Utility / Snippets Library** | Python | Django, Flask | *"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."* |
 | 🎨 [Agentic AI](https://github.com/diegonmarcos/ml-Agentic) | **Agentic AI / LLM Orchestration** | Python | **LangChain, AutoGen** | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
-| 🧠 [Machine Learning & Deep Learning](https://github.com/diegonmarcos/ml-MachoineLearning) | **Algorithms / Data Structures** | C, Rust | TensorFlow, PyTorch | *"Where I teach computers to be smart so I don't have to be."* |
+| 🧠 [Machine Learning & Deep Learning](https://github.com/diegonmarcos/ml-MachineLearning) | **Algorithms / Data Structures** | C, Rust | TensorFlow, PyTorch | *"Where I teach computers to be smart so I don't have to be."* |
 
 ### DevOps
 
