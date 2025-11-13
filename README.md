@@ -22,7 +22,7 @@
 
 | Repository | Description | Languages | Stack (Lib/Fram.) | Ha |
 |---|---|---|---|---|
-| 📚 [Mylib](https://github.com/diegonmarcos/back-Mylib) | **Utility library and helpers** | C, Shell, Make | C stdlib | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
+| 📚 [Mylib](https://github.com/diegonmarcos/back-Mylibs) | **Utility library and helpers** | C, Shell, Make | C stdlib | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
 | 🧠 [Algo](https://github.com/diegonmarcos/back-Algo) | **Algorithm implementations and practice**| C | C stdlib | <i>Turning coffee into sort functions and occasional existential bugs.</i> |
 | 🛠️ [System](https://github.com/diegonmarcos/back-System) | **System scripts, tooling and orchestration** | Bash, Shell, Python | coreutils, Docker, shell utilities, Python stdlib | <i>"Making servers behave like well‑trained poodles (treats = scripts)."</i> |
 | 🎨 [Graphic](https://github.com/diegonmarcos/back-Graphic) | **2D/3D graphics and rendering demos** | C, C++ | SDL2, OpenGL/GLFW, GLM | <i>"Pixel wrangling and shader sorcery — welcome to the polygon party."</i> |
