@@ -61,7 +61,7 @@
 
 | Repository | Classification| Languages |Frameworks** | Description |
 | --- | --- | --- | --- | --- |
-| 🛡️ [Cyber](https://github.com/diegonmarcos/cyber-Cyberwarfare) | Cyberwarfare | Python | LangChain |"responsibly breaking stuff so we can script how to fix it."* |
+| 🛡️ [Cyber](https://github.com/diegonmarcos/cyber-Cyberwarfare) | Cyberwarfare | Python | LangChain |*"responsibly breaking stuff so we can script how to fix it."* |
 	
 <br>
 
