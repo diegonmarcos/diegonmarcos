@@ -33,7 +33,7 @@
 
 | Repository | Classification| Languages |Frameworks** | Description |
 | --- | --- | --- | --- | --- |
-| 🌐 [web-Portfolio](https://github.com/diegonmarcos/front-web-Portfolio) | **Web Development / Portfolio** | TypeScript, CSS, HTML, YAML | Saas, Vue.js and Svelte | *"Styling buttons until they cry and users click with joy."* |
+| 🌐 [web-Portfolio](https://github.com/diegonmarcos/diegonmarcos.github.io.git) | **Web Development / Portfolio** | TypeScript, CSS, HTML, YAML | Saas, Vue.js and Svelte | *"Styling buttons until they cry and users click with joy."* |
 | 🌐 [android-Portfolio](https://github.com/diegonmarcos/front-android-Portfolio) | **Android / Portfolio** | Dart | Flutter | *"Oner more app, why not?."* |
 
 
