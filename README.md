@@ -18,14 +18,23 @@
 <br>
 
 ## 💾 Repos
+
+### DevOps
+
+| Repository | Classification| Languages |Frameworks** | Description |
+| --- | --- | --- | --- | --- |
+|  [Tooling](https://github.com/diegonmarcos/ops-Tooling) | UnixTooling,  GitTooling, GithubActions, Docker | Python | LangChain | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
+| 📚 [Mylib](https://github.com/diegonmarcos/back-Mylibs) | Utility library and helpers | C, Shell, Make | C stdlib | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
+
+<br>
+
 ### Back-end
 
 | Repository | Description | Languages | Stack (Lib/Fram.) | Ha |
 |---|---|---|---|---|
-| 📚 [Mylib](https://github.com/diegonmarcos/back-Mylibs) | **Utility library and helpers** | C, Shell, Make | C stdlib | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
-| 🧠 [Algo](https://github.com/diegonmarcos/back-Algo) | **Algorithm implementations and practice**| C | C stdlib | <i>Turning coffee into sort functions and occasional existential bugs.</i> |
-| 🛠️ [System](https://github.com/diegonmarcos/back-System) | **System scripts, tooling and orchestration** | Bash, Shell, Python | coreutils, Docker, shell utilities, Python stdlib | <i>"Making servers behave like well‑trained poodles (treats = scripts)."</i> |
-| 🎨 [Graphic](https://github.com/diegonmarcos/back-Graphic) | **2D/3D graphics and rendering demos** | C, C++ | SDL2, OpenGL/GLFW, GLM | <i>"Pixel wrangling and shader sorcery — welcome to the polygon party."</i> |
+| 🧠 [Algo](https://github.com/diegonmarcos/back-Algo) | Algorithm implementations and practice| C | C stdlib | <i>Turning coffee into sort functions and occasional existential bugs.</i> |
+| 🛠️ [System](https://github.com/diegonmarcos/back-System) | System scripts, tooling and orchestration | C, PHP | stdlib | <i>"Making servers behave like well‑trained poodles (treats = scripts)."</i> |
+| 🎨 [Graphic](https://github.com/diegonmarcos/back-Graphic) | 2D/3D graphics and rendering demos | C, C++ | SDL2, OpenGL/GLFW, GLM | <i>"Pixel wrangling and shader sorcery — welcome to the polygon party."</i> |
 
 <br>
 
@@ -33,33 +42,26 @@
 
 | Repository | Classification| Languages |Frameworks** | Description |
 | --- | --- | --- | --- | --- |
-| 🌐 [web-Portfolio](https://github.com/diegonmarcos/diegonmarcos.github.io.git) | **Web Development / Portfolio** | TypeScript, CSS, HTML, YAML | Saas, Vue.js and Svelte | *"Styling buttons until they cry and users click with joy."* |
-| 🌐 [android-Portfolio](https://github.com/diegonmarcos/front-android-Portfolio) | **Android / Portfolio** | Dart | Flutter | *"Oner more app, why not?."* |
+| 🌐 [web-Portfolio](https://github.com/diegonmarcos/diegonmarcos.github.io.git) | Web Development / Portfolio | TypeScript, CSS, HTML, YAML | Saas, Vue.js and Svelte | *"Styling buttons until they cry and users click with joy."* |
+| 🌐 [android-Portfolio](https://github.com/diegonmarcos/front-android-Portfolio) | Android / Portfolio | Dart | Flutter | *"Oner more app, why not?."* |
 
+<br>
 
 ### DS/Machine Learning
 
 | Repository | Classification| Languages |Frameworks** | Description |
 | --- | --- | --- | --- | --- |
-| 📚 [Data Science](https://github.com/diegonmarcos/ml-DataScience) | **Utility / Snippets Library** | Python | Django, Flask | *"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."* |
-| 🎨 [Agentic AI](https://github.com/diegonmarcos/ml-Agentic) | **Agentic AI / LLM Orchestration** | Python | **LangChain, AutoGen** | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
-| 🧠 [Machine Learning & Deep Learning](https://github.com/diegonmarcos/ml-MachineLearning) | **Algorithms / Data Structures** | C, Rust | TensorFlow, PyTorch | *"Where I teach computers to be smart so I don't have to be."* |
+| 📚 [Data Science](https://github.com/diegonmarcos/ml-DataScience) | Utility / Snippets Library | Python | Django, Flask | *"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."* |
+| 🎨 [Agentic AI](https://github.com/diegonmarcos/ml-Agentic) | Agentic AI / LLM Orchestration | Python | n8n, LangChain | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
+| 🧠 [Machine Learning & Deep Learning](https://github.com/diegonmarcos/ml-MachineLearning) | Algorithms / Data Structures | C, Rust | TensorFlow, PyTorch | *"Where I teach computers to be smart so I don't have to be."* |
 
-### DevOps
-
-| Repository | Classification| Languages |Frameworks** | Description |
-| --- | --- | --- | --- | --- |
-|  [Tooling](https://github.com/diegonmarcos/ops-Tooling) | **UnixTooling,  GitTooling, GithubActions, Docker** | Python | **LangChain, AutoGen** | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
+<br>
 
 ### Cybersecurity
 
 | Repository | Classification| Languages |Frameworks** | Description |
 | --- | --- | --- | --- | --- |
-|  [Cyberwarfare](https://github.com/diegonmarcos/cyber-Cyberwarfare) | **Cyberwarfare** | Python | **LangChain, AutoGen** | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
-
-
-
-
+|  [Cyberwarfare](https://github.com/diegonmarcos/cyber-Cyberwarfare) | Cyberwarfare | Python | LangChain | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
 
 <br>
 
