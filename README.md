@@ -80,9 +80,9 @@
 
 # 🪶 About Me
 ## Mini Bio
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in development!
+I am a Software Engineer and a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in development!
 
-- 🔭 I’m studying to become a Software Engineer in 42 School Berlin.
+- 🔭 I’m studying to become a Software Engineer at 42 School Berlin.
 - 🌱 Always as possible into the wild!
 - 🦆 In my free time I meditate, read macroeconomics articles and watch quanthum physics videos.
 - ⚡  Moving over 40+ countries and 170+ cities in the last 5y.
