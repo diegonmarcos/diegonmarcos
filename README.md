@@ -51,7 +51,7 @@
 
 | Repository | Classification| Languages |Frameworks** | Description |
 | --- | --- | --- | --- | ---|
-| 📊 [Data Science](https://github.com/diegonmarcos/ml-DataScience) | Utility / Snippets Library | Python | Pandas, Numpy, Scikit-learn, Scipy, Jupyterlab | *"Unlocking insights from data, one line of code at a time."* |
+| 📊 [Data Science](https://github.com/diegonmarcos/ml-DataScience) | Utility / Snippets Library | Python | Pandas, Numpy, Scikit-learn, Scipy, Jupyterlab | *"turning noisy CSVs into reproducible 'aha' moments."* |
 | 🎨 [Agentic AI](https://github.com/diegonmarcos/ml-Agentic) | Agentic AI / LLM Orchestration | Python | n8n, LangChain | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
 | 🧠 [Machine Learning & Deep Learning](https://github.com/diegonmarcos/ml-MachineLearning) | Algorithms / Data Structures | C, Rust | TensorFlow, PyTorch | *"Where I teach computers to be smart so I don't have to be."*|
 
@@ -61,7 +61,7 @@
 
 | Repository | Classification| Languages |Frameworks** | Description |
 | --- | --- | --- | --- | --- |
-| 🛡️ [Cyber](https://github.com/diegonmarcos/cyber-Cyberwarfare) | Cyberwarfare | Python | LangChain | *"Protecting the world from digital threats, one line of code at a time."* |
+| 🛡️ [Cyber](https://github.com/diegonmarcos/cyber-Cyberwarfare) | Cyberwarfare | Python | LangChain |"responsibly breaking stuff so we can script how to fix it."* |
 	
 <br>
 
