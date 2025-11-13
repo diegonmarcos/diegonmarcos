@@ -22,25 +22,40 @@
 
 | Repository | Description | Languages | Stack (Lib/Fram.) | Ha |
 |---|---|---|---|---|
-| 📚 [Mylib](https://github.com/diegonmarcos/mylib) | **Utility library and helpers** | C | C standard library, custom utilities | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
-| 🧠 [Algo](https://github.com/diegonmarcos/algo) | **Algorithm implementations and practice**| C, C++ | C stdlib, C++ STL, unit-test helpers | <i>Turning coffee into sort functions and occasional existential bugs.</i> |
-| 🛠️ [System](https://github.com/diegonmarcos/system) | **System scripts, tooling and orchestration** | Bash, Shell, Python | coreutils, Docker, shell utilities, Python stdlib | <i>"Making servers behave like well‑trained poodles (treats = scripts)."</i> |
-| 🎨 [Graphic](https://github.com/diegonmarcos/graphic) | **2D/3D graphics and rendering demos** | C, C++, GLSL | SDL2, OpenGL/GLFW, GLM | <i>"Pixel wrangling and shader sorcery — welcome to the polygon party."</i> |
+| 📚 [Mylib](https://github.com/diegonmarcos/back-Mylib) | **Utility library and helpers** | C, Shell, Make | C stdlib | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
+| 🧠 [Algo](https://github.com/diegonmarcos/back-Algo) | **Algorithm implementations and practice**| C | C stdlib | <i>Turning coffee into sort functions and occasional existential bugs.</i> |
+| 🛠️ [System](https://github.com/diegonmarcos/back-System) | **System scripts, tooling and orchestration** | Bash, Shell, Python | coreutils, Docker, shell utilities, Python stdlib | <i>"Making servers behave like well‑trained poodles (treats = scripts)."</i> |
+| 🎨 [Graphic](https://github.com/diegonmarcos/back-Graphic) | **2D/3D graphics and rendering demos** | C, C++ | SDL2, OpenGL/GLFW, GLM | <i>"Pixel wrangling and shader sorcery — welcome to the polygon party."</i> |
 
 <br>
 
-### Front-end & DS/Machine Learning
-
-
+### Front-end
 
 | Repository | Classification| Languages |Frameworks** | Description |
 | --- | --- | --- | --- | --- |
-| 🌐 [Front](https://github.com/diegonmarcos/diegonmarcos.github.io) | **Web Development / Portfolio** | TypeScript, CSS, HTML | **React, Vue.js** | *"Styling buttons until they cry and users click with joy."* |
-| 🎨 [Agentic AI](https://github.com/diegonmarcos/agentic) | **Agentic AI / LLM Orchestration** | **Python, YAML** | **LangChain, AutoGen** | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
-| 📚 [Data Science](https://github.com/diegonmarcos/ml-DataScience) | **Utility / Snippets Library** | Python, Shell | **Django, Flask** | *"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."* |
-| 🧠 [Machine Learning & Deep Learning](https://github.com/diegonmarcos/mlearning) | **Algorithms / Data Structures** | Go, C | **TensorFlow, PyTorch** | *"Where I teach computers to be smart so I don't have to be."* |
+| 🌐 [web-Portfolio](https://github.com/diegonmarcos/front-web-Portfolio) | **Web Development / Portfolio** | TypeScript, CSS, HTML, YAML | Saas, Vue.js and Svelte | *"Styling buttons until they cry and users click with joy."* |
+| 🌐 [android-Portfolio](https://github.com/diegonmarcos/front-android-Portfolio) | **Android / Portfolio** | Dart | Flutter | *"Oner more app, why not?."* |
 
 
+### DS/Machine Learning
+
+| Repository | Classification| Languages |Frameworks** | Description |
+| --- | --- | --- | --- | --- |
+| 📚 [Data Science](https://github.com/diegonmarcos/ml-DataScience) | **Utility / Snippets Library** | Python | Django, Flask | *"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."* |
+| 🎨 [Agentic AI](https://github.com/diegonmarcos/ml-Agentic) | **Agentic AI / LLM Orchestration** | Python | **LangChain, AutoGen** | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
+| 🧠 [Machine Learning & Deep Learning](https://github.com/diegonmarcos/ml-MachoineLearning) | **Algorithms / Data Structures** | C, Rust | TensorFlow, PyTorch | *"Where I teach computers to be smart so I don't have to be."* |
+
+### DevOps
+
+| Repository | Classification| Languages |Frameworks** | Description |
+| --- | --- | --- | --- | --- |
+|  [Tooling](https://github.com/diegonmarcos/ops-Tooling) | **UnixTooling,  GitTooling, GithubActions, Docker** | Python | **LangChain, AutoGen** | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
+
+### Cybersecurity
+
+| Repository | Classification| Languages |Frameworks** | Description |
+| --- | --- | --- | --- | --- |
+|  [Cyberwarfare](https://github.com/diegonmarcos/cyber-Cyberwarfare) | **Cyberwarfare** | Python | **LangChain, AutoGen** | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
 
 
 
