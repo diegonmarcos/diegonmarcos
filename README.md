@@ -24,7 +24,7 @@
 | Repository | Classification| Languages |Frameworks | Description |
 | --- | --- | --- | --- | --- |
 | 🧰 [Tooling](https://github.com/diegonmarcos/ops-Tooling) | UnixTooling, GitTooling, GithubActions, Docker | Python and Go | C stdLib | *"Automating the world, one script at a time."* |
-| 📚 [Mylib](https://github.com/diegonmarcos/back-Mylibs) | Utility library and helpers | Shell, C, Python and YAML | C stdlib | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
+| 📚 [Mylib](https://github.com/diegonmarcos/ops-Mylibs) | Utility library and helpers | Shell, C, Python and YAML | C stdlib | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
 
 <br>
 
