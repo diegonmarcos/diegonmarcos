@@ -31,7 +31,6 @@ Comments here
 ## I. Computer Science
 
 
-
 ### DevOps
 
 | Repository | Classification| Languages |Frameworks | Description |
@@ -94,16 +93,6 @@ Comments here
 | --------------------------------------------------------- | ----------------------- | --------- | ---------- | ----------- |
 | [Thesis 1](https://github.com/diegonmarcos/ecoqt-thesis1) | **Macro**               |           |            |             |
 | [Thesis 2](https://github.com/diegonmarcos/ecoqt-thesis2) | **Quant and Portfolio** |           |            |             |
-
-<br>
-
-|                                                                                                                                                                                  |                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Mylib](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=mylib)](https://github.com/diegonmarcos/mylib)                                   | [![Algo](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=algo)](https://github.com/diegonmarcos/algo)           |
-|                                                                                                                                                                                  |                                                                                                                                                       |
-| [![System](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=system)](https://github.com/diegonmarcos/system)                                | [![Graphics](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=graphic)](https://github.com/diegonmarcos/graphic) |
-|                                                                                                                                                                                  |                                                                                                                                                       |
-| [![Front](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=diegonmarcos.github.io)](https://github.com/diegonmarcos/diegonmarcos.github.io) |                                                                                                                                                       |
 
 
 <br>
@@ -187,8 +176,8 @@ I am a Software Engineer and a Full Stack Developer <img src="https://media.giph
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonmarcos&show_icons=true&theme=dark)](https://github.com/diegonmarcos)
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=diegonmarcos&style=flat-square&color=blue" alt=""></p>  
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=diegonmarcos&style=flat-square&color=blue" alt=""></p>  
 
 <br>
 <br>
@@ -213,7 +202,7 @@ I am a Software Engineer and a Full Stack Developer <img src="https://media.giph
 <a href="https://profile.intra.42.fr/users/dnepomuc"> <p align="center"><img src="https://badge.mediaplus.ma/darkblue/dnepomuc?1337Badge=off&UM6P=off"></p>  </a>
 
 
-<p align="center"><img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=790b761192bw40kszown5q9l04h3c3693aw0uwdfmgzjs5ea&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" width="200"></p>
+
 <p align="center"> <a href="https://www.buymeacoffee.com/diegonmarcos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> </p>
 
 
@@ -231,6 +220,10 @@ bash <(wget -qO- https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/ref
 ```
 wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_docker/src/make_docker.sh && chmod 777 d_make.sh
 ```
+
+<br>
+
+
 
 <br> <br> <br> <br> <br> <br> <br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -276,3 +269,7 @@ jgs  \  ~=- /    \ \ \____\  \ \           / / /         \  ~=- /
 ![](https://github.com/diegonmarcos/diegonmarcos/raw/main/img/mario_coder.gif)
 
 <br> <br> <br> <br> <br> <br> <br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+<p align="center"><img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=790b761192bw40kszown5q9l04h3c3693aw0uwdfmgzjs5ea&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" width="200"></p>
