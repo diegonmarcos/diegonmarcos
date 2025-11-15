@@ -97,13 +97,13 @@ Comments here
 
 <br>
 
-| |  |
-|---|---|
-| [![Mylib](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=mylib)](https://github.com/diegonmarcos/mylib)   | [![Algo](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=algo)](https://github.com/diegonmarcos/algo)  |
-|   |  |
-| [![System](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=system)](https://github.com/diegonmarcos/system)  |  [![Graphics](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=graphic)](https://github.com/diegonmarcos/graphic) |
-|  | |
-| [![Front](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=diegonmarcos.github.io)](https://github.com/diegonmarcos/diegonmarcos.github.io) |  |
+|                                                                                                                                                                                  |                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Mylib](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=mylib)](https://github.com/diegonmarcos/mylib)                                   | [![Algo](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=algo)](https://github.com/diegonmarcos/algo)           |
+|                                                                                                                                                                                  |                                                                                                                                                       |
+| [![System](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=system)](https://github.com/diegonmarcos/system)                                | [![Graphics](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=graphic)](https://github.com/diegonmarcos/graphic) |
+|                                                                                                                                                                                  |                                                                                                                                                       |
+| [![Front](https://github-readme-stats.vercel.app/api/pin/?username=diegonmarcos&theme=dark&repo=diegonmarcos.github.io)](https://github.com/diegonmarcos/diegonmarcos.github.io) |                                                                                                                                                       |
 
 
 <br>
