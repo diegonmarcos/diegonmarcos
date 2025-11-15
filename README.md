@@ -1,10 +1,16 @@
+<!--
+Comments here
+-->
+
 <p align="center">
   <a href="https://linktr.ee/diegonmarcos" target="_blank"><img alt="Linktree profile" height="22" src="https://img.shields.io/badge/Linktree-%29C69C3D.svg?style=for-the-badge&logo=Linktree&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/diegonmarcos" target="_blank"><img alt="Linkedin Badge" height="22" src="https://img.shields.io/badge/-diegonmarcos-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/diegonmarcos" target="_blank"><img alt="Linkedin Badge" height="22" src="https://img.shields.io/badge/-In/diegonmarcos-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:diegonmarcos@gmail.com"><img alt="Gmail" height="22" src="https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://diegonmarcos.github.io" target="_blank"><img alt="Personal Website" height="22" src="https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square" /></a>
+  <a href="https://diegonmarcos.github.io" target="_blank"><img alt="Portoflio" height="22" src="https://img.shields.io/badge/-Portoflio-f8f8fa?style=flat-square" /></a>
   <a href="https://github.com/diegonmarcos" target="_blank"><img alt="42 profile" height="22" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://wakatime.com/@6f56765e-0869-4b64-bacd-a8abcfd854ff"><img src="https://wakatime.com/badge/user/6f56765e-0869-4b64-bacd-a8abcfd854ff.svg" alt="Waka" height="22 /></a>
+  </p>
+  <p align="center">
+  <a href="https://wakatime.com/@6f56765e-0869-4b64-bacd-a8abcfd854ff"><img alt="Waka" height="22"  src="https://wakatime.com/badge/user/6f56765e-0869-4b64-bacd-a8abcfd854ff.svg" /></a>
 </p>
 
 
@@ -17,7 +23,13 @@
 
 <br>
 
-## 💾 Repos
+## 💾 REPOS
+
+<br>
+
+## I. Computer Science
+---
+
 
 ### DevOps
 
@@ -44,7 +56,7 @@
 | --- | --- | --- | --- | --- |
 | 🌐 [Portfolio](https://github.com/diegonmarcos/diegonmarcos.github.io.git) | Web Portfolio | TypeScript, JS, CSS, HTML | Saas, Vue.js and Svelte | *"Styling buttons until they cry and users click with joy."* |
 | 📱 [Portfolio](https://github.com/diegonmarcos/front-android-Portfolio) | Android Portfolio | Dart | Flutter | *"Fluttering through widgegts —  teaching Android and iOS to play nice, one stateless widget at a time."* |
- 
+
 <br>
 
 ### DS/Machine Learning
@@ -57,12 +69,31 @@
 
 <br>
 
-### Cybersecurity
+### Cyber-security
 
 | Repository | Classification| Languages |Frameworks | Description |
 | --- | --- | --- | --- | --- |
 | 🛡️ [Cyber](https://github.com/diegonmarcos/cyber-Cyberwarfare) | Cyberwarfare | Python | LangChain |*"responsibly breaking stuff so we can script how to fix it."* |
-	
+
+<br>
+
+## II. Civil Engineering
+---
+
+
+| Repository                                             | Classification          | Languages | Frameworks | Description |
+| ------------------------------------------------------ | ----------------------- | --------- | ---------- | ----------- |
+| [AFrame](https://github.com/diegonmarcos/cveng_AFrame) | **Structural Analysis** |           |            |             |
+| [Dome](https://github.com/diegonmarcos/cveng_Dome)     | **Structural Analysis** |           |            |             |
+
+## III. Macro Economics and Quantitative Finance
+---
+
+| Repository                                                | Classification          | Languages | Frameworks | Description |
+| --------------------------------------------------------- | ----------------------- | --------- | ---------- | ----------- |
+| [Thesis 1](https://github.com/diegonmarcos/ecoqt-thesis1) | **Macro**               |           |            |             |
+| [Thesis 2](https://github.com/diegonmarcos/ecoqt-thesis2) | **Quant and Portfolio** |           |            |             |
+
 <br>
 
 | |  |
@@ -86,10 +117,10 @@ I am a Software Engineer and a Full Stack Developer <img src="https://media.giph
 - 🌱 Always as possible into the wild!
 - 🦆 In my free time I meditate, read macroeconomics articles and watch quanthum physics videos.
 - ⚡  Moving over 40+ countries and 170+ cities in the last 5y.
-- 🐧 Not following the sun!  
- 
-[Linktree](https://linktr.ee/diegonmarcos)
+- 🐧 Not following the sun!
 
+
+<a href="https://linktr.ee/diegonmarcos" target="_blank"><img alt="Linktree profile" height="22" src="https://img.shields.io/badge/Linktree-%29C69C3D.svg?style=for-the-badge&logo=Linktree&logoColor=white" /></a>
 
 <br>
 <br>
@@ -130,7 +161,7 @@ I am a Software Engineer and a Full Stack Developer <img src="https://media.giph
 | ![Pandas](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pandas/pandas-line-wordmark.svg) | ![NumPy](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/numpy/numpy-line.svg) | ![Scikit-learn](https://skillicons.dev/icons?i=sklearn) | ![Scipy](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/scipy/scipy-line.svg) | ![Jupyter](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jupyter/jupyter-plain-wordmark.svg) | ![Scikit-learn](https://skillicons.dev/icons?i=sklearn) | ![PyTorch](https://skillicons.dev/icons?i=pytorch) | ![Spark](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spack/spack-plain.svg) |
 | ☆                                                                                                                     | -                                                                                                         | -                                                       | -                                                                                                          | -                                                                                                          | -                                                       | -                                                  | -                                                                                                          |
 
-### My Setup 
+### My Setup
 
 | OS                                             | FLAVOR                                                                         | SCRIPT                                       | IDE                                              | VC                                               | CLOUD                                         |
 | ---------------------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ | --------------------------------------------- |
@@ -155,29 +186,18 @@ wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_do
 <br>
 <br>
 <br>
-
-</div>
-
-<!--
-![](https://github.com/diegonmarcos/L-ecole-42/blob/aa1b2c1be4094f0c000adb662a6c695acc04d8bc/zimg/img1.png)
-![](https://github.com/diegonmarcos/L-ecole-42/blob/e478c87431825324fe7887f78b41b5068304ca71/zimg/img2.png)
--->
-
-
 <br>
 <br>
 
 ## 🔥 My Stats :
 
-[![wakatime](https://wakatime.com/badge/user/6f56765e-0869-4b64-bacd-a8abcfd854ff.svg)](https://wakatime.com/@6f56765e-0869-4b64-bacd-a8abcfd854ff)  
+[![wakatime](https://wakatime.com/badge/user/6f56765e-0869-4b64-bacd-a8abcfd854ff.svg)](https://wakatime.com/@6f56765e-0869-4b64-bacd-a8abcfd854ff)
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegonmarcos&show_icons=true&theme=dark)](https://github.com/diegonmarcos/)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegonmarcos&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonmarcos&show_icons=true&theme=dark)](https://github.com/diegonmarcos)
 
 
-
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=diegonmarcos&style=flat-square&color=blue" alt=""></p>  
+<p align="center"><img src="https://komarev.com/ghpvc/?username=diegonmarcos&style=flat-square&color=blue" alt=""></p>
 
 
 <br>
@@ -209,38 +229,13 @@ wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_do
 
 ![](https://hit.yhype.me/github/profile?user_id=100614489)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br> <br> <br> <br> <br> <br> <br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Thank you !
-  
 
-``` 
-							
+
+```
+
    696     696  96969      _=_      9696969  69    696
      9696    969696       (-_-)      696969    6969
         96969696          _) (_          69696969
@@ -253,7 +248,8 @@ wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_do
 
 ------------------------------------------------
 
-``` 
+<br> <br> <br> <br> <br> <br> <br><br><br><br><br><br><br><br><br><br><br><br>
+```
 
 
       __                  _                _            __
@@ -261,147 +257,15 @@ wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_do
        )/          /\_\\  \ \           /  \ \          )/
       /(          / / / \  \ \         / /\ \ \         /(
      /  `----/   / / /   \  \ \        \/_/\ \ \        \  `----\
-jgs  \  ~=- /    \ \ \____\  \ \           / / /         \  ~=- /  
-   ~^~^~^~^~^~^~^ \ \________ \ \         / / /     ~^~^~^~^~^~^~^ 
+jgs  \  ~=- /    \ \ \____\  \ \           / / /         \  ~=- /
+   ~^~^~^~^~^~^~^ \ \________ \ \         / / /     ~^~^~^~^~^~^~^
                    \/________/ \ \       / / /  _
                               \ \ \     / / /_/\_\
                                \ \_\   / /_____/ /
                                 \/_/   \________/
 ```
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  
-  
+<br> <br> <br> <br> <br> <br> <br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 ![](https://github.com/diegonmarcos/diegonmarcos/raw/main/img/mario_coder.gif)
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-# ➍➋ *[L'ecole42](https://42berlin.de/)*
-<table>
-  <tr>
-    <th> <h3><a href="https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/B0_Piscine">Piscine</a></h3></th>
-    <th> <h3><a href="https://42berlin.de/curriculum-42-berlin/">Common Core</a></h3></th>
-	<th> <h3><a href="https://42berlin.de/curriculum-42-berlin/">Advanced Core</a></h3></th>
-  </tr>
-  <tr>
-    <td> 
-<details>
-<summary>Projects by Deadline</summary>
-
-* **[Sh00 - Introduction to Sehll commands](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)** 
-* **[Sh01 - Shell 2](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-* **[C00 - Introduction to C](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-* **[C01 - Pointers and If Statements](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-* **[C02 - Introduction To Strings and Arrays](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-* **[C03 - String Functions, Manipulation and Concatenation](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-* **[C04 - Analyzing String Qualities and Manipulating Ints](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-* **[C05 - Mathematical Concepts in C](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-* **[C06 - Understanding Argc and Argv](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-* **[C07 - Memory Allocation](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-* **[C08 - Structures and Linked Lists](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-* **[C09 - More Linked Lists and Function Pointers](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-* **[C10 - Macros and Variadic Functions](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-* **[C11 - Advanced String Manipulation](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-* **[C12 - Binary Trees](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-* **[C13 - Advanced Topics](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Piscine)**
-</details>
-</td>
-    <td>
-
-<details>
-<summary>Projects by Deadline</summary>
-
-- **Circle 0**
-  - **[Reloaded](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C0_Reloaded)**  
-  - **[Libft](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C0_libft)**    
-- **Circle 1**
-  - **[get_next_line](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C1_get_next_line)**
-  - **[Born2BeRoot](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C1_born2beroot)**
-  - **[ft_printf](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C1_ft_printf)**
-- **Circle 2**
-  - [Exam Rank 02](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C2_ExamRank02)
-  - [push_swap](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C2_push_swap)
-  - [minitalk(pipex)](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C2_minitalk)
-  - [fdf](https://github.com/diegonmarcos/L-ecole-42/tree/main/1.Projects/C2_fdf)
-- **Circle 3**
-  - Exam Rank 03
-  - Minishell
-  - Philosophers 
-- **Circle 4**
-  - CPP00-04
-  - Cub3D_or_MiniRT
-  - NetPractice
-  - Exam Rank 04
-- **Circle 5**
-  - CPP05-09
-  - Webserv_or_IRC
-  - Inception
-  - Exam Rank 05
-- **Circle 6**
-  - Transcendence
-  - Exam Rank 06
-</details> 
-
-  </tr>
-</table>
-
-
-
-<br>
-</body>
-</html>
-
-  ### [Milestones Sheet]()
-  ![](https://github.com/diegonmarcos/diegonmarcos/raw/main/img/42_milestones.png)
-<br>
-<br>
-
-# 🚧 Working on
-
-- ALGO
-	- Backtracking
-
-- SYS
-	- Multithreading Orchestrating and Shell Implementation
-	- WebServer
-
-- GRAPHIC
-	- 2D/3D Games
-	- Wireframe Render and Bresenham's line algorithm
-
-- MYLIBC
-	- Memory Management
-	- IO
-	- Data Manipulation
-
-- TOOLS
-	- Unix
-	- Coding
-
-<br>
-<br>
-<br>
