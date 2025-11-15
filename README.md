@@ -23,12 +23,13 @@ Comments here
 
 <br>
 
-## 💾 REPOS
+# 💾 REPOS
+---
 
 <br>
 
 ## I. Computer Science
----
+
 
 
 ### DevOps
@@ -56,7 +57,7 @@ Comments here
 | --- | --- | --- | --- | --- |
 | 🌐 [Portfolio](https://github.com/diegonmarcos/diegonmarcos.github.io.git) | Web Portfolio | TypeScript, JS, CSS, HTML | Saas, Vue.js and Svelte | *"Styling buttons until they cry and users click with joy."* |
 | 📱 [Portfolio](https://github.com/diegonmarcos/front-android-Portfolio) | Android Portfolio | Dart | Flutter | *"Fluttering through widgegts —  teaching Android and iOS to play nice, one stateless widget at a time."* |
-
+ 
 <br>
 
 ### DS/Machine Learning
@@ -74,11 +75,11 @@ Comments here
 | Repository | Classification| Languages |Frameworks | Description |
 | --- | --- | --- | --- | --- |
 | 🛡️ [Cyber](https://github.com/diegonmarcos/cyber-Cyberwarfare) | Cyberwarfare | Python | LangChain |*"responsibly breaking stuff so we can script how to fix it."* |
-
+	
 <br>
 
 ## II. Civil Engineering
----
+
 
 
 | Repository                                             | Classification          | Languages | Frameworks | Description |
@@ -87,7 +88,7 @@ Comments here
 | [Dome](https://github.com/diegonmarcos/cveng_Dome)     | **Structural Analysis** |           |            |             |
 
 ## III. Macro Economics and Quantitative Finance
----
+
 
 | Repository                                                | Classification          | Languages | Frameworks | Description |
 | --------------------------------------------------------- | ----------------------- | --------- | ---------- | ----------- |
@@ -109,7 +110,9 @@ Comments here
 <br>
 <br>
 
-# 🪶 About Me
+# 🪶 ABOUT ME
+---
+
 ## Mini Bio
 I am a Software Engineer and a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in development!
 
@@ -117,8 +120,8 @@ I am a Software Engineer and a Full Stack Developer <img src="https://media.giph
 - 🌱 Always as possible into the wild!
 - 🦆 In my free time I meditate, read macroeconomics articles and watch quanthum physics videos.
 - ⚡  Moving over 40+ countries and 170+ cities in the last 5y.
-- 🐧 Not following the sun!
-
+- 🐧 Not following the sun!  
+ 
 
 <a href="https://linktr.ee/diegonmarcos" target="_blank"><img alt="Linktree profile" height="22" src="https://img.shields.io/badge/Linktree-%29C69C3D.svg?style=for-the-badge&logo=Linktree&logoColor=white" /></a>
 
@@ -126,42 +129,44 @@ I am a Software Engineer and a Full Stack Developer <img src="https://media.giph
 <br>
 <br>
 
- ## 💻 My Tech Stack
- ### 🚀 DevOps
+
+##  My Stack
+ 
+### DevOps
 | BUILD                                        |                                            | SCRIPT                                       |                                                  | VC/CI                                            |                                                                 | CONT                                             | CLOUD                                        | MONIT                                                    |
 | :------------------------------------------- | :----------------------------------------- | :------------------------------------------- | :----------------------------------------------- | :----------------------------------------------- | :-------------------------------------------------------------- | :----------------------------------------------- | :------------------------------------------- | :------------------------------------------------------- |
 | Make                                         | Go                                         | Bash/Zsh/Fish                                   | Python                                           | GitHub                                           | GitHub Actions                                                  | Docker                                           | AWS                                          | Prometheus                                               |
 | ![Make](https://skillicons.dev/icons?i=cmake) | ![Go](https://skillicons.dev/icons?i=go)   | ![Bash](https://skillicons.dev/icons?i=bash) | ![Python](https://skillicons.dev/icons?i=python) | ![GitHub](https://skillicons.dev/icons?i=github) | ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) | ![Docker](https://skillicons.dev/icons?i=docker) | ![AWS](https://skillicons.dev/icons?i=aws)   | ![Prometheus](https://skillicons.dev/icons?i=prometheus) |
 | ☆☆☆☆                                         | -                                          | ☆☆                                           | ☆                                                | ☆☆                                               | -                                                               | ☆                                                | ☆☆                                          | -                                                        |
 
-***
 
-### ⚙️ Back-End
+
+### Back-End
 | SYS                                    |                                            |                                              | FRAME                                            |                                                  | WEBSRVS                                        | API                                        | AUTH                                       | TESTING                                          |
 | :------------------------------------- | :----------------------------------------- | :------------------------------------------- | :----------------------------------------------- | :----------------------------------------------- | :--------------------------------------------- | :----------------------------------------- | :----------------------------------------- | :----------------------------------------------- |
 | C                                      | C++                                        | Rust                                         | Django                                           | Spring                                           | Nginx                                          | REST                                       | JWT                                        | Pytest                                           |
 | ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Rust](https://skillicons.dev/icons?i=rust) | ![Django](https://skillicons.dev/icons?i=django) | ![Spring](https://skillicons.dev/icons?i=spring) | ![Nginx](https://skillicons.dev/icons?i=nginx) | ![JWT](https://skillicons.dev/icons?i=net) | ![JWT](https://skillicons.dev/icons?i=jwt) | ![Pytest](https://skillicons.dev/icons?i=pytest) |
 | ☆☆                                     | -                                          | -                                            | -                                                | -                                                | -                                              | -                                          | -                                          | -                                                |
 
-***
 
-### 🖥️ Front-End
+
+### Front-End
 | MARK                                                 |                                                |                                              |                                            | LANG                                             |                                                    |                                            | FRAME                                          |                                            |                                              |
 | :--------------------------------------------------- | :--------------------------------------------- | :------------------------------------------- | :----------------------------------------- | :----------------------------------------------- | :------------------------------------------------- | :----------------------------------------- | :--------------------------------------------- | :----------------------------------------- | :------------------------------------------- |
 | Obsidian                                             | Markdown                                       | Html                                         | Css                                        | TypeScript                                       | JavaScript                                         | React                                      | Sass                                           | Svelte                                     | Vue                                          |
 | ![Obsidian](https://skillicons.dev/icons?i=obsidian) | ![Markdown](https://skillicons.dev/icons?i=md) | ![Html](https://skillicons.dev/icons?i=html) | ![Css](https://skillicons.dev/icons?i=css) | ![TypeScript](https://skillicons.dev/icons?i=ts) | ![JavaScript](https://skillicons.dev/icons?i=js)   | ![React](https://skillicons.dev/icons?i=react) | ![Sass](https://skillicons.dev/icons?i=sass)   | ![Svelte](https://skillicons.dev/icons?i=svelte) | ![Vue](https://skillicons.dev/icons?i=vue)   |
 | ☆☆                                                   | ☆☆☆☆☆                                          | ☆☆☆                                          | -                                          | -                                                | -                                                  | -                                          | -                                              | -                                          | -                                            |
 
-***
 
-### 📊 Data Science & ML
+
+### Data Science & ML
 | DATA-FRAME                                                                                                            |                                                                                                           |                                                         |                                                                                                            |                                                                                                            | ML-FRAME                                                | DL-FRAME                                           | BIG-DATA                                                                                                   |
 | :-------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :------------------------------------------------------ | :------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
 | Pandas                                                                                                                | NumPy                                                                                                     | Scikit-learn                                            | Scipy                                                                                                      | Jupyterlab                                                                                                 | Scikit-learn                                            | PyTorch                                            | Spark                                                                                                      |
 | ![Pandas](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pandas/pandas-line-wordmark.svg) | ![NumPy](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/numpy/numpy-line.svg) | ![Scikit-learn](https://skillicons.dev/icons?i=sklearn) | ![Scipy](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/scipy/scipy-line.svg) | ![Jupyter](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jupyter/jupyter-plain-wordmark.svg) | ![Scikit-learn](https://skillicons.dev/icons?i=sklearn) | ![PyTorch](https://skillicons.dev/icons?i=pytorch) | ![Spark](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spack/spack-plain.svg) |
 | ☆                                                                                                                     | -                                                                                                         | -                                                       | -                                                                                                          | -                                                                                                          | -                                                       | -                                                  | -                                                                                                          |
 
-### My Setup
+### My Setup 
 
 | OS                                             | FLAVOR                                                                         | SCRIPT                                       | IDE                                              | VC                                               | CLOUD                                         |
 | ---------------------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ | --------------------------------------------- |
@@ -169,44 +174,29 @@ I am a Software Engineer and a Full Stack Developer <img src="https://media.giph
 | ![Linux](https://skillicons.dev/icons?i=linux) | ![KDE](https://www.shareicon.net/data/64x64/2015/09/18/102871_kde_512x512.png) | ![Bash](https://skillicons.dev/icons?i=bash) | ![VSCode](https://skillicons.dev/icons?i=vscode) | ![GitHub](https://skillicons.dev/icons?i=github) | ![GitHub](https://skillicons.dev/icons?i=gcp) |
 | ☆☆☆                                            | ☆☆☆                                                                            | ☆☆                                           | ☆☆☆                                              | ☆☆                                               | ☆                                             |
 
----
-<br>
-<br>
-<br>
-
-# 🛠 Resources
-```
-bash <(wget -qO- https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main/rsc/gcl.sh) 1|0
-```
-
-```
-wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_docker/src/make_docker.sh && chmod 777 d_make.sh
-```
 
 <br>
 <br>
 <br>
-<br>
-<br>
 
-## 🔥 My Stats :
+## My Stats :
 
-[![wakatime](https://wakatime.com/badge/user/6f56765e-0869-4b64-bacd-a8abcfd854ff.svg)](https://wakatime.com/@6f56765e-0869-4b64-bacd-a8abcfd854ff)
+[![wakatime](https://wakatime.com/badge/user/6f56765e-0869-4b64-bacd-a8abcfd854ff.svg)](https://wakatime.com/@6f56765e-0869-4b64-bacd-a8abcfd854ff)  
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegonmarcos&show_icons=true&theme=dark)](https://github.com/diegonmarcos/)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegonmarcos&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonmarcos&show_icons=true&theme=dark)](https://github.com/diegonmarcos)
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=diegonmarcos&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=diegonmarcos&style=flat-square&color=blue" alt=""></p>  
 
 
 <br>
 <br>
 <br>
 
+# 📫 REACH ME OUT ON
+---
 
-
-# 📫 Platforms
 <p align="center">
   <a href="https://linktr.ee/diegonmarcos" target="_blank"><img alt="Linktree profile" height="22" src="https://img.shields.io/badge/Linktree-%29C69C3D.svg?style=for-the-badge&logo=Linktree&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/diegonmarcos" target="_blank"><img alt="Linkedin Badge" height="22" src="https://img.shields.io/badge/-diegonmarcos-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
@@ -229,13 +219,28 @@ wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_do
 
 ![](https://hit.yhype.me/github/profile?user_id=100614489)
 
-<br> <br> <br> <br> <br> <br> <br><br><br><br><br><br><br><br><br><br><br><br>
+<br> <br> <br> <br> <br> <br>
 
-# Thank you !
-
+# 🛠 RESOURCES
+---
 
 ```
+bash <(wget -qO- https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main/rsc/gcl.sh) 1|0
+```
 
+```
+wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_docker/src/make_docker.sh && chmod 777 d_make.sh
+```
+
+<br> <br> <br> <br> <br> <br> <br><br><br><br><br><br><br><br><br><br><br><br>
+
+# THANK YOU | DANKE | GRACIAS | OBRIGADO | MERCI | TACK | GRAZIE | HVALA
+---
+
+  
+
+``` 
+							
    696     696  96969      _=_      9696969  69    696
      9696    969696       (-_-)      696969    6969
         96969696          _) (_          69696969
@@ -249,7 +254,7 @@ wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_do
 ------------------------------------------------
 
 <br> <br> <br> <br> <br> <br> <br><br><br><br><br><br><br><br><br><br><br><br>
-```
+``` 
 
 
       __                  _                _            __
@@ -257,8 +262,8 @@ wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_do
        )/          /\_\\  \ \           /  \ \          )/
       /(          / / / \  \ \         / /\ \ \         /(
      /  `----/   / / /   \  \ \        \/_/\ \ \        \  `----\
-jgs  \  ~=- /    \ \ \____\  \ \           / / /         \  ~=- /
-   ~^~^~^~^~^~^~^ \ \________ \ \         / / /     ~^~^~^~^~^~^~^
+jgs  \  ~=- /    \ \ \____\  \ \           / / /         \  ~=- /  
+   ~^~^~^~^~^~^~^ \ \________ \ \         / / /     ~^~^~^~^~^~^~^ 
                    \/________/ \ \       / / /  _
                               \ \ \     / / /_/\_\
                                \ \_\   / /_____/ /
@@ -266,6 +271,8 @@ jgs  \  ~=- /    \ \ \____\  \ \           / / /         \  ~=- /
 ```
 
 <br> <br> <br> <br> <br> <br> <br><br><br><br><br><br><br><br><br><br><br><br>
-
+  
 
 ![](https://github.com/diegonmarcos/diegonmarcos/raw/main/img/mario_coder.gif)
+
+<br> <br> <br> <br> <br> <br> <br><br><br><br><br><br><br><br><br><br><br><br>
