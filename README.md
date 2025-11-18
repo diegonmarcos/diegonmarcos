@@ -198,7 +198,7 @@ I am a Software Engineer and a Full Stack Developer <img src="https://media.giph
 ---
 
 ```
- curl -o gcl.py https://raw.githubusercontent.com/diegonmarcos/ops-Tooling/main/Git/gcl/gcl.py && chmod +x gcl.py && sh gcl.py -h
+ curl -o gcl.py https://raw.githubusercontent.com/diegonmarcos/ops-Tooling/main/Git/gcl/gcl.py && chmod +x gcl.py && python3 gcl.py -h
 ```
 
 ```
