@@ -35,8 +35,8 @@ Comments here
 
 | Repository | Classification| Languages |Frameworks | Description |
 | --- | --- | --- | --- | --- |
-| 🧰 [Tooling](https://github.com/diegonmarcos/ops-Tooling) | UnixTooling, GitTooling, GithubActions, Docker | Python and Go | C stdLib | *"Automating the world, one script at a time."* |
-| 📚 [Mylib](https://github.com/diegonmarcos/ops-Mylibs) | Utility library and helpers | Shell, C, Python and YAML | C stdlib | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
+| 🧰 [Tooling](https://github.com/diegonmarcos/ops-Tooling) | Unix, Cloud, Git, CI/CD, Docker | Python and Go | C stdLib | *"Automating the world, one script at a time."* |
+
 
 <br>
 
@@ -44,9 +44,22 @@ Comments here
 
 | Repository | Classification | Languages | Frameworks | Description |
 |---|---|---|---|---|
-| 🧠 [Algo](https://github.com/diegonmarcos/back-Algo) | Algorithm implementations and practice| C | C stdlib | <i>Turning coffee into sort functions and occasional existential bugs.</i> |
-| 🛠️ [System](https://github.com/diegonmarcos/back-System) | System scripts, tooling and orchestration | C, PHP and Rust | C stdlib | <i>"Making servers behave like well‑trained poodles (treats = scripts)."</i> |
-| 🎨 [Graphic](https://github.com/diegonmarcos/back-Graphic) | 2D/3D graphics and rendering demos | C, C++ | SDL2, OpenGL/GLFW, GLM | <i>"Pixel wrangling and shader sorcery — welcome to the polygon party."</i> |
+| 📚[Mylib](https://github.com/diegonmarcos/ops-Mylibs) | Utility library and helpers | Shell, C, Python and YAML | C stdlib | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
+| 🧠[Algo](https://github.com/diegonmarcos/back-Algo) | Algorithm implementations and practice| C | C stdlib | <i>Turning coffee into sort functions and occasional existential bugs.</i> |
+| 🛠️[System](https://github.com/diegonmarcos/back-System) | System scripts, tooling and orchestration | C, PHP and Rust | C stdlib | <i>"Making servers behave like well‑trained poodles (treats = scripts)."</i> |
+| 🎨[Graphic](https://github.com/diegonmarcos/back-Graphic) | 2D/3D graphics and rendering demos | C, C++ | SDL2, OpenGL/GLFW, GLM | <i>"Pixel wrangling and shader sorcery — welcome to the polygon party."</i> |
+
+<br>
+
+### ARM Mobile, Bots and Add-ons
+
+
+| Repository | Classification | Languages | Frameworks | Description |
+|---|---|---|---|---|
+| 📱[Android-Me](https://github.com/diegonmarcos/front-android-Portfolio) | Android  | Dart | Flutter | *"Teaching Android and iOS to play nice* |
+| 📱[Garmin-Widget](https://github.com/diegonmarcos/front-android-Portfolio) | Garmin | Monkey-C | - | *""* |
+| 📱[Web-Scrapper](https://github.com/diegonmarcos/front-android-Portfolio)| Chromium | Js | - | *""* |
+| 📱[Web-Bot](https://github.com/diegonmarcos/front-android-Portfolio) | Telegram  | Js | - | *""* |
 
 <br>
 
@@ -54,18 +67,18 @@ Comments here
 
 | Repository | Classification| Languages |Frameworks | Description |
 | --- | --- | --- | --- | --- |
-| 🌐 [Portfolio](https://github.com/diegonmarcos/diegonmarcos.github.io.git) | Web Portfolio | TypeScript, JS, CSS, HTML | Saas, Vue.js and Svelte | *"Styling buttons until they cry and users click with joy."* |
-| 📱 [Portfolio](https://github.com/diegonmarcos/front-android-Portfolio) | Android Portfolio | Dart | Flutter | *"Fluttering through widgegts —  teaching Android and iOS to play nice, one stateless widget at a time."* |
+| 🌐[Landpge](https://github.com/diegonmarcos/diegonmarcos.github.io.git) | Web Portfolio | TypeScript, JS, CSS, HTML | Saas, Vue.js and Svelte | *"Styling buttons until they cry and users click with joy."* |
+
  
 <br>
 
-### DS/Machine Learning
+### Data Science and Machine Learning
 
 | Repository | Classification| Languages |Frameworks | Description |
 | --- | --- | --- | --- | ---|
-| 📊 [Data Science](https://github.com/diegonmarcos/ml-DataScience) | Utility / Snippets Library | Python | Pandas, Numpy, Scikit-learn, Scipy, Jupyterlab | *"turning noisy CSVs into reproducible 'aha' moments."* |
-| 🎨 [Agentic AI](https://github.com/diegonmarcos/ml-Agentic) | Agentic AI / LLM Orchestration | Python | n8n, LangChain | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
-| 🧠 [Machine Learning & Deep Learning](https://github.com/diegonmarcos/ml-MachineLearning) | Algorithms / Data Structures | C, Rust | TensorFlow, PyTorch | *"Where I teach computers to be smart so I don't have to be."*|
+| 📊[Data Science](https://github.com/diegonmarcos/ml-DataScience) | Utility / Snippets Library | Python | Pandas, Numpy, Scikit-learn, Scipy, Jupyterlab | *"turning noisy CSVs into reproducible 'aha' moments."* |
+| 🎨[Agentic AI](https://github.com/diegonmarcos/ml-Agentic) | Agentic AI / LLM Orchestration | Python | n8n, LangChain | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
+| 🧠[Machine Learning & Deep Learning](https://github.com/diegonmarcos/ml-MachineLearning) | Algorithms / Data Structures | C, Rust | TensorFlow, PyTorch | *"Where I teach computers to be smart so I don't have to be."*|
 
 <br>
 
@@ -73,7 +86,7 @@ Comments here
 
 | Repository | Classification| Languages |Frameworks | Description |
 | --- | --- | --- | --- | --- |
-| 🛡️ [Cyber](https://github.com/diegonmarcos/cyber-Cyberwarfare) | Cyberwarfare | Python | LangChain |*"responsibly breaking stuff so we can script how to fix it."* |
+| 🛡️[Cyber](https://github.com/diegonmarcos/cyber-Cyberwarfare) | Cyberwarfare | Python | LangChain |*"responsibly breaking stuff so we can script how to fix it."* |
 	
 <br>
 
