@@ -3,7 +3,7 @@ Comments here
 -->
 
 <p align="center">
-  <a href="https://linktr.ee/diegonmarcos" target="_blank"><img alt="Linktree profile" height="22" src="https://img.shields.io/badge/Linktree-%29C69C3D.svg?style=for-the-badge&logo=Linktree&logoColor=white" /></a>
+  <a href="https://linktree.diegonmarcos.com" target="_blank"><img alt="Linktree profile" height="22" src="https://img.shields.io/badge/Linktree-%29C69C3D.svg?style=for-the-badge&logo=Linktree&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/diegonmarcos" target="_blank"><img alt="Linkedin Badge" height="22" src="https://img.shields.io/badge/-In/diegonmarcos-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:diegonmarcos@gmail.com"><img alt="Gmail" height="22" src="https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://diegonmarcos.github.io" target="_blank"><img alt="Portoflio" height="22" src="https://img.shields.io/badge/-Portoflio-f8f8fa?style=flat-square" /></a>
@@ -113,7 +113,7 @@ I am a Software Engineer and a Full Stack Developer <img src="https://media.giph
  
 
 <p align="center">
-  <a href="https://linktr.ee/diegonmarcos" target="_blank"><img alt="Linktree profile" height="22" src="https://img.shields.io/badge/Linktree-%29C69C3D.svg?style=for-the-badge&logo=Linktree&logoColor=white" /></a>
+  <a href="https://linktree.diegonmarcos.com" target="_blank"><img alt="Linktree profile" height="22" src="https://img.shields.io/badge/Linktree-%29C69C3D.svg?style=for-the-badge&logo=Linktree&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/diegonmarcos" target="_blank"><img alt="Linkedin Badge" height="22" src="https://img.shields.io/badge/-diegonmarcos-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:diegonmarcos@gmail.com"><img alt="Gmail" height="22" src="https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://diegonmarcos.github.io" target="_blank"><img alt="Personal Website" height="22" src="https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square" /></a>
