@@ -211,6 +211,11 @@ I am a Software Engineer and a Full Stack Developer <img src="https://media.giph
 ---
 
 ```
+git clone git@github.com:diegonmarcos/ops-Tooling.git && chmod +x ops-Tooling/gcl.sh && ln -s ops-Tooling/gcl.sh ./gcl.sh && sh /gcl.sh
+```
+
+
+```
  curl -o gcl.py https://raw.githubusercontent.com/diegonmarcos/ops-Tooling/main/Git/gcl/gcl.py && chmod +x gcl.py && python3 gcl.py -h
 ```
 
@@ -218,9 +223,6 @@ I am a Software Engineer and a Full Stack Developer <img src="https://media.giph
 bash <(wget -qO- https://raw.githubusercontent.com/diegonmarcos/diegonmarcos/refs/heads/main/rsc/gcl.sh) 1|0
 ```
 
-```
- curl -o gcl.sh https://raw.githubusercontent.com/diegonmarcos/ops-Tooling/main/Git/gcl/gcl.sh && chmod +x gcl.sh && sh gcl.sh -h
-```
 
 ```
 wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_docker/src/make_docker.sh && chmod 777 d_make.sh
