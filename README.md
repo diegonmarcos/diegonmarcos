@@ -211,7 +211,7 @@ I am a Software Engineer and a Full Stack Developer <img src="https://media.giph
 ---
 
 ```
-git clone git@github.com:diegonmarcos/ops-Tooling.git && chmod +x ops-Tooling/gcl.sh && ln -s ops-Tooling/gcl.sh ./gcl.sh && sh /gcl.sh
+git clone git@github.com:diegonmarcos/ops-Tooling.git && chmod +x ops-Tooling/gcl.sh && ln -s ops-Tooling/gcl.sh ./gcl.sh && sh gcl.sh
 ```
 
 
