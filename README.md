@@ -241,7 +241,7 @@ wget https://raw.githubusercontent.com/diegonmarcos/system/refs/heads/main/S1_do
 
 <br> <br> <br> <br> <br> <br> <br><br><br><br><br><br><br><br><br><br><br><br>
 
-# THANK YOU | DANKE | GRACIAS | OBRIGADO | MERCI | TACK | GRAZIE | HVALA
+# THANK YOU | DANKE | GRACIAS | OBRIGADO | MERCI | TACK | GRAZIE | HVALA | ΕΥΧΑΡΙΣΤΩ
 ---
 
   
