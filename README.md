@@ -50,7 +50,18 @@ Comments here
 | 🐧[Unix](https://github.com/diegonmarcos/unix) | Dotfiles, System Configuration | Nix, Shell | Home Manager, NixOS | *"Declarative configs — because imperative is chaos."* |
 | 🔐[Vault](https://github.com/diegonmarcos/vault) | SSH Keys, Secrets, Configs | Shell | SSH, GPG | *"The keys to the kingdom, version-controlled."* |
 | 🌐[Front](https://github.com/diegonmarcos/diegonmarcos.github.io) | Monorepo — 30+ Web Projects | TS, JS, CSS, HTML | Vite, Svelte, Sass | *"One repo to rule them all."* |
+
+<br>
+
+### Apps, Plugins & Tools
+
+| Repository | Classification | Languages | Frameworks | Description |
+|---|---|---|---|---|
 | 🧰[Tooling](https://github.com/diegonmarcos/ops-Tooling) | Unix, Cloud, Git, CI/CD, Docker | Python and Go | C stdLib | *"Automating the world, one script at a time."* |
+| 📱[Android-Me](https://github.com/diegonmarcos/front-android-Portfolio) | Android  | Dart | Flutter | *"Teaching Android and iOS to play nice"* |
+| 📱[Garmin-Widget](https://github.com/diegonmarcos/front-android-Portfolio) | Garmin | Monkey-C | - | *""* |
+| 📱[Web-Scrapper](https://github.com/diegonmarcos/front-android-Portfolio)| Chromium | Js | - | *""* |
+| 📱[Web-Bot](https://github.com/diegonmarcos/front-android-Portfolio) | Telegram  | Js | - | *""* |
 
 <br>
 
@@ -62,25 +73,11 @@ Comments here
 | 🧠[Algo](https://github.com/diegonmarcos/back-Algo) | Algorithm implementations and practice| C | C stdlib | <i>Turning coffee into sort functions and occasional existential bugs.</i> |
 | 🛠️[System](https://github.com/diegonmarcos/back-System) | System scripts, tooling and orchestration | C, PHP and Rust | C stdlib | <i>"Making servers behave like well‑trained poodles (treats = scripts)."</i> |
 | 🎨[Graphic](https://github.com/diegonmarcos/back-Graphic) | 2D/3D graphics and rendering demos | C, C++ | SDL2, OpenGL/GLFW, GLM | <i>"Pixel wrangling and shader sorcery — welcome to the polygon party."</i> |
+| 🛡️[Cyber](https://github.com/diegonmarcos/cyber-Cyberwarfare) | Cyberwarfare | Python | LangChain | *"responsibly breaking stuff so we can script how to fix it."* |
 
 <br>
 
-### ARM Mobile, Bots and Add-ons
-
-
-| Repository | Classification | Languages | Frameworks | Description |
-|---|---|---|---|---|
-| 📱[Android-Me](https://github.com/diegonmarcos/front-android-Portfolio) | Android  | Dart | Flutter | *"Teaching Android and iOS to play nice* |
-| 📱[Garmin-Widget](https://github.com/diegonmarcos/front-android-Portfolio) | Garmin | Monkey-C | - | *""* |
-| 📱[Web-Scrapper](https://github.com/diegonmarcos/front-android-Portfolio)| Chromium | Js | - | *""* |
-| 📱[Web-Bot](https://github.com/diegonmarcos/front-android-Portfolio) | Telegram  | Js | - | *""* |
-
-<br>
-
-
-<br>
-
-### Data Science and Machine Learning
+### Machine Learning
 
 | Repository | Classification| Languages |Frameworks | Description |
 | --- | --- | --- | --- | ---|
@@ -90,25 +87,16 @@ Comments here
 
 <br>
 
-### Cyber-security
+## II. Data Analytics
 
-| Repository | Classification| Languages |Frameworks | Description |
-| --- | --- | --- | --- | --- |
-| 🛡️[Cyber](https://github.com/diegonmarcos/cyber-Cyberwarfare) | Cyberwarfare | Python | LangChain |*"responsibly breaking stuff so we can script how to fix it."* |
-	
-<br>
-
-## II. Civil Engineering
-
-
+### Civil Engineering
 
 | Repository                                             | Classification          | Languages | Frameworks | Description |
 | ------------------------------------------------------ | ----------------------- | --------- | ---------- | ----------- |
 | [AFrame](https://github.com/diegonmarcos/cveng_AFrame) | **Structural Analysis** |           |            |             |
 | [Dome](https://github.com/diegonmarcos/cveng_Dome)     | **Structural Analysis** |           |            |             |
 
-## III. Macro Economics and Quantitative Finance
-
+### Macro Economics and Quantitative Finance
 
 | Repository                                                | Classification          | Languages | Frameworks | Description |
 | --------------------------------------------------------- | ----------------------- | --------- | ---------- | ----------- |
