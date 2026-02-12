@@ -81,7 +81,6 @@ Comments here
 
 | Repository | Classification| Languages |Frameworks | Description |
 | --- | --- | --- | --- | ---|
-| 📊[Data Science](https://github.com/diegonmarcos/ml-DataScience) | Utility / Snippets Library | Python | Pandas, Numpy, Scikit-learn, Scipy, Jupyterlab | *"turning noisy CSVs into reproducible 'aha' moments."* |
 | 🎨[Agentic AI](https://github.com/diegonmarcos/ml-Agentic) | Agentic AI / LLM Orchestration | Python | n8n, LangChain | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
 | 🧠[Machine Learning & Deep Learning](https://github.com/diegonmarcos/ml-MachineLearning) | Algorithms / Data Structures | C, Rust | TensorFlow, PyTorch | *"Where I teach computers to be smart so I don't have to be."*|
 
@@ -103,6 +102,11 @@ Comments here
 | [Thesis 1](https://github.com/diegonmarcos/ecoqt-thesis1) | **Macro**               |           |            |             |
 | [Thesis 2](https://github.com/diegonmarcos/ecoqt-thesis2) | **Quant and Portfolio** |           |            |             |
 
+### Others
+
+| Repository | Classification| Languages |Frameworks | Description |
+| --- | --- | --- | --- | ---|
+| 📊[Data Science](https://github.com/diegonmarcos/ml-DataScience) | Utility / Snippets Library | Python | Pandas, Numpy, Scikit-learn, Scipy, Jupyterlab | *"turning noisy CSVs into reproducible 'aha' moments."* |
 
 <br>
 <br>
