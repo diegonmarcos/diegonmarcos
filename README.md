@@ -31,6 +31,17 @@ Comments here
 ## I. Computer Science
 
 
+### Front-end
+
+| Repository | Classification| Languages |Frameworks | Description |
+| --- | --- | --- | --- | --- |
+| 🚪[Portals](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/a_Portals) | Linktree, Cloud Dashboard, Mindmap | TS, JS, Sass | esbuild, Vite | *"Every app needs a front door."* |
+| 👤[Profiles](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/b_Work_Profiles) | CV, Portfolio, Landing Pages | TS, Sass, HTML | Sass, tsc | *"First impressions, pixel-perfect."* |
+| 🛠️[Work Tools](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/b_Work_Tools) | MyDrive, Maps, Suite | TS, JS, Sass | Vite, esbuild | *"Productivity apps I actually use."* |
+| 🧩[Personal Tools](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/c_Personal_Tools) | Games, Music, Movies, Photos | TS, JS, Svelte | SvelteKit, Vite | *"Side projects that spark joy."* |
+
+<br>
+
 ### Cloud Architecture
 
 | Repository | Classification | Languages | Frameworks | Description |
@@ -66,16 +77,7 @@ Comments here
 
 <br>
 
-### Front-end
 
-| Repository | Classification| Languages |Frameworks | Description |
-| --- | --- | --- | --- | --- |
-| 🚪[Portals](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/a_Portals) | Linktree, Cloud Dashboard, Mindmap | TS, JS, Sass | esbuild, Vite | *"Every app needs a front door."* |
-| 👤[Profiles](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/b_Work_Profiles) | CV, Portfolio, Landing Pages | TS, Sass, HTML | Sass, tsc | *"First impressions, pixel-perfect."* |
-| 🛠️[Work Tools](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/b_Work_Tools) | MyDrive, Maps, Suite | TS, JS, Sass | Vite, esbuild | *"Productivity apps I actually use."* |
-| 🧩[Personal Tools](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/c_Personal_Tools) | Games, Music, Movies, Photos | TS, JS, Svelte | SvelteKit, Vite | *"Side projects that spark joy."* |
-
- 
 <br>
 
 ### Data Science and Machine Learning
