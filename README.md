@@ -31,16 +31,19 @@ Comments here
 ## I. Computer Science
 
 
-### DevOps
+### Cloud Architecture
 
-| Repository | Classification| Languages |Frameworks | Description |
-| --- | --- | --- | --- | --- |
-| 🧰 [Tooling](https://github.com/diegonmarcos/ops-Tooling) | Unix, Cloud, Git, CI/CD, Docker | Python and Go | C stdLib | *"Automating the world, one script at a time."* |
-
+| Repository | Classification | Languages | Frameworks | Description |
+|---|---|---|---|---|
+| ☁️[Cloud](https://github.com/diegonmarcos/cloud) | Infrastructure, IaC, Containers | Nix, Terraform, Shell | Docker, Caddy, Authelia | *"Self-hosted everything, orchestrated from flakes to VMs."* |
+| 🐧[Unix](https://github.com/diegonmarcos/unix) | Dotfiles, System Configuration | Nix, Shell | Home Manager, NixOS | *"Declarative configs — because imperative is chaos."* |
+| 🔐[Vault](https://github.com/diegonmarcos/vault) | SSH Keys, Secrets, Configs | Shell | SSH, GPG | *"The keys to the kingdom, version-controlled."* |
+| 🌐[Front](https://github.com/diegonmarcos/diegonmarcos.github.io) | Monorepo — 30+ Web Projects | TS, JS, CSS, HTML | Vite, Svelte, Sass | *"One repo to rule them all."* |
+| 🧰[Tooling](https://github.com/diegonmarcos/ops-Tooling) | Unix, Cloud, Git, CI/CD, Docker | Python and Go | C stdLib | *"Automating the world, one script at a time."* |
 
 <br>
 
-### Back-end
+### Low Level - Lecole 42
 
 | Repository | Classification | Languages | Frameworks | Description |
 |---|---|---|---|---|
@@ -67,7 +70,10 @@ Comments here
 
 | Repository | Classification| Languages |Frameworks | Description |
 | --- | --- | --- | --- | --- |
-| 🌐[Landpge](https://github.com/diegonmarcos/diegonmarcos.github.io.git) | Web Portfolio | TypeScript, JS, CSS, HTML | Saas, Vue.js and Svelte | *"Styling buttons until they cry and users click with joy."* |
+| 🚪[Portals](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/a_Portals) | Linktree, Cloud Dashboard, Mindmap | TS, JS, Sass | esbuild, Vite | *"Every app needs a front door."* |
+| 👤[Profiles](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/b_Work_Profiles) | CV, Portfolio, Landing Pages | TS, Sass, HTML | Sass, tsc | *"First impressions, pixel-perfect."* |
+| 🛠️[Work Tools](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/b_Work_Tools) | MyDrive, Maps, Suite | TS, JS, Sass | Vite, esbuild | *"Productivity apps I actually use."* |
+| 🧩[Personal Tools](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/c_Personal_Tools) | Games, Music, Movies, Photos | TS, JS, Svelte | SvelteKit, Vite | *"Side projects that spark joy."* |
 
  
 <br>
