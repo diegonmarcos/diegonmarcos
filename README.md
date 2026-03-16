@@ -33,56 +33,69 @@ Comments here
 
 ### Front-end
 
-| Repository | Classification| Languages |Frameworks | Description |
-| --- | --- | --- | --- | --- |
-| 🚪[Portals](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/a_Portals) | Linktree, Cloud Dashboard, Mindmap | TS, JS, Sass | esbuild, Vite | *"Every app needs a front door."* |
-| 👤[Profiles](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/b_Work_Profiles) | CV, Portfolio, Landing Pages | TS, Sass, HTML | Sass, tsc | *"First impressions, pixel-perfect."* |
-| 🛠️[Work Tools](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/b_Work_Tools) | MyDrive, Maps, Suite | TS, JS, Sass | Vite, esbuild | *"Productivity apps I actually use."* |
-| 🧩[Personal Tools](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/c_Personal_Tools) | Games, Music, Movies, Photos | TS, JS, Svelte | SvelteKit, Vite | *"Side projects that spark joy."* |
+| Repository | Classification| Languages |Frameworks | Description | Vis |
+| --- | --- | --- | --- | --- | --- |
+| 🚪[Portals](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/a_Portals) | Linktree, Cloud Dashboard, Mindmap | TS, JS, Sass | esbuild, Vite | *"Every app needs a front door."* | Pub |
+| 👤[Profiles](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/b_Work_Profiles) | CV, Portfolio, Landing Pages | TS, Sass, HTML | Sass, tsc | *"First impressions, pixel-perfect."* | Pub |
+| 🛠️[Work Tools](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/b_Work_Tools) | MyDrive, Maps, Suite | TS, JS, Sass | Vite, esbuild | *"Productivity apps I actually use."* | Pub |
+| 🧩[Personal Tools](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/c_Personal_Tools) | Games, Music, Movies, Photos | TS, JS, Svelte | SvelteKit, Vite | *"Side projects that spark joy."* | Pub |
 
 <br>
 
 ### Cloud Architecture
 
-| Repository | Classification | Languages | Frameworks | Description |
-|---|---|---|---|---|
-| ☁️[Cloud](https://github.com/diegonmarcos/cloud) | Infrastructure, IaC, Containers | Nix, Terraform, Shell | Docker, Caddy, Authelia | *"Self-hosted everything, orchestrated from flakes to VMs."* |
-| 🐧[Unix](https://github.com/diegonmarcos/unix) | Dotfiles, System Configuration | Nix, Shell | Home Manager, NixOS | *"Declarative configs — because imperative is chaos."* |
-| 🔐[Vault](https://github.com/diegonmarcos/vault) | SSH Keys, Secrets, Configs | Shell | SSH, GPG | *"The keys to the kingdom, version-controlled."* |
-| 🌐[Front](https://github.com/diegonmarcos/diegonmarcos.github.io) | Monorepo — 30+ Web Projects | TS, JS, CSS, HTML | Vite, Svelte, Sass | *"One repo to rule them all."* |
+| Repository | Classification | Languages | Frameworks | Description | Vis |
+|---|---|---|---|---|---|
+| ☁️[Cloud](https://github.com/diegonmarcos/cloud) | Infrastructure, IaC, Containers | Nix, Terraform, Shell | Docker, Caddy, Authelia | *"Self-hosted everything, orchestrated from flakes to VMs."* | Pub |
+| 🐧[Unix](https://github.com/diegonmarcos/unix) | Dotfiles, System Configuration | Nix, Shell | Home Manager, NixOS | *"Declarative configs — because imperative is chaos."* | Pub |
+| 🔐[Vault](https://github.com/diegonmarcos/vault) | SSH Keys, Secrets, Configs | Shell | SSH, GPG | *"The keys to the kingdom, version-controlled."* | Priv |
+| 🌐[Front](https://github.com/diegonmarcos/diegonmarcos.github.io) | Monorepo — 30+ Web Projects | TS, JS, CSS, HTML | Vite, Svelte, Sass | *"One repo to rule them all."* | Pub |
 
 <br>
 
 ### Apps, Plugins & Tools
 
-| Repository | Classification | Languages | Frameworks | Description |
-|---|---|---|---|---|
-| 🧰[Tooling](https://github.com/diegonmarcos/ops-Tooling) | Unix, Cloud, Git, CI/CD, Docker | Python and Go | C stdLib | *"Automating the world, one script at a time."* |
-| 📱[Android-Me](https://github.com/diegonmarcos/front-android-Portfolio) | Android  | Dart | Flutter | *"Teaching Android and iOS to play nice"* |
-| 📱[Garmin-Widget](https://github.com/diegonmarcos/front-android-Portfolio) | Garmin | Monkey-C | - | *""* |
-| 📱[Web-Scrapper](https://github.com/diegonmarcos/front-android-Portfolio)| Chromium | Js | - | *""* |
-| 📱[Web-Bot](https://github.com/diegonmarcos/front-android-Portfolio) | Telegram  | Js | - | *""* |
+| Repository | Classification | Languages | Frameworks | Description | Vis |
+|---|---|---|---|---|---|
+| 🧰[Tooling](https://github.com/diegonmarcos/ops-Tooling) | Unix, Cloud, Git, CI/CD, Docker | Python and Go | C stdLib | *"Automating the world, one script at a time."* | Pub |
+| 📱[Android-Me](https://github.com/diegonmarcos/front-android-Portfolio) | Android  | Dart | Flutter | *"Teaching Android and iOS to play nice"* | Pub |
+| 📱[Garmin-Widget](https://github.com/diegonmarcos/front-android-Portfolio) | Garmin | Monkey-C | - | *""* | Pub |
+| 📱[Web-Scrapper](https://github.com/diegonmarcos/front-android-Portfolio)| Chromium | Js | - | *""* | Pub |
+| 📱[Web-Bot](https://github.com/diegonmarcos/front-android-Portfolio) | Telegram  | Js | - | *""* | Pub |
 
 <br>
 
 ### Low Level - Lecole 42
 
-| Repository | Classification | Languages | Frameworks | Description |
-|---|---|---|---|---|
-| 📚[Mylib](https://github.com/diegonmarcos/ops-Mylibs) | Utility library and helpers | Shell, C, Python and YAML | C stdlib | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> |
-| 🧠[Algo](https://github.com/diegonmarcos/back-Algo) | Algorithm implementations and practice| C | C stdlib | <i>Turning coffee into sort functions and occasional existential bugs.</i> |
-| 🛠️[System](https://github.com/diegonmarcos/back-System) | System scripts, tooling and orchestration | C, PHP and Rust | C stdlib | <i>"Making servers behave like well‑trained poodles (treats = scripts)."</i> |
-| 🎨[Graphic](https://github.com/diegonmarcos/back-Graphic) | 2D/3D graphics and rendering demos | C, C++ | SDL2, OpenGL/GLFW, GLM | <i>"Pixel wrangling and shader sorcery — welcome to the polygon party."</i> |
-| 🛡️[Cyber](https://github.com/diegonmarcos/cyber-Cyberwarfare) | Cyberwarfare | Python | LangChain | *"responsibly breaking stuff so we can script how to fix it."* |
+| Repository | Classification | Languages | Frameworks | Description | Vis |
+|---|---|---|---|---|---|
+| 📚[Mylib](https://github.com/diegonmarcos/ops-Mylibs) | Utility library and helpers | Shell, C, Python and YAML | C stdlib | <i>"Because copy‑paste is a lifestyle — tiny tools, huge laziness savings."</i> | Pub |
+| 🧠[Algo](https://github.com/diegonmarcos/back-Algo) | Algorithm implementations and practice| C | C stdlib | <i>Turning coffee into sort functions and occasional existential bugs.</i> | Pub |
+| 🛠️[System](https://github.com/diegonmarcos/back-System) | System scripts, tooling and orchestration | C, PHP and Rust | C stdlib | <i>"Making servers behave like well‑trained poodles (treats = scripts)."</i> | Pub |
+| 🎨[Graphic](https://github.com/diegonmarcos/back-Graphic) | 2D/3D graphics and rendering demos | C, C++ | SDL2, OpenGL/GLFW, GLM | <i>"Pixel wrangling and shader sorcery — welcome to the polygon party."</i> | Pub |
+| 🛡️[Cyber](https://github.com/diegonmarcos/cyber-Cyberwarfare) | Cyberwarfare | Python | LangChain | *"responsibly breaking stuff so we can script how to fix it."* | Pub |
 
 <br>
 
 ### Machine Learning
 
-| Repository | Classification| Languages |Frameworks | Description |
-| --- | --- | --- | --- | ---|
-| 🎨[Agentic AI](https://github.com/diegonmarcos/ml-Agentic) | Agentic AI / LLM Orchestration | Python | n8n, LangChain | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* |
-| 🧠[Machine Learning & Deep Learning](https://github.com/diegonmarcos/ml-MachineLearning) | Algorithms / Data Structures | C, Rust | TensorFlow, PyTorch | *"Where I teach computers to be smart so I don't have to be."*|
+| Repository | Classification| Languages |Frameworks | Description | Vis |
+| --- | --- | --- | --- | ---| --- |
+| 🎨[Agentic AI](https://github.com/diegonmarcos/ml-Agentic) | Agentic AI / LLM Orchestration | Python | n8n, LangChain | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* | Pub |
+| 🧠[Machine Learning & Deep Learning](https://github.com/diegonmarcos/ml-MachineLearning) | Algorithms / Data Structures | C, Rust | TensorFlow, PyTorch | *"Where I teach computers to be smart so I don't have to be."*| Pub |
+
+<br>
+
+### Others
+
+| Repository | Classification | Languages | Frameworks | Description | Vis |
+|---|---|---|---|---|---|
+| 📝[Front-Notes](https://github.com/diegonmarcos/front-Notes_md) | Notes & Documentation | Markdown | — | *"Markdown notes for the front-end journey."* | Priv |
+| 📦[Front-Data](https://github.com/diegonmarcos/front-data) | Data & Assets | — | — | *"Static data and assets for front-end projects."* | Pub |
+| 📦[Cloud-Data](https://github.com/diegonmarcos/cloud-data) | Data & Assets | — | — | *"Static data and assets for cloud services."* | Pub |
+| 🧪[Dev](https://github.com/diegonmarcos/dev) | Development Sandbox | — | — | *"Scratch space for experiments and prototypes."* | Priv |
+| 🏫[Lecole42](https://github.com/diegonmarcos/lecole42) | 42 School | — | — | *"42 school materials and resources."* | Priv |
+| 👤[Profile](https://github.com/diegonmarcos/diegonmarcos) | GitHub Profile README | Markdown | — | *"This very README — it's repos all the way down."* | Pub |
 
 <br>
 
@@ -90,23 +103,23 @@ Comments here
 
 ### Civil Engineering
 
-| Repository                                             | Classification          | Languages | Frameworks | Description |
-| ------------------------------------------------------ | ----------------------- | --------- | ---------- | ----------- |
-| [AFrame](https://github.com/diegonmarcos/cveng_AFrame) | **Structural Analysis** |           |            |             |
-| [Dome](https://github.com/diegonmarcos/cveng_Dome)     | **Structural Analysis** |           |            |             |
+| Repository                                             | Classification          | Languages | Frameworks | Description | Vis |
+| ------------------------------------------------------ | ----------------------- | --------- | ---------- | ----------- | --- |
+| [AFrame](https://github.com/diegonmarcos/cveng_AFrame) | **Structural Analysis** |           |            |             | Pub |
+| [Dome](https://github.com/diegonmarcos/cveng_Dome)     | **Structural Analysis** |           |            |             | Pub |
 
 ### Macro Economics and Quantitative Finance
 
-| Repository                                                | Classification          | Languages | Frameworks | Description |
-| --------------------------------------------------------- | ----------------------- | --------- | ---------- | ----------- |
-| [Thesis 1](https://github.com/diegonmarcos/ecoqt-thesis1) | **Macro**               |           |            |             |
-| [Thesis 2](https://github.com/diegonmarcos/ecoqt-thesis2) | **Quant and Portfolio** |           |            |             |
+| Repository                                                | Classification          | Languages | Frameworks | Description | Vis |
+| --------------------------------------------------------- | ----------------------- | --------- | ---------- | ----------- | --- |
+| [Thesis 1](https://github.com/diegonmarcos/ecoqt-thesis1) | **Macro**               |           |            |             | Pub |
+| [Thesis 2](https://github.com/diegonmarcos/ecoqt-thesis2) | **Quant and Portfolio** |           |            |             | Pub |
 
 ### Others
 
-| Repository | Classification| Languages |Frameworks | Description |
-| --- | --- | --- | --- | ---|
-| 📊[Data Science](https://github.com/diegonmarcos/ml-DataScience) | Utility / Snippets Library | Python | Pandas, Numpy, Scikit-learn, Scipy, Jupyterlab | *"turning noisy CSVs into reproducible 'aha' moments."* |
+| Repository | Classification| Languages |Frameworks | Description | Vis |
+| --- | --- | --- | --- | ---| --- |
+| 📊[Data Science](https://github.com/diegonmarcos/ml-DataScience) | Utility / Snippets Library | Python | Pandas, Numpy, Scikit-learn, Scipy, Jupyterlab | *"turning noisy CSVs into reproducible 'aha' moments."* | Pub |
 
 <br>
 <br>
