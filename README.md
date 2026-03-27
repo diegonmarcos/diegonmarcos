@@ -31,7 +31,8 @@ Comments here
 ## I. Computer Science
 
 
-### Front-end
+<details open>
+<summary><b>Front-end</b> <sup>4 repos</sup></summary>
 
 | Repository | Classification| Languages |Frameworks | Description | Vis |
 | --- | --- | --- | --- | --- | --- |
@@ -40,9 +41,10 @@ Comments here
 | 🛠️[Work Tools](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/b_Work_Tools) | MyDrive, Maps, Suite | TS, JS, Sass | Vite, esbuild | *"Productivity apps I actually use."* | Pub |
 | 🧩[Personal Tools](https://github.com/diegonmarcos/diegonmarcos.github.io/tree/main/c_Personal_Tools) | Games, Music, Movies, Photos | TS, JS, Svelte | SvelteKit, Vite | *"Side projects that spark joy."* | Pub |
 
-<br>
+</details>
 
-### Cloud Architecture
+<details open>
+<summary><b>Cloud Architecture</b> <sup>4 repos</sup></summary>
 
 | Repository | Classification | Languages | Frameworks | Description | Vis |
 |---|---|---|---|---|---|
@@ -51,9 +53,10 @@ Comments here
 | 🔐[Vault](https://github.com/diegonmarcos/vault) | SSH Keys, Secrets, Configs | Shell | SSH, GPG | *"The keys to the kingdom, version-controlled."* | Priv |
 | 🌐[Front](https://github.com/diegonmarcos/diegonmarcos.github.io) | Monorepo — 30+ Web Projects | TS, JS, CSS, HTML | Vite, Svelte, Sass | *"One repo to rule them all."* | Pub |
 
-<br>
+</details>
 
-### Apps, Plugins & Tools
+<details>
+<summary><b>Apps, Plugins & Tools</b> <sup>5 repos</sup></summary>
 
 | Repository | Classification | Languages | Frameworks | Description | Vis |
 |---|---|---|---|---|---|
@@ -63,9 +66,10 @@ Comments here
 | 📱[Web-Scrapper](https://github.com/diegonmarcos/front-android-Portfolio)| Chromium | Js | - | *""* | Pub |
 | 📱[Web-Bot](https://github.com/diegonmarcos/front-android-Portfolio) | Telegram  | Js | - | *""* | Pub |
 
-<br>
+</details>
 
-### Low Level - Lecole 42
+<details>
+<summary><b>Low Level - Lecole 42</b> <sup>5 repos</sup></summary>
 
 | Repository | Classification | Languages | Frameworks | Description | Vis |
 |---|---|---|---|---|---|
@@ -75,18 +79,20 @@ Comments here
 | 🎨[Graphic](https://github.com/diegonmarcos/back-Graphic) | 2D/3D graphics and rendering demos | C, C++ | SDL2, OpenGL/GLFW, GLM | <i>"Pixel wrangling and shader sorcery — welcome to the polygon party."</i> | Pub |
 | 🛡️[Cyber](https://github.com/diegonmarcos/cyber-Cyberwarfare) | Cyberwarfare | Python | LangChain | *"responsibly breaking stuff so we can script how to fix it."* | Pub |
 
-<br>
+</details>
 
-### Machine Learning
+<details>
+<summary><b>Machine Learning</b> <sup>2 repos</sup></summary>
 
 | Repository | Classification| Languages |Frameworks | Description | Vis |
 | --- | --- | --- | --- | ---| --- |
 | 🎨[Agentic AI](https://github.com/diegonmarcos/ml-Agentic) | Agentic AI / LLM Orchestration | Python | n8n, LangChain | *"It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."* | Pub |
 | 🧠[Machine Learning & Deep Learning](https://github.com/diegonmarcos/ml-MachineLearning) | Algorithms / Data Structures | C, Rust | TensorFlow, PyTorch | *"Where I teach computers to be smart so I don't have to be."*| Pub |
 
-<br>
+</details>
 
-### Others
+<details>
+<summary><b>Others</b> <sup>6 repos</sup></summary>
 
 | Repository | Classification | Languages | Frameworks | Description | Vis |
 |---|---|---|---|---|---|
@@ -97,29 +103,40 @@ Comments here
 | 🏫[Lecole42](https://github.com/diegonmarcos/lecole42) | 42 School | — | — | *"42 school materials and resources."* | Priv |
 | 👤[Profile](https://github.com/diegonmarcos/diegonmarcos) | GitHub Profile README | Markdown | — | *"This very README — it's repos all the way down."* | Pub |
 
+</details>
+
 <br>
 
 ## II. Data Analytics
 
-### Civil Engineering
+<details>
+<summary><b>Civil Engineering</b> <sup>2 repos</sup></summary>
 
 | Repository                                             | Classification          | Languages | Frameworks | Description | Vis |
 | ------------------------------------------------------ | ----------------------- | --------- | ---------- | ----------- | --- |
 | [AFrame](https://github.com/diegonmarcos/cveng_AFrame) | **Structural Analysis** |           |            |             | Pub |
 | [Dome](https://github.com/diegonmarcos/cveng_Dome)     | **Structural Analysis** |           |            |             | Pub |
 
-### Macro Economics and Quantitative Finance
+</details>
+
+<details>
+<summary><b>Macro Economics and Quantitative Finance</b> <sup>2 repos</sup></summary>
 
 | Repository                                                | Classification          | Languages | Frameworks | Description | Vis |
 | --------------------------------------------------------- | ----------------------- | --------- | ---------- | ----------- | --- |
 | [Thesis 1](https://github.com/diegonmarcos/ecoqt-thesis1) | **Macro**               |           |            |             | Pub |
 | [Thesis 2](https://github.com/diegonmarcos/ecoqt-thesis2) | **Quant and Portfolio** |           |            |             | Pub |
 
-### Others
+</details>
+
+<details>
+<summary><b>Others</b> <sup>1 repo</sup></summary>
 
 | Repository | Classification| Languages |Frameworks | Description | Vis |
 | --- | --- | --- | --- | ---| --- |
 | 📊[Data Science](https://github.com/diegonmarcos/ml-DataScience) | Utility / Snippets Library | Python | Pandas, Numpy, Scikit-learn, Scipy, Jupyterlab | *"turning noisy CSVs into reproducible 'aha' moments."* | Pub |
+
+</details>
 
 <br>
 <br>
@@ -130,11 +147,16 @@ Comments here
 
 <br>
 
-### Container Registry
+## I. GitHub Container Registry
+
+<details open>
+<summary><b>Container Registry</b> <sup>1 registry</sup></summary>
 
 | Registry | Classification | Images | Source | Description | Vis |
 |---|---|---|---|---|---|
 | 🐳 [GHCR Packages](ghrc/dist/ghcr-byreposrc.md) | Docker Container Images | GHCR | [ghrc/](ghrc/) | *"Every service gets a container — immutable, versioned, shipped."* | Pub |
+
+</details>
 
 <br>
 <br>
