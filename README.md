@@ -125,6 +125,21 @@ Comments here
 <br>
 <br>
 
+# 📦 GHCR
+---
+
+<br>
+
+### Container Registry
+
+| Registry | Classification | Images | Source | Description | Vis |
+|---|---|---|---|---|---|
+| 🐳 [GHCR Packages](ghrc/dist/GHCR.md) | Docker Container Images | GHCR | [ghrc/](ghrc/) | *"Every service gets a container — immutable, versioned, shipped."* | Pub |
+
+<br>
+<br>
+<br>
+
 # 🪶 ABOUT ME
 ---
 
