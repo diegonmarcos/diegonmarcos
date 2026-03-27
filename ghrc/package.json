@@ -1,0 +1,13 @@
+{
+  "name": "ghrc",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsx build.ts",
+    "fetch": "tsx src/fetch.ts",
+    "generate": "tsx src/generate-md.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0"
+  }
+}

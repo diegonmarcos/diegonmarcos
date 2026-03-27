@@ -1,7 +1,7 @@
-#!/usr/bin/env -S npx tsx
+#!/usr/bin/env tsx
 /**
- * Fetches GHCR metadata and generates GHCR.md in one step.
- * Usage: npx tsx build.ts
+ * Fetches GHCR metadata and generates all markdown views.
+ * Usage: tsx build.ts
  */
 
 import { execSync } from "node:child_process";
@@ -10,5 +10,5 @@ import { fileURLToPath } from "node:url";
 
 const root = dirname(fileURLToPath(import.meta.url));
 
-execSync(`npx tsx src/fetch.ts`, { cwd: root, stdio: "inherit" });
-execSync(`npx tsx src/generate-md.ts`, { cwd: root, stdio: "inherit" });
+execSync(`tsx src/fetch.ts`, { cwd: root, stdio: "inherit" });
+execSync(`tsx src/generate-md.ts`, { cwd: root, stdio: "inherit" });

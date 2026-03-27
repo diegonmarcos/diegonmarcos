@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-03-27T00:36:14.391Z",
+  "fetched_at": "2026-03-27T11:42:58.467Z",
   "owner": "diegonmarcos",
-  "total_packages": 22,
+  "total_packages": 23,
   "repos": {
     "cloud": {
       "repo_url": "https://github.com/diegonmarcos/cloud",
@@ -1974,6 +1974,54 @@
               "created_at": "2026-03-24T08:10:08Z",
               "updated_at": "2026-03-24T08:10:08Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/c3-infra-api/754190876"
+            }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 284394013,
+              "entrypoint": [
+                "./entrypoint.sh"
+              ],
+              "exposed_ports": [
+                "8081/tcp"
+              ],
+              "working_dir": "/app",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "NODE_VERSION=22.22.2",
+                "YARN_VERSION=1.22.22"
+              ],
+              "labels": {
+                "org.opencontainers.image.dockerfile-path": "a_solutions/bc-obs_c3-infra-api/src/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 16,
+              "created": "2026-03-26T10:28:20.287894727Z"
+            },
+            {
+              "os": "linux",
+              "architecture": "arm64",
+              "size_bytes": 277387129,
+              "entrypoint": [
+                "./entrypoint.sh"
+              ],
+              "exposed_ports": [
+                "8081/tcp"
+              ],
+              "working_dir": "/app",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "NODE_VERSION=22.22.2",
+                "YARN_VERSION=1.22.22"
+              ],
+              "labels": {
+                "org.opencontainers.image.dockerfile-path": "a_solutions/bc-obs_c3-infra-api/src/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 16,
+              "created": "2026-03-26T10:28:21.226318262Z"
             }
           ]
         },
@@ -4494,6 +4542,54 @@
               "updated_at": "2026-03-24T08:08:37Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/c3-infra-mcp/754188085"
             }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 284465340,
+              "entrypoint": [
+                "./entrypoint.sh"
+              ],
+              "exposed_ports": [
+                "3100/tcp"
+              ],
+              "working_dir": "/app",
+              "env": [
+                "PATH=/app/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "NODE_VERSION=22.22.2",
+                "YARN_VERSION=1.22.22"
+              ],
+              "labels": {
+                "org.opencontainers.image.dockerfile-path": "a_solutions/bc-obs_c3-infra-mcp/src/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 17,
+              "created": "2026-03-26T23:50:16.335799627Z"
+            },
+            {
+              "os": "linux",
+              "architecture": "arm64",
+              "size_bytes": 277454857,
+              "entrypoint": [
+                "./entrypoint.sh"
+              ],
+              "exposed_ports": [
+                "3100/tcp"
+              ],
+              "working_dir": "/app",
+              "env": [
+                "PATH=/app/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "NODE_VERSION=22.22.2",
+                "YARN_VERSION=1.22.22"
+              ],
+              "labels": {
+                "org.opencontainers.image.dockerfile-path": "a_solutions/bc-obs_c3-infra-mcp/src/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 17,
+              "created": "2026-03-26T23:50:16.473695288Z"
+            }
           ]
         },
         {
@@ -6345,6 +6441,54 @@
               "created_at": "2026-03-24T08:08:30Z",
               "updated_at": "2026-03-24T08:08:30Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/c3-services-api/754187880"
+            }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 127558195,
+              "entrypoint": [
+                "./entrypoint.sh"
+              ],
+              "exposed_ports": [
+                "8082/tcp"
+              ],
+              "working_dir": "/app",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "NODE_VERSION=22.22.2",
+                "YARN_VERSION=1.22.22"
+              ],
+              "labels": {
+                "org.opencontainers.image.dockerfile-path": "a_solutions/bc-obs_c3-services-api/src/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 16,
+              "created": "2026-03-26T10:27:53.655645563Z"
+            },
+            {
+              "os": "linux",
+              "architecture": "arm64",
+              "size_bytes": 126555008,
+              "entrypoint": [
+                "./entrypoint.sh"
+              ],
+              "exposed_ports": [
+                "8082/tcp"
+              ],
+              "working_dir": "/app",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "NODE_VERSION=22.22.2",
+                "YARN_VERSION=1.22.22"
+              ],
+              "labels": {
+                "org.opencontainers.image.dockerfile-path": "a_solutions/bc-obs_c3-services-api/src/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 16,
+              "created": "2026-03-26T10:27:53.656276522Z"
             }
           ]
         },
@@ -8370,6 +8514,54 @@
               "updated_at": "2026-03-24T08:00:18Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/c3-services-mcp/754174020"
             }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 127569505,
+              "entrypoint": [
+                "./entrypoint.sh"
+              ],
+              "exposed_ports": [
+                "3101/tcp"
+              ],
+              "working_dir": "/app",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "NODE_VERSION=22.22.2",
+                "YARN_VERSION=1.22.22"
+              ],
+              "labels": {
+                "org.opencontainers.image.dockerfile-path": "a_solutions/bc-obs_c3-services-mcp/src/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 16,
+              "created": "2026-03-26T10:28:03.656728584Z"
+            },
+            {
+              "os": "linux",
+              "architecture": "arm64",
+              "size_bytes": 126566879,
+              "entrypoint": [
+                "./entrypoint.sh"
+              ],
+              "exposed_ports": [
+                "3101/tcp"
+              ],
+              "working_dir": "/app",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "NODE_VERSION=22.22.2",
+                "YARN_VERSION=1.22.22"
+              ],
+              "labels": {
+                "org.opencontainers.image.dockerfile-path": "a_solutions/bc-obs_c3-services-mcp/src/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 16,
+              "created": "2026-03-26T10:28:03.308392683Z"
+            }
           ]
         },
         {
@@ -9079,6 +9271,39 @@
               "updated_at": "2026-02-13T20:35:09Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/caddy-custom/685897826"
             }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 40710316,
+              "entrypoint": null,
+              "exposed_ports": [
+                "2019/tcp",
+                "443/tcp",
+                "443/udp",
+                "80/tcp"
+              ],
+              "working_dir": "/srv",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "CADDY_VERSION=v2.11.2",
+                "XDG_CONFIG_HOME=/config",
+                "XDG_DATA_HOME=/data"
+              ],
+              "labels": {
+                "org.opencontainers.image.description": "a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go",
+                "org.opencontainers.image.documentation": "https://caddyserver.com/docs",
+                "org.opencontainers.image.licenses": "Apache-2.0",
+                "org.opencontainers.image.source": "https://github.com/caddyserver/caddy-docker",
+                "org.opencontainers.image.title": "Caddy",
+                "org.opencontainers.image.url": "https://caddyserver.com",
+                "org.opencontainers.image.vendor": "Light Code Labs",
+                "org.opencontainers.image.version": "v2.11.2"
+              },
+              "layers_count": 6,
+              "created": "2026-03-16T18:04:31.957486396Z"
+            }
           ]
         },
         {
@@ -9329,31 +9554,195 @@
               "updated_at": "2026-03-18T16:03:17Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/caddy-l4/743952847"
             }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 41086655,
+              "entrypoint": null,
+              "exposed_ports": [
+                "2019/tcp",
+                "443/tcp",
+                "443/udp",
+                "80/tcp"
+              ],
+              "working_dir": "/srv",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "CADDY_VERSION=v2.11.2",
+                "XDG_CONFIG_HOME=/config",
+                "XDG_DATA_HOME=/data"
+              ],
+              "labels": {
+                "org.opencontainers.image.description": "a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go",
+                "org.opencontainers.image.documentation": "https://caddyserver.com/docs",
+                "org.opencontainers.image.licenses": "Apache-2.0",
+                "org.opencontainers.image.source": "https://github.com/caddyserver/caddy-docker",
+                "org.opencontainers.image.title": "Caddy",
+                "org.opencontainers.image.url": "https://caddyserver.com",
+                "org.opencontainers.image.vendor": "Light Code Labs",
+                "org.opencontainers.image.version": "v2.11.2"
+              },
+              "layers_count": 6,
+              "created": "2026-03-21T00:07:49.266897785Z"
+            }
+          ]
+        },
+        {
+          "name": "cloud-builder-arm-nixos",
+          "visibility": "public",
+          "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-arm-nixos",
+          "created_at": "2026-03-27T11:19:39Z",
+          "updated_at": "2026-03-27T11:19:41Z",
+          "versions": [
+            {
+              "id": 761591390,
+              "tags": [
+                "e0c697e8985ef619050c0c7e5a05190ede6e9914",
+                "latest"
+              ],
+              "created_at": "2026-03-27T11:19:39Z",
+              "updated_at": "2026-03-27T11:19:39Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-builder-arm-nixos/761591390"
+            }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "arm64",
+              "size_bytes": 810373704,
+              "entrypoint": [
+                "nix",
+                "develop",
+                "/opt/deps-flake#",
+                "--command"
+              ],
+              "exposed_ports": [],
+              "working_dir": "/workspace",
+              "env": [
+                "USER=root",
+                "PATH=/root/.nix-profile/bin:/nix/var/nix/profiles/default/bin:/nix/var/nix/profiles/default/sbin",
+                "MANPATH=/root/.nix-profile/share/man:/nix/var/nix/profiles/default/share/man",
+                "SSL_CERT_FILE=/nix/var/nix/profiles/default/etc/ssl/certs/ca-bundle.crt",
+                "GIT_SSL_CAINFO=/nix/var/nix/profiles/default/etc/ssl/certs/ca-bundle.crt",
+                "NIX_SSL_CERT_FILE=/nix/var/nix/profiles/default/etc/ssl/certs/ca-bundle.crt",
+                "NIX_PATH=/nix/var/nix/profiles/per-user/root/channels:/root/.nix-defexpr/channels"
+              ],
+              "labels": {
+                "cloud.builder.dockerfile-base64": "IyDilZTilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZcKIyDilZEgY2xvdWQtYnVpbGRlciDigJQgU2VsZi1jb250YWluZWQgQ0kvQ0QgYnVpbGRlciBpbWFnZSAgICAgICAgICAgICAg4pWRCiMg4pWRICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4pWRCiMg4pWRIENvbnRhaW5zOiBuaXggKyBkZXZTaGVsbCAoc29wcywgcnN5bmMsIHNzaCwgZ2l0LCBqcSwgeXEsIG5vZGUpICDilZEKIyDilZEgICAgICAgICAgICsgZG9ja2VyIENMSSAoZm9yIGRvY2tlciBjb21wb3NlIGJ1aWxkIC0tcHVzaCkgICAgICAgICDilZEKIyDilZEgRG9lcyBOT1QgY29udGFpbjogY29kZSwgc2VjcmV0cywgc2VydmljZSBvdXRwdXRzIChidWlsdCBmcmVzaCkgICDilZEKIyDilZEgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDilZEKIyDilZEgU291cmNlOiB3b3JrZmxvd3Mvc3JjL2RlcHMvZG9ja2VyL0RvY2tlcmZpbGUgICAgICAgICAgICAgICAgICAgICDilZEKIyDilZEgUmVnaXN0cnk6IGdoY3IuaW8vZGllZ29ubWFyY29zL2Nsb3VkLWJ1aWxkZXIte3g4Nixhcm19LW5peG9zICAgIOKVkQojIOKVmuKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVnQoKIyBOSVhfU1lTVEVNOiB4ODZfNjQtbGludXggb3IgYWFyY2g2NC1saW51eCAoc2V0IGJ5IEdIQSBtYXRyaXgpCkFSRyBOSVhfU1lTVEVNPXg4Nl82NC1saW51eAoKRlJPTSBuaXhvcy9uaXg6bGF0ZXN0IEFTIGJ1aWxkZXIKCkFSRyBOSVhfU1lTVEVNCgojIEVuYWJsZSBmbGFrZXMKUlVOIG1rZGlyIC1wIC9ldGMvbml4ICYmIGVjaG8gImV4cGVyaW1lbnRhbC1mZWF0dXJlcyA9IG5peC1jb21tYW5kIGZsYWtlcyIgPiAvZXRjL25peC9uaXguY29uZgoKIyBDb3B5IGRlcHMgZmxha2UgKGNvbnRleHQgaXMgd29ya2Zsb3dzL3NyYy9kZXBzLykKV09SS0RJUiAvYnVpbGQKQ09QWSBmbGFrZS5uaXggZmxha2UubG9jayAuLwoKIyBGZXRjaCBjb25maWcuanNvbiBmcm9tIEdpdEh1YiAoc2FtZSBhcyBmbGFrZSBpbnB1dCBkb2VzKQpSVU4gbml4IGZsYWtlIHVwZGF0ZSBjb25maWctanNvbiAtLWZsYWtlIC4KCiMgQnVpbGQgdGhlIGRldlNoZWxsIOKAlCBwb3B1bGF0ZXMgbml4IHN0b3JlIHdpdGggYWxsIGRlcHMKUlVOIG5peCBidWlsZCAiLiNkZXZTaGVsbHMuJHtOSVhfU1lTVEVNfS5kZWZhdWx0LmlucHV0RGVyaXZhdGlvbiIgLS1uby1saW5rCgojIEFsc28gcHJlLXBvcHVsYXRlIG5peHBrZ3MgZXZhbHVhdGlvbnMgZm9yIGZhc3RlciBzZXJ2aWNlIGJ1aWxkcwpSVU4gbml4IGV2YWwgLS1qc29uICIuI2RldlNoZWxscy4ke05JWF9TWVNURU19LmRlZmF1bHQubmFtZSIgPiAvZGV2L251bGwKCiMgSW5zdGFsbCBucG0gcGFja2FnZXMgdG8gL3Jvb3QvLm5vZGVfbW9kdWxlcyAoc2hhcmVkIG5vZGUgZGVwcykKUlVOIG5peCBkZXZlbG9wIC4jIC0tY29tbWFuZCBiYXNoIC1jICdcCiAgICBta2RpciAtcCAvcm9vdC8ubm9kZV9tb2R1bGVzICYmIFwKICAgIGNkIC9yb290Ly5ub2RlX21vZHVsZXMgJiYgXAogICAgbnBtIGluc3RhbGwgLS1zaWxlbnQgdHN4IHlhbWwgbnVuanVja3MgMj4vZGV2L251bGwgJiYgXAogICAgZWNobyAiTm9kZSBtb2R1bGVzIGluc3RhbGxlZDogJChscyBub2RlX21vZHVsZXMgfCB3YyAtbCkgcGFja2FnZXMiJwoKIyDilIDilIAgRmluYWwgaW1hZ2U6IG5peCBzdG9yZSArIG5vZGVfbW9kdWxlcyArIGRvY2tlciBDTEkgcmVhZHkg4pSA4pSACkZST00gbml4b3Mvbml4OmxhdGVzdAoKUlVOIG1rZGlyIC1wIC9ldGMvbml4ICYmIGVjaG8gImV4cGVyaW1lbnRhbC1mZWF0dXJlcyA9IG5peC1jb21tYW5kIGZsYWtlcyIgPiAvZXRjL25peC9uaXguY29uZgoKIyBJbnN0YWxsIERvY2tlciBDTEkgKG5lZWRlZCBmb3IgZG9ja2VyIGNvbXBvc2UgYnVpbGQgLS1wdXNoIGluIHN0ZXBfY29tcG9zZV9idWlsZCkKUlVOIG5peCBwcm9maWxlIGluc3RhbGwgbml4cGtncyNkb2NrZXItY2xpZW50IG5peHBrZ3MjZG9ja2VyLWNvbXBvc2UKCiMgQ29weSBwb3B1bGF0ZWQgbml4IHN0b3JlIGZyb20gYnVpbGRlcgpDT1BZIC0tZnJvbT1idWlsZGVyIC9uaXgvc3RvcmUgL25peC9zdG9yZQpDT1BZIC0tZnJvbT1idWlsZGVyIC9uaXgvdmFyIC9uaXgvdmFyCgojIENvcHkgbm9kZV9tb2R1bGVzCkNPUFkgLS1mcm9tPWJ1aWxkZXIgL3Jvb3QvLm5vZGVfbW9kdWxlcyAvcm9vdC8ubm9kZV9tb2R1bGVzCgojIENvcHkgZGVwcyBmbGFrZSBmb3Igbml4IGRldmVsb3AgYXQgcnVudGltZQpDT1BZIC0tZnJvbT1idWlsZGVyIC9idWlsZCAvb3B0L2RlcHMtZmxha2UKCiMgU2VsZi1kb2N1bWVudGluZzogRG9ja2VyZmlsZSBhcyBmaWxlIChjYXQpICsgbGFiZWwgKGRvY2tlciBpbnNwZWN0KQpDT1BZIGRvY2tlci9Eb2NrZXJmaWxlIC9vcHQvY2xvdWQtYnVpbGRlci9Eb2NrZXJmaWxlCkFSRyBET0NLRVJGSUxFX0I2ND0iIgpMQUJFTCBvcmcub3BlbmNvbnRhaW5lcnMuaW1hZ2Uuc291cmNlPSJodHRwczovL2dpdGh1Yi5jb20vZGllZ29ubWFyY29zL3VuaXgiCkxBQkVMIG9yZy5vcGVuY29udGFpbmVycy5pbWFnZS5kZXNjcmlwdGlvbj0iY2xvdWQtYnVpbGRlciDigJQgc2VsZi1jb250YWluZWQgQ0kvQ0QgaW1hZ2UgKG5peCwgc29wcywgcnN5bmMsIHNzaCkiCkxBQkVMIG9yZy5vcGVuY29udGFpbmVycy5pbWFnZS5kb2NrZXJmaWxlLXBhdGg9IndvcmtmbG93cy9zcmMvZGVwcy9kb2NrZXIvRG9ja2VyZmlsZSIKTEFCRUwgY2xvdWQuYnVpbGRlci5kb2NrZXJmaWxlLWJhc2U2ND0iJHtET0NLRVJGSUxFX0I2NH0iCgojIERlZmF1bHQ6IGRyb3AgaW50byBuaXggZGV2ZWxvcCBzaGVsbApXT1JLRElSIC93b3Jrc3BhY2UKRU5UUllQT0lOVCBbIm5peCIsICJkZXZlbG9wIiwgIi9vcHQvZGVwcy1mbGFrZSMiLCAiLS1jb21tYW5kIl0KQ01EIFsiYmFzaCJdCg==",
+                "org.opencontainers.image.description": "cloud-builder — self-contained CI/CD image (nix, sops, rsync, ssh)",
+                "org.opencontainers.image.dockerfile-path": "workflows/src/deps/docker/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/unix",
+                "org.opencontainers.image.title": "Nix",
+                "org.opencontainers.image.vendor": "Nix project",
+                "org.opencontainers.image.version": "2.34.4"
+              },
+              "layers_count": 77,
+              "created": "2026-03-27T11:16:40.116731369Z"
+            }
+          ]
+        },
+        {
+          "name": "cloud-builder-forge-rust-go-clang",
+          "visibility": "public",
+          "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-forge-rust-go-clang",
+          "created_at": "2026-03-26T14:16:19Z",
+          "updated_at": "2026-03-27T11:11:40Z",
+          "versions": [
+            {
+              "id": 759678170,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-03-26T14:16:19Z",
+              "updated_at": "2026-03-26T14:16:19Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-builder-forge-rust-go-clang/759678170"
+            }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 31470928677,
+              "entrypoint": [],
+              "exposed_ports": [],
+              "working_dir": "/build",
+              "env": [
+                "PATH=/opt/connectiq/bin:/opt/android-sdk/cmdline-tools/latest/bin:/opt/android-sdk/platform-tools:/usr/local/cuda/bin:/root/.cargo/bin:/usr/local/go/bin:/root/go/bin:/root/.local/bin:/root/.nix-profile/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "DEBIAN_FRONTEND=noninteractive",
+                "LANG=en_US.UTF-8",
+                "LC_ALL=en_US.UTF-8",
+                "NIX_PATH=nixpkgs=channel:nixos-24.11",
+                "LD_LIBRARY_PATH=/usr/local/cuda/lib64:",
+                "ANDROID_HOME=/opt/android-sdk",
+                "CONNECTIQ_HOME=/opt/connectiq"
+              ],
+              "labels": {
+                "forge.deps": "embedded at /root/deps.json",
+                "forge.dockerfile.append": "embedded at /root/Dockerfile.append",
+                "forge.dockerfile.base": "embedded at /root/Dockerfile.base",
+                "org.opencontainers.image.authors": "Diego Nepomuceno Marcos",
+                "org.opencontainers.image.description": "Full dev/CI builder: Rust+Go+Clang+Node+Python+Nix+K8s+Cloud CLIs (multi-arch)",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
+                "org.opencontainers.image.title": "cloud-builder-forge-rust-go-clang"
+              },
+              "layers_count": 50,
+              "created": "2026-03-26T13:48:36.37226906Z"
+            }
           ]
         },
         {
           "name": "cloud-builder-x86-nixos",
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x86-nixos",
-          "created_at": "2026-03-26T16:06:02Z",
-          "updated_at": "2026-03-26T16:17:59Z",
+          "created_at": "2026-03-27T11:14:42Z",
+          "updated_at": "2026-03-27T11:14:43Z",
           "versions": [
             {
-              "id": 759989464,
+              "id": 761582603,
               "tags": [
-                "89650598d4b57061625bd3e5556f5cd5928ca768",
+                "e0c697e8985ef619050c0c7e5a05190ede6e9914",
                 "latest"
               ],
-              "created_at": "2026-03-26T16:17:58Z",
-              "updated_at": "2026-03-26T16:17:58Z",
-              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-builder-x86-nixos/759989464"
-            },
+              "created_at": "2026-03-27T11:14:42Z",
+              "updated_at": "2026-03-27T11:14:42Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-builder-x86-nixos/761582603"
+            }
+          ],
+          "platforms": [
             {
-              "id": 759961053,
-              "tags": [],
-              "created_at": "2026-03-26T16:06:02Z",
-              "updated_at": "2026-03-26T16:06:02Z",
-              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-builder-x86-nixos/759961053"
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 835238429,
+              "entrypoint": [
+                "nix",
+                "develop",
+                "/opt/deps-flake#",
+                "--command"
+              ],
+              "exposed_ports": [],
+              "working_dir": "/workspace",
+              "env": [
+                "USER=root",
+                "PATH=/root/.nix-profile/bin:/nix/var/nix/profiles/default/bin:/nix/var/nix/profiles/default/sbin",
+                "MANPATH=/root/.nix-profile/share/man:/nix/var/nix/profiles/default/share/man",
+                "SSL_CERT_FILE=/nix/var/nix/profiles/default/etc/ssl/certs/ca-bundle.crt",
+                "GIT_SSL_CAINFO=/nix/var/nix/profiles/default/etc/ssl/certs/ca-bundle.crt",
+                "NIX_SSL_CERT_FILE=/nix/var/nix/profiles/default/etc/ssl/certs/ca-bundle.crt",
+                "NIX_PATH=/nix/var/nix/profiles/per-user/root/channels:/root/.nix-defexpr/channels"
+              ],
+              "labels": {
+                "cloud.builder.dockerfile-base64": "IyDilZTilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZcKIyDilZEgY2xvdWQtYnVpbGRlciDigJQgU2VsZi1jb250YWluZWQgQ0kvQ0QgYnVpbGRlciBpbWFnZSAgICAgICAgICAgICAg4pWRCiMg4pWRICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4pWRCiMg4pWRIENvbnRhaW5zOiBuaXggKyBkZXZTaGVsbCAoc29wcywgcnN5bmMsIHNzaCwgZ2l0LCBqcSwgeXEsIG5vZGUpICDilZEKIyDilZEgICAgICAgICAgICsgZG9ja2VyIENMSSAoZm9yIGRvY2tlciBjb21wb3NlIGJ1aWxkIC0tcHVzaCkgICAgICAgICDilZEKIyDilZEgRG9lcyBOT1QgY29udGFpbjogY29kZSwgc2VjcmV0cywgc2VydmljZSBvdXRwdXRzIChidWlsdCBmcmVzaCkgICDilZEKIyDilZEgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDilZEKIyDilZEgU291cmNlOiB3b3JrZmxvd3Mvc3JjL2RlcHMvZG9ja2VyL0RvY2tlcmZpbGUgICAgICAgICAgICAgICAgICAgICDilZEKIyDilZEgUmVnaXN0cnk6IGdoY3IuaW8vZGllZ29ubWFyY29zL2Nsb3VkLWJ1aWxkZXIte3g4Nixhcm19LW5peG9zICAgIOKVkQojIOKVmuKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVnQoKIyBOSVhfU1lTVEVNOiB4ODZfNjQtbGludXggb3IgYWFyY2g2NC1saW51eCAoc2V0IGJ5IEdIQSBtYXRyaXgpCkFSRyBOSVhfU1lTVEVNPXg4Nl82NC1saW51eAoKRlJPTSBuaXhvcy9uaXg6bGF0ZXN0IEFTIGJ1aWxkZXIKCkFSRyBOSVhfU1lTVEVNCgojIEVuYWJsZSBmbGFrZXMKUlVOIG1rZGlyIC1wIC9ldGMvbml4ICYmIGVjaG8gImV4cGVyaW1lbnRhbC1mZWF0dXJlcyA9IG5peC1jb21tYW5kIGZsYWtlcyIgPiAvZXRjL25peC9uaXguY29uZgoKIyBDb3B5IGRlcHMgZmxha2UgKGNvbnRleHQgaXMgd29ya2Zsb3dzL3NyYy9kZXBzLykKV09SS0RJUiAvYnVpbGQKQ09QWSBmbGFrZS5uaXggZmxha2UubG9jayAuLwoKIyBGZXRjaCBjb25maWcuanNvbiBmcm9tIEdpdEh1YiAoc2FtZSBhcyBmbGFrZSBpbnB1dCBkb2VzKQpSVU4gbml4IGZsYWtlIHVwZGF0ZSBjb25maWctanNvbiAtLWZsYWtlIC4KCiMgQnVpbGQgdGhlIGRldlNoZWxsIOKAlCBwb3B1bGF0ZXMgbml4IHN0b3JlIHdpdGggYWxsIGRlcHMKUlVOIG5peCBidWlsZCAiLiNkZXZTaGVsbHMuJHtOSVhfU1lTVEVNfS5kZWZhdWx0LmlucHV0RGVyaXZhdGlvbiIgLS1uby1saW5rCgojIEFsc28gcHJlLXBvcHVsYXRlIG5peHBrZ3MgZXZhbHVhdGlvbnMgZm9yIGZhc3RlciBzZXJ2aWNlIGJ1aWxkcwpSVU4gbml4IGV2YWwgLS1qc29uICIuI2RldlNoZWxscy4ke05JWF9TWVNURU19LmRlZmF1bHQubmFtZSIgPiAvZGV2L251bGwKCiMgSW5zdGFsbCBucG0gcGFja2FnZXMgdG8gL3Jvb3QvLm5vZGVfbW9kdWxlcyAoc2hhcmVkIG5vZGUgZGVwcykKUlVOIG5peCBkZXZlbG9wIC4jIC0tY29tbWFuZCBiYXNoIC1jICdcCiAgICBta2RpciAtcCAvcm9vdC8ubm9kZV9tb2R1bGVzICYmIFwKICAgIGNkIC9yb290Ly5ub2RlX21vZHVsZXMgJiYgXAogICAgbnBtIGluc3RhbGwgLS1zaWxlbnQgdHN4IHlhbWwgbnVuanVja3MgMj4vZGV2L251bGwgJiYgXAogICAgZWNobyAiTm9kZSBtb2R1bGVzIGluc3RhbGxlZDogJChscyBub2RlX21vZHVsZXMgfCB3YyAtbCkgcGFja2FnZXMiJwoKIyDilIDilIAgRmluYWwgaW1hZ2U6IG5peCBzdG9yZSArIG5vZGVfbW9kdWxlcyArIGRvY2tlciBDTEkgcmVhZHkg4pSA4pSACkZST00gbml4b3Mvbml4OmxhdGVzdAoKUlVOIG1rZGlyIC1wIC9ldGMvbml4ICYmIGVjaG8gImV4cGVyaW1lbnRhbC1mZWF0dXJlcyA9IG5peC1jb21tYW5kIGZsYWtlcyIgPiAvZXRjL25peC9uaXguY29uZgoKIyBJbnN0YWxsIERvY2tlciBDTEkgKG5lZWRlZCBmb3IgZG9ja2VyIGNvbXBvc2UgYnVpbGQgLS1wdXNoIGluIHN0ZXBfY29tcG9zZV9idWlsZCkKUlVOIG5peCBwcm9maWxlIGluc3RhbGwgbml4cGtncyNkb2NrZXItY2xpZW50IG5peHBrZ3MjZG9ja2VyLWNvbXBvc2UKCiMgQ29weSBwb3B1bGF0ZWQgbml4IHN0b3JlIGZyb20gYnVpbGRlcgpDT1BZIC0tZnJvbT1idWlsZGVyIC9uaXgvc3RvcmUgL25peC9zdG9yZQpDT1BZIC0tZnJvbT1idWlsZGVyIC9uaXgvdmFyIC9uaXgvdmFyCgojIENvcHkgbm9kZV9tb2R1bGVzCkNPUFkgLS1mcm9tPWJ1aWxkZXIgL3Jvb3QvLm5vZGVfbW9kdWxlcyAvcm9vdC8ubm9kZV9tb2R1bGVzCgojIENvcHkgZGVwcyBmbGFrZSBmb3Igbml4IGRldmVsb3AgYXQgcnVudGltZQpDT1BZIC0tZnJvbT1idWlsZGVyIC9idWlsZCAvb3B0L2RlcHMtZmxha2UKCiMgU2VsZi1kb2N1bWVudGluZzogRG9ja2VyZmlsZSBhcyBmaWxlIChjYXQpICsgbGFiZWwgKGRvY2tlciBpbnNwZWN0KQpDT1BZIGRvY2tlci9Eb2NrZXJmaWxlIC9vcHQvY2xvdWQtYnVpbGRlci9Eb2NrZXJmaWxlCkFSRyBET0NLRVJGSUxFX0I2ND0iIgpMQUJFTCBvcmcub3BlbmNvbnRhaW5lcnMuaW1hZ2Uuc291cmNlPSJodHRwczovL2dpdGh1Yi5jb20vZGllZ29ubWFyY29zL3VuaXgiCkxBQkVMIG9yZy5vcGVuY29udGFpbmVycy5pbWFnZS5kZXNjcmlwdGlvbj0iY2xvdWQtYnVpbGRlciDigJQgc2VsZi1jb250YWluZWQgQ0kvQ0QgaW1hZ2UgKG5peCwgc29wcywgcnN5bmMsIHNzaCkiCkxBQkVMIG9yZy5vcGVuY29udGFpbmVycy5pbWFnZS5kb2NrZXJmaWxlLXBhdGg9IndvcmtmbG93cy9zcmMvZGVwcy9kb2NrZXIvRG9ja2VyZmlsZSIKTEFCRUwgY2xvdWQuYnVpbGRlci5kb2NrZXJmaWxlLWJhc2U2ND0iJHtET0NLRVJGSUxFX0I2NH0iCgojIERlZmF1bHQ6IGRyb3AgaW50byBuaXggZGV2ZWxvcCBzaGVsbApXT1JLRElSIC93b3Jrc3BhY2UKRU5UUllQT0lOVCBbIm5peCIsICJkZXZlbG9wIiwgIi9vcHQvZGVwcy1mbGFrZSMiLCAiLS1jb21tYW5kIl0KQ01EIFsiYmFzaCJdCg==",
+                "org.opencontainers.image.description": "cloud-builder — self-contained CI/CD image (nix, sops, rsync, ssh)",
+                "org.opencontainers.image.dockerfile-path": "workflows/src/deps/docker/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/unix",
+                "org.opencontainers.image.title": "Nix",
+                "org.opencontainers.image.vendor": "Nix project",
+                "org.opencontainers.image.version": "2.34.4"
+              },
+              "layers_count": 77,
+              "created": "2026-03-27T11:12:54.787066149Z"
             }
           ]
         },
@@ -11675,6 +12064,54 @@
               "updated_at": "2026-03-22T20:13:20Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp/751127862"
             }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 145455650,
+              "entrypoint": null,
+              "exposed_ports": [
+                "8000/tcp"
+              ],
+              "working_dir": "/app",
+              "env": [
+                "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "LANG=C.UTF-8",
+                "GPG_KEY=A035C8C19219BA821ECEA86B64E628F8D684696D",
+                "PYTHON_VERSION=3.11.15",
+                "PYTHON_SHA256=272179ddd9a2e41a0fc8e42e33dfbdca0b3711aa5abf372d3f2d51543d09b625"
+              ],
+              "labels": {
+                "org.opencontainers.image.dockerfile-path": "a_solutions/aa-sui_google-workspace-mcp/src/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 12,
+              "created": "2026-03-26T10:28:10.077590956Z"
+            },
+            {
+              "os": "linux",
+              "architecture": "arm64",
+              "size_bytes": 144204676,
+              "entrypoint": null,
+              "exposed_ports": [
+                "8000/tcp"
+              ],
+              "working_dir": "/app",
+              "env": [
+                "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "LANG=C.UTF-8",
+                "GPG_KEY=A035C8C19219BA821ECEA86B64E628F8D684696D",
+                "PYTHON_VERSION=3.11.15",
+                "PYTHON_SHA256=272179ddd9a2e41a0fc8e42e33dfbdca0b3711aa5abf372d3f2d51543d09b625"
+              ],
+              "labels": {
+                "org.opencontainers.image.dockerfile-path": "a_solutions/aa-sui_google-workspace-mcp/src/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 12,
+              "created": "2026-03-26T10:28:11.823789718Z"
+            }
           ]
         },
         {
@@ -11724,6 +12161,30 @@
               "updated_at": "2026-03-26T22:27:33Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/hm-gcp-proxy/760641208"
             }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 1722400397,
+              "entrypoint": [
+                "/bin/bash",
+                "/hm/activate.sh"
+              ],
+              "exposed_ports": [],
+              "working_dir": "",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "HM_ACTIVATION_PATH=/nix/store/jpfbmmyq647qhqb62d7am6zd92jxscfv-home-manager-generation",
+                "HM_USER=diego"
+              ],
+              "labels": {
+                "org.opencontainers.image.description": "Home-Manager activation image for gcp-proxy",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 7,
+              "created": "2026-03-26T23:33:36.258208073Z"
+            }
           ]
         },
         {
@@ -11742,6 +12203,30 @@
               "created_at": "2026-03-26T23:51:06Z",
               "updated_at": "2026-03-26T23:51:06Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/hm-gcp-t4/760737796"
+            }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 1671320641,
+              "entrypoint": [
+                "/bin/bash",
+                "/hm/activate.sh"
+              ],
+              "exposed_ports": [],
+              "working_dir": "",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "HM_ACTIVATION_PATH=/nix/store/ch7qjhfxwygdpj6b1raggxdklq5aa03r-home-manager-generation",
+                "HM_USER=diego"
+              ],
+              "labels": {
+                "org.opencontainers.image.description": "Home-Manager activation image for gcp-t4",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 7,
+              "created": "2026-03-26T23:45:27.931309116Z"
             }
           ]
         },
@@ -11762,6 +12247,30 @@
               "updated_at": "2026-03-26T23:49:50Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/hm-oci-analytics/760736362"
             }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 1671257287,
+              "entrypoint": [
+                "/bin/bash",
+                "/hm/activate.sh"
+              ],
+              "exposed_ports": [],
+              "working_dir": "",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "HM_ACTIVATION_PATH=/nix/store/980zw15bhmxnfm5v92biwsxn73pxs8i7-home-manager-generation",
+                "HM_USER=ubuntu"
+              ],
+              "labels": {
+                "org.opencontainers.image.description": "Home-Manager activation image for oci-analytics",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 7,
+              "created": "2026-03-26T23:45:03.918579727Z"
+            }
           ]
         },
         {
@@ -11780,6 +12289,30 @@
               "created_at": "2026-03-26T23:49:17Z",
               "updated_at": "2026-03-26T23:49:17Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/hm-oci-mail/760735655"
+            }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 1671781007,
+              "entrypoint": [
+                "/bin/bash",
+                "/hm/activate.sh"
+              ],
+              "exposed_ports": [],
+              "working_dir": "",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "HM_ACTIVATION_PATH=/nix/store/4w33i4zr2qrfpjh01xpjhfk6zs8rx03s-home-manager-generation",
+                "HM_USER=ubuntu"
+              ],
+              "labels": {
+                "org.opencontainers.image.description": "Home-Manager activation image for oci-mail",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 7,
+              "created": "2026-03-26T23:44:38.988867767Z"
             }
           ]
         },
@@ -14357,6 +14890,54 @@
               "updated_at": "2026-03-22T20:12:22Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/introspect-proxy/751126993"
             }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 56800705,
+              "entrypoint": null,
+              "exposed_ports": [
+                "4182/tcp"
+              ],
+              "working_dir": "/app",
+              "env": [
+                "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "LANG=C.UTF-8",
+                "GPG_KEY=A035C8C19219BA821ECEA86B64E628F8D684696D",
+                "PYTHON_VERSION=3.11.15",
+                "PYTHON_SHA256=272179ddd9a2e41a0fc8e42e33dfbdca0b3711aa5abf372d3f2d51543d09b625"
+              ],
+              "labels": {
+                "org.opencontainers.image.dockerfile-path": "a_solutions/bb-sec_introspect-proxy/src/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 10,
+              "created": "2026-03-26T10:28:03.795868724Z"
+            },
+            {
+              "os": "linux",
+              "architecture": "arm64",
+              "size_bytes": 56973177,
+              "entrypoint": null,
+              "exposed_ports": [
+                "4182/tcp"
+              ],
+              "working_dir": "/app",
+              "env": [
+                "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "LANG=C.UTF-8",
+                "GPG_KEY=A035C8C19219BA821ECEA86B64E628F8D684696D",
+                "PYTHON_VERSION=3.11.15",
+                "PYTHON_SHA256=272179ddd9a2e41a0fc8e42e33dfbdca0b3711aa5abf372d3f2d51543d09b625"
+              ],
+              "labels": {
+                "org.opencontainers.image.dockerfile-path": "a_solutions/bb-sec_introspect-proxy/src/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 10,
+              "created": "2026-03-26T10:28:03.124210877Z"
+            }
           ]
         },
         {
@@ -16712,6 +17293,50 @@
               "updated_at": "2026-03-22T20:11:52Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/mail-mcp/751126552"
             }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 99445526,
+              "entrypoint": [
+                "docker-entrypoint.sh"
+              ],
+              "exposed_ports": [],
+              "working_dir": "/app",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "NODE_VERSION=22.22.2",
+                "YARN_VERSION=1.22.22"
+              ],
+              "labels": {
+                "org.opencontainers.image.dockerfile-path": "a_solutions/aa-sui_mail-mcp/src/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 11,
+              "created": "2026-03-26T10:27:58.748881146Z"
+            },
+            {
+              "os": "linux",
+              "architecture": "arm64",
+              "size_bytes": 98594553,
+              "entrypoint": [
+                "docker-entrypoint.sh"
+              ],
+              "exposed_ports": [],
+              "working_dir": "/app",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "NODE_VERSION=22.22.2",
+                "YARN_VERSION=1.22.22"
+              ],
+              "labels": {
+                "org.opencontainers.image.dockerfile-path": "a_solutions/aa-sui_mail-mcp/src/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 11,
+              "created": "2026-03-26T10:28:00.011303629Z"
+            }
           ]
         },
         {
@@ -19053,6 +19678,50 @@
               "updated_at": "2026-03-22T20:11:49Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/mattermost-mcp/751126487"
             }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 95637164,
+              "entrypoint": [
+                "docker-entrypoint.sh"
+              ],
+              "exposed_ports": [],
+              "working_dir": "/app",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "NODE_VERSION=22.22.2",
+                "YARN_VERSION=1.22.22"
+              ],
+              "labels": {
+                "org.opencontainers.image.dockerfile-path": "a_solutions/aa-sui_mattermost-mcp/src/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 11,
+              "created": "2026-03-26T10:28:05.194935638Z"
+            },
+            {
+              "os": "linux",
+              "architecture": "arm64",
+              "size_bytes": 94783237,
+              "entrypoint": [
+                "docker-entrypoint.sh"
+              ],
+              "exposed_ports": [],
+              "working_dir": "/app",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "NODE_VERSION=22.22.2",
+                "YARN_VERSION=1.22.22"
+              ],
+              "labels": {
+                "org.opencontainers.image.dockerfile-path": "a_solutions/aa-sui_mattermost-mcp/src/Dockerfile",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
+              },
+              "layers_count": 11,
+              "created": "2026-03-26T10:28:05.095270109Z"
+            }
           ]
         },
         {
@@ -19094,6 +19763,27 @@
               "updated_at": "2026-03-26T02:27:34Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/octocode-fastembed-graphrag-indexed/758523710"
             }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 291483283,
+              "entrypoint": [
+                "octocode"
+              ],
+              "exposed_ports": [],
+              "working_dir": "",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+              ],
+              "labels": {
+                "org.opencontainers.image.ref.name": "ubuntu",
+                "org.opencontainers.image.version": "24.04"
+              },
+              "layers_count": 5,
+              "created": "2026-03-26T04:02:34.887105862Z"
+            }
           ]
         },
         {
@@ -19127,6 +19817,37 @@
               "updated_at": "2026-03-26T11:35:13Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/octocode-fastembed-graphrag-indexed-arm/759316879"
             }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "arm64",
+              "size_bytes": 2464833158,
+              "entrypoint": [
+                "octocode"
+              ],
+              "exposed_ports": [],
+              "working_dir": "",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "GIT_ROOT=/home/diego/Mounts/Git"
+              ],
+              "labels": {
+                "architecture": "aarch64",
+                "embedding.model": "nomic-ai/nomic-embed-text-v1.5",
+                "fastembed": "true",
+                "lance.git_root": "/home/diego/Mounts/Git",
+                "lance.repos": "cloud,cloud-data,front,front-data,unix,tools",
+                "org.opencontainers.image.authors": "Diego Nepomuceno Marcos",
+                "org.opencontainers.image.description": "Octocode 0.12.2 ARM + fastembed + Lance DB + repos (semantic graph)",
+                "org.opencontainers.image.ref.name": "ubuntu",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
+                "org.opencontainers.image.title": "octocode-fastembed-graphrag-indexed-arm",
+                "org.opencontainers.image.version": "0.12.2"
+              },
+              "layers_count": 10,
+              "created": "2026-03-26T15:41:53.443640593Z"
+            }
           ]
         },
         {
@@ -19146,6 +19867,33 @@
               "updated_at": "2026-03-26T14:41:23Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/octocode-fastembed-huggingface-graphrag-cpu-x86-linux-static/759744179"
             }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 125051643,
+              "entrypoint": [
+                "/entrypoint.sh"
+              ],
+              "exposed_ports": [],
+              "working_dir": "",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+              ],
+              "labels": {
+                "org.opencontainers.image.arch": "x86_64",
+                "org.opencontainers.image.description": "Semantic code search: FastEmbed + HuggingFace + GraphRAG, CPU x86_64, glibc-linked",
+                "org.opencontainers.image.features": "fastembed,huggingface,graphrag,lancedb",
+                "org.opencontainers.image.os": "linux",
+                "org.opencontainers.image.ref.name": "ubuntu",
+                "org.opencontainers.image.source": "https://github.com/Muvon/octocode",
+                "org.opencontainers.image.title": "octocode-fastembed-huggingface-graphrag-cpu-x86-linux-static",
+                "org.opencontainers.image.version": "0.12.2"
+              },
+              "layers_count": 6,
+              "created": "2026-03-26T14:34:09.104024681Z"
+            }
           ]
         },
         {
@@ -19164,31 +19912,14 @@
               "updated_at": "2026-03-27T00:22:25Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/vaultwarden/760771558"
             }
-          ]
+          ],
+          "platforms": []
         }
       ]
     },
     "unix": {
       "repo_url": "https://github.com/diegonmarcos/unix",
       "packages": [
-        {
-          "name": "cloud-builder-forge-rust-go-clang",
-          "visibility": "public",
-          "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-forge-rust-go-clang",
-          "created_at": "2026-03-26T14:16:19Z",
-          "updated_at": "2026-03-27T00:29:44Z",
-          "versions": [
-            {
-              "id": 759678170,
-              "tags": [
-                "latest"
-              ],
-              "created_at": "2026-03-26T14:16:19Z",
-              "updated_at": "2026-03-26T14:16:19Z",
-              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-builder-forge-rust-go-clang/759678170"
-            }
-          ]
-        },
         {
           "name": "diego-user-env",
           "visibility": "public",
@@ -19205,19 +19936,36 @@
               "updated_at": "2026-03-26T04:28:28Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/diego-user-env/758639550"
             }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 1689117547,
+              "entrypoint": [],
+              "exposed_ports": [],
+              "working_dir": "/home/diego",
+              "env": [
+                "PATH=/home/diego/.nix-profile/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "DEBIAN_FRONTEND=noninteractive",
+                "USER=diego",
+                "HOME=/home/diego",
+                "LANG=en_US.UTF-8",
+                "LC_ALL=en_US.UTF-8",
+                "SHELL=/home/diego/.nix-profile/bin/fish"
+              ],
+              "labels": {},
+              "layers_count": 7,
+              "created": "2026-03-26T04:24:41.108073307Z"
+            }
           ]
-        }
-      ]
-    },
-    "_unlinked": {
-      "repo_url": "",
-      "packages": [
+        },
         {
           "name": "lance-db-octocode-semantic-graph-repo-cloud-front",
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/lance-db-octocode-semantic-graph-repo-cloud-front",
           "created_at": "2026-03-26T15:53:10Z",
-          "updated_at": "2026-03-26T15:55:48Z",
+          "updated_at": "2026-03-27T11:20:24Z",
           "versions": [
             {
               "id": 759936172,
@@ -19236,9 +19984,141 @@
               "updated_at": "2026-03-26T15:53:10Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/lance-db-octocode-semantic-graph-repo-cloud-front/759929336"
             }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "amd64",
+              "size_bytes": 15348105,
+              "entrypoint": [
+                "/entrypoint.sh"
+              ],
+              "exposed_ports": [],
+              "working_dir": "/",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+              ],
+              "labels": {
+                "org.opencontainers.image.description": "Pre-indexed LanceDB for octocode: semantic + GraphRAG across cloud/front/unix/tools repos",
+                "org.opencontainers.image.embedding": "fastembed:nomic-ai/nomic-embed-text-v1.5",
+                "org.opencontainers.image.graphrag": "enabled",
+                "org.opencontainers.image.repos": "cloud,cloud-data,front-data,unix,tools",
+                "org.opencontainers.image.title": "lance-db-octocode-semantic-graph-repo-cloud-front"
+              },
+              "layers_count": 5,
+              "created": "2026-03-26T15:55:41.062502517Z"
+            }
           ]
         }
       ]
     }
-  }
+  },
+  "gha_access": [
+    {
+      "workflow": "Ship → gcp-proxy",
+      "workflow_url": "https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship-gcp-proxy.yml",
+      "repo": "cloud",
+      "packages": [
+        "cloud-builder-x86-nixos",
+        "introspect-proxy",
+        "vaultwarden"
+      ]
+    },
+    {
+      "workflow": "Ship → oci-analytics",
+      "workflow_url": "https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship-oci-analytics.yml",
+      "repo": "cloud",
+      "packages": [
+        "cloud-builder-x86-nixos"
+      ]
+    },
+    {
+      "workflow": "Ship → oci-apps",
+      "workflow_url": "https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship-oci-apps.yml",
+      "repo": "cloud",
+      "packages": [
+        "c3-infra-api",
+        "c3-infra-mcp",
+        "c3-services-api",
+        "c3-services-mcp",
+        "cloud-builder-x86-nixos",
+        "google-workspace-mcp",
+        "mail-mcp",
+        "mattermost-mcp"
+      ]
+    },
+    {
+      "workflow": "Ship → oci-mail",
+      "workflow_url": "https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship-oci-mail.yml",
+      "repo": "cloud",
+      "packages": [
+        "cloud-builder-x86-nixos"
+      ]
+    },
+    {
+      "workflow": "Ship → gcp-t4",
+      "workflow_url": "https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship-gcp-t4.yml",
+      "repo": "cloud",
+      "packages": [
+        "cloud-builder-x86-nixos"
+      ]
+    },
+    {
+      "workflow": "Ship → gen-configs (cloud-data)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship-gen-configs.yml",
+      "repo": "cloud",
+      "packages": [
+        "c3-infra-mcp",
+        "cloud-builder-x86-nixos"
+      ]
+    },
+    {
+      "workflow": "Ship → GHCR images",
+      "workflow_url": "https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship-ghcr-images.yml",
+      "repo": "cloud",
+      "packages": [
+        "c3-infra-api",
+        "c3-infra-mcp",
+        "c3-services-api",
+        "c3-services-mcp",
+        "google-workspace-mcp",
+        "introspect-proxy",
+        "mail-mcp",
+        "mattermost-mcp"
+      ]
+    },
+    {
+      "workflow": "Ship → GHCR images",
+      "workflow_url": "https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship-ghcr.yml",
+      "repo": "cloud",
+      "packages": [
+        "c3-infra-api",
+        "c3-infra-mcp",
+        "c3-services-api",
+        "c3-services-mcp",
+        "google-workspace-mcp",
+        "introspect-proxy",
+        "mail-mcp",
+        "mattermost-mcp"
+      ]
+    },
+    {
+      "workflow": "Ship → home-manager",
+      "workflow_url": "https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship-home-manager.yml",
+      "repo": "cloud",
+      "packages": [
+        "cloud-builder-x86-nixos"
+      ]
+    },
+    {
+      "workflow": "Ship → CI image",
+      "workflow_url": "https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship-ci-image.yml",
+      "repo": "cloud",
+      "packages": [
+        "cloud-builder-arm-nixos",
+        "cloud-builder-x86-nixos"
+      ]
+    }
+  ],
+  "codespace_access": []
 }

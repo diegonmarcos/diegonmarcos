@@ -134,7 +134,7 @@ Comments here
 
 | Registry | Classification | Images | Source | Description | Vis |
 |---|---|---|---|---|---|
-| 🐳 [GHCR Packages](ghrc/dist/GHCR.md) | Docker Container Images | GHCR | [ghrc/](ghrc/) | *"Every service gets a container — immutable, versioned, shipped."* | Pub |
+| 🐳 [GHCR Packages](ghrc/dist/ghcr-byreposrc.md) | Docker Container Images | GHCR | [ghrc/](ghrc/) | *"Every service gets a container — immutable, versioned, shipped."* | Pub |
 
 <br>
 <br>
