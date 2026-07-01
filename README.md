@@ -162,6 +162,26 @@ Comments here
 <br>
 <br>
 
+# 🚀 RELEASES
+---
+
+<br>
+
+## II. GitHub Releases
+
+<details open>
+<summary><b>Release Catalog</b> <sup>1 catalog</sup></summary>
+
+| Catalog | Classification | Artifacts | Source | Description | Vis |
+|---|---|---|---|---|---|
+| 🚀 [GitHub Releases](releases/dist/RELEASES.md) | Tagged Binaries & Archives | Releases | [releases/](releases/) | *"Every milestone gets a tag — cut, versioned, downloadable."* | Pub |
+
+</details>
+
+<br>
+<br>
+<br>
+
 # 🪶 ABOUT ME
 ---
 
