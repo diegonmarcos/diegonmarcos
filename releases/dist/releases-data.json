@@ -1,0 +1,159 @@
+{
+  "fetched_at": "2026-07-01T10:45:31.745Z",
+  "owner": "diegonmarcos",
+  "total_releases": 4,
+  "total_assets": 11,
+  "total_downloads": 646,
+  "repos": {
+    "tools": {
+      "repo_url": "https://github.com/diegonmarcos/tools",
+      "releases": [
+        {
+          "tag_name": "octocode-v0.12.2-fastembed",
+          "name": "octocode 0.12.2 (fastembed+huggingface+graphrag)",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-03-24T18:32:34Z",
+          "published_at": "2026-03-26T14:46:45Z",
+          "html_url": "https://github.com/diegonmarcos/tools/releases/tag/octocode-v0.12.2-fastembed",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/tools/tarball/octocode-v0.12.2-fastembed",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/tools/zipball/octocode-v0.12.2-fastembed",
+          "assets": [
+            {
+              "name": "octocode-0.12.2-fastembed-x86_64",
+              "size": 135286584,
+              "download_count": 12,
+              "browser_download_url": "https://github.com/diegonmarcos/tools/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-03-26T14:49:32Z"
+            }
+          ]
+        }
+      ]
+    },
+    "unix": {
+      "repo_url": "https://github.com/diegonmarcos/unix",
+      "releases": [
+        {
+          "tag_name": "waydroid-apks-latest",
+          "name": "Waydroid APK set (GHA-prebuilt)",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-06-24T15:45:04Z",
+          "published_at": "2026-06-24T16:01:40Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/waydroid-apks-latest",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/waydroid-apks-latest",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/waydroid-apks-latest",
+          "assets": [
+            {
+              "name": "waydroid-apks.tar.gz",
+              "size": 1662772637,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/waydroid-apks-latest/waydroid-apks.tar.gz",
+              "content_type": "application/x-gtar",
+              "updated_at": "2026-06-24T17:21:51Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "latest",
+          "name": "latest",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-06-03T14:10:58Z",
+          "published_at": "2026-06-03T14:14:27Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/latest",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/latest",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/latest",
+          "assets": [
+            {
+              "name": "Cloud-Comms-Hub.apk",
+              "size": 132294392,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Comms-Hub.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-07-01T10:44:47Z"
+            },
+            {
+              "name": "Cloud-IDE-Hub.apk",
+              "size": 29111617,
+              "download_count": 2,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-IDE-Hub.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-06-28T19:04:40Z"
+            },
+            {
+              "name": "Cloud-Nav-x86_64.apk",
+              "size": 19841945,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Nav-x86_64.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-06-28T19:05:09Z"
+            },
+            {
+              "name": "Cloud-Nav.apk",
+              "size": 19585116,
+              "download_count": 2,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Nav.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-06-28T19:05:26Z"
+            },
+            {
+              "name": "Cloud-SuperApp-x86_64.apk",
+              "size": 91022331,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp-x86_64.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-06-28T19:09:50Z"
+            },
+            {
+              "name": "Cloud-SuperApp.apk",
+              "size": 104281569,
+              "download_count": 2,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-06-28T19:10:42Z"
+            },
+            {
+              "name": "cloud-terminal.tar.zst",
+              "size": 5242931,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/cloud-terminal.tar.zst",
+              "content_type": "application/zstd",
+              "updated_at": "2026-06-28T18:52:22Z"
+            },
+            {
+              "name": "cloud-terminal.version",
+              "size": 8,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/cloud-terminal.version",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-06-28T18:52:22Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "octocode-0.12.2-hf",
+          "name": "octocode 0.12.2 with HuggingFace",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-03-24T11:25:55Z",
+          "published_at": "2026-03-24T12:47:35Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/octocode-0.12.2-hf",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/octocode-0.12.2-hf",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/octocode-0.12.2-hf",
+          "assets": [
+            {
+              "name": "octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
+              "size": 27050620,
+              "download_count": 628,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/octocode-0.12.2-hf/octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
+              "content_type": "application/x-gtar",
+              "updated_at": "2026-03-24T12:47:34Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
