@@ -38,7 +38,7 @@
 | [c3-analytics-api](https://github.com/users/diegonmarcos/packages/container/package/c3-analytics-api) | linux/amd64 | 137.5 MB | — | cloud | today |
 | [c3-analytics-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-analytics-api-binaries) | linux/amd64 | 137.5 MB | — | cloud | today |
 | [c3-analytics-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-analytics-api-configs) | linux/amd64 | 2.2 MB | — | cloud | today |
-| [c3-infra-api](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api) | linux/arm64 | 239.0 MB | — | cloud | 6 days ago |
+| [c3-infra-api](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api) | linux/arm64 | 239.0 MB | — | cloud | today |
 | [c3-infra-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-configs) | linux/arm64 | 1.9 MB | — | cloud | today |
 | [c3-infra-mcp](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp) | linux/arm64 | 355.0 MB | — | cloud | 6 days ago |
 | [c3-infra-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp-configs) | linux/arm64 | 1.9 MB | — | cloud | today |
@@ -241,7 +241,7 @@
 | [authelia-binaries](https://github.com/users/diegonmarcos/packages/container/package/authelia-binaries) | — | — | — | cloud | today |
 | [backup-borg-binaries](https://github.com/users/diegonmarcos/packages/container/package/backup-borg-binaries) | — | — | — | cloud | 7 days ago |
 | [backup-bup-binaries](https://github.com/users/diegonmarcos/packages/container/package/backup-bup-binaries) | — | — | — | cloud | 7 days ago |
-| [c3-infra-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-binaries) | — | — | — | cloud | 6 days ago |
+| [c3-infra-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-binaries) | — | — | — | cloud | today |
 | [c3-infra-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp-binaries) | — | — | — | cloud | 6 days ago |
 | [c3-public-api](https://github.com/users/diegonmarcos/packages/container/package/c3-public-api) | — | — | — | cloud | today |
 | [c3-public-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-public-api-binaries) | — | — | — | cloud | today |

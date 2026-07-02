@@ -458,7 +458,7 @@ docker pull ghcr.io/diegonmarcos/c3-analytics-api-configs:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api"><b>c3-infra-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 6 days ago · 173 tags · linux/arm64 · 239.0 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api"><b>c3-infra-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 173 tags · linux/arm64 · 239.0 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/c3-infra-api:latest
@@ -466,17 +466,17 @@ docker pull ghcr.io/diegonmarcos/c3-infra-api:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Jun 26, 2026 | [`978576413`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api/978576413) |
+| 🟢 | `latest` | Jul 2, 2026 | [`996291275`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api/996291275) |
 | 🔹 | `a6623bfdd6e4` | Apr 25, 2026 | [`821016370`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api/821016370) |
 | 🔹 | `aab9447c85a0` | Apr 25, 2026 | [`820972895`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api/820972895) |
 | 🔹 | `abc0d5024e06` | Apr 23, 2026 | [`817125355`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api/817125355) |
 | | *… +169 more SHA builds* | | |
-| ⚪ | *478 untagged image layers* | | |
+| ⚪ | *479 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-binaries"><b>c3-infra-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published 6 days ago · 1 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-binaries"><b>c3-infra-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published today · 1 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/c3-infra-api-binaries:latest
@@ -484,8 +484,8 @@ docker pull ghcr.io/diegonmarcos/c3-infra-api-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Jun 26, 2026 | [`978576793`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api-binaries/978576793) |
-| ⚪ | *13 untagged image layers* | | |
+| 🟢 | `latest` | Jul 2, 2026 | [`996291507`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api-binaries/996291507) |
+| ⚪ | *14 untagged image layers* | | |
 
 </details>
 
@@ -2839,7 +2839,7 @@ docker pull ghcr.io/diegonmarcos/nixhm-sudo-oci-analytics:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-mail"><b>nixhm-sudo-oci-mail</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 99 tags · linux/amd64 · 708.8 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-mail"><b>nixhm-sudo-oci-mail</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 100 tags · linux/amd64 · 708.8 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/nixhm-sudo-oci-mail:latest
@@ -2847,11 +2847,11 @@ docker pull ghcr.io/diegonmarcos/nixhm-sudo-oci-mail:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `8551d8c` `latest` | Jul 2, 2026 | [`996088300`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-mail/996088300) |
+| 🟢 | `355ed10` `latest` | Jul 2, 2026 | [`996281880`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-mail/996281880) |
+| 🔹 | `8551d8c` | Jul 2, 2026 | [`996088300`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-mail/996088300) |
 | 🔹 | `ad9574d` | Jul 2, 2026 | [`995985390`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-mail/995985390) |
 | 🔹 | `a34c9ac` | Jul 2, 2026 | [`995853765`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-mail/995853765) |
-| 🔹 | `0246844` | Jun 30, 2026 | [`989208191`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-mail/989208191) |
-| | *… +95 more SHA builds* | | |
+| | *… +96 more SHA builds* | | |
 | ⚪ | *42 untagged image layers* | | |
 
 </details>
@@ -4122,7 +4122,7 @@ docker pull ghcr.io/diegonmarcos/cloud-builder-x-deb-nixhm:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-dialer"><b>cloud-comms-dialer</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 6 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-dialer"><b>cloud-comms-dialer</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 7 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-comms-dialer:latest
@@ -4130,18 +4130,19 @@ docker pull ghcr.io/diegonmarcos/cloud-comms-dialer:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-e7fc6f7c` | Jul 2, 2026 | [`996285018`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-dialer/996285018) |
+| 🟢 | `latest` | Jul 2, 2026 | [`996285003`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-dialer/996285003) |
 | 🏷️ | `sha-c27e4396` | Jul 2, 2026 | [`994127173`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-dialer/994127173) |
-| 🟢 | `latest` | Jul 2, 2026 | [`994127150`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-dialer/994127150) |
 | 🏷️ | `sha-74ae58ef` | Jun 28, 2026 | [`982667456`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-dialer/982667456) |
 | 🏷️ | `sha-a49b6de6` | Jun 27, 2026 | [`981104653`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-dialer/981104653) |
 | 🏷️ | `sha-4db5450f` | Jun 27, 2026 | [`980496981`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-dialer/980496981) |
 | 🏷️ | `sha-f27fb8c0` | Jun 27, 2026 | [`980053523`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-dialer/980053523) |
-| ⚪ | *4 untagged image layers* | | |
+| ⚪ | *5 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-hub"><b>cloud-comms-hub</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 58 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-hub"><b>cloud-comms-hub</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 59 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-comms-hub:latest
@@ -4149,9 +4150,10 @@ docker pull ghcr.io/diegonmarcos/cloud-comms-hub:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🏷️ | `v0.1.0-dev` | Jul 2, 2026 | [`994356102`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-hub/994356102) |
+| 🏷️ | `v0.1.0-dev` | Jul 2, 2026 | [`996280250`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-hub/996280250) |
+| 🏷️ | `sha-e7fc6f7c` | Jul 2, 2026 | [`996280237`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-hub/996280237) |
+| 🟢 | `latest` | Jul 2, 2026 | [`996280223`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-hub/996280223) |
 | 🏷️ | `sha-2e208502` | Jul 2, 2026 | [`994356075`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-hub/994356075) |
-| 🟢 | `latest` | Jul 2, 2026 | [`994356049`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-hub/994356049) |
 | 🏷️ | `sha-9437b8ec` | Jul 2, 2026 | [`994166988`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-hub/994166988) |
 | 🏷️ | `sha-a9157054` | Jul 2, 2026 | [`994143302`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-hub/994143302) |
 | 🏷️ | `sha-b9ff84e3` | Jul 2, 2026 | [`994084337`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-hub/994084337) |
@@ -4207,12 +4209,12 @@ docker pull ghcr.io/diegonmarcos/cloud-comms-hub:latest
 | 🏷️ | `sha-652a248d` | Jun 11, 2026 | [`937249861`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-hub/937249861) |
 | 🏷️ | `sha-82388052` | Jun 11, 2026 | [`936925891`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-hub/936925891) |
 | 🏷️ | `sha-1517a935` | Jun 11, 2026 | [`936460080`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-hub/936460080) |
-| ⚪ | *136 untagged image layers* | | |
+| ⚪ | *138 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-mail"><b>cloud-comms-mail</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 34 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-mail"><b>cloud-comms-mail</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 35 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-comms-mail:latest
@@ -4220,8 +4222,9 @@ docker pull ghcr.io/diegonmarcos/cloud-comms-mail:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-e7fc6f7c` | Jul 2, 2026 | [`996290377`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/996290377) |
+| 🟢 | `latest` | Jul 2, 2026 | [`996290367`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/996290367) |
 | 🏷️ | `sha-2e208502` | Jul 2, 2026 | [`994372070`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/994372070) |
-| 🟢 | `latest` | Jul 2, 2026 | [`994372031`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/994372031) |
 | 🏷️ | `sha-9437b8ec` | Jul 2, 2026 | [`994182331`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/994182331) |
 | 🏷️ | `sha-da362183` | Jul 2, 2026 | [`994141570`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/994141570) |
 | 🏷️ | `sha-b9ff84e3` | Jul 2, 2026 | [`994098982`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/994098982) |
@@ -4254,7 +4257,7 @@ docker pull ghcr.io/diegonmarcos/cloud-comms-mail:latest
 | 🏷️ | `sha-8045c55b` | Jun 12, 2026 | [`939582433`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/939582433) |
 | 🏷️ | `sha-a4052484` | Jun 12, 2026 | [`939534131`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/939534131) |
 | 🏷️ | `sha-94cafd78` | Jun 12, 2026 | [`939527946`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/939527946) |
-| ⚪ | *36 untagged image layers* | | |
+| ⚪ | *37 untagged image layers* | | |
 
 </details>
 

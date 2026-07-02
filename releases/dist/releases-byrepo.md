@@ -3,17 +3,17 @@
   <img src="https://img.shields.io/badge/%F0%9F%93%81%20By%20Repo-2f81f7?style=for-the-badge" alt="By Repo" height="28">
 </p>
 
-<p align="center"><sub><b>4</b> releases · <b>693</b> downloads</sub></p>
+<p align="center"><sub><b>4</b> releases · <b>695</b> downloads</sub></p>
 
 # 🚀 Releases — By Repository
 
 ---
 
-### 📁 [tools](https://github.com/diegonmarcos/tools/releases) <sup>1 · 42 downloads</sup>
+### 📁 [tools](https://github.com/diegonmarcos/tools/releases) <sup>1 · 44 downloads</sup>
 
 | Release | Tag | State | Assets | Downloads | Published |
 |:---|:---|:---|:---|:---|:---|
-| [octocode 0.12.2 (fastembed+huggingface+graphrag)](https://github.com/diegonmarcos/tools/releases/tag/octocode-v0.12.2-fastembed) | `octocode-v0.12.2-fastembed` | latest | 1 | 42 | 3 months ago |
+| [octocode 0.12.2 (fastembed+huggingface+graphrag)](https://github.com/diegonmarcos/tools/releases/tag/octocode-v0.12.2-fastembed) | `octocode-v0.12.2-fastembed` | latest | 1 | 44 | 3 months ago |
 
 ---
 
@@ -22,7 +22,7 @@
 | Release | Tag | State | Assets | Downloads | Published |
 |:---|:---|:---|:---|:---|:---|
 | [Waydroid APK set (GHA-prebuilt)](https://github.com/diegonmarcos/unix/releases/tag/waydroid-apks-latest) | `waydroid-apks-latest` | latest | 1 | 0 | 8 days ago |
-| [latest](https://github.com/diegonmarcos/unix/releases/tag/latest) | `latest` | latest | 8 | 9 | 29 days ago |
+| [latest](https://github.com/diegonmarcos/unix/releases/tag/latest) | `latest` | latest | 10 | 9 | 29 days ago |
 | [octocode 0.12.2 with HuggingFace](https://github.com/diegonmarcos/unix/releases/tag/octocode-0.12.2-hf) | `octocode-0.12.2-hf` | latest | 1 | 642 | 3 months ago |
 
 ---

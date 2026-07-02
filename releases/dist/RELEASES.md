@@ -3,7 +3,7 @@
   <a href="releases-byrepo.md"><img src="https://img.shields.io/badge/%F0%9F%93%81%20By%20Repo-30363d?style=for-the-badge" alt="By Repo" height="28"></a>
 </p>
 
-<p align="center"><sub><b>4</b> releases · <b>693</b> downloads</sub></p>
+<p align="center"><sub><b>4</b> releases · <b>695</b> downloads</sub></p>
 
 ```
         ╔══════════════════════════════════════════════════╗
@@ -25,14 +25,14 @@
 
 ---
 
-### 📁 <a href="https://github.com/diegonmarcos/tools/releases">tools</a> &nbsp;<sup>1 release · 42 downloads</sup>
+### 📁 <a href="https://github.com/diegonmarcos/tools/releases">tools</a> &nbsp;<sup>1 release · 44 downloads</sup>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/tools/releases/tag/octocode-v0.12.2-fastembed"><b>octocode 0.12.2 (fastembed+huggingface+graphrag)</b></a> &nbsp;<code>octocode-v0.12.2-fastembed</code> &nbsp;<sub>Published 3 months ago · 1 asset · 42 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/tools/releases/tag/octocode-v0.12.2-fastembed"><b>octocode 0.12.2 (fastembed+huggingface+graphrag)</b></a> &nbsp;<code>octocode-v0.12.2-fastembed</code> &nbsp;<sub>Published 3 months ago · 1 asset · 44 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`octocode-0.12.2-fastembed-x86_64`](https://github.com/diegonmarcos/tools/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64) | 129.0 MB | 42 | Mar 26, 2026 |
+| [`octocode-0.12.2-fastembed-x86_64`](https://github.com/diegonmarcos/tools/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64) | 129.0 MB | 44 | Mar 26, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/tools/archive/refs/tags/octocode-v0.12.2-fastembed.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/tools/archive/refs/tags/octocode-v0.12.2-fastembed.tar.gz)</sub>
 
@@ -54,14 +54,16 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/latest"><b>latest</b></a> &nbsp;<code>latest</code> &nbsp;<sub>Published 29 days ago · 8 assets · 9 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/latest"><b>latest</b></a> &nbsp;<code>latest</code> &nbsp;<sub>Published 29 days ago · 10 assets · 9 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
 | [`Cloud-IDE-Hub.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-IDE-Hub.apk) | 27.9 MB | 4 | Jul 2, 2026 |
 | [`Cloud-Nav-x86_64.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Nav-x86_64.apk) | 19.0 MB | 4 | Jul 2, 2026 |
 | [`Cloud-Nav.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Nav.apk) | 18.8 MB | 1 | Jul 2, 2026 |
+| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/cloud-comms-dialer.apk) | 9.1 MB | 0 | Jul 2, 2026 |
 | [`Cloud-Comms-Hub.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Comms-Hub.apk) | 126.5 MB | 0 | Jul 2, 2026 |
+| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/cloud-comms-mail.apk) | 27.8 MB | 0 | Jul 2, 2026 |
 | [`Cloud-SuperApp-x86_64.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp-x86_64.apk) | 87.6 MB | 0 | Jul 2, 2026 |
 | [`Cloud-SuperApp.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp.apk) | 100.2 MB | 0 | Jul 2, 2026 |
 | [`cloud-terminal.tar.zst`](https://github.com/diegonmarcos/unix/releases/download/latest/cloud-terminal.tar.zst) | 5.0 MB | 0 | Jun 28, 2026 |
