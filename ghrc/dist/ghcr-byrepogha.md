@@ -7,7 +7,7 @@
   <a href="ghcr-byrepocodespc.md"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20By%20Codespace-30363d?style=for-the-badge" alt="By Codespace" height="28"></a>
 </p>
 
-<p align="center"><sub><b>296</b> packages · <b>91.75 GB</b> total</sub></p>
+<p align="center"><sub><b>297</b> packages · <b>92.35 GB</b> total</sub></p>
 
 # ⚙️ Packages — By GitHub Actions Workflow
 
@@ -16,25 +16,25 @@
 ### 📁 cloud <sup>3 workflows</sup>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship.yml"><b>Ship</b></a> &nbsp;<sub>5 packages · 36.4 MB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship.yml"><b>Ship</b></a> &nbsp;<sub>5 packages · 72.4 MB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | 3.7 MB | today |
-| [fin-api](https://github.com/users/diegonmarcos/packages/container/package/fin-api) | private | — | 5 days ago |
-| [gha-runner](https://github.com/users/diegonmarcos/packages/container/package/gha-runner) | private | — | 3 days ago |
+| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | 39.6 MB | today |
+| [fin-api](https://github.com/users/diegonmarcos/packages/container/package/fin-api) | private | — | 6 days ago |
+| [gha-runner](https://github.com/users/diegonmarcos/packages/container/package/gha-runner) | private | — | today |
 | [http-to-smtp-proxy-api](https://github.com/users/diegonmarcos/packages/container/package/http-to-smtp-proxy-api) | private | — | today |
-| [ntfy](https://github.com/users/diegonmarcos/packages/container/package/ntfy) | public | 32.8 MB | 6 days ago |
+| [ntfy](https://github.com/users/diegonmarcos/packages/container/package/ntfy) | public | 32.8 MB | 7 days ago |
 
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship-gen-configs.yml"><b>Ship → gen-configs (cloud-data)</b></a> &nbsp;<sub>4 packages · 39.8 MB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship-gen-configs.yml"><b>Ship → gen-configs (cloud-data)</b></a> &nbsp;<sub>4 packages · 75.8 MB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
 | [authelia](https://github.com/users/diegonmarcos/packages/container/package/authelia) | public | 24.5 MB | today |
-| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | 3.7 MB | today |
+| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | 39.6 MB | today |
 | [hickory-dns](https://github.com/users/diegonmarcos/packages/container/package/hickory-dns) | public | 11.5 MB | today |
 | [vm-pilot](https://github.com/users/diegonmarcos/packages/container/package/vm-pilot) | public | 69 KB | 2 months ago |
 
@@ -54,11 +54,11 @@
 ### 📁 cloud-data <sup>3 workflows</sup>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-data/blob/main/.github/workflows/ship-reports.yml"><b>Ship → Reports image</b></a> &nbsp;<sub>1 package · 2.20 GB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-data/blob/main/.github/workflows/ship-reports.yml"><b>Ship → Reports image</b></a> &nbsp;<sub>1 package · 2.30 GB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.20 GB | 17 days ago |
+| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.30 GB | today |
 
 </details>
 
@@ -96,7 +96,7 @@
 
 ---
 
-### 📁 unix <sup>10 workflows</sup>
+### 📁 unix <sup>11 workflows</sup>
 
 <details>
 <summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-boot-cache.yml"><b>Ship → /boot kernel cache (GHCR public)</b></a> &nbsp;<sub>1 package · —</sub></summary>
@@ -108,13 +108,13 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-builders.yml"><b>Ship → Builder images (amd64 on GHA — arm64 stays on laptop until self-hosted oci-apps runner exists)</b></a> &nbsp;<sub>3 packages · 2.75 GB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-builders.yml"><b>Ship → Builder images (TWO NATIVE RUNNERS: amd64 on GHA, arm64 on oci-apps self-hosted → multi-arch :latest)</b></a> &nbsp;<sub>3 packages · 3.01 GB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [c3-infra-api](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api) | public | 239.0 MB | 5 days ago |
-| [cloud-builder-x-deb-apt](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-apt) | public | 324.1 MB | 1 month ago |
-| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.20 GB | 17 days ago |
+| [cloud-builder-x-deb-apt](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-apt) | public | 724.1 MB | today |
+| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.30 GB | today |
+| [gha-runner](https://github.com/users/diegonmarcos/packages/container/package/gha-runner) | private | — | today |
 
 </details>
 
@@ -162,11 +162,11 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-containers.yml"><b>Ship → Container images</b></a> &nbsp;<sub>1 package · 2.20 GB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-containers.yml"><b>Ship → Container images</b></a> &nbsp;<sub>1 package · 2.30 GB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.20 GB | 17 days ago |
+| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.30 GB | today |
 
 </details>
 
@@ -190,6 +190,15 @@
 </details>
 
 <details>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-redroid-image.yml"><b>Ship → Redroid baked image (apps + layout + theme baked into GHCR image)</b></a> &nbsp;<sub>1 package · —</sub></summary>
+
+| Package | Visibility | Size | Updated |
+|:---|:---|:---|:---|
+| [redroid-cloud](https://github.com/users/diegonmarcos/packages/container/package/redroid-cloud) | public | — | today |
+
+</details>
+
+<details>
 <summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_nix-flakes_desktop_nixos.yaml"><b>Ship → Desktop NixOS closure (build remotely, never freeze the laptop)</b></a> &nbsp;<sub>1 package · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
@@ -200,7 +209,7 @@
 
 ---
 
-### 🚫 No GHA workflow <sup>274</sup>
+### 🚫 No GHA workflow <sup>275</sup>
 
 | Package | Visibility | Size | Source Repo |
 |:---|:---|:---|:---|
@@ -217,9 +226,10 @@
 | [backup-gitea](https://github.com/users/diegonmarcos/packages/container/package/backup-gitea) | public | 72.0 MB | cloud |
 | [backup-gitea-configs](https://github.com/users/diegonmarcos/packages/container/package/backup-gitea-configs) | public | 2.2 MB | cloud |
 | [bd-cloud-builder-x-configs](https://github.com/users/diegonmarcos/packages/container/package/bd-cloud-builder-x-configs) | public | 2.2 MB | unix |
-| [c3-analytics-api](https://github.com/users/diegonmarcos/packages/container/package/c3-analytics-api) | public | 113.7 MB | cloud |
-| [c3-analytics-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-analytics-api-binaries) | public | 113.7 MB | cloud |
+| [c3-analytics-api](https://github.com/users/diegonmarcos/packages/container/package/c3-analytics-api) | public | 137.5 MB | cloud |
+| [c3-analytics-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-analytics-api-binaries) | public | 137.5 MB | cloud |
 | [c3-analytics-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-analytics-api-configs) | public | 2.2 MB | cloud |
+| [c3-infra-api](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api) | public | 239.0 MB | cloud |
 | [c3-infra-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-binaries) | private | — | cloud |
 | [c3-infra-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-configs) | public | 1.9 MB | cloud |
 | [c3-infra-mcp](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp) | public | 355.0 MB | cloud |
@@ -237,7 +247,7 @@
 | [caddy-binaries](https://github.com/users/diegonmarcos/packages/container/package/caddy-binaries) | private | — | cloud |
 | [caddy-configs](https://github.com/users/diegonmarcos/packages/container/package/caddy-configs) | public | 2.2 MB | cloud |
 | [caddy-custom](https://github.com/users/diegonmarcos/packages/container/package/caddy-custom) | public | 38.8 MB | cloud |
-| [caddy-l4](https://github.com/users/diegonmarcos/packages/container/package/caddy-l4) | public | 3.7 MB | cloud |
+| [caddy-l4](https://github.com/users/diegonmarcos/packages/container/package/caddy-l4) | public | 22.8 MB | cloud |
 | [caddy-l4-binaries](https://github.com/users/diegonmarcos/packages/container/package/caddy-l4-binaries) | private | — | cloud |
 | [caddy-l4-public-configs](https://github.com/users/diegonmarcos/packages/container/package/caddy-l4-public-configs) | public | 2.2 MB | cloud |
 | [caddy-public](https://github.com/users/diegonmarcos/packages/container/package/caddy-public) | private | — | cloud |
@@ -293,7 +303,7 @@
 | [cypht-configs](https://github.com/users/diegonmarcos/packages/container/package/cypht-configs) | public | 2.2 MB | cloud |
 | [dagu](https://github.com/users/diegonmarcos/packages/container/package/dagu) | public | 248.5 MB | cloud |
 | [dagu-binaries](https://github.com/users/diegonmarcos/packages/container/package/dagu-binaries) | private | — | cloud |
-| [dagu-configs](https://github.com/users/diegonmarcos/packages/container/package/dagu-configs) | public | 2.2 MB | cloud |
+| [dagu-configs](https://github.com/users/diegonmarcos/packages/container/package/dagu-configs) | public | 1.9 MB | cloud |
 | [dbgate](https://github.com/users/diegonmarcos/packages/container/package/dbgate) | public | 442.3 MB | cloud |
 | [dbgate-binaries](https://github.com/users/diegonmarcos/packages/container/package/dbgate-binaries) | private | — | cloud |
 | [dbgate-configs](https://github.com/users/diegonmarcos/packages/container/package/dbgate-configs) | public | 1.9 MB | cloud |
@@ -390,10 +400,10 @@
 | [news-gdelt](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt) | public | 196.3 MB | cloud |
 | [news-gdelt-binaries](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt-binaries) | private | — | cloud |
 | [news-gdelt-configs](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt-configs) | public | 1.9 MB | cloud |
-| [nixhm-sudo-gcp-proxy](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-gcp-proxy) | public | 733.2 MB | cloud |
+| [nixhm-sudo-gcp-proxy](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-gcp-proxy) | public | 733.3 MB | cloud |
 | [nixhm-sudo-gcp-t4](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-gcp-t4) | public | 2.44 GB | cloud |
 | [nixhm-sudo-oci-analytics](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-analytics) | public | 708.7 MB | cloud |
-| [nixhm-sudo-oci-mail](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-mail) | public | 708.9 MB | cloud |
+| [nixhm-sudo-oci-mail](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-mail) | public | 708.8 MB | cloud |
 | [nocodb](https://github.com/users/diegonmarcos/packages/container/package/nocodb) | public | 397.8 MB | cloud |
 | [nocodb-configs](https://github.com/users/diegonmarcos/packages/container/package/nocodb-configs) | public | 2.2 MB | cloud |
 | [nocodb-db](https://github.com/users/diegonmarcos/packages/container/package/nocodb-db) | public | 147.9 MB | cloud |

@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%93%81%20By%20Repo-2f81f7?style=for-the-badge" alt="By Repo" height="28">
 </p>
 
-<p align="center"><sub><b>4</b> releases · <b>697</b> downloads</sub></p>
+<p align="center"><sub><b>4</b> releases · <b>693</b> downloads</sub></p>
 
 # 🚀 Releases — By Repository
 
@@ -17,14 +17,14 @@
 
 ---
 
-### 📁 [unix](https://github.com/diegonmarcos/unix/releases) <sup>3 · 655 downloads</sup>
+### 📁 [unix](https://github.com/diegonmarcos/unix/releases) <sup>3 · 651 downloads</sup>
 
 | Release | Tag | State | Assets | Downloads | Published |
 |:---|:---|:---|:---|:---|:---|
 | [Waydroid APK set (GHA-prebuilt)](https://github.com/diegonmarcos/unix/releases/tag/waydroid-apks-latest) | `waydroid-apks-latest` | latest | 1 | 0 | 8 days ago |
-| [latest](https://github.com/diegonmarcos/unix/releases/tag/latest) | `latest` | latest | 8 | 13 | 29 days ago |
+| [latest](https://github.com/diegonmarcos/unix/releases/tag/latest) | `latest` | latest | 8 | 9 | 29 days ago |
 | [octocode 0.12.2 with HuggingFace](https://github.com/diegonmarcos/unix/releases/tag/octocode-0.12.2-hf) | `octocode-0.12.2-hf` | latest | 1 | 642 | 3 months ago |
 
 ---
 
-<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Jul 3, 2026</sub>
+<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Jul 2, 2026</sub>

@@ -3,7 +3,7 @@
   <a href="releases-byrepo.md"><img src="https://img.shields.io/badge/%F0%9F%93%81%20By%20Repo-30363d?style=for-the-badge" alt="By Repo" height="28"></a>
 </p>
 
-<p align="center"><sub><b>4</b> releases · <b>697</b> downloads</sub></p>
+<p align="center"><sub><b>4</b> releases · <b>693</b> downloads</sub></p>
 
 ```
         ╔══════════════════════════════════════════════════╗
@@ -40,7 +40,7 @@
 
 ---
 
-### 📁 <a href="https://github.com/diegonmarcos/unix/releases">unix</a> &nbsp;<sup>3 releases · 655 downloads</sup>
+### 📁 <a href="https://github.com/diegonmarcos/unix/releases">unix</a> &nbsp;<sup>3 releases · 651 downloads</sup>
 
 <details>
 <summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/waydroid-apks-latest"><b>Waydroid APK set (GHA-prebuilt)</b></a> &nbsp;<code>waydroid-apks-latest</code> &nbsp;<sub>Published 8 days ago · 1 asset</sub></summary>
@@ -54,14 +54,14 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/latest"><b>latest</b></a> &nbsp;<code>latest</code> &nbsp;<sub>Published 29 days ago · 8 assets · 13 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/latest"><b>latest</b></a> &nbsp;<code>latest</code> &nbsp;<sub>Published 29 days ago · 8 assets · 9 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`Cloud-Comms-Hub.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Comms-Hub.apk) | 126.5 MB | 4 | Jul 2, 2026 |
 | [`Cloud-IDE-Hub.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-IDE-Hub.apk) | 27.9 MB | 4 | Jul 2, 2026 |
 | [`Cloud-Nav-x86_64.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Nav-x86_64.apk) | 19.0 MB | 4 | Jul 2, 2026 |
 | [`Cloud-Nav.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Nav.apk) | 18.8 MB | 1 | Jul 2, 2026 |
+| [`Cloud-Comms-Hub.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Comms-Hub.apk) | 126.5 MB | 0 | Jul 2, 2026 |
 | [`Cloud-SuperApp-x86_64.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp-x86_64.apk) | 87.6 MB | 0 | Jul 2, 2026 |
 | [`Cloud-SuperApp.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp.apk) | 100.2 MB | 0 | Jul 2, 2026 |
 | [`cloud-terminal.tar.zst`](https://github.com/diegonmarcos/unix/releases/download/latest/cloud-terminal.tar.zst) | 5.0 MB | 0 | Jun 28, 2026 |
@@ -84,4 +84,4 @@
 
 ---
 
-<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Jul 3, 2026</sub>
+<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Jul 2, 2026</sub>

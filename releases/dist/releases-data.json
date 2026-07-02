@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-02T22:01:05.025Z",
+  "fetched_at": "2026-07-02T22:04:38.250Z",
   "owner": "diegonmarcos",
   "total_releases": 4,
   "total_assets": 11,
-  "total_downloads": 697,
+  "total_downloads": 693,
   "repos": {
     "tools": {
       "repo_url": "https://github.com/diegonmarcos/tools",
@@ -69,10 +69,10 @@
             {
               "name": "Cloud-Comms-Hub.apk",
               "size": 132688468,
-              "download_count": 4,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Comms-Hub.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-02T10:48:39Z"
+              "updated_at": "2026-07-02T22:04:34Z"
             },
             {
               "name": "Cloud-IDE-Hub.apk",
