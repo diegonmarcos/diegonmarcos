@@ -7,7 +7,7 @@
   <a href="ghcr-byrepocodespc.md"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20By%20Codespace-30363d?style=for-the-badge" alt="By Codespace" height="28"></a>
 </p>
 
-<p align="center"><sub><b>296</b> packages · <b>91.78 GB</b> total</sub></p>
+<p align="center"><sub><b>296</b> packages · <b>91.75 GB</b> total</sub></p>
 
 # ⚙️ Packages — By GitHub Actions Workflow
 
@@ -16,26 +16,26 @@
 ### 📁 cloud <sup>3 workflows</sup>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship.yml"><b>Ship</b></a> &nbsp;<sub>5 packages · 72.4 MB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship.yml"><b>Ship</b></a> &nbsp;<sub>5 packages · 36.4 MB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | 39.6 MB | 4 days ago |
-| [fin-api](https://github.com/users/diegonmarcos/packages/container/package/fin-api) | private | — | 4 days ago |
-| [gha-runner](https://github.com/users/diegonmarcos/packages/container/package/gha-runner) | private | — | 2 days ago |
-| [http-to-smtp-proxy-api](https://github.com/users/diegonmarcos/packages/container/package/http-to-smtp-proxy-api) | private | — | 4 days ago |
-| [ntfy](https://github.com/users/diegonmarcos/packages/container/package/ntfy) | public | 32.8 MB | 5 days ago |
+| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | 3.7 MB | today |
+| [fin-api](https://github.com/users/diegonmarcos/packages/container/package/fin-api) | private | — | 5 days ago |
+| [gha-runner](https://github.com/users/diegonmarcos/packages/container/package/gha-runner) | private | — | 3 days ago |
+| [http-to-smtp-proxy-api](https://github.com/users/diegonmarcos/packages/container/package/http-to-smtp-proxy-api) | private | — | today |
+| [ntfy](https://github.com/users/diegonmarcos/packages/container/package/ntfy) | public | 32.8 MB | 6 days ago |
 
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship-gen-configs.yml"><b>Ship → gen-configs (cloud-data)</b></a> &nbsp;<sub>4 packages · 75.8 MB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship-gen-configs.yml"><b>Ship → gen-configs (cloud-data)</b></a> &nbsp;<sub>4 packages · 39.8 MB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [authelia](https://github.com/users/diegonmarcos/packages/container/package/authelia) | public | 24.5 MB | 4 days ago |
-| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | 39.6 MB | 4 days ago |
-| [hickory-dns](https://github.com/users/diegonmarcos/packages/container/package/hickory-dns) | public | 11.5 MB | 4 days ago |
+| [authelia](https://github.com/users/diegonmarcos/packages/container/package/authelia) | public | 24.5 MB | today |
+| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | 3.7 MB | today |
+| [hickory-dns](https://github.com/users/diegonmarcos/packages/container/package/hickory-dns) | public | 11.5 MB | today |
 | [vm-pilot](https://github.com/users/diegonmarcos/packages/container/package/vm-pilot) | public | 69 KB | 2 months ago |
 
 </details>
@@ -58,7 +58,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.20 GB | 16 days ago |
+| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.20 GB | 17 days ago |
 
 </details>
 
@@ -67,7 +67,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-data-reports](https://github.com/users/diegonmarcos/packages/container/package/cloud-data-reports) | public | 201.7 MB | 6 days ago |
+| [cloud-data-reports](https://github.com/users/diegonmarcos/packages/container/package/cloud-data-reports) | public | 201.7 MB | 7 days ago |
 | [maddy](https://github.com/users/diegonmarcos/packages/container/package/maddy) | public | 28.2 MB | 2 months ago |
 
 </details>
@@ -77,7 +77,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-data-reports](https://github.com/users/diegonmarcos/packages/container/package/cloud-data-reports) | public | 201.7 MB | 6 days ago |
+| [cloud-data-reports](https://github.com/users/diegonmarcos/packages/container/package/cloud-data-reports) | public | 201.7 MB | 7 days ago |
 
 </details>
 
@@ -90,20 +90,20 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [redis](https://github.com/users/diegonmarcos/packages/container/package/redis) | public | 35.9 MB | 4 days ago |
+| [redis](https://github.com/users/diegonmarcos/packages/container/package/redis) | public | 35.9 MB | today |
 
 </details>
 
 ---
 
-### 📁 unix <sup>11 workflows</sup>
+### 📁 unix <sup>10 workflows</sup>
 
 <details>
 <summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-boot-cache.yml"><b>Ship → /boot kernel cache (GHCR public)</b></a> &nbsp;<sub>1 package · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | — | 2 days ago |
+| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | — | today |
 
 </details>
 
@@ -112,9 +112,9 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [c3-infra-api](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api) | public | 239.0 MB | 4 days ago |
+| [c3-infra-api](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api) | public | 239.0 MB | 5 days ago |
 | [cloud-builder-x-deb-apt](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-apt) | public | 324.1 MB | 1 month ago |
-| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.20 GB | 16 days ago |
+| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.20 GB | 17 days ago |
 
 </details>
 
@@ -123,8 +123,8 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-comms-hub](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-hub) | public | — | 2 days ago |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 2 days ago |
+| [cloud-comms-hub](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-hub) | public | — | today |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 1 month ago |
 
 </details>
@@ -134,8 +134,8 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-ide-hub](https://github.com/users/diegonmarcos/packages/container/package/cloud-ide-hub) | public | — | 2 days ago |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 2 days ago |
+| [cloud-ide-hub](https://github.com/users/diegonmarcos/packages/container/package/cloud-ide-hub) | public | — | today |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 1 month ago |
 
 </details>
@@ -145,8 +145,8 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-nav](https://github.com/users/diegonmarcos/packages/container/package/cloud-nav) | public | — | 2 days ago |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 2 days ago |
+| [cloud-nav](https://github.com/users/diegonmarcos/packages/container/package/cloud-nav) | public | — | today |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 1 month ago |
 
 </details>
@@ -156,17 +156,8 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 2 days ago |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 1 month ago |
-
-</details>
-
-<details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-terminal.yml"><b>ship-cloud-terminal</b></a> &nbsp;<sub>1 package · —</sub></summary>
-
-| Package | Visibility | Size | Updated |
-|:---|:---|:---|:---|
-| [cloud-terminal](https://github.com/users/diegonmarcos/packages/container/package/cloud-terminal) | public | — | 2 days ago |
 
 </details>
 
@@ -175,7 +166,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.20 GB | 16 days ago |
+| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.20 GB | 17 days ago |
 
 </details>
 
@@ -184,7 +175,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 2 days ago |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 1 month ago |
 
 </details>
@@ -194,7 +185,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [kali-linux](https://github.com/users/diegonmarcos/packages/container/package/kali-linux) | public | 14.20 GB | 1 month ago |
+| [kali-linux](https://github.com/users/diegonmarcos/packages/container/package/kali-linux) | public | 14.20 GB | 2 months ago |
 
 </details>
 
@@ -203,13 +194,13 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | — | 2 days ago |
+| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | — | today |
 
 </details>
 
 ---
 
-### 🚫 No GHA workflow <sup>273</sup>
+### 🚫 No GHA workflow <sup>274</sup>
 
 | Package | Visibility | Size | Source Repo |
 |:---|:---|:---|:---|
@@ -277,6 +268,7 @@
 | [cloud-spec](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec) | public | 1.9 MB | cloud |
 | [cloud-spec-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec-binaries) | private | — | cloud |
 | [cloud-spec-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec-configs) | public | 3.1 MB | cloud |
+| [cloud-terminal](https://github.com/users/diegonmarcos/packages/container/package/cloud-terminal) | public | — | unix |
 | [code-server](https://github.com/users/diegonmarcos/packages/container/package/code-server) | public | 232.2 MB | cloud |
 | [code-server-binaries](https://github.com/users/diegonmarcos/packages/container/package/code-server-binaries) | private | — | cloud |
 | [code-server-configs](https://github.com/users/diegonmarcos/packages/container/package/code-server-configs) | public | 1.9 MB | cloud |
@@ -489,4 +481,4 @@
 
 ---
 
-<sub>Auto-generated from GHCR API · <code>ghrc/src/fetch.ts</code> + <code>ghrc/src/generate-md.ts</code> · Jul 1, 2026</sub>
+<sub>Auto-generated from GHCR API · <code>ghrc/src/fetch.ts</code> + <code>ghrc/src/generate-md.ts</code> · Jul 2, 2026</sub>
