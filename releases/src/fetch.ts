@@ -113,9 +113,11 @@ function fetchReleases(fullName: string): Release[] {
 function main() {
   console.log(`Fetching repos for ${USER}...`);
 
+  // Authenticated endpoint: sees ALL owned repos incl. private (the
+  // users/<name>/repos endpoint silently returns only public repos).
   const repos = gh<
     Array<{ name: string; full_name: string; html_url: string }>
-  >(`users/${USER}/repos?per_page=100&type=owner`);
+  >(`user/repos?per_page=100&affiliation=owner`);
 
   console.log(`Found ${repos.length} repos. Fetching releases...`);
 
