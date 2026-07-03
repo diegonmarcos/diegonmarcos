@@ -7,7 +7,7 @@
   <a href="ghcr-byrepocodespc.md"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20By%20Codespace-30363d?style=for-the-badge" alt="By Codespace" height="28"></a>
 </p>
 
-<p align="center"><sub><b>297</b> packages · <b>92.35 GB</b> total</sub></p>
+<p align="center"><sub><b>298</b> packages · <b>92.58 GB</b> total</sub></p>
 
 # ⚙️ Packages — By GitHub Actions Workflow
 
@@ -21,10 +21,10 @@
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
 | [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | 39.6 MB | today |
-| [fin-api](https://github.com/users/diegonmarcos/packages/container/package/fin-api) | private | — | 6 days ago |
+| [fin-api](https://github.com/users/diegonmarcos/packages/container/package/fin-api) | private | — | today |
 | [gha-runner](https://github.com/users/diegonmarcos/packages/container/package/gha-runner) | private | — | today |
 | [http-to-smtp-proxy-api](https://github.com/users/diegonmarcos/packages/container/package/http-to-smtp-proxy-api) | private | — | today |
-| [ntfy](https://github.com/users/diegonmarcos/packages/container/package/ntfy) | public | 32.8 MB | 7 days ago |
+| [ntfy](https://github.com/users/diegonmarcos/packages/container/package/ntfy) | public | 32.8 MB | today |
 
 </details>
 
@@ -67,7 +67,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-data-reports](https://github.com/users/diegonmarcos/packages/container/package/cloud-data-reports) | public | 201.7 MB | 7 days ago |
+| [cloud-data-reports](https://github.com/users/diegonmarcos/packages/container/package/cloud-data-reports) | public | 201.7 MB | 8 days ago |
 | [maddy](https://github.com/users/diegonmarcos/packages/container/package/maddy) | public | 28.2 MB | 2 months ago |
 
 </details>
@@ -77,7 +77,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-data-reports](https://github.com/users/diegonmarcos/packages/container/package/cloud-data-reports) | public | 201.7 MB | 7 days ago |
+| [cloud-data-reports](https://github.com/users/diegonmarcos/packages/container/package/cloud-data-reports) | public | 201.7 MB | 8 days ago |
 
 </details>
 
@@ -209,7 +209,7 @@
 
 ---
 
-### 🚫 No GHA workflow <sup>275</sup>
+### 🚫 No GHA workflow <sup>276</sup>
 
 | Package | Visibility | Size | Source Repo |
 |:---|:---|:---|:---|
@@ -232,7 +232,7 @@
 | [c3-infra-api](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api) | public | 239.0 MB | cloud |
 | [c3-infra-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-binaries) | private | — | cloud |
 | [c3-infra-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-configs) | public | 1.9 MB | cloud |
-| [c3-infra-mcp](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp) | public | 355.0 MB | cloud |
+| [c3-infra-mcp](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp) | public | 534.0 MB | cloud |
 | [c3-infra-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp-binaries) | private | — | cloud |
 | [c3-infra-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp-configs) | public | 1.9 MB | cloud |
 | [c3-public-api](https://github.com/users/diegonmarcos/packages/container/package/c3-public-api) | private | — | cloud |
@@ -241,7 +241,7 @@
 | [c3-services-api](https://github.com/users/diegonmarcos/packages/container/package/c3-services-api) | public | 102.3 MB | cloud |
 | [c3-services-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-services-api-binaries) | private | — | cloud |
 | [c3-services-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-services-api-configs) | public | 1.9 MB | cloud |
-| [c3-services-mcp](https://github.com/users/diegonmarcos/packages/container/package/c3-services-mcp) | public | 95.9 MB | cloud |
+| [c3-services-mcp](https://github.com/users/diegonmarcos/packages/container/package/c3-services-mcp) | public | 101.9 MB | cloud |
 | [c3-services-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-services-mcp-binaries) | private | — | cloud |
 | [c3-services-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-services-mcp-configs) | public | 1.9 MB | cloud |
 | [caddy-binaries](https://github.com/users/diegonmarcos/packages/container/package/caddy-binaries) | private | — | cloud |
@@ -277,9 +277,9 @@
 | [cloud-comms-mail](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-mail) | public | — | unix |
 | [cloud-spec](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec) | public | 1.9 MB | cloud |
 | [cloud-spec-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec-binaries) | private | — | cloud |
-| [cloud-spec-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec-configs) | public | 3.1 MB | cloud |
+| [cloud-spec-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec-configs) | public | 3.2 MB | cloud |
 | [cloud-terminal](https://github.com/users/diegonmarcos/packages/container/package/cloud-terminal) | public | — | unix |
-| [code-server](https://github.com/users/diegonmarcos/packages/container/package/code-server) | public | 232.2 MB | cloud |
+| [code-server](https://github.com/users/diegonmarcos/packages/container/package/code-server) | public | 259.1 MB | cloud |
 | [code-server-binaries](https://github.com/users/diegonmarcos/packages/container/package/code-server-binaries) | private | — | cloud |
 | [code-server-configs](https://github.com/users/diegonmarcos/packages/container/package/code-server-configs) | public | 1.9 MB | cloud |
 | [contacts-radicale](https://github.com/users/diegonmarcos/packages/container/package/contacts-radicale) | private | — | cloud |
@@ -327,10 +327,11 @@
 | [gitea](https://github.com/users/diegonmarcos/packages/container/package/gitea) | public | 63.4 MB | cloud |
 | [gitea-binaries](https://github.com/users/diegonmarcos/packages/container/package/gitea-binaries) | private | — | cloud |
 | [gitea-configs](https://github.com/users/diegonmarcos/packages/container/package/gitea-configs) | public | 1.9 MB | cloud |
-| [google-personal-mcp](https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp) | public | 118.4 MB | cloud |
+| [google-personal-mcp](https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp) | public | 132.0 MB | cloud |
 | [google-personal-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp-binaries) | private | — | cloud |
 | [google-personal-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp-configs) | public | 1.9 MB | cloud |
-| [google-workspace-mcp](https://github.com/users/diegonmarcos/packages/container/package/google-workspace-mcp) | public | 137.3 MB | cloud |
+| [google-workspace-mcp](https://github.com/users/diegonmarcos/packages/container/package/google-workspace-mcp) | public | 140.0 MB | cloud |
+| [google-workspace-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/google-workspace-mcp-binaries) | private | — | cloud |
 | [google-workspace-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/google-workspace-mcp-configs) | public | 1.9 MB | cloud |
 | [grist](https://github.com/users/diegonmarcos/packages/container/package/grist) | public | 296.5 MB | cloud |
 | [grist-binaries](https://github.com/users/diegonmarcos/packages/container/package/grist-binaries) | private | — | cloud |
@@ -372,7 +373,7 @@
 | [lgtm-tempo](https://github.com/users/diegonmarcos/packages/container/package/lgtm-tempo) | public | 50.6 MB | cloud |
 | [maddy-binaries](https://github.com/users/diegonmarcos/packages/container/package/maddy-binaries) | public | 30.2 MB | cloud |
 | [maddy-binaries-binaries](https://github.com/users/diegonmarcos/packages/container/package/maddy-binaries-binaries) | public | 30.2 MB | cloud |
-| [mail-mcp](https://github.com/users/diegonmarcos/packages/container/package/mail-mcp) | public | 118.8 MB | cloud |
+| [mail-mcp](https://github.com/users/diegonmarcos/packages/container/package/mail-mcp) | public | 131.5 MB | cloud |
 | [mail-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/mail-mcp-binaries) | private | — | cloud |
 | [mail-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/mail-mcp-configs) | public | 1.9 MB | cloud |
 | [mail-puller-binaries](https://github.com/users/diegonmarcos/packages/container/package/mail-puller-binaries) | public | 34.5 MB | cloud |
@@ -394,7 +395,7 @@
 | [mattermost-bots](https://github.com/users/diegonmarcos/packages/container/package/mattermost-bots) | public | 42.2 MB | cloud |
 | [mattermost-bots-configs](https://github.com/users/diegonmarcos/packages/container/package/mattermost-bots-configs) | public | 2.3 MB | cloud |
 | [mattermost-db](https://github.com/users/diegonmarcos/packages/container/package/mattermost-db) | public | 104.9 MB | cloud |
-| [mattermost-mcp](https://github.com/users/diegonmarcos/packages/container/package/mattermost-mcp) | public | 92.5 MB | cloud |
+| [mattermost-mcp](https://github.com/users/diegonmarcos/packages/container/package/mattermost-mcp) | public | 103.6 MB | cloud |
 | [mattermost-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/mattermost-mcp-binaries) | private | — | cloud |
 | [mattermost-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/mattermost-mcp-configs) | public | 1.9 MB | cloud |
 | [news-gdelt](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt) | public | 196.3 MB | cloud |
@@ -402,7 +403,7 @@
 | [news-gdelt-configs](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt-configs) | public | 1.9 MB | cloud |
 | [nixhm-sudo-gcp-proxy](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-gcp-proxy) | public | 733.3 MB | cloud |
 | [nixhm-sudo-gcp-t4](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-gcp-t4) | public | 2.44 GB | cloud |
-| [nixhm-sudo-oci-analytics](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-analytics) | public | 708.7 MB | cloud |
+| [nixhm-sudo-oci-analytics](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-analytics) | public | 696.6 MB | cloud |
 | [nixhm-sudo-oci-mail](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-mail) | public | 708.8 MB | cloud |
 | [nocodb](https://github.com/users/diegonmarcos/packages/container/package/nocodb) | public | 397.8 MB | cloud |
 | [nocodb-configs](https://github.com/users/diegonmarcos/packages/container/package/nocodb-configs) | public | 2.2 MB | cloud |
@@ -448,7 +449,7 @@
 | [rig-agentic-hai](https://github.com/users/diegonmarcos/packages/container/package/rig-agentic-hai) | public | 124.1 MB | cloud |
 | [rig-agentic-hai-1.5bq4-configs](https://github.com/users/diegonmarcos/packages/container/package/rig-agentic-hai-1.5bq4-configs) | public | 1.9 MB | cloud |
 | [rig-agentic-sonn](https://github.com/users/diegonmarcos/packages/container/package/rig-agentic-sonn) | public | 100.8 MB | cloud |
-| [rig-agentic-sonn-14bq8-configs](https://github.com/users/diegonmarcos/packages/container/package/rig-agentic-sonn-14bq8-configs) | public | 2.3 MB | cloud |
+| [rig-agentic-sonn-14bq8-configs](https://github.com/users/diegonmarcos/packages/container/package/rig-agentic-sonn-14bq8-configs) | public | 1.9 MB | cloud |
 | [sauron-api](https://github.com/users/diegonmarcos/packages/container/package/sauron-api) | public | 44.3 MB | cloud |
 | [sauron-central-configs](https://github.com/users/diegonmarcos/packages/container/package/sauron-central-configs) | public | 2.2 MB | cloud |
 | [sauron-forwarder](https://github.com/users/diegonmarcos/packages/container/package/sauron-forwarder) | public | 26.9 MB | cloud-data |
@@ -491,4 +492,4 @@
 
 ---
 
-<sub>Auto-generated from GHCR API · <code>ghrc/src/fetch.ts</code> + <code>ghrc/src/generate-md.ts</code> · Jul 2, 2026</sub>
+<sub>Auto-generated from GHCR API · <code>ghrc/src/fetch.ts</code> + <code>ghrc/src/generate-md.ts</code> · Jul 3, 2026</sub>

@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-02T22:12:52.144Z",
+  "fetched_at": "2026-07-03T09:40:28.547Z",
   "owner": "diegonmarcos",
-  "total_releases": 4,
-  "total_assets": 13,
-  "total_downloads": 695,
+  "total_releases": 5,
+  "total_assets": 15,
+  "total_downloads": 716,
   "repos": {
     "tools": {
       "repo_url": "https://github.com/diegonmarcos/tools",
@@ -22,7 +22,7 @@
             {
               "name": "octocode-0.12.2-fastembed-x86_64",
               "size": 135286584,
-              "download_count": 44,
+              "download_count": 47,
               "browser_download_url": "https://github.com/diegonmarcos/tools/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-03-26T14:49:32Z"
@@ -34,6 +34,35 @@
     "unix": {
       "repo_url": "https://github.com/diegonmarcos/unix",
       "releases": [
+        {
+          "tag_name": "cloud-terminal-latest",
+          "name": "Cloud Terminal (rolling)",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-02T22:17:48Z",
+          "published_at": "2026-07-02T22:27:06Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-terminal-latest",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-terminal-latest",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-terminal-latest",
+          "assets": [
+            {
+              "name": "cloud-terminal",
+              "size": 5106208,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-terminal-latest/cloud-terminal",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-07-03T09:32:57Z"
+            },
+            {
+              "name": "cloud-terminal_1.0.0_amd64.deb",
+              "size": 2304444,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-terminal-latest/cloud-terminal_1.0.0_amd64.deb",
+              "content_type": "application/x-debian-package",
+              "updated_at": "2026-07-03T09:32:57Z"
+            }
+          ]
+        },
         {
           "tag_name": "waydroid-apks-latest",
           "name": "Waydroid APK set (GHA-prebuilt)",
@@ -77,23 +106,23 @@
             {
               "name": "Cloud-Comms-Hub.apk",
               "size": 132688468,
-              "download_count": 0,
+              "download_count": 4,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Comms-Hub.apk",
               "content_type": "application/vnd.android.package-archive",
               "updated_at": "2026-07-02T22:04:34Z"
             },
             {
               "name": "cloud-comms-mail.apk",
-              "size": 29099800,
+              "size": 29320984,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/cloud-comms-mail.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-02T22:09:51Z"
+              "updated_at": "2026-07-03T09:24:40Z"
             },
             {
               "name": "Cloud-IDE-Hub.apk",
               "size": 29280573,
-              "download_count": 4,
+              "download_count": 8,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-IDE-Hub.apk",
               "content_type": "application/vnd.android.package-archive",
               "updated_at": "2026-07-02T10:48:27Z"
@@ -101,7 +130,7 @@
             {
               "name": "Cloud-Nav-x86_64.apk",
               "size": 19954054,
-              "download_count": 4,
+              "download_count": 8,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Nav-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
               "updated_at": "2026-07-02T10:48:57Z"
@@ -117,10 +146,10 @@
             {
               "name": "Cloud-SuperApp-x86_64.apk",
               "size": 91848685,
-              "download_count": 0,
+              "download_count": 3,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-02T21:51:30Z"
+              "updated_at": "2026-07-03T06:45:50Z"
             },
             {
               "name": "Cloud-SuperApp.apk",
@@ -128,7 +157,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-02T21:51:53Z"
+              "updated_at": "2026-07-03T06:46:39Z"
             },
             {
               "name": "cloud-terminal.tar.zst",
@@ -162,7 +191,7 @@
             {
               "name": "octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
               "size": 27050620,
-              "download_count": 642,
+              "download_count": 645,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/octocode-0.12.2-hf/octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
               "content_type": "application/x-gtar",
               "updated_at": "2026-03-24T12:47:34Z"
