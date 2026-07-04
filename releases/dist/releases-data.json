@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-03T09:40:28.547Z",
+  "fetched_at": "2026-07-04T09:08:37.790Z",
   "owner": "diegonmarcos",
-  "total_releases": 5,
-  "total_assets": 15,
-  "total_downloads": 716,
+  "total_releases": 6,
+  "total_assets": 16,
+  "total_downloads": 793,
   "repos": {
     "tools": {
       "repo_url": "https://github.com/diegonmarcos/tools",
@@ -22,7 +22,7 @@
             {
               "name": "octocode-0.12.2-fastembed-x86_64",
               "size": 135286584,
-              "download_count": 47,
+              "download_count": 77,
               "browser_download_url": "https://github.com/diegonmarcos/tools/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-03-26T14:49:32Z"
@@ -34,6 +34,27 @@
     "unix": {
       "repo_url": "https://github.com/diegonmarcos/unix",
       "releases": [
+        {
+          "tag_name": "qute-standalone-latest",
+          "name": "qute-standalone-latest",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-03T16:49:59Z",
+          "published_at": "2026-07-03T16:51:02Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/qute-standalone-latest",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/qute-standalone-latest",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/qute-standalone-latest",
+          "assets": [
+            {
+              "name": "qutebrowser-standalone.tar.gz",
+              "size": 9515,
+              "download_count": 1,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/qute-standalone-latest/qutebrowser-standalone.tar.gz",
+              "content_type": "application/x-gtar",
+              "updated_at": "2026-07-03T21:25:19Z"
+            }
+          ]
+        },
         {
           "tag_name": "cloud-terminal-latest",
           "name": "Cloud Terminal (rolling)",
@@ -47,19 +68,19 @@
           "assets": [
             {
               "name": "cloud-terminal",
-              "size": 5106208,
+              "size": 5204512,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-terminal-latest/cloud-terminal",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-03T09:32:57Z"
+              "updated_at": "2026-07-04T08:57:16Z"
             },
             {
               "name": "cloud-terminal_1.0.0_amd64.deb",
-              "size": 2304444,
+              "size": 2355978,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-terminal-latest/cloud-terminal_1.0.0_amd64.deb",
               "content_type": "application/x-debian-package",
-              "updated_at": "2026-07-03T09:32:57Z"
+              "updated_at": "2026-07-04T08:57:16Z"
             }
           ]
         },
@@ -97,19 +118,19 @@
           "assets": [
             {
               "name": "cloud-comms-dialer.apk",
-              "size": 9549093,
+              "size": 9557341,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/cloud-comms-dialer.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-02T22:07:00Z"
+              "updated_at": "2026-07-03T14:08:52Z"
             },
             {
               "name": "Cloud-Comms-Hub.apk",
-              "size": 132688468,
-              "download_count": 4,
+              "size": 132913748,
+              "download_count": 10,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Comms-Hub.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-02T22:04:34Z"
+              "updated_at": "2026-07-03T14:06:23Z"
             },
             {
               "name": "cloud-comms-mail.apk",
@@ -117,39 +138,39 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/cloud-comms-mail.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-03T09:24:40Z"
+              "updated_at": "2026-07-03T11:52:55Z"
             },
             {
               "name": "Cloud-IDE-Hub.apk",
               "size": 29280573,
-              "download_count": 8,
+              "download_count": 10,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-IDE-Hub.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-02T10:48:27Z"
+              "updated_at": "2026-07-03T14:06:03Z"
             },
             {
               "name": "Cloud-Nav-x86_64.apk",
-              "size": 19954054,
-              "download_count": 8,
+              "size": 19986822,
+              "download_count": 10,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Nav-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-02T10:48:57Z"
+              "updated_at": "2026-07-03T14:06:40Z"
             },
             {
               "name": "Cloud-Nav.apk",
-              "size": 19696009,
-              "download_count": 1,
+              "size": 19728777,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Nav.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-02T10:48:46Z"
+              "updated_at": "2026-07-03T14:06:24Z"
             },
             {
               "name": "Cloud-SuperApp-x86_64.apk",
               "size": 91848685,
-              "download_count": 3,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-03T06:45:50Z"
+              "updated_at": "2026-07-03T21:02:00Z"
             },
             {
               "name": "Cloud-SuperApp.apk",
@@ -157,7 +178,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-03T06:46:39Z"
+              "updated_at": "2026-07-03T21:02:02Z"
             },
             {
               "name": "cloud-terminal.tar.zst",
@@ -191,7 +212,7 @@
             {
               "name": "octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
               "size": 27050620,
-              "download_count": 645,
+              "download_count": 684,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/octocode-0.12.2-hf/octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
               "content_type": "application/x-gtar",
               "updated_at": "2026-03-24T12:47:34Z"
