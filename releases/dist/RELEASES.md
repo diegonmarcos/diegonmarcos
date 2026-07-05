@@ -3,7 +3,7 @@
   <a href="releases-byrepo.md"><img src="https://img.shields.io/badge/%F0%9F%93%81%20By%20Repo-30363d?style=for-the-badge" alt="By Repo" height="28"></a>
 </p>
 
-<p align="center"><sub><b>6</b> releases · <b>793</b> downloads</sub></p>
+<p align="center"><sub><b>6</b> releases · <b>789</b> downloads</sub></p>
 
 ```
         ╔══════════════════════════════════════════════════╗
@@ -25,14 +25,14 @@
 
 ---
 
-### 📁 <a href="https://github.com/diegonmarcos/tools/releases">tools</a> &nbsp;<sup>1 release · 77 downloads</sup>
+### 📁 <a href="https://github.com/diegonmarcos/tools/releases">tools</a> &nbsp;<sup>1 release · 84 downloads</sup>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/tools/releases/tag/octocode-v0.12.2-fastembed"><b>octocode 0.12.2 (fastembed+huggingface+graphrag)</b></a> &nbsp;<code>octocode-v0.12.2-fastembed</code> &nbsp;<sub>Published 3 months ago · 1 asset · 77 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/tools/releases/tag/octocode-v0.12.2-fastembed"><b>octocode 0.12.2 (fastembed+huggingface+graphrag)</b></a> &nbsp;<code>octocode-v0.12.2-fastembed</code> &nbsp;<sub>Published 3 months ago · 1 asset · 84 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`octocode-0.12.2-fastembed-x86_64`](https://github.com/diegonmarcos/tools/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64) | 129.0 MB | 77 | Mar 26, 2026 |
+| [`octocode-0.12.2-fastembed-x86_64`](https://github.com/diegonmarcos/tools/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64) | 129.0 MB | 84 | Mar 26, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/tools/archive/refs/tags/octocode-v0.12.2-fastembed.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/tools/archive/refs/tags/octocode-v0.12.2-fastembed.tar.gz)</sub>
 
@@ -40,33 +40,33 @@
 
 ---
 
-### 📁 <a href="https://github.com/diegonmarcos/unix/releases">unix</a> &nbsp;<sup>5 releases · 716 downloads</sup>
+### 📁 <a href="https://github.com/diegonmarcos/unix/releases">unix</a> &nbsp;<sup>5 releases · 705 downloads</sup>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/qute-standalone-latest"><b>qute-standalone-latest</b></a> &nbsp;<code>qute-standalone-latest</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/qute-standalone-latest"><b>qute-standalone-latest</b></a> &nbsp;<code>qute-standalone-latest</code> &nbsp;<sub>Published yesterday · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`qutebrowser-standalone.tar.gz`](https://github.com/diegonmarcos/unix/releases/download/qute-standalone-latest/qutebrowser-standalone.tar.gz) | 9 KB | 1 | Jul 3, 2026 |
+| [`qutebrowser-standalone.tar.gz`](https://github.com/diegonmarcos/unix/releases/download/qute-standalone-latest/qutebrowser-standalone.tar.gz) | 9 KB | 0 | Jul 4, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/unix/archive/refs/tags/qute-standalone-latest.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/unix/archive/refs/tags/qute-standalone-latest.tar.gz)</sub>
 
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/cloud-terminal-latest"><b>Cloud Terminal (rolling)</b></a> &nbsp;<code>cloud-terminal-latest</code> &nbsp;<sub>Published yesterday · 2 assets</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/cloud-terminal-latest"><b>Cloud Terminal (rolling)</b></a> &nbsp;<code>cloud-terminal-latest</code> &nbsp;<sub>Published 2 days ago · 2 assets</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
 | [`cloud-terminal`](https://github.com/diegonmarcos/unix/releases/download/cloud-terminal-latest/cloud-terminal) | 5.0 MB | 0 | Jul 4, 2026 |
-| [`cloud-terminal_1.0.0_amd64.deb`](https://github.com/diegonmarcos/unix/releases/download/cloud-terminal-latest/cloud-terminal_1.0.0_amd64.deb) | 2.2 MB | 0 | Jul 4, 2026 |
+| [`cloud-terminal_1.0.0_amd64.deb`](https://github.com/diegonmarcos/unix/releases/download/cloud-terminal-latest/cloud-terminal_1.0.0_amd64.deb) | 2.3 MB | 0 | Jul 4, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/unix/archive/refs/tags/cloud-terminal-latest.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/unix/archive/refs/tags/cloud-terminal-latest.tar.gz)</sub>
 
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/waydroid-apks-latest"><b>Waydroid APK set (GHA-prebuilt)</b></a> &nbsp;<code>waydroid-apks-latest</code> &nbsp;<sub>Published 9 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/waydroid-apks-latest"><b>Waydroid APK set (GHA-prebuilt)</b></a> &nbsp;<code>waydroid-apks-latest</code> &nbsp;<sub>Published 10 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -77,15 +77,15 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/latest"><b>latest</b></a> &nbsp;<code>latest</code> &nbsp;<sub>Published 1 month ago · 10 assets · 31 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/latest"><b>latest</b></a> &nbsp;<code>latest</code> &nbsp;<sub>Published 1 month ago · 10 assets · 21 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`Cloud-Comms-Hub.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Comms-Hub.apk) | 126.8 MB | 10 | Jul 3, 2026 |
 | [`Cloud-IDE-Hub.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-IDE-Hub.apk) | 27.9 MB | 10 | Jul 3, 2026 |
 | [`Cloud-Nav-x86_64.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Nav-x86_64.apk) | 19.1 MB | 10 | Jul 3, 2026 |
 | [`Cloud-SuperApp-x86_64.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp-x86_64.apk) | 87.6 MB | 1 | Jul 3, 2026 |
 | [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/cloud-comms-dialer.apk) | 9.1 MB | 0 | Jul 3, 2026 |
+| [`Cloud-Comms-Hub.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Comms-Hub.apk) | 126.8 MB | 0 | Jul 4, 2026 |
 | [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/cloud-comms-mail.apk) | 28.0 MB | 0 | Jul 3, 2026 |
 | [`Cloud-Nav.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Nav.apk) | 18.8 MB | 0 | Jul 3, 2026 |
 | [`Cloud-SuperApp.apk`](https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp.apk) | 100.2 MB | 0 | Jul 3, 2026 |
@@ -109,4 +109,4 @@
 
 ---
 
-<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Jul 4, 2026</sub>
+<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Jul 5, 2026</sub>
