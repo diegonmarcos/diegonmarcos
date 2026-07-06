@@ -43,7 +43,7 @@
 ### 📁 <a href="https://github.com/diegonmarcos/unix/releases">unix</a> &nbsp;<sup>5 releases · 705 downloads</sup>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/qute-standalone-latest"><b>qute-standalone-latest</b></a> &nbsp;<code>qute-standalone-latest</code> &nbsp;<sub>Published yesterday · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/qute-standalone-latest"><b>qute-standalone-latest</b></a> &nbsp;<code>qute-standalone-latest</code> &nbsp;<sub>Published 2 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -54,7 +54,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/cloud-terminal-latest"><b>Cloud Terminal (rolling)</b></a> &nbsp;<code>cloud-terminal-latest</code> &nbsp;<sub>Published 2 days ago · 2 assets</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/cloud-terminal-latest"><b>Cloud Terminal (rolling)</b></a> &nbsp;<code>cloud-terminal-latest</code> &nbsp;<sub>Published 3 days ago · 2 assets</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -66,7 +66,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/waydroid-apks-latest"><b>Waydroid APK set (GHA-prebuilt)</b></a> &nbsp;<code>waydroid-apks-latest</code> &nbsp;<sub>Published 10 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/waydroid-apks-latest"><b>Waydroid APK set (GHA-prebuilt)</b></a> &nbsp;<code>waydroid-apks-latest</code> &nbsp;<sub>Published 11 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -109,4 +109,4 @@
 
 ---
 
-<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Jul 5, 2026</sub>
+<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Jul 6, 2026</sub>

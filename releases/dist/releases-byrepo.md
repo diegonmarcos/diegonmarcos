@@ -21,12 +21,12 @@
 
 | Release | Tag | State | Assets | Downloads | Published |
 |:---|:---|:---|:---|:---|:---|
-| [qute-standalone-latest](https://github.com/diegonmarcos/unix/releases/tag/qute-standalone-latest) | `qute-standalone-latest` | latest | 1 | 0 | yesterday |
-| [Cloud Terminal (rolling)](https://github.com/diegonmarcos/unix/releases/tag/cloud-terminal-latest) | `cloud-terminal-latest` | latest | 2 | 0 | 2 days ago |
-| [Waydroid APK set (GHA-prebuilt)](https://github.com/diegonmarcos/unix/releases/tag/waydroid-apks-latest) | `waydroid-apks-latest` | latest | 1 | 0 | 10 days ago |
+| [qute-standalone-latest](https://github.com/diegonmarcos/unix/releases/tag/qute-standalone-latest) | `qute-standalone-latest` | latest | 1 | 0 | 2 days ago |
+| [Cloud Terminal (rolling)](https://github.com/diegonmarcos/unix/releases/tag/cloud-terminal-latest) | `cloud-terminal-latest` | latest | 2 | 0 | 3 days ago |
+| [Waydroid APK set (GHA-prebuilt)](https://github.com/diegonmarcos/unix/releases/tag/waydroid-apks-latest) | `waydroid-apks-latest` | latest | 1 | 0 | 11 days ago |
 | [latest](https://github.com/diegonmarcos/unix/releases/tag/latest) | `latest` | latest | 10 | 21 | 1 month ago |
 | [octocode 0.12.2 with HuggingFace](https://github.com/diegonmarcos/unix/releases/tag/octocode-0.12.2-hf) | `octocode-0.12.2-hf` | latest | 1 | 684 | 3 months ago |
 
 ---
 
-<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Jul 5, 2026</sub>
+<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Jul 6, 2026</sub>
