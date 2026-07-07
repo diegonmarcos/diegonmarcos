@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-06T11:10:34.201Z",
+  "fetched_at": "2026-07-07T10:05:52.328Z",
   "owner": "diegonmarcos",
   "total_releases": 6,
   "total_assets": 16,
-  "total_downloads": 789,
+  "total_downloads": 790,
   "repos": {
     "tools": {
       "repo_url": "https://github.com/diegonmarcos/tools",
@@ -175,7 +175,7 @@
             {
               "name": "Cloud-SuperApp.apk",
               "size": 105107539,
-              "download_count": 0,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp.apk",
               "content_type": "application/vnd.android.package-archive",
               "updated_at": "2026-07-03T21:02:02Z"
