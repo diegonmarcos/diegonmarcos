@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-07-07T10:05:52.328Z",
+  "fetched_at": "2026-07-08T08:50:07.886Z",
   "owner": "diegonmarcos",
-  "total_releases": 6,
-  "total_assets": 16,
+  "total_releases": 11,
+  "total_assets": 17,
   "total_downloads": 790,
   "repos": {
     "tools": {
@@ -34,6 +34,75 @@
     "unix": {
       "repo_url": "https://github.com/diegonmarcos/unix",
       "releases": [
+        {
+          "tag_name": "cloud-comms-mail-20260707.202642",
+          "name": "Cloud Mail · 20260707.202642",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-07T20:17:56Z",
+          "published_at": "2026-07-07T20:26:48Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-mail-20260707.202642",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-mail-20260707.202642",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-mail-20260707.202642",
+          "assets": [
+            {
+              "name": "cloud-comms-mail.apk",
+              "size": 29333329,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-mail-20260707.202642/cloud-comms-mail.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-07-07T20:26:47Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-mail-20260707.192410",
+          "name": "Cloud Mail · 20260707.192410",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-07T19:11:45Z",
+          "published_at": "2026-07-07T19:24:10Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-mail-20260707.192410",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-mail-20260707.192410",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-mail-20260707.192410",
+          "assets": []
+        },
+        {
+          "tag_name": "cloud-comms-mail-20260707.192000",
+          "name": "Cloud Mail · 20260707.192000",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-07T19:11:45Z",
+          "published_at": "2026-07-07T19:20:03Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-mail-20260707.192000",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-mail-20260707.192000",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-mail-20260707.192000",
+          "assets": []
+        },
+        {
+          "tag_name": "cloud-comms-mail-20260707.183626",
+          "name": "Cloud Mail · 20260707.183626",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-07T18:23:50Z",
+          "published_at": "2026-07-07T18:36:27Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-mail-20260707.183626",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-mail-20260707.183626",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-mail-20260707.183626",
+          "assets": []
+        },
+        {
+          "tag_name": "cloud-comms-mail-20260707.183221",
+          "name": "Cloud Mail · 20260707.183221",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-07T18:23:50Z",
+          "published_at": "2026-07-07T18:32:22Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-mail-20260707.183221",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-mail-20260707.183221",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-mail-20260707.183221",
+          "assets": []
+        },
         {
           "tag_name": "qute-standalone-latest",
           "name": "qute-standalone-latest",

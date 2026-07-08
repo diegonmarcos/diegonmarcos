@@ -3,7 +3,7 @@
   <a href="releases-byrepo.md"><img src="https://img.shields.io/badge/%F0%9F%93%81%20By%20Repo-30363d?style=for-the-badge" alt="By Repo" height="28"></a>
 </p>
 
-<p align="center"><sub><b>6</b> releases · <b>790</b> downloads</sub></p>
+<p align="center"><sub><b>11</b> releases · <b>790</b> downloads</sub></p>
 
 ```
         ╔══════════════════════════════════════════════════╗
@@ -40,10 +40,57 @@
 
 ---
 
-### 📁 <a href="https://github.com/diegonmarcos/unix/releases">unix</a> &nbsp;<sup>5 releases · 706 downloads</sup>
+### 📁 <a href="https://github.com/diegonmarcos/unix/releases">unix</a> &nbsp;<sup>10 releases · 706 downloads</sup>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/qute-standalone-latest"><b>qute-standalone-latest</b></a> &nbsp;<code>qute-standalone-latest</code> &nbsp;<sub>Published 3 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-mail-20260707.202642"><b>Cloud Mail · 20260707.202642</b></a> &nbsp;<code>cloud-comms-mail-20260707.202642</code> &nbsp;<sub>Published today · 1 asset</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/unix/releases/download/cloud-comms-mail-20260707.202642/cloud-comms-mail.apk) | 28.0 MB | 0 | Jul 7, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/unix/archive/refs/tags/cloud-comms-mail-20260707.202642.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/unix/archive/refs/tags/cloud-comms-mail-20260707.202642.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-mail-20260707.192410"><b>Cloud Mail · 20260707.192410</b></a> &nbsp;<code>cloud-comms-mail-20260707.192410</code> &nbsp;<sub>Published today · 0 assets</sub></summary>
+
+*No binary assets — source archives only.*
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/unix/archive/refs/tags/cloud-comms-mail-20260707.192410.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/unix/archive/refs/tags/cloud-comms-mail-20260707.192410.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-mail-20260707.192000"><b>Cloud Mail · 20260707.192000</b></a> &nbsp;<code>cloud-comms-mail-20260707.192000</code> &nbsp;<sub>Published today · 0 assets</sub></summary>
+
+*No binary assets — source archives only.*
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/unix/archive/refs/tags/cloud-comms-mail-20260707.192000.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/unix/archive/refs/tags/cloud-comms-mail-20260707.192000.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-mail-20260707.183626"><b>Cloud Mail · 20260707.183626</b></a> &nbsp;<code>cloud-comms-mail-20260707.183626</code> &nbsp;<sub>Published today · 0 assets</sub></summary>
+
+*No binary assets — source archives only.*
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/unix/archive/refs/tags/cloud-comms-mail-20260707.183626.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/unix/archive/refs/tags/cloud-comms-mail-20260707.183626.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-mail-20260707.183221"><b>Cloud Mail · 20260707.183221</b></a> &nbsp;<code>cloud-comms-mail-20260707.183221</code> &nbsp;<sub>Published today · 0 assets</sub></summary>
+
+*No binary assets — source archives only.*
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/unix/archive/refs/tags/cloud-comms-mail-20260707.183221.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/unix/archive/refs/tags/cloud-comms-mail-20260707.183221.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/qute-standalone-latest"><b>qute-standalone-latest</b></a> &nbsp;<code>qute-standalone-latest</code> &nbsp;<sub>Published 4 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -54,7 +101,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/cloud-terminal-latest"><b>Cloud Terminal (rolling)</b></a> &nbsp;<code>cloud-terminal-latest</code> &nbsp;<sub>Published 4 days ago · 2 assets</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/cloud-terminal-latest"><b>Cloud Terminal (rolling)</b></a> &nbsp;<code>cloud-terminal-latest</code> &nbsp;<sub>Published 5 days ago · 2 assets</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -66,7 +113,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/waydroid-apks-latest"><b>Waydroid APK set (GHA-prebuilt)</b></a> &nbsp;<code>waydroid-apks-latest</code> &nbsp;<sub>Published 12 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/unix/releases/tag/waydroid-apks-latest"><b>Waydroid APK set (GHA-prebuilt)</b></a> &nbsp;<code>waydroid-apks-latest</code> &nbsp;<sub>Published 13 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -109,4 +156,4 @@
 
 ---
 
-<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Jul 7, 2026</sub>
+<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Jul 8, 2026</sub>
