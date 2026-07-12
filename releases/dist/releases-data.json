@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-11T08:21:41.604Z",
+  "fetched_at": "2026-07-12T08:39:43.309Z",
   "owner": "diegonmarcos",
-  "total_releases": 49,
+  "total_releases": 50,
   "total_assets": 63,
-  "total_downloads": 874,
+  "total_downloads": 884,
   "repos": {
     "tools": {
       "repo_url": "https://github.com/diegonmarcos/tools",
@@ -22,7 +22,7 @@
             {
               "name": "octocode-0.12.2-fastembed-x86_64",
               "size": 135286584,
-              "download_count": 166,
+              "download_count": 174,
               "browser_download_url": "https://github.com/diegonmarcos/tools/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-03-26T14:49:32Z"
@@ -34,6 +34,18 @@
     "unix": {
       "repo_url": "https://github.com/diegonmarcos/unix",
       "releases": [
+        {
+          "tag_name": "hm-nixcache",
+          "name": "HM incremental nix cache",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-11T20:27:03Z",
+          "published_at": "2026-07-11T22:56:27Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/hm-nixcache",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/hm-nixcache",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/hm-nixcache",
+          "assets": []
+        },
         {
           "tag_name": "cloud-comms-mail-20260710.102533",
           "name": "Cloud Mail · 20260710.102533",
@@ -1001,19 +1013,19 @@
           "assets": [
             {
               "name": "Cloud-Browser-x86_64.apk",
-              "size": 6553866,
+              "size": 6554040,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Browser-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-10T11:50:22Z"
+              "updated_at": "2026-07-11T14:11:48Z"
             },
             {
               "name": "Cloud-Browser.apk",
-              "size": 6553866,
+              "size": 6554040,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Browser.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-10T11:50:15Z"
+              "updated_at": "2026-07-11T14:12:17Z"
             },
             {
               "name": "cloud-comms-dialer.apk",
@@ -1025,11 +1037,11 @@
             },
             {
               "name": "Cloud-Comms-Hub.apk",
-              "size": 193075865,
+              "size": 193080392,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Comms-Hub.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-10T11:45:30Z"
+              "updated_at": "2026-07-11T14:12:52Z"
             },
             {
               "name": "cloud-comms-mail.apk",
@@ -1041,27 +1053,27 @@
             },
             {
               "name": "Cloud-IDE-Hub.apk",
-              "size": 29280573,
+              "size": 29285100,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-IDE-Hub.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-10T11:41:45Z"
+              "updated_at": "2026-07-11T14:12:16Z"
             },
             {
               "name": "Cloud-Nav-x86_64.apk",
-              "size": 20068931,
+              "size": 26799412,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Nav-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-10T18:44:53Z"
+              "updated_at": "2026-07-11T19:03:16Z"
             },
             {
               "name": "Cloud-Nav.apk",
-              "size": 19810886,
+              "size": 26541367,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Nav.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-10T18:44:39Z"
+              "updated_at": "2026-07-11T19:03:22Z"
             },
             {
               "name": "Cloud-SuperApp-x86_64.apk",
@@ -1069,7 +1081,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-10T11:57:37Z"
+              "updated_at": "2026-07-11T23:49:55Z"
             },
             {
               "name": "Cloud-SuperApp.apk",
@@ -1077,7 +1089,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-10T11:56:52Z"
+              "updated_at": "2026-07-11T23:50:52Z"
             },
             {
               "name": "cloud-terminal.tar.zst",
@@ -1097,35 +1109,35 @@
             },
             {
               "name": "Cloud-Vault-x86_64.apk",
-              "size": 6540651,
+              "size": 6540825,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Vault-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-10T11:50:26Z"
+              "updated_at": "2026-07-11T14:12:18Z"
             },
             {
               "name": "Cloud-Vault.apk",
-              "size": 6540651,
+              "size": 6540825,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Vault.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-10T11:50:26Z"
+              "updated_at": "2026-07-11T14:12:28Z"
             },
             {
               "name": "Cloud-Wallet-x86_64.apk",
-              "size": 14790562,
+              "size": 14790736,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Wallet-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-10T11:50:58Z"
+              "updated_at": "2026-07-11T14:13:14Z"
             },
             {
               "name": "Cloud-Wallet.apk",
-              "size": 14790565,
+              "size": 14790739,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Wallet.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-10T11:51:00Z"
+              "updated_at": "2026-07-11T14:13:03Z"
             }
           ]
         },
@@ -1143,7 +1155,7 @@
             {
               "name": "octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
               "size": 27050620,
-              "download_count": 691,
+              "download_count": 693,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/octocode-0.12.2-hf/octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
               "content_type": "application/x-gtar",
               "updated_at": "2026-03-24T12:47:34Z"
