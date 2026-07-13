@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-12T08:39:43.309Z",
+  "fetched_at": "2026-07-13T09:54:59.324Z",
   "owner": "diegonmarcos",
   "total_releases": 50,
   "total_assets": 63,
@@ -1077,19 +1077,19 @@
             },
             {
               "name": "Cloud-SuperApp-x86_64.apk",
-              "size": 91750381,
+              "size": 34979038,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-11T23:49:55Z"
+              "updated_at": "2026-07-13T03:14:34Z"
             },
             {
               "name": "Cloud-SuperApp.apk",
-              "size": 105009235,
+              "size": 34360554,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-11T23:50:52Z"
+              "updated_at": "2026-07-13T03:14:12Z"
             },
             {
               "name": "cloud-terminal.tar.zst",
@@ -1125,19 +1125,19 @@
             },
             {
               "name": "Cloud-Wallet-x86_64.apk",
-              "size": 14790736,
+              "size": 15398104,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Wallet-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-11T14:13:14Z"
+              "updated_at": "2026-07-13T02:53:06Z"
             },
             {
               "name": "Cloud-Wallet.apk",
-              "size": 14790739,
+              "size": 15398107,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Wallet.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-11T14:13:03Z"
+              "updated_at": "2026-07-13T02:53:21Z"
             }
           ]
         },
