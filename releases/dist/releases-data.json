@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-07-14T08:36:16.520Z",
+  "fetched_at": "2026-07-15T08:41:26.502Z",
   "owner": "diegonmarcos",
   "total_releases": 50,
-  "total_assets": 63,
+  "total_assets": 64,
   "total_downloads": 884,
   "repos": {
     "tools": {
@@ -1060,6 +1060,14 @@
               "updated_at": "2026-07-11T14:12:16Z"
             },
             {
+              "name": "Cloud-Keyboard.apk",
+              "size": 152339750,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Keyboard.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-07-15T08:27:10Z"
+            },
+            {
               "name": "Cloud-Nav-x86_64.apk",
               "size": 26799412,
               "download_count": 0,
@@ -1077,19 +1085,19 @@
             },
             {
               "name": "Cloud-SuperApp-x86_64.apk",
-              "size": 34979038,
+              "size": 35016113,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-13T03:14:34Z"
+              "updated_at": "2026-07-15T08:34:53Z"
             },
             {
               "name": "Cloud-SuperApp.apk",
-              "size": 34360554,
+              "size": 34397629,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-13T03:14:12Z"
+              "updated_at": "2026-07-15T08:35:59Z"
             },
             {
               "name": "cloud-terminal.tar.zst",
@@ -1125,19 +1133,19 @@
             },
             {
               "name": "Cloud-Wallet-x86_64.apk",
-              "size": 15398104,
+              "size": 15434968,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Wallet-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-13T02:53:06Z"
+              "updated_at": "2026-07-14T19:19:47Z"
             },
             {
               "name": "Cloud-Wallet.apk",
-              "size": 15398107,
+              "size": 15430875,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Wallet.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-13T02:53:21Z"
+              "updated_at": "2026-07-14T19:20:48Z"
             }
           ]
         },
