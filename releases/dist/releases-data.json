@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-16T08:40:08.925Z",
+  "fetched_at": "2026-07-17T08:33:27.525Z",
   "owner": "diegonmarcos",
-  "total_releases": 50,
-  "total_assets": 64,
-  "total_downloads": 884,
+  "total_releases": 52,
+  "total_assets": 74,
+  "total_downloads": 891,
   "repos": {
     "tools": {
       "repo_url": "https://github.com/diegonmarcos/tools",
@@ -22,7 +22,7 @@
             {
               "name": "octocode-0.12.2-fastembed-x86_64",
               "size": 135286584,
-              "download_count": 174,
+              "download_count": 181,
               "browser_download_url": "https://github.com/diegonmarcos/tools/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-03-26T14:49:32Z"
@@ -34,6 +34,112 @@
     "unix": {
       "repo_url": "https://github.com/diegonmarcos/unix",
       "releases": [
+        {
+          "tag_name": "my-browser-rust-chromium-latest",
+          "name": "my-browser-rust-chromium (rolling)",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-17T07:18:56Z",
+          "published_at": "2026-07-17T07:20:04Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/my-browser-rust-chromium-latest",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/my-browser-rust-chromium-latest",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/my-browser-rust-chromium-latest",
+          "assets": [
+            {
+              "name": "my-browser-rust-chromium-linux-x86_64.tar.gz",
+              "size": 359112806,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-browser-rust-chromium-latest/my-browser-rust-chromium-linux-x86_64.tar.gz",
+              "content_type": "application/x-gtar",
+              "updated_at": "2026-07-17T08:29:14Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "my-ai-latest",
+          "name": "my-ai (rolling)",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-16T14:38:32Z",
+          "published_at": "2026-07-16T14:39:31Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/my-ai-latest",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/my-ai-latest",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/my-ai-latest",
+          "assets": [
+            {
+              "name": "my-ai",
+              "size": 3670152,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-07-16T18:28:44Z"
+            },
+            {
+              "name": "my-ai-aarch64",
+              "size": 3640632,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-aarch64",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-07-16T18:45:28Z"
+            },
+            {
+              "name": "my-ai-dash",
+              "size": 4192280,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-dash",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-07-16T18:28:44Z"
+            },
+            {
+              "name": "my-ai-dash-aarch64",
+              "size": 4153568,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-dash-aarch64",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-07-16T18:45:28Z"
+            },
+            {
+              "name": "my-ai-dash-x86_64",
+              "size": 4192280,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-dash-x86_64",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-07-16T18:52:56Z"
+            },
+            {
+              "name": "my-ai-gui",
+              "size": 9717864,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-gui",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-07-16T18:28:44Z"
+            },
+            {
+              "name": "my-ai-gui-x86_64",
+              "size": 9717864,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-gui-x86_64",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-07-16T18:52:56Z"
+            },
+            {
+              "name": "my-ai-gui_0.1.0_amd64.deb",
+              "size": 3172482,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-gui_0.1.0_amd64.deb",
+              "content_type": "application/x-debian-package",
+              "updated_at": "2026-07-16T18:52:56Z"
+            },
+            {
+              "name": "my-ai-x86_64",
+              "size": 3670152,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-x86_64",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-07-16T18:52:56Z"
+            }
+          ]
+        },
         {
           "tag_name": "hm-nixcache",
           "name": "HM incremental nix cache",
@@ -231,7 +337,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-browser-latest/my-browser-x86_64.gz",
               "content_type": "application/gzip",
-              "updated_at": "2026-07-10T18:54:30Z"
+              "updated_at": "2026-07-17T06:08:35Z"
             }
           ]
         },
@@ -942,11 +1048,11 @@
           "assets": [
             {
               "name": "qutebrowser-standalone.tar.gz",
-              "size": 17025,
+              "size": 17216,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/qute-standalone-latest/qutebrowser-standalone.tar.gz",
               "content_type": "application/x-gtar",
-              "updated_at": "2026-07-10T18:49:48Z"
+              "updated_at": "2026-07-17T06:04:09Z"
             }
           ]
         },
@@ -1065,7 +1171,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Keyboard.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-15T11:32:08Z"
+              "updated_at": "2026-07-16T13:21:06Z"
             },
             {
               "name": "Cloud-Nav-x86_64.apk",
@@ -1085,19 +1191,19 @@
             },
             {
               "name": "Cloud-SuperApp-x86_64.apk",
-              "size": 35048881,
+              "size": 35065265,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-15T17:12:58Z"
+              "updated_at": "2026-07-17T07:53:35Z"
             },
             {
               "name": "Cloud-SuperApp.apk",
-              "size": 34430397,
+              "size": 34446781,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-15T17:13:07Z"
+              "updated_at": "2026-07-17T07:53:20Z"
             },
             {
               "name": "cloud-terminal.tar.zst",
