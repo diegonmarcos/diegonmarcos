@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-18T08:17:58.246Z",
+  "fetched_at": "2026-07-19T08:42:07.892Z",
   "owner": "diegonmarcos",
   "total_releases": 52,
   "total_assets": 74,
-  "total_downloads": 898,
+  "total_downloads": 901,
   "repos": {
     "tools": {
       "repo_url": "https://github.com/diegonmarcos/tools",
@@ -22,7 +22,7 @@
             {
               "name": "octocode-0.12.2-fastembed-x86_64",
               "size": 135286584,
-              "download_count": 188,
+              "download_count": 191,
               "browser_download_url": "https://github.com/diegonmarcos/tools/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-03-26T14:49:32Z"
@@ -1195,7 +1195,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-18T08:13:10Z"
+              "updated_at": "2026-07-18T21:48:54Z"
             },
             {
               "name": "Cloud-SuperApp.apk",
@@ -1203,7 +1203,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-18T08:12:46Z"
+              "updated_at": "2026-07-18T21:49:18Z"
             },
             {
               "name": "cloud-terminal.tar.zst",
