@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-19T08:42:07.892Z",
+  "fetched_at": "2026-07-20T09:40:41.577Z",
   "owner": "diegonmarcos",
   "total_releases": 52,
   "total_assets": 74,
-  "total_downloads": 901,
+  "total_downloads": 906,
   "repos": {
     "tools": {
       "repo_url": "https://github.com/diegonmarcos/tools",
@@ -22,7 +22,7 @@
             {
               "name": "octocode-0.12.2-fastembed-x86_64",
               "size": 135286584,
-              "download_count": 191,
+              "download_count": 193,
               "browser_download_url": "https://github.com/diegonmarcos/tools/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-03-26T14:49:32Z"
@@ -543,11 +543,11 @@
           "assets": [
             {
               "name": "my-konsole",
-              "size": 8062224,
-              "download_count": 1,
+              "size": 8078608,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-konsole-latest/my-konsole",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-10T13:04:33Z"
+              "updated_at": "2026-07-19T11:05:42Z"
             },
             {
               "name": "my-konsole-dash",
@@ -555,15 +555,15 @@
               "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-konsole-latest/my-konsole-dash",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-10T13:04:33Z"
+              "updated_at": "2026-07-19T11:05:42Z"
             },
             {
               "name": "my-konsole_0.1.0_amd64.deb",
-              "size": 3278350,
+              "size": 3280176,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-konsole-latest/my-konsole_0.1.0_amd64.deb",
               "content_type": "application/x-debian-package",
-              "updated_at": "2026-07-10T13:04:33Z"
+              "updated_at": "2026-07-19T11:05:42Z"
             }
           ]
         },
@@ -1195,15 +1195,15 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-18T21:48:54Z"
+              "updated_at": "2026-07-19T12:08:21Z"
             },
             {
               "name": "Cloud-SuperApp.apk",
               "size": 34446781,
-              "download_count": 0,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-18T21:49:18Z"
+              "updated_at": "2026-07-19T12:08:46Z"
             },
             {
               "name": "cloud-terminal.tar.zst",
