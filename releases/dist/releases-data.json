@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-21T09:10:07.608Z",
+  "fetched_at": "2026-07-22T08:52:12.769Z",
   "owner": "diegonmarcos",
-  "total_releases": 52,
-  "total_assets": 74,
-  "total_downloads": 906,
+  "total_releases": 65,
+  "total_assets": 87,
+  "total_downloads": 909,
   "repos": {
     "tools": {
       "repo_url": "https://github.com/diegonmarcos/tools",
@@ -22,7 +22,7 @@
             {
               "name": "octocode-0.12.2-fastembed-x86_64",
               "size": 135286584,
-              "download_count": 193,
+              "download_count": 196,
               "browser_download_url": "https://github.com/diegonmarcos/tools/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-03-26T14:49:32Z"
@@ -34,6 +34,279 @@
     "unix": {
       "repo_url": "https://github.com/diegonmarcos/unix",
       "releases": [
+        {
+          "tag_name": "cloud-comms-matrix-20260721.220955",
+          "name": "Cloud Matrix · 20260721.220955",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-21T22:08:59Z",
+          "published_at": "2026-07-21T22:10:16Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-matrix-20260721.220955",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-matrix-20260721.220955",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-matrix-20260721.220955",
+          "assets": [
+            {
+              "name": "cloud-comms-matrix.apk",
+              "size": 114133260,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-matrix-20260721.220955/cloud-comms-matrix.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-07-21T22:10:16Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-matrix-20260721.220704",
+          "name": "Cloud Matrix · 20260721.220704",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-21T22:06:22Z",
+          "published_at": "2026-07-21T22:07:20Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-matrix-20260721.220704",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-matrix-20260721.220704",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-matrix-20260721.220704",
+          "assets": [
+            {
+              "name": "cloud-comms-matrix.apk",
+              "size": 114133260,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-matrix-20260721.220704/cloud-comms-matrix.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-07-21T22:07:20Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-matrix-20260721.220004",
+          "name": "Cloud Mail · 20260721.220004",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-21T21:59:11Z",
+          "published_at": "2026-07-21T22:00:33Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-matrix-20260721.220004",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-matrix-20260721.220004",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-matrix-20260721.220004",
+          "assets": [
+            {
+              "name": "cloud-comms-matrix.apk",
+              "size": 114133260,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-matrix-20260721.220004/cloud-comms-matrix.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-07-21T22:00:32Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-mail-20260721.222909",
+          "name": "Cloud Mail · 20260721.222909",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-21T22:29:14Z",
+          "published_at": "2026-07-21T22:35:50Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-mail-20260721.222909",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-mail-20260721.222909",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-mail-20260721.222909",
+          "assets": [
+            {
+              "name": "cloud-comms-mail.apk",
+              "size": 28771727,
+              "download_count": 3,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-mail-20260721.222909/cloud-comms-mail.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-07-21T22:35:50Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-mail-20260721.220957",
+          "name": "Cloud Mail · 20260721.220957",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-21T22:15:49Z",
+          "published_at": "2026-07-21T22:17:40Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-mail-20260721.220957",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-mail-20260721.220957",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-mail-20260721.220957",
+          "assets": [
+            {
+              "name": "cloud-comms-mail.apk",
+              "size": 29345617,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-mail-20260721.220957/cloud-comms-mail.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-07-21T22:17:40Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-mail-20260721.220717",
+          "name": "Cloud Mail · 20260721.220717",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-21T22:12:32Z",
+          "published_at": "2026-07-21T22:14:23Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-mail-20260721.220717",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-mail-20260721.220717",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-mail-20260721.220717",
+          "assets": [
+            {
+              "name": "cloud-comms-mail.apk",
+              "size": 28771727,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-mail-20260721.220717/cloud-comms-mail.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-07-21T22:14:22Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-mail-20260721.220013",
+          "name": "Cloud Mail · 20260721.220013",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-21T22:06:22Z",
+          "published_at": "2026-07-21T22:07:09Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-mail-20260721.220013",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-mail-20260721.220013",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-mail-20260721.220013",
+          "assets": [
+            {
+              "name": "cloud-comms-mail.apk",
+              "size": 28771727,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-mail-20260721.220013/cloud-comms-mail.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-07-21T22:07:08Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-dialer-20260721.220948",
+          "name": "Cloud Dialer · 20260721.220948",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-21T22:12:32Z",
+          "published_at": "2026-07-21T22:12:57Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-dialer-20260721.220948",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-dialer-20260721.220948",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-dialer-20260721.220948",
+          "assets": [
+            {
+              "name": "cloud-comms-dialer.apk",
+              "size": 9557341,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-dialer-20260721.220948/cloud-comms-dialer.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-07-21T22:12:56Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-dialer-20260721.220712",
+          "name": "Cloud Dialer · 20260721.220712",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-21T22:08:59Z",
+          "published_at": "2026-07-21T22:09:32Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-dialer-20260721.220712",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-dialer-20260721.220712",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-dialer-20260721.220712",
+          "assets": [
+            {
+              "name": "cloud-comms-dialer.apk",
+              "size": 9393249,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-dialer-20260721.220712/cloud-comms-dialer.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-07-21T22:09:31Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-dialer-20260721.220004",
+          "name": "Cloud Mail · 20260721.220004",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-21T21:59:11Z",
+          "published_at": "2026-07-21T22:04:39Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-dialer-20260721.220004",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-dialer-20260721.220004",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-dialer-20260721.220004",
+          "assets": [
+            {
+              "name": "cloud-comms-dialer.apk",
+              "size": 9393249,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-dialer-20260721.220004/cloud-comms-dialer.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-07-21T22:04:39Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-chat-20260721.221016",
+          "name": "Cloud Chat · 20260721.221016",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-21T22:29:14Z",
+          "published_at": "2026-07-21T22:30:17Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-chat-20260721.221016",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-chat-20260721.221016",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-chat-20260721.221016",
+          "assets": [
+            {
+              "name": "cloud-comms-chat.apk",
+              "size": 173663305,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-chat-20260721.221016/cloud-comms-chat.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-07-21T22:30:16Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-chat-20260721.220758",
+          "name": "Cloud Chat · 20260721.220758",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-21T22:26:01Z",
+          "published_at": "2026-07-21T22:29:17Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-chat-20260721.220758",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-chat-20260721.220758",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-chat-20260721.220758",
+          "assets": [
+            {
+              "name": "cloud-comms-chat.apk",
+              "size": 173663305,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-chat-20260721.220758/cloud-comms-chat.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-07-21T22:29:17Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-chat-20260721.220036",
+          "name": "Cloud Mail · 20260721.220036",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-21T22:14:56Z",
+          "published_at": "2026-07-21T22:15:39Z",
+          "html_url": "https://github.com/diegonmarcos/unix/releases/tag/cloud-comms-chat-20260721.220036",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/unix/tarball/cloud-comms-chat-20260721.220036",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/unix/zipball/cloud-comms-chat-20260721.220036",
+          "assets": [
+            {
+              "name": "cloud-comms-chat.apk",
+              "size": 173663305,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-chat-20260721.220036/cloud-comms-chat.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-07-21T22:15:38Z"
+            }
+          ]
+        },
         {
           "tag_name": "my-browser-rust-chromium-latest",
           "name": "my-browser-rust-chromium (rolling)",
@@ -543,11 +816,11 @@
           "assets": [
             {
               "name": "my-konsole",
-              "size": 8078608,
-              "download_count": 2,
+              "size": 8103184,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-konsole-latest/my-konsole",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-19T11:05:42Z"
+              "updated_at": "2026-07-21T21:46:13Z"
             },
             {
               "name": "my-konsole-dash",
@@ -555,15 +828,15 @@
               "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-konsole-latest/my-konsole-dash",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-19T11:05:42Z"
+              "updated_at": "2026-07-21T21:46:13Z"
             },
             {
               "name": "my-konsole_0.1.0_amd64.deb",
-              "size": 3280176,
+              "size": 3305366,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-konsole-latest/my-konsole_0.1.0_amd64.deb",
               "content_type": "application/x-debian-package",
-              "updated_at": "2026-07-19T11:05:42Z"
+              "updated_at": "2026-07-21T21:46:13Z"
             }
           ]
         },
@@ -1123,7 +1396,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Browser-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-11T14:11:48Z"
+              "updated_at": "2026-07-21T22:11:12Z"
             },
             {
               "name": "Cloud-Browser.apk",
@@ -1131,7 +1404,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Browser.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-11T14:12:17Z"
+              "updated_at": "2026-07-21T22:10:52Z"
             },
             {
               "name": "cloud-comms-dialer.apk",
@@ -1143,11 +1416,11 @@
             },
             {
               "name": "Cloud-Comms-Hub.apk",
-              "size": 193080392,
+              "size": 192515144,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Comms-Hub.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-11T14:12:52Z"
+              "updated_at": "2026-07-21T22:12:30Z"
             },
             {
               "name": "cloud-comms-mail.apk",
@@ -1163,7 +1436,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-IDE-Hub.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-11T14:12:16Z"
+              "updated_at": "2026-07-21T22:11:21Z"
             },
             {
               "name": "Cloud-Keyboard.apk",
@@ -1171,7 +1444,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Keyboard.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-16T13:21:06Z"
+              "updated_at": "2026-07-21T22:21:08Z"
             },
             {
               "name": "Cloud-Nav-x86_64.apk",
@@ -1179,7 +1452,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Nav-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-11T19:03:16Z"
+              "updated_at": "2026-07-21T22:11:58Z"
             },
             {
               "name": "Cloud-Nav.apk",
@@ -1187,7 +1460,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Nav.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-11T19:03:22Z"
+              "updated_at": "2026-07-21T22:11:49Z"
             },
             {
               "name": "Cloud-SuperApp-x86_64.apk",
@@ -1195,15 +1468,15 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-19T12:08:21Z"
+              "updated_at": "2026-07-22T08:09:14Z"
             },
             {
               "name": "Cloud-SuperApp.apk",
               "size": 34446781,
-              "download_count": 2,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-19T12:08:46Z"
+              "updated_at": "2026-07-22T08:09:45Z"
             },
             {
               "name": "cloud-terminal.tar.zst",
@@ -1227,7 +1500,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Vault-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-11T14:12:18Z"
+              "updated_at": "2026-07-21T22:11:12Z"
             },
             {
               "name": "Cloud-Vault.apk",
@@ -1235,7 +1508,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Vault.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-11T14:12:28Z"
+              "updated_at": "2026-07-21T22:11:02Z"
             },
             {
               "name": "Cloud-Wallet-x86_64.apk",
@@ -1243,7 +1516,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Wallet-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-14T19:19:47Z"
+              "updated_at": "2026-07-21T22:12:28Z"
             },
             {
               "name": "Cloud-Wallet.apk",
@@ -1251,7 +1524,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Wallet.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-14T19:20:48Z"
+              "updated_at": "2026-07-21T22:12:06Z"
             }
           ]
         },
