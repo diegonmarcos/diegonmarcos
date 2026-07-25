@@ -1,10 +1,36 @@
 {
-  "fetched_at": "2026-07-24T08:50:16.925Z",
+  "fetched_at": "2026-07-25T08:31:07.434Z",
   "owner": "diegonmarcos",
-  "total_releases": 72,
-  "total_assets": 97,
-  "total_downloads": 928,
+  "total_releases": 73,
+  "total_assets": 98,
+  "total_downloads": 945,
   "repos": {
+    "front-galaxy-gaia": {
+      "repo_url": "https://github.com/diegonmarcos/front-galaxy-gaia",
+      "releases": [
+        {
+          "tag_name": "assets-src",
+          "name": "Source assets (licensed Synty packages)",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-07-24T17:28:34Z",
+          "published_at": "2026-07-24T17:38:27Z",
+          "html_url": "https://github.com/diegonmarcos/front-galaxy-gaia/releases/tag/assets-src",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/front-galaxy-gaia/tarball/assets-src",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/front-galaxy-gaia/zipball/assets-src",
+          "assets": [
+            {
+              "name": "tropical-jungle-full.unitypackage",
+              "size": 250388636,
+              "download_count": 2,
+              "browser_download_url": "https://github.com/diegonmarcos/front-galaxy-gaia/releases/download/assets-src/tropical-jungle-full.unitypackage",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-07-24T17:38:22Z"
+            }
+          ]
+        }
+      ]
+    },
     "tools": {
       "repo_url": "https://github.com/diegonmarcos/tools",
       "releases": [
@@ -22,7 +48,7 @@
             {
               "name": "octocode-0.12.2-fastembed-x86_64",
               "size": 135286584,
-              "download_count": 207,
+              "download_count": 214,
               "browser_download_url": "https://github.com/diegonmarcos/tools/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-03-26T14:49:32Z"
@@ -496,11 +522,11 @@
             },
             {
               "name": "my-ai-aarch64",
-              "size": 3640632,
+              "size": 3640880,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-aarch64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-16T18:45:28Z"
+              "updated_at": "2026-07-24T12:57:40Z"
             },
             {
               "name": "my-ai-dash",
@@ -512,19 +538,19 @@
             },
             {
               "name": "my-ai-dash-aarch64",
-              "size": 4153568,
+              "size": 4153496,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-dash-aarch64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-16T18:45:28Z"
+              "updated_at": "2026-07-24T12:57:39Z"
             },
             {
               "name": "my-ai-dash-x86_64",
-              "size": 4192280,
+              "size": 4188416,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-dash-x86_64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-16T18:52:56Z"
+              "updated_at": "2026-07-24T13:05:51Z"
             },
             {
               "name": "my-ai-gui",
@@ -536,27 +562,27 @@
             },
             {
               "name": "my-ai-gui-x86_64",
-              "size": 9717864,
+              "size": 9710048,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-gui-x86_64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-16T18:52:56Z"
+              "updated_at": "2026-07-24T13:05:52Z"
             },
             {
               "name": "my-ai-gui_0.1.0_amd64.deb",
-              "size": 3172482,
+              "size": 3167652,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-gui_0.1.0_amd64.deb",
               "content_type": "application/x-debian-package",
-              "updated_at": "2026-07-16T18:52:56Z"
+              "updated_at": "2026-07-24T13:05:51Z"
             },
             {
               "name": "my-ai-x86_64",
-              "size": 3670152,
+              "size": 3670616,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-x86_64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-16T18:52:56Z"
+              "updated_at": "2026-07-24T13:05:51Z"
             }
           ]
         },
@@ -963,35 +989,35 @@
           "assets": [
             {
               "name": "my-konsole",
-              "size": 8123664,
-              "download_count": 0,
+              "size": 8189200,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-konsole-latest/my-konsole",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-23T14:59:14Z"
+              "updated_at": "2026-07-24T17:15:04Z"
             },
             {
               "name": "my-konsole-dash",
               "size": 1283072,
-              "download_count": 0,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-konsole-latest/my-konsole-dash",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-23T14:59:14Z"
+              "updated_at": "2026-07-24T17:15:04Z"
             },
             {
               "name": "my-konsole-engine-aarch64",
-              "size": 1530392,
+              "size": 1531032,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-konsole-latest/my-konsole-engine-aarch64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-23T14:50:47Z"
+              "updated_at": "2026-07-24T17:05:29Z"
             },
             {
               "name": "my-konsole_0.1.0_amd64.deb",
-              "size": 3313256,
+              "size": 3344898,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-konsole-latest/my-konsole_0.1.0_amd64.deb",
               "content_type": "application/x-debian-package",
-              "updated_at": "2026-07-23T14:59:14Z"
+              "updated_at": "2026-07-24T17:15:04Z"
             }
           ]
         },
@@ -1595,27 +1621,27 @@
             },
             {
               "name": "Cloud-IDE-Hub.apk",
-              "size": 6815968,
+              "size": 6828331,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-IDE-Hub.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-24T08:46:07Z"
+              "updated_at": "2026-07-24T17:07:35Z"
             },
             {
               "name": "Cloud-Keyboard-Libs.apk",
-              "size": 136310583,
+              "size": 136326967,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Keyboard-Libs.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-23T23:11:24Z"
+              "updated_at": "2026-07-24T11:26:39Z"
             },
             {
               "name": "Cloud-Keyboard.apk",
-              "size": 63520578,
+              "size": 25918381,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Keyboard.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-23T23:13:00Z"
+              "updated_at": "2026-07-24T09:34:39Z"
             },
             {
               "name": "Cloud-Nav-x86_64.apk",
@@ -1635,19 +1661,19 @@
             },
             {
               "name": "Cloud-SuperApp-x86_64.apk",
-              "size": 35081649,
+              "size": 35098033,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-23T23:14:54Z"
+              "updated_at": "2026-07-24T10:11:00Z"
             },
             {
               "name": "Cloud-SuperApp.apk",
-              "size": 34463165,
+              "size": 34479549,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-23T23:15:25Z"
+              "updated_at": "2026-07-24T10:10:31Z"
             },
             {
               "name": "cloud-terminal.tar.zst",
@@ -1713,7 +1739,7 @@
             {
               "name": "octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
               "size": 27050620,
-              "download_count": 693,
+              "download_count": 699,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/octocode-0.12.2-hf/octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
               "content_type": "application/x-gtar",
               "updated_at": "2026-03-24T12:47:34Z"
