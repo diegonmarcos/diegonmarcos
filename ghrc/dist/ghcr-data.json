@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-27T10:19:14.379Z",
+  "fetched_at": "2026-07-28T09:13:39.702Z",
   "owner": "diegonmarcos",
   "total_packages": 330,
   "repos": {
@@ -123854,13 +123854,151 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp",
           "created_at": "2026-05-29T13:44:05Z",
-          "updated_at": "2026-07-26T13:29:35Z",
+          "updated_at": "2026-07-28T08:33:05Z",
           "versions": [
+            {
+              "id": 1073652399,
+              "tags": [
+                "v0.1.1-dev-x86_64"
+              ],
+              "created_at": "2026-07-28T08:33:05Z",
+              "updated_at": "2026-07-28T08:33:05Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1073652399"
+            },
+            {
+              "id": 1073652363,
+              "tags": [
+                "sha-a0914703-x86_64"
+              ],
+              "created_at": "2026-07-28T08:33:05Z",
+              "updated_at": "2026-07-28T08:33:05Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1073652363"
+            },
+            {
+              "id": 1073652327,
+              "tags": [
+                "latest-x86_64"
+              ],
+              "created_at": "2026-07-28T08:33:04Z",
+              "updated_at": "2026-07-28T08:33:04Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1073652327"
+            },
+            {
+              "id": 1073651647,
+              "tags": [
+                "v0.1.1-dev"
+              ],
+              "created_at": "2026-07-28T08:32:52Z",
+              "updated_at": "2026-07-28T08:32:52Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1073651647"
+            },
+            {
+              "id": 1073651610,
+              "tags": [
+                "sha-a0914703"
+              ],
+              "created_at": "2026-07-28T08:32:52Z",
+              "updated_at": "2026-07-28T08:32:52Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1073651610"
+            },
+            {
+              "id": 1073651567,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-07-28T08:32:51Z",
+              "updated_at": "2026-07-28T08:32:51Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1073651567"
+            },
+            {
+              "id": 1073605567,
+              "tags": [],
+              "created_at": "2026-07-28T08:18:28Z",
+              "updated_at": "2026-07-28T08:18:28Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1073605567"
+            },
+            {
+              "id": 1073605508,
+              "tags": [
+                "sha-e3d52c4d-x86_64"
+              ],
+              "created_at": "2026-07-28T08:18:27Z",
+              "updated_at": "2026-07-28T08:18:27Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1073605508"
+            },
+            {
+              "id": 1073605445,
+              "tags": [],
+              "created_at": "2026-07-28T08:18:26Z",
+              "updated_at": "2026-07-28T08:18:26Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1073605445"
+            },
+            {
+              "id": 1073603444,
+              "tags": [],
+              "created_at": "2026-07-28T08:17:51Z",
+              "updated_at": "2026-07-28T08:17:51Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1073603444"
+            },
+            {
+              "id": 1073603398,
+              "tags": [
+                "sha-e3d52c4d"
+              ],
+              "created_at": "2026-07-28T08:17:51Z",
+              "updated_at": "2026-07-28T08:17:51Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1073603398"
+            },
+            {
+              "id": 1073603362,
+              "tags": [],
+              "created_at": "2026-07-28T08:17:50Z",
+              "updated_at": "2026-07-28T08:17:50Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1073603362"
+            },
+            {
+              "id": 1070153684,
+              "tags": [],
+              "created_at": "2026-07-27T10:26:10Z",
+              "updated_at": "2026-07-27T10:26:10Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1070153684"
+            },
+            {
+              "id": 1070153624,
+              "tags": [
+                "sha-8e857b38-x86_64"
+              ],
+              "created_at": "2026-07-27T10:26:09Z",
+              "updated_at": "2026-07-27T10:26:09Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1070153624"
+            },
+            {
+              "id": 1070153566,
+              "tags": [],
+              "created_at": "2026-07-27T10:26:08Z",
+              "updated_at": "2026-07-27T10:26:08Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1070153566"
+            },
+            {
+              "id": 1070153448,
+              "tags": [
+                "sha-8e857b38"
+              ],
+              "created_at": "2026-07-27T10:26:06Z",
+              "updated_at": "2026-07-27T10:26:06Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1070153448"
+            },
+            {
+              "id": 1070153408,
+              "tags": [],
+              "created_at": "2026-07-27T10:26:06Z",
+              "updated_at": "2026-07-27T10:26:06Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1070153408"
+            },
             {
               "id": 1067888813,
               "tags": [
-                "sha-ea6d7709-x86_64",
-                "v0.1.1-dev-x86_64"
+                "sha-ea6d7709-x86_64"
               ],
               "created_at": "2026-07-26T13:29:34Z",
               "updated_at": "2026-07-26T13:29:34Z",
@@ -123868,18 +124006,14 @@
             },
             {
               "id": 1067888801,
-              "tags": [
-                "latest-x86_64"
-              ],
+              "tags": [],
               "created_at": "2026-07-26T13:29:34Z",
               "updated_at": "2026-07-26T13:29:34Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1067888801"
             },
             {
               "id": 1067888552,
-              "tags": [
-                "v0.1.1-dev"
-              ],
+              "tags": [],
               "created_at": "2026-07-26T13:29:23Z",
               "updated_at": "2026-07-26T13:29:23Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1067888552"
@@ -123895,9 +124029,7 @@
             },
             {
               "id": 1067888506,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-07-26T13:29:22Z",
               "updated_at": "2026-07-26T13:29:22Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1067888506"

@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-27T10:19:28.000Z",
+  "fetched_at": "2026-07-28T09:13:49.618Z",
   "owner": "diegonmarcos",
   "total_releases": 78,
   "total_assets": 104,
-  "total_downloads": 990,
+  "total_downloads": 998,
   "repos": {
     "front-galaxy-gaia": {
       "repo_url": "https://github.com/diegonmarcos/front-galaxy-gaia",
@@ -116,7 +116,7 @@
             {
               "name": "cloud-comms-mail.apk",
               "size": 29345617,
-              "download_count": 3,
+              "download_count": 11,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-mail-20260726.131528/cloud-comms-mail.apk",
               "content_type": "application/vnd.android.package-archive",
               "updated_at": "2026-07-26T13:22:51Z"
@@ -1778,7 +1778,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-26T13:29:37Z"
+              "updated_at": "2026-07-28T08:33:08Z"
             },
             {
               "name": "Cloud-SuperApp.apk",
@@ -1786,7 +1786,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-07-26T13:29:26Z"
+              "updated_at": "2026-07-28T08:32:54Z"
             },
             {
               "name": "cloud-terminal.tar.zst",
