@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-29T09:17:26.381Z",
+  "fetched_at": "2026-07-30T09:14:00.749Z",
   "owner": "diegonmarcos",
   "total_releases": 78,
   "total_assets": 104,
-  "total_downloads": 1006,
+  "total_downloads": 1008,
   "repos": {
     "front-galaxy-gaia": {
       "repo_url": "https://github.com/diegonmarcos/front-galaxy-gaia",
@@ -48,7 +48,7 @@
             {
               "name": "octocode-0.12.2-fastembed-x86_64",
               "size": 135286584,
-              "download_count": 232,
+              "download_count": 234,
               "browser_download_url": "https://github.com/diegonmarcos/tools/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-03-26T14:49:32Z"
@@ -627,11 +627,11 @@
             },
             {
               "name": "my-ai-aarch64",
-              "size": 3640640,
+              "size": 3726968,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-aarch64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-26T09:15:49Z"
+              "updated_at": "2026-07-29T14:16:20Z"
             },
             {
               "name": "my-ai-dash",
@@ -643,19 +643,19 @@
             },
             {
               "name": "my-ai-dash-aarch64",
-              "size": 4153272,
+              "size": 4153544,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-dash-aarch64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-26T09:15:49Z"
+              "updated_at": "2026-07-29T14:16:20Z"
             },
             {
               "name": "my-ai-dash-x86_64",
-              "size": 4188416,
+              "size": 4196736,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-dash-x86_64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-26T09:25:04Z"
+              "updated_at": "2026-07-29T14:25:15Z"
             },
             {
               "name": "my-ai-gui",
@@ -667,27 +667,27 @@
             },
             {
               "name": "my-ai-gui-x86_64",
-              "size": 9710048,
+              "size": 9711248,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-gui-x86_64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-26T09:25:04Z"
+              "updated_at": "2026-07-29T14:25:17Z"
             },
             {
               "name": "my-ai-gui_0.1.0_amd64.deb",
-              "size": 3167648,
+              "size": 3167614,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-gui_0.1.0_amd64.deb",
               "content_type": "application/x-debian-package",
-              "updated_at": "2026-07-26T09:25:04Z"
+              "updated_at": "2026-07-29T14:25:15Z"
             },
             {
               "name": "my-ai-x86_64",
-              "size": 3670408,
+              "size": 3747040,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-x86_64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-07-26T09:25:04Z"
+              "updated_at": "2026-07-29T14:25:15Z"
             }
           ]
         },
