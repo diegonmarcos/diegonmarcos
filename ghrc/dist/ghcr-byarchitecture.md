@@ -7,7 +7,7 @@
   <a href="ghcr-byrepocodespc.md"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20By%20Codespace-30363d?style=for-the-badge" alt="By Codespace" height="28"></a>
 </p>
 
-<p align="center"><sub><b>334</b> packages · <b>119.94 GB</b> total</sub></p>
+<p align="center"><sub><b>308</b> packages · <b>124.44 GB</b> total</sub></p>
 
 # 🏗️ Packages — By Architecture
 
@@ -15,9 +15,9 @@
 
 | Architecture | Packages | Total Size |
 |:---|:---|:---|
-| `linux/amd64` | 122 | 103.54 GB |
-| `linux/arm64` | 111 | 20.75 GB |
-| *unknown* | 107 | — |
+| `linux/amd64` | 124 | 103.78 GB |
+| `linux/arm64` | 123 | 25.01 GB |
+| *unknown* | 67 | — |
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 💻 Single-architecture <sup>221</sup>
+### 💻 Single-architecture <sup>235</sup>
 
 | Package | Platform | Size | Ports | Entrypoint |
 |:---|:---|:---|:---|:---|
@@ -54,11 +54,16 @@
 | [c3-analytics-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-analytics-api-binaries) | `linux/amd64` | 137.9 MB | — | `—` |
 | [c3-analytics-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-analytics-api-configs) | `linux/amd64` | 2.2 MB | — | `—` |
 | [c3-infra-api](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api) | `linux/arm64` | 239.1 MB | — | `—` |
+| [c3-infra-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-binaries) | `linux/arm64` | 239.1 MB | — | `—` |
 | [c3-infra-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-configs) | `linux/arm64` | 1.9 MB | — | `—` |
-| [c3-infra-mcp](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp) | `linux/arm64` | 356.5 MB | — | `—` |
+| [c3-infra-mcp](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp) | `linux/arm64` | 356.6 MB | — | `—` |
+| [c3-infra-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp-binaries) | `linux/arm64` | 356.6 MB | — | `—` |
 | [c3-infra-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp-configs) | `linux/arm64` | 1.9 MB | — | `—` |
+| [c3-public-api](https://github.com/users/diegonmarcos/packages/container/package/c3-public-api) | `linux/amd64` | 123.7 MB | — | `—` |
+| [c3-public-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-public-api-binaries) | `linux/amd64` | 123.7 MB | — | `—` |
 | [c3-public-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-public-api-configs) | `linux/amd64` | 2.2 MB | — | `—` |
 | [c3-services-api](https://github.com/users/diegonmarcos/packages/container/package/c3-services-api) | `linux/arm64` | 102.6 MB | — | `—` |
+| [c3-services-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-services-api-binaries) | `linux/arm64` | 102.6 MB | — | `—` |
 | [c3-services-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-services-api-configs) | `linux/arm64` | 1.9 MB | — | `—` |
 | [c3-services-mcp](https://github.com/users/diegonmarcos/packages/container/package/c3-services-mcp) | `linux/arm64` | 134.6 MB | — | `—` |
 | [c3-services-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-services-mcp-binaries) | `linux/arm64` | 134.6 MB | — | `—` |
@@ -76,6 +81,7 @@
 | [claude-openai-bridge-configs](https://github.com/users/diegonmarcos/packages/container/package/claude-openai-bridge-configs) | `linux/arm64` | 1.9 MB | — | `—` |
 | [cloud-builder-x-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-configs) | `linux/amd64` | 2.2 MB | — | `—` |
 | [cloud-cgc-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp) | `linux/arm64` | 2.56 GB | — | `—` |
+| [cloud-cgc-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp-binaries) | `linux/arm64` | 2.56 GB | — | `—` |
 | [cloud-cgc-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp-configs) | `linux/arm64` | 1.9 MB | — | `—` |
 | [cloud-spec](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec) | `linux/arm64` | 1.9 MB | — | `—` |
 | [cloud-spec-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec-configs) | `linux/arm64` | 3.2 MB | — | `—` |
@@ -90,6 +96,8 @@
 | [crawlee-minio](https://github.com/users/diegonmarcos/packages/container/package/crawlee-minio) | `linux/amd64` | 59.4 MB | 9000 | `/usr/bin/docker-entrypoint.sh` |
 | [crawlee-minio-mc](https://github.com/users/diegonmarcos/packages/container/package/crawlee-minio-mc) | `linux/amd64` | 28.4 MB | — | `mc` |
 | [crawlee-redis](https://github.com/users/diegonmarcos/packages/container/package/crawlee-redis) | `linux/amd64` | 16.4 MB | 6379 | `docker-entrypoint.sh` |
+| [crowdsec](https://github.com/users/diegonmarcos/packages/container/package/crowdsec) | `linux/arm64` | 126.1 MB | — | `/bin/bash /docker_start.sh` |
+| [crowdsec-binaries](https://github.com/users/diegonmarcos/packages/container/package/crowdsec-binaries) | `linux/arm64` | 126.1 MB | — | `/bin/bash /docker_start.sh` |
 | [crowdsec-configs](https://github.com/users/diegonmarcos/packages/container/package/crowdsec-configs) | `linux/arm64` | 1.9 MB | — | `—` |
 | [cypht-binaries](https://github.com/users/diegonmarcos/packages/container/package/cypht-binaries) | `linux/amd64` | 291.8 MB | 80, 9000 | `docker-entrypoint.sh` |
 | [cypht-binaries-binaries](https://github.com/users/diegonmarcos/packages/container/package/cypht-binaries-binaries) | `linux/amd64` | 291.8 MB | 80, 9000 | `docker-entrypoint.sh` |
@@ -98,6 +106,7 @@
 | [dagu-binaries](https://github.com/users/diegonmarcos/packages/container/package/dagu-binaries) | `linux/arm64` | 67.7 MB | 8080 | `dagu` |
 | [dagu-configs](https://github.com/users/diegonmarcos/packages/container/package/dagu-configs) | `linux/arm64` | 1.9 MB | — | `—` |
 | [dbgate](https://github.com/users/diegonmarcos/packages/container/package/dbgate) | `linux/arm64` | 141.1 MB | 3000 | `docker-entrypoint.sh` |
+| [dbgate-binaries](https://github.com/users/diegonmarcos/packages/container/package/dbgate-binaries) | `linux/arm64` | 141.1 MB | 3000 | `docker-entrypoint.sh` |
 | [dbgate-configs](https://github.com/users/diegonmarcos/packages/container/package/dbgate-configs) | `linux/arm64` | 1.9 MB | — | `—` |
 | [dozzle](https://github.com/users/diegonmarcos/packages/container/package/dozzle) | `linux/amd64` | 16.9 MB | 8080 | `/dozzle` |
 | [dozzle-configs](https://github.com/users/diegonmarcos/packages/container/package/dozzle-configs) | `linux/amd64` | 2.3 MB | — | `—` |
@@ -110,6 +119,7 @@
 | [fluent-bit](https://github.com/users/diegonmarcos/packages/container/package/fluent-bit) | `linux/amd64` | 46.4 MB | 2020 | `/fluent-bit/bin/fluent-bit` |
 | [fluent-bit-configs](https://github.com/users/diegonmarcos/packages/container/package/fluent-bit-configs) | `linux/amd64` | 2.2 MB | — | `—` |
 | [gitea](https://github.com/users/diegonmarcos/packages/container/package/gitea) | `linux/arm64` | 66.0 MB | 22, 3000 | `/usr/bin/entrypoint` |
+| [gitea-binaries](https://github.com/users/diegonmarcos/packages/container/package/gitea-binaries) | `linux/arm64` | 66.0 MB | 22, 3000 | `/usr/bin/entrypoint` |
 | [gitea-configs](https://github.com/users/diegonmarcos/packages/container/package/gitea-configs) | `linux/arm64` | 1.9 MB | — | `—` |
 | [google-personal-mcp](https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp) | `linux/arm64` | 132.0 MB | — | `—` |
 | [google-personal-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp-binaries) | `linux/arm64` | 132.0 MB | — | `—` |
@@ -171,8 +181,10 @@
 | [mattermost-bots-configs](https://github.com/users/diegonmarcos/packages/container/package/mattermost-bots-configs) | `linux/amd64` | 2.3 MB | — | `—` |
 | [mattermost-db](https://github.com/users/diegonmarcos/packages/container/package/mattermost-db) | `linux/amd64` | 104.9 MB | 5432 | `docker-entrypoint.sh` |
 | [mattermost-mcp](https://github.com/users/diegonmarcos/packages/container/package/mattermost-mcp) | `linux/arm64` | 103.6 MB | — | `—` |
+| [mattermost-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/mattermost-mcp-binaries) | `linux/arm64` | 103.6 MB | — | `—` |
 | [mattermost-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/mattermost-mcp-configs) | `linux/arm64` | 1.9 MB | — | `—` |
 | [my-ai-api](https://github.com/users/diegonmarcos/packages/container/package/my-ai-api) | `linux/arm64` | 326.3 MB | 12436, 3217, 8890 | `—` |
+| [my-ai-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/my-ai-api-binaries) | `linux/arm64` | 326.3 MB | 12436, 3217, 8890 | `—` |
 | [my-ai-api-configs](https://github.com/users/diegonmarcos/packages/container/package/my-ai-api-configs) | `linux/arm64` | 4.4 MB | — | `—` |
 | [news-gdelt](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt) | `linux/arm64` | 196.3 MB | — | `—` |
 | [news-gdelt-configs](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt-configs) | `linux/arm64` | 1.9 MB | — | `—` |
@@ -192,6 +204,8 @@
 | [ollama-configs](https://github.com/users/diegonmarcos/packages/container/package/ollama-configs) | `linux/amd64` | 2.3 MB | — | `—` |
 | [ollama-hai](https://github.com/users/diegonmarcos/packages/container/package/ollama-hai) | `linux/arm64` | 2.58 GB | 11434 | `/bin/ollama` |
 | [ollama-hai-configs](https://github.com/users/diegonmarcos/packages/container/package/ollama-hai-configs) | `linux/arm64` | 1.9 MB | — | `—` |
+| [openobserve](https://github.com/users/diegonmarcos/packages/container/package/openobserve) | `linux/arm64` | 74.2 MB | — | `—` |
+| [openobserve-binaries](https://github.com/users/diegonmarcos/packages/container/package/openobserve-binaries) | `linux/arm64` | 74.2 MB | — | `—` |
 | [paca-configs](https://github.com/users/diegonmarcos/packages/container/package/paca-configs) | `linux/amd64` | 2.2 MB | — | `—` |
 | [photoprism](https://github.com/users/diegonmarcos/packages/container/package/photoprism) | `linux/arm64` | 899.8 MB | 2342, 2442, 2443 | `/init` |
 | [photoprism-configs](https://github.com/users/diegonmarcos/packages/container/package/photoprism-configs) | `linux/arm64` | 1.9 MB | — | `—` |
@@ -262,7 +276,7 @@
 
 ---
 
-### `linux/amd64` <sup>122 packages</sup>
+### `linux/amd64` <sup>124 packages</sup>
 
 | Package | Size | Layers | Ports | Working Dir | Entrypoint |
 |:---|:---|:---|:---|:---|:---|
@@ -277,6 +291,8 @@
 | [c3-analytics-api](https://github.com/users/diegonmarcos/packages/container/package/c3-analytics-api) | 137.9 MB | 11 | — | `/app` | `—` |
 | [c3-analytics-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-analytics-api-binaries) | 137.9 MB | 11 | — | `/app` | `—` |
 | [c3-analytics-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-analytics-api-configs) | 2.2 MB | 2 | — | `/` | `—` |
+| [c3-public-api](https://github.com/users/diegonmarcos/packages/container/package/c3-public-api) | 123.7 MB | 11 | — | `/app` | `—` |
+| [c3-public-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-public-api-binaries) | 123.7 MB | 11 | — | `/app` | `—` |
 | [c3-public-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-public-api-configs) | 2.2 MB | 2 | — | `/` | `—` |
 | [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | 39.7 MB | 7 | 2019, 443, 443/udp, 80 | `/srv` | `—` |
 | [caddy-binaries](https://github.com/users/diegonmarcos/packages/container/package/caddy-binaries) | 39.7 MB | 7 | 2019, 443, 443/udp, 80 | `/srv` | `—` |
@@ -391,7 +407,7 @@
 
 ---
 
-### `linux/arm64` <sup>111 packages</sup>
+### `linux/arm64` <sup>123 packages</sup>
 
 | Package | Size | Layers | Ports | Working Dir | Entrypoint |
 |:---|:---|:---|:---|:---|:---|
@@ -400,10 +416,13 @@
 | [backup-bup](https://github.com/users/diegonmarcos/packages/container/package/backup-bup) | 3.9 MB | 1 | — | `/` | `—` |
 | [backup-bup-configs](https://github.com/users/diegonmarcos/packages/container/package/backup-bup-configs) | 1.9 MB | 2 | — | `/` | `—` |
 | [c3-infra-api](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api) | 239.1 MB | 10 | — | `/app` | `—` |
+| [c3-infra-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-binaries) | 239.1 MB | 10 | — | `/app` | `—` |
 | [c3-infra-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-configs) | 1.9 MB | 2 | — | `/` | `—` |
-| [c3-infra-mcp](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp) | 356.5 MB | 10 | — | `/app` | `—` |
+| [c3-infra-mcp](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp) | 356.6 MB | 10 | — | `/app` | `—` |
+| [c3-infra-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp-binaries) | 356.6 MB | 10 | — | `/app` | `—` |
 | [c3-infra-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp-configs) | 1.9 MB | 2 | — | `/` | `—` |
 | [c3-services-api](https://github.com/users/diegonmarcos/packages/container/package/c3-services-api) | 102.6 MB | 11 | — | `/app` | `—` |
+| [c3-services-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-services-api-binaries) | 102.6 MB | 11 | — | `/app` | `—` |
 | [c3-services-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-services-api-configs) | 1.9 MB | 2 | — | `/` | `—` |
 | [c3-services-mcp](https://github.com/users/diegonmarcos/packages/container/package/c3-services-mcp) | 134.6 MB | 11 | — | `/app` | `—` |
 | [c3-services-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-services-mcp-binaries) | 134.6 MB | 11 | — | `/app` | `—` |
@@ -415,6 +434,7 @@
 | [cloud-builder-x-deb-apt](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-apt) | 682.9 MB | 16 | — | `/workspace` | `/opt/cloud-builder/entrypoint.sh` |
 | [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | 2.26 GB | 19 | — | `/root/git/cloud` | `/opt/cloud-builder/entrypoint.sh` |
 | [cloud-cgc-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp) | 2.56 GB | 16 | — | `/app` | `—` |
+| [cloud-cgc-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp-binaries) | 2.56 GB | 16 | — | `/app` | `—` |
 | [cloud-cgc-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp-configs) | 1.9 MB | 2 | — | `/` | `—` |
 | [cloud-data-reports](https://github.com/users/diegonmarcos/packages/container/package/cloud-data-reports) | 197.4 MB | 15 | — | `/root/git/cloud-data/reports` | `/opt/reports/entrypoint.sh` |
 | [cloud-spec](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec) | 1.9 MB | 1 | — | `/` | `—` |
@@ -426,11 +446,14 @@
 | [crawlee-cloud-configs](https://github.com/users/diegonmarcos/packages/container/package/crawlee-cloud-configs) | 2.2 MB | 2 | — | `/` | `—` |
 | [crawlee-cloud-dashboard](https://github.com/users/diegonmarcos/packages/container/package/crawlee-cloud-dashboard) | 69.6 MB | 8 | 3001 | `/app` | `docker-entrypoint.sh` |
 | [crawlee-cloud-runner](https://github.com/users/diegonmarcos/packages/container/package/crawlee-cloud-runner) | 142.0 MB | 11 | — | `/app` | `docker-entrypoint.sh` |
+| [crowdsec](https://github.com/users/diegonmarcos/packages/container/package/crowdsec) | 126.1 MB | 9 | — | `/` | `/bin/bash /docker_start.sh` |
+| [crowdsec-binaries](https://github.com/users/diegonmarcos/packages/container/package/crowdsec-binaries) | 126.1 MB | 9 | — | `/` | `/bin/bash /docker_start.sh` |
 | [crowdsec-configs](https://github.com/users/diegonmarcos/packages/container/package/crowdsec-configs) | 1.9 MB | 2 | — | `/` | `—` |
 | [dagu](https://github.com/users/diegonmarcos/packages/container/package/dagu) | 67.7 MB | 10 | 8080 | `/` | `dagu` |
 | [dagu-binaries](https://github.com/users/diegonmarcos/packages/container/package/dagu-binaries) | 67.7 MB | 10 | 8080 | `/` | `dagu` |
 | [dagu-configs](https://github.com/users/diegonmarcos/packages/container/package/dagu-configs) | 1.9 MB | 2 | — | `/` | `—` |
 | [dbgate](https://github.com/users/diegonmarcos/packages/container/package/dbgate) | 141.1 MB | 11 | 3000 | `/home/dbgate-docker` | `docker-entrypoint.sh` |
+| [dbgate-binaries](https://github.com/users/diegonmarcos/packages/container/package/dbgate-binaries) | 141.1 MB | 11 | 3000 | `/home/dbgate-docker` | `docker-entrypoint.sh` |
 | [dbgate-configs](https://github.com/users/diegonmarcos/packages/container/package/dbgate-configs) | 1.9 MB | 2 | — | `/` | `—` |
 | [etherpad](https://github.com/users/diegonmarcos/packages/container/package/etherpad) | 130.0 MB | 24 | 9001 | `/opt/etherpad-lite` | `docker-entrypoint.sh` |
 | [etherpad-configs](https://github.com/users/diegonmarcos/packages/container/package/etherpad-configs) | 1.9 MB | 2 | — | `/` | `—` |
@@ -438,6 +461,7 @@
 | [filebrowser-configs](https://github.com/users/diegonmarcos/packages/container/package/filebrowser-configs) | 1.9 MB | 2 | — | `/` | `—` |
 | [fin-api-configs](https://github.com/users/diegonmarcos/packages/container/package/fin-api-configs) | 1.9 MB | 2 | — | `/` | `—` |
 | [gitea](https://github.com/users/diegonmarcos/packages/container/package/gitea) | 66.0 MB | 5 | 22, 3000 | `/` | `/usr/bin/entrypoint` |
+| [gitea-binaries](https://github.com/users/diegonmarcos/packages/container/package/gitea-binaries) | 66.0 MB | 5 | 22, 3000 | `/` | `/usr/bin/entrypoint` |
 | [gitea-configs](https://github.com/users/diegonmarcos/packages/container/package/gitea-configs) | 1.9 MB | 2 | — | `/` | `—` |
 | [google-personal-mcp](https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp) | 132.0 MB | 11 | — | `/app` | `—` |
 | [google-personal-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp-binaries) | 132.0 MB | 11 | — | `/app` | `—` |
@@ -471,8 +495,10 @@
 | [matrix-element-configs](https://github.com/users/diegonmarcos/packages/container/package/matrix-element-configs) | 1.9 MB | 2 | — | `/` | `—` |
 | [matrix-mautrix-whatsapp-configs](https://github.com/users/diegonmarcos/packages/container/package/matrix-mautrix-whatsapp-configs) | 1.9 MB | 2 | — | `/` | `—` |
 | [mattermost-mcp](https://github.com/users/diegonmarcos/packages/container/package/mattermost-mcp) | 103.6 MB | 10 | — | `/app` | `—` |
+| [mattermost-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/mattermost-mcp-binaries) | 103.6 MB | 10 | — | `/app` | `—` |
 | [mattermost-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/mattermost-mcp-configs) | 1.9 MB | 2 | — | `/` | `—` |
 | [my-ai-api](https://github.com/users/diegonmarcos/packages/container/package/my-ai-api) | 326.3 MB | 17 | 12436, 3217, 8890 | `/app` | `—` |
+| [my-ai-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/my-ai-api-binaries) | 326.3 MB | 17 | 12436, 3217, 8890 | `/app` | `—` |
 | [my-ai-api-configs](https://github.com/users/diegonmarcos/packages/container/package/my-ai-api-configs) | 4.4 MB | 2 | — | `/` | `—` |
 | [news-gdelt](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt) | 196.3 MB | 11 | — | `/app` | `—` |
 | [news-gdelt-configs](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt-configs) | 1.9 MB | 2 | — | `/` | `—` |
@@ -483,6 +509,8 @@
 | [octocode-fastembed-graphrag-indexed-arm](https://github.com/users/diegonmarcos/packages/container/package/octocode-fastembed-graphrag-indexed-arm) | 2.30 GB | 10 | — | `/` | `octocode` |
 | [ollama-hai](https://github.com/users/diegonmarcos/packages/container/package/ollama-hai) | 2.58 GB | 4 | 11434 | `/` | `/bin/ollama` |
 | [ollama-hai-configs](https://github.com/users/diegonmarcos/packages/container/package/ollama-hai-configs) | 1.9 MB | 2 | — | `/` | `—` |
+| [openobserve](https://github.com/users/diegonmarcos/packages/container/package/openobserve) | 74.2 MB | 21 | — | `/` | `—` |
+| [openobserve-binaries](https://github.com/users/diegonmarcos/packages/container/package/openobserve-binaries) | 74.2 MB | 21 | — | `/` | `—` |
 | [photoprism](https://github.com/users/diegonmarcos/packages/container/package/photoprism) | 899.8 MB | 9 | 2342, 2442, 2443 | `/photoprism` | `/init` |
 | [photoprism-configs](https://github.com/users/diegonmarcos/packages/container/package/photoprism-configs) | 1.9 MB | 2 | — | `/` | `—` |
 | [photos-webhook-configs](https://github.com/users/diegonmarcos/packages/container/package/photos-webhook-configs) | 1.9 MB | 2 | — | `/` | `—` |
@@ -509,73 +537,47 @@
 
 ---
 
-### ❓ No OCI metadata <sup>107</sup>
+### ❓ No OCI metadata <sup>67</sup>
 
 | Package | Visibility | Updated |
 |:---|:---|:---|
 | [backup-borg-binaries](https://github.com/users/diegonmarcos/packages/container/package/backup-borg-binaries) | private | today |
 | [backup-bup-binaries](https://github.com/users/diegonmarcos/packages/container/package/backup-bup-binaries) | private | today |
-| [c3-infra-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-binaries) | private | today |
-| [c3-infra-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp-binaries) | private | today |
-| [c3-public-api](https://github.com/users/diegonmarcos/packages/container/package/c3-public-api) | private | today |
-| [c3-public-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-public-api-binaries) | private | today |
-| [c3-services-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-services-api-binaries) | private | today |
-| [caddy-l4-binaries](https://github.com/users/diegonmarcos/packages/container/package/caddy-l4-binaries) | private | 29 days ago |
-| [caddy-public](https://github.com/users/diegonmarcos/packages/container/package/caddy-public) | private | 20 days ago |
-| [caddy-public-binaries](https://github.com/users/diegonmarcos/packages/container/package/caddy-public-binaries) | private | 20 days ago |
-| [calendar-radicale](https://github.com/users/diegonmarcos/packages/container/package/calendar-radicale) | private | 29 days ago |
-| [calendar-radicale-binaries](https://github.com/users/diegonmarcos/packages/container/package/calendar-radicale-binaries) | private | 29 days ago |
+| [caddy-l4-binaries](https://github.com/users/diegonmarcos/packages/container/package/caddy-l4-binaries) | private | 1 month ago |
 | [cf-worker-http-to-wg-public-bridge](https://github.com/users/diegonmarcos/packages/container/package/cf-worker-http-to-wg-public-bridge) | private | 1 month ago |
 | [cf-worker-http-to-wg-public-bridge-binaries](https://github.com/users/diegonmarcos/packages/container/package/cf-worker-http-to-wg-public-bridge-binaries) | private | 1 month ago |
-| [chat-mattermost](https://github.com/users/diegonmarcos/packages/container/package/chat-mattermost) | private | 23 days ago |
-| [chat-mattermost-binaries](https://github.com/users/diegonmarcos/packages/container/package/chat-mattermost-binaries) | private | 23 days ago |
 | [claude-api-superset](https://github.com/users/diegonmarcos/packages/container/package/claude-api-superset) | private | 1 month ago |
 | [claude-api-superset-binaries](https://github.com/users/diegonmarcos/packages/container/package/claude-api-superset-binaries) | private | 1 month ago |
 | [claude-openai-bridge](https://github.com/users/diegonmarcos/packages/container/package/claude-openai-bridge) | private | 1 month ago |
 | [claude-openai-bridge-binaries](https://github.com/users/diegonmarcos/packages/container/package/claude-openai-bridge-binaries) | private | 1 month ago |
 | [claude-superset-api](https://github.com/users/diegonmarcos/packages/container/package/claude-superset-api) | private | 1 month ago |
 | [claude-superset-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/claude-superset-api-binaries) | private | 1 month ago |
-| [cloud-browser](https://github.com/users/diegonmarcos/packages/container/package/cloud-browser) | public | 10 days ago |
-| [cloud-builder-x](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x) | private | 3 days ago |
-| [cloud-builder-x-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-binaries) | private | 3 days ago |
-| [cloud-cgc-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp-binaries) | private | today |
+| [cloud-browser](https://github.com/users/diegonmarcos/packages/container/package/cloud-browser) | public | 11 days ago |
+| [cloud-builder-x](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x) | private | 4 days ago |
+| [cloud-builder-x-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-binaries) | private | 4 days ago |
 | [cloud-cgc-mcp-octocode-db](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp-octocode-db) | private | today |
-| [cloud-comms-chat](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-chat) | public | yesterday |
-| [cloud-comms-dialer](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-dialer) | public | 10 days ago |
-| [cloud-comms-hub](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-hub) | public | 10 days ago |
-| [cloud-comms-mail](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-mail) | public | yesterday |
-| [cloud-comms-matrix](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-matrix) | public | yesterday |
+| [cloud-comms-chat](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-chat) | public | 2 days ago |
+| [cloud-comms-dialer](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-dialer) | public | 11 days ago |
+| [cloud-comms-hub](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-hub) | public | 11 days ago |
+| [cloud-comms-mail](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-mail) | public | 2 days ago |
+| [cloud-comms-matrix](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-matrix) | public | 2 days ago |
 | [cloud-ide-hub](https://github.com/users/diegonmarcos/packages/container/package/cloud-ide-hub) | public | today |
-| [cloud-keyboard](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard) | public | 7 days ago |
-| [cloud-keyboard-libs](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard-libs) | public | 7 days ago |
-| [cloud-media-center](https://github.com/users/diegonmarcos/packages/container/package/cloud-media-center) | public | yesterday |
-| [cloud-nav](https://github.com/users/diegonmarcos/packages/container/package/cloud-nav) | public | 9 days ago |
-| [cloud-spec-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec-binaries) | private | 3 days ago |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | yesterday |
+| [cloud-keyboard](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard) | public | today |
+| [cloud-keyboard-libs](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard-libs) | public | today |
+| [cloud-media-center](https://github.com/users/diegonmarcos/packages/container/package/cloud-media-center) | public | 2 days ago |
+| [cloud-nav](https://github.com/users/diegonmarcos/packages/container/package/cloud-nav) | public | today |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | today |
 | [cloud-terminal](https://github.com/users/diegonmarcos/packages/container/package/cloud-terminal) | public | 1 month ago |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | 10 days ago |
-| [cloud-wallet](https://github.com/users/diegonmarcos/packages/container/package/cloud-wallet) | public | 10 days ago |
-| [code-server-binaries](https://github.com/users/diegonmarcos/packages/container/package/code-server-binaries) | private | 29 days ago |
-| [contacts-radicale](https://github.com/users/diegonmarcos/packages/container/package/contacts-radicale) | private | 29 days ago |
-| [contacts-radicale-binaries](https://github.com/users/diegonmarcos/packages/container/package/contacts-radicale-binaries) | private | 29 days ago |
-| [crawlee-cloud](https://github.com/users/diegonmarcos/packages/container/package/crawlee-cloud) | private | 21 days ago |
-| [crawlee-cloud-binaries](https://github.com/users/diegonmarcos/packages/container/package/crawlee-cloud-binaries) | private | 21 days ago |
-| [crowdsec](https://github.com/users/diegonmarcos/packages/container/package/crowdsec) | private | today |
-| [crowdsec-binaries](https://github.com/users/diegonmarcos/packages/container/package/crowdsec-binaries) | private | today |
-| [dbgate-binaries](https://github.com/users/diegonmarcos/packages/container/package/dbgate-binaries) | private | today |
-| [etherpad-binaries](https://github.com/users/diegonmarcos/packages/container/package/etherpad-binaries) | private | 29 days ago |
-| [filebrowser-binaries](https://github.com/users/diegonmarcos/packages/container/package/filebrowser-binaries) | private | 29 days ago |
-| [fin-api](https://github.com/users/diegonmarcos/packages/container/package/fin-api) | private | 23 days ago |
-| [fin-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/fin-api-binaries) | private | 23 days ago |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | 11 days ago |
+| [cloud-wallet](https://github.com/users/diegonmarcos/packages/container/package/cloud-wallet) | public | 11 days ago |
+| [crawlee-cloud](https://github.com/users/diegonmarcos/packages/container/package/crawlee-cloud) | private | 22 days ago |
+| [crawlee-cloud-binaries](https://github.com/users/diegonmarcos/packages/container/package/crawlee-cloud-binaries) | private | 22 days ago |
 | [fincept-server](https://github.com/users/diegonmarcos/packages/container/package/fincept-server) | private | 3 months ago |
 | [fincept-server-configs](https://github.com/users/diegonmarcos/packages/container/package/fincept-server-configs) | private | 3 months ago |
-| [gha-runner](https://github.com/users/diegonmarcos/packages/container/package/gha-runner) | private | 6 days ago |
-| [gha-runner-binaries](https://github.com/users/diegonmarcos/packages/container/package/gha-runner-binaries) | private | 6 days ago |
-| [gha-runner-configs](https://github.com/users/diegonmarcos/packages/container/package/gha-runner-configs) | private | 29 days ago |
-| [gitea-binaries](https://github.com/users/diegonmarcos/packages/container/package/gitea-binaries) | private | today |
-| [grist-binaries](https://github.com/users/diegonmarcos/packages/container/package/grist-binaries) | private | 23 days ago |
-| [hedgedoc-binaries](https://github.com/users/diegonmarcos/packages/container/package/hedgedoc-binaries) | private | 29 days ago |
-| [hickory-dns-binaries](https://github.com/users/diegonmarcos/packages/container/package/hickory-dns-binaries) | private | 2 days ago |
+| [gha-runner](https://github.com/users/diegonmarcos/packages/container/package/gha-runner) | private | 7 days ago |
+| [gha-runner-binaries](https://github.com/users/diegonmarcos/packages/container/package/gha-runner-binaries) | private | 7 days ago |
+| [gha-runner-configs](https://github.com/users/diegonmarcos/packages/container/package/gha-runner-configs) | private | 1 month ago |
+| [hickory-dns-binaries](https://github.com/users/diegonmarcos/packages/container/package/hickory-dns-binaries) | private | 3 days ago |
 | [kg-bridge](https://github.com/users/diegonmarcos/packages/container/package/kg-bridge) | private | 1 month ago |
 | [kg-bridge-binaries](https://github.com/users/diegonmarcos/packages/container/package/kg-bridge-binaries) | private | 1 month ago |
 | [kg-graph-binaries](https://github.com/users/diegonmarcos/packages/container/package/kg-graph-binaries) | private | 1 month ago |
@@ -583,44 +585,30 @@
 | [kg-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/kg-mcp-binaries) | private | 1 month ago |
 | [kg-store](https://github.com/users/diegonmarcos/packages/container/package/kg-store) | private | today |
 | [kg-store-binaries](https://github.com/users/diegonmarcos/packages/container/package/kg-store-binaries) | private | today |
-| [matomo](https://github.com/users/diegonmarcos/packages/container/package/matomo) | private | 3 days ago |
-| [matomo-binaries](https://github.com/users/diegonmarcos/packages/container/package/matomo-binaries) | private | 3 days ago |
-| [matrix-element](https://github.com/users/diegonmarcos/packages/container/package/matrix-element) | private | 23 days ago |
-| [matrix-element-binaries](https://github.com/users/diegonmarcos/packages/container/package/matrix-element-binaries) | private | 23 days ago |
-| [matrix-mautrix-whatsapp](https://github.com/users/diegonmarcos/packages/container/package/matrix-mautrix-whatsapp) | private | 3 days ago |
-| [matrix-mautrix-whatsapp-binaries](https://github.com/users/diegonmarcos/packages/container/package/matrix-mautrix-whatsapp-binaries) | private | 3 days ago |
-| [mattermost-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/mattermost-mcp-binaries) | private | today |
-| [my-browser-rust-chromium](https://github.com/users/diegonmarcos/packages/container/package/my-browser-rust-chromium) | public | 15 days ago |
-| [news-gdelt-binaries](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt-binaries) | private | 24 days ago |
-| [ntfy-binaries](https://github.com/users/diegonmarcos/packages/container/package/ntfy-binaries) | private | 7 days ago |
+| [matrix-mautrix-whatsapp](https://github.com/users/diegonmarcos/packages/container/package/matrix-mautrix-whatsapp) | private | 4 days ago |
+| [matrix-mautrix-whatsapp-binaries](https://github.com/users/diegonmarcos/packages/container/package/matrix-mautrix-whatsapp-binaries) | private | 4 days ago |
+| [my-browser-rust-chromium](https://github.com/users/diegonmarcos/packages/container/package/my-browser-rust-chromium) | public | 16 days ago |
+| [news-gdelt-binaries](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt-binaries) | private | 25 days ago |
 | [ollama-hai-binaries](https://github.com/users/diegonmarcos/packages/container/package/ollama-hai-binaries) | private | 1 month ago |
-| [openobserve](https://github.com/users/diegonmarcos/packages/container/package/openobserve) | private | today |
-| [openobserve-binaries](https://github.com/users/diegonmarcos/packages/container/package/openobserve-binaries) | private | today |
-| [openobserve-configs](https://github.com/users/diegonmarcos/packages/container/package/openobserve-configs) | private | 29 days ago |
-| [photoprism-binaries](https://github.com/users/diegonmarcos/packages/container/package/photoprism-binaries) | private | 24 days ago |
-| [qutebrowser-standalone](https://github.com/users/diegonmarcos/packages/container/package/qutebrowser-standalone) | public | 15 days ago |
+| [openobserve-configs](https://github.com/users/diegonmarcos/packages/container/package/openobserve-configs) | private | 1 month ago |
+| [qutebrowser-standalone](https://github.com/users/diegonmarcos/packages/container/package/qutebrowser-standalone) | public | 16 days ago |
 | [radicale-binaries](https://github.com/users/diegonmarcos/packages/container/package/radicale-binaries) | private | 1 month ago |
-| [redis-binaries](https://github.com/users/diegonmarcos/packages/container/package/redis-binaries) | private | 2 days ago |
-| [redroid-cloud](https://github.com/users/diegonmarcos/packages/container/package/redroid-cloud) | public | 28 days ago |
-| [revealmd-binaries](https://github.com/users/diegonmarcos/packages/container/package/revealmd-binaries) | private | 1 month ago |
-| [rig-agentic-sonn-14bq8](https://github.com/users/diegonmarcos/packages/container/package/rig-agentic-sonn-14bq8) | private | 2 days ago |
-| [rig-agentic-sonn-14bq8-binaries](https://github.com/users/diegonmarcos/packages/container/package/rig-agentic-sonn-14bq8-binaries) | private | 2 days ago |
-| [send-configs](https://github.com/users/diegonmarcos/packages/container/package/send-configs) | private | 20 days ago |
-| [session-memory](https://github.com/users/diegonmarcos/packages/container/package/session-memory) | private | today |
-| [session-memory-binaries](https://github.com/users/diegonmarcos/packages/container/package/session-memory-binaries) | private | today |
+| [redis-binaries](https://github.com/users/diegonmarcos/packages/container/package/redis-binaries) | private | 3 days ago |
+| [redroid-cloud](https://github.com/users/diegonmarcos/packages/container/package/redroid-cloud) | public | 29 days ago |
+| [rig-agentic-sonn-14bq8](https://github.com/users/diegonmarcos/packages/container/package/rig-agentic-sonn-14bq8) | private | 3 days ago |
+| [rig-agentic-sonn-14bq8-binaries](https://github.com/users/diegonmarcos/packages/container/package/rig-agentic-sonn-14bq8-binaries) | private | 3 days ago |
+| [send-configs](https://github.com/users/diegonmarcos/packages/container/package/send-configs) | private | 21 days ago |
+| [session-memory](https://github.com/users/diegonmarcos/packages/container/package/session-memory) | private | yesterday |
+| [session-memory-binaries](https://github.com/users/diegonmarcos/packages/container/package/session-memory-binaries) | private | yesterday |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | 2 months ago |
 | [tools-http-to-smtp-proxy-api-configs](https://github.com/users/diegonmarcos/packages/container/package/tools-http-to-smtp-proxy-api-configs) | private | 2 months ago |
-| [umami-binaries](https://github.com/users/diegonmarcos/packages/container/package/umami-binaries) | private | 24 days ago |
-| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | today |
-| [unix-my-konsole-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-my-konsole-boot-cache) | public | 7 days ago |
-| [unix-termux-nixcache](https://github.com/users/diegonmarcos/packages/container/package/unix-termux-nixcache) | public | 3 days ago |
-| [vaultwarden-binaries](https://github.com/users/diegonmarcos/packages/container/package/vaultwarden-binaries) | private | 29 days ago |
-| [waydroid-container](https://github.com/users/diegonmarcos/packages/container/package/waydroid-container) | public | 23 days ago |
-| [wireguard-mesh](https://github.com/users/diegonmarcos/packages/container/package/wireguard-mesh) | private | 21 days ago |
-| [wireguard-mesh-binaries](https://github.com/users/diegonmarcos/packages/container/package/wireguard-mesh-binaries) | private | 21 days ago |
-| [wireguard-mesh-configs](https://github.com/users/diegonmarcos/packages/container/package/wireguard-mesh-configs) | private | 29 days ago |
+| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | yesterday |
+| [unix-my-konsole-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-my-konsole-boot-cache) | public | 8 days ago |
+| [unix-termux-nixcache](https://github.com/users/diegonmarcos/packages/container/package/unix-termux-nixcache) | public | 4 days ago |
+| [waydroid-container](https://github.com/users/diegonmarcos/packages/container/package/waydroid-container) | public | 24 days ago |
+| [wireguard-mesh-configs](https://github.com/users/diegonmarcos/packages/container/package/wireguard-mesh-configs) | private | 1 month ago |
 | [wireguard-mesh-ws-tunnel-configs](https://github.com/users/diegonmarcos/packages/container/package/wireguard-mesh-ws-tunnel-configs) | private | 2 months ago |
 
 ---
 
-<sub>Auto-generated from GHCR API · <code>ghrc/src/fetch.ts</code> + <code>ghrc/src/generate-md.ts</code> · Aug 1, 2026</sub>
+<sub>Auto-generated from GHCR API · <code>ghrc/src/fetch.ts</code> + <code>ghrc/src/generate-md.ts</code> · Aug 2, 2026</sub>
