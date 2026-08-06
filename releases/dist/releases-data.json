@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-05T09:13:09.877Z",
+  "fetched_at": "2026-08-06T09:13:39.308Z",
   "owner": "diegonmarcos",
   "total_releases": 99,
   "total_assets": 129,
-  "total_downloads": 1083,
+  "total_downloads": 1101,
   "repos": {
     "front-galaxy-gaia": {
       "repo_url": "https://github.com/diegonmarcos/front-galaxy-gaia",
@@ -48,7 +48,7 @@
             {
               "name": "octocode-0.12.2-fastembed-x86_64",
               "size": 135286584,
-              "download_count": 307,
+              "download_count": 308,
               "browser_download_url": "https://github.com/diegonmarcos/tools/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-03-26T14:49:32Z"
@@ -1068,11 +1068,11 @@
             },
             {
               "name": "my-ai-aarch64",
-              "size": 8642248,
-              "download_count": 0,
+              "size": 8638384,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-aarch64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-02T16:57:21Z"
+              "updated_at": "2026-08-05T22:03:32Z"
             },
             {
               "name": "my-ai-dash",
@@ -1084,19 +1084,19 @@
             },
             {
               "name": "my-ai-dash-aarch64",
-              "size": 4165976,
+              "size": 4166072,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-dash-aarch64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-02T16:57:21Z"
+              "updated_at": "2026-08-05T22:03:32Z"
             },
             {
               "name": "my-ai-dash-x86_64",
-              "size": 4242800,
-              "download_count": 0,
+              "size": 4242864,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-dash-x86_64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-02T17:06:09Z"
+              "updated_at": "2026-08-05T22:13:41Z"
             },
             {
               "name": "my-ai-gui",
@@ -1108,27 +1108,27 @@
             },
             {
               "name": "my-ai-gui-x86_64",
-              "size": 10035472,
+              "size": 10035184,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-gui-x86_64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-02T17:06:10Z"
+              "updated_at": "2026-08-05T22:13:41Z"
             },
             {
               "name": "my-ai-gui_0.1.0_amd64.deb",
-              "size": 3319252,
+              "size": 3318852,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-gui_0.1.0_amd64.deb",
               "content_type": "application/x-debian-package",
-              "updated_at": "2026-08-02T17:06:09Z"
+              "updated_at": "2026-08-05T22:13:41Z"
             },
             {
               "name": "my-ai-x86_64",
-              "size": 8595648,
-              "download_count": 0,
+              "size": 8607912,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-x86_64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-02T17:06:10Z"
+              "updated_at": "2026-08-05T22:13:41Z"
             }
           ]
         },
@@ -2247,19 +2247,19 @@
             },
             {
               "name": "Cloud-SuperApp-x86_64.apk",
-              "size": 35098033,
+              "size": 35114417,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-08-02T22:34:52Z"
+              "updated_at": "2026-08-06T00:22:58Z"
             },
             {
               "name": "Cloud-SuperApp.apk",
-              "size": 34479549,
+              "size": 34495933,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-SuperApp.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-08-02T22:35:04Z"
+              "updated_at": "2026-08-06T00:22:56Z"
             },
             {
               "name": "cloud-terminal.tar.zst",
@@ -2325,7 +2325,7 @@
             {
               "name": "octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
               "size": 27050620,
-              "download_count": 733,
+              "download_count": 745,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/octocode-0.12.2-hf/octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
               "content_type": "application/x-gtar",
               "updated_at": "2026-03-24T12:47:34Z"

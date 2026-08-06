@@ -20,10 +20,10 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | 39.7 MB | 6 days ago |
-| [gha-runner](https://github.com/users/diegonmarcos/packages/container/package/gha-runner) | private | — | 10 days ago |
-| [http-to-smtp-proxy-api](https://github.com/users/diegonmarcos/packages/container/package/http-to-smtp-proxy-api) | public | 33.6 MB | 2 days ago |
-| [ntfy](https://github.com/users/diegonmarcos/packages/container/package/ntfy) | public | 32.9 MB | 11 days ago |
+| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | 39.7 MB | 7 days ago |
+| [gha-runner](https://github.com/users/diegonmarcos/packages/container/package/gha-runner) | private | — | 11 days ago |
+| [http-to-smtp-proxy-api](https://github.com/users/diegonmarcos/packages/container/package/http-to-smtp-proxy-api) | public | 33.6 MB | 3 days ago |
+| [ntfy](https://github.com/users/diegonmarcos/packages/container/package/ntfy) | public | 32.9 MB | 12 days ago |
 
 </details>
 
@@ -32,9 +32,9 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [authelia](https://github.com/users/diegonmarcos/packages/container/package/authelia) | public | 24.5 MB | 6 days ago |
-| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | 39.7 MB | 6 days ago |
-| [hickory-dns](https://github.com/users/diegonmarcos/packages/container/package/hickory-dns) | public | 11.5 MB | 6 days ago |
+| [authelia](https://github.com/users/diegonmarcos/packages/container/package/authelia) | public | 24.5 MB | 7 days ago |
+| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | 39.7 MB | 7 days ago |
+| [hickory-dns](https://github.com/users/diegonmarcos/packages/container/package/hickory-dns) | public | 11.5 MB | 7 days ago |
 | [vm-pilot](https://github.com/users/diegonmarcos/packages/container/package/vm-pilot) | public | 69 KB | 3 months ago |
 
 </details>
@@ -44,7 +44,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-builder-x](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x) | private | — | 7 days ago |
+| [cloud-builder-x](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x) | private | — | 8 days ago |
 | [mattermost](https://github.com/users/diegonmarcos/packages/container/package/mattermost) | public | 487.7 MB | 3 months ago |
 
 </details>
@@ -54,7 +54,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [hermes-agent](https://github.com/users/diegonmarcos/packages/container/package/hermes-agent) | public | 926.0 MB | 2 days ago |
+| [hermes-agent](https://github.com/users/diegonmarcos/packages/container/package/hermes-agent) | public | 926.0 MB | 3 days ago |
 
 </details>
 
@@ -63,32 +63,31 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-cgc-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp) | public | 2.56 GB | 3 days ago |
+| [cloud-cgc-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp) | public | 2.56 GB | 4 days ago |
 | [cloud-cgc-mcp-octocode-db](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp-octocode-db) | private | — | today |
 
 </details>
 
 ---
 
-### 📁 cloud-data <sup>3 workflows</sup>
+### 📁 cloud-data <sup>4 workflows</sup>
 
 <details>
 <summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-data/blob/main/.github/workflows/ship-reports.yml"><b>Ship → Reports image</b></a> &nbsp;<sub>2 packages · 2.30 GB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-builder-x](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x) | private | — | 7 days ago |
-| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.30 GB | 2 days ago |
+| [cloud-builder-x](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x) | private | — | 8 days ago |
+| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.30 GB | 3 days ago |
 
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-data/blob/main/.github/workflows/cloud-health.yml"><b>Health Reports</b></a> &nbsp;<sub>3 packages · 254.4 MB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-data/blob/main/.github/workflows/cloud-health.yml"><b>Health Reports</b></a> &nbsp;<sub>2 packages · 229.9 MB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [authelia](https://github.com/users/diegonmarcos/packages/container/package/authelia) | public | 24.5 MB | 6 days ago |
-| [cloud-data-reports](https://github.com/users/diegonmarcos/packages/container/package/cloud-data-reports) | public | 201.7 MB | 3 days ago |
+| [cloud-data-reports](https://github.com/users/diegonmarcos/packages/container/package/cloud-data-reports) | public | 201.7 MB | 4 days ago |
 | [maddy](https://github.com/users/diegonmarcos/packages/container/package/maddy) | public | 28.2 MB | 3 months ago |
 
 </details>
@@ -98,7 +97,16 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-data-reports](https://github.com/users/diegonmarcos/packages/container/package/cloud-data-reports) | public | 201.7 MB | 3 days ago |
+| [cloud-data-reports](https://github.com/users/diegonmarcos/packages/container/package/cloud-data-reports) | public | 201.7 MB | 4 days ago |
+
+</details>
+
+<details>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-data/blob/main/.github/workflows/ship-cgc-db.yml"><b>cgc-db (octocode incremental update → GHCR → oci-apps)</b></a> &nbsp;<sub>1 package · 2.56 GB</sub></summary>
+
+| Package | Visibility | Size | Updated |
+|:---|:---|:---|:---|
+| [cloud-cgc-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp) | public | 2.56 GB | 4 days ago |
 
 </details>
 
@@ -111,7 +119,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [redis](https://github.com/users/diegonmarcos/packages/container/package/redis) | public | 35.9 MB | 6 days ago |
+| [redis](https://github.com/users/diegonmarcos/packages/container/package/redis) | public | 35.9 MB | 7 days ago |
 
 </details>
 
@@ -124,8 +132,8 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-builder-x](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x) | private | — | 7 days ago |
-| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.30 GB | 2 days ago |
+| [cloud-builder-x](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x) | private | — | 8 days ago |
+| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.30 GB | 3 days ago |
 
 </details>
 
@@ -134,10 +142,10 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-builder-x](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x) | private | — | 7 days ago |
-| [cloud-builder-x-deb-apt](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-apt) | public | 724.1 MB | 2 days ago |
-| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.30 GB | 2 days ago |
-| [gha-runner](https://github.com/users/diegonmarcos/packages/container/package/gha-runner) | private | — | 10 days ago |
+| [cloud-builder-x](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x) | private | — | 8 days ago |
+| [cloud-builder-x-deb-apt](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-apt) | public | 724.1 MB | 3 days ago |
+| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.30 GB | 3 days ago |
+| [gha-runner](https://github.com/users/diegonmarcos/packages/container/package/gha-runner) | private | — | 11 days ago |
 
 </details>
 
@@ -155,7 +163,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | — | 2 days ago |
+| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | — | 3 days ago |
 
 </details>
 
@@ -164,7 +172,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 2 days ago |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
 
 </details>
@@ -174,8 +182,8 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-ide-hub](https://github.com/users/diegonmarcos/packages/container/package/cloud-ide-hub) | public | — | 2 days ago |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 2 days ago |
+| [cloud-ide-hub](https://github.com/users/diegonmarcos/packages/container/package/cloud-ide-hub) | public | — | 3 days ago |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
 
 </details>
@@ -185,8 +193,8 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-nav](https://github.com/users/diegonmarcos/packages/container/package/cloud-nav) | public | — | 2 days ago |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 2 days ago |
+| [cloud-nav](https://github.com/users/diegonmarcos/packages/container/package/cloud-nav) | public | — | 3 days ago |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
 
 </details>
@@ -196,7 +204,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 2 days ago |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
 
 </details>
@@ -206,7 +214,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [unix-termux-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-termux-cache) | public | 2.19 GB | 11 days ago |
+| [unix-termux-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-termux-cache) | public | 2.19 GB | 12 days ago |
 
 </details>
 
@@ -215,7 +223,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [unix-hm-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-hm-cache) | public | 8.94 GB | 2 days ago |
+| [unix-hm-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-hm-cache) | public | 8.94 GB | 3 days ago |
 
 </details>
 
@@ -224,9 +232,9 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [ntfy](https://github.com/users/diegonmarcos/packages/container/package/ntfy) | public | 32.9 MB | 11 days ago |
-| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | — | 2 days ago |
-| [unix-system-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-system-cache) | public | 7.06 GB | 14 days ago |
+| [ntfy](https://github.com/users/diegonmarcos/packages/container/package/ntfy) | public | 32.9 MB | 12 days ago |
+| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | — | 3 days ago |
+| [unix-system-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-system-cache) | public | 7.06 GB | 15 days ago |
 
 </details>
 
@@ -244,7 +252,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [qutebrowser-standalone](https://github.com/users/diegonmarcos/packages/container/package/qutebrowser-standalone) | public | — | 19 days ago |
+| [qutebrowser-standalone](https://github.com/users/diegonmarcos/packages/container/package/qutebrowser-standalone) | public | — | 20 days ago |
 
 </details>
 
@@ -253,8 +261,8 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | — | 2 days ago |
-| [unix-my-konsole-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-my-konsole-boot-cache) | public | — | 11 days ago |
+| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | — | 3 days ago |
+| [unix-my-konsole-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-my-konsole-boot-cache) | public | — | 12 days ago |
 
 </details>
 
@@ -263,7 +271,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [waydroid-container](https://github.com/users/diegonmarcos/packages/container/package/waydroid-container) | public | — | 27 days ago |
+| [waydroid-container](https://github.com/users/diegonmarcos/packages/container/package/waydroid-container) | public | — | 28 days ago |
 
 </details>
 
@@ -272,7 +280,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-browser](https://github.com/users/diegonmarcos/packages/container/package/cloud-browser) | public | — | 14 days ago |
+| [cloud-browser](https://github.com/users/diegonmarcos/packages/container/package/cloud-browser) | public | — | 15 days ago |
 
 </details>
 
@@ -281,7 +289,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | 14 days ago |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | 15 days ago |
 
 </details>
 
@@ -290,7 +298,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-wallet](https://github.com/users/diegonmarcos/packages/container/package/cloud-wallet) | public | — | 14 days ago |
+| [cloud-wallet](https://github.com/users/diegonmarcos/packages/container/package/cloud-wallet) | public | — | 15 days ago |
 
 </details>
 
@@ -299,8 +307,8 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-keyboard](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard) | public | — | 3 days ago |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 2 days ago |
+| [cloud-keyboard](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard) | public | — | 4 days ago |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
 
 </details>
@@ -310,7 +318,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [my-browser-rust-chromium](https://github.com/users/diegonmarcos/packages/container/package/my-browser-rust-chromium) | public | — | 19 days ago |
+| [my-browser-rust-chromium](https://github.com/users/diegonmarcos/packages/container/package/my-browser-rust-chromium) | public | — | 20 days ago |
 
 </details>
 
@@ -319,8 +327,8 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-comms-chat](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-chat) | public | — | 5 days ago |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 2 days ago |
+| [cloud-comms-chat](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-chat) | public | — | 6 days ago |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
 
 </details>
@@ -330,8 +338,8 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-comms-dialer](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-dialer) | public | — | 14 days ago |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 2 days ago |
+| [cloud-comms-dialer](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-dialer) | public | — | 15 days ago |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
 
 </details>
@@ -341,8 +349,8 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-comms-mail](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-mail) | public | — | 5 days ago |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 2 days ago |
+| [cloud-comms-mail](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-mail) | public | — | 6 days ago |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
 
 </details>
@@ -352,8 +360,8 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-comms-matrix](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-matrix) | public | — | 5 days ago |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 2 days ago |
+| [cloud-comms-matrix](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-matrix) | public | — | 6 days ago |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
 
 </details>
@@ -363,9 +371,9 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-keyboard](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard) | public | — | 3 days ago |
-| [cloud-keyboard-libs](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard-libs) | public | — | 3 days ago |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 2 days ago |
+| [cloud-keyboard](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard) | public | — | 4 days ago |
+| [cloud-keyboard-libs](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard-libs) | public | — | 4 days ago |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
 
 </details>
@@ -375,8 +383,8 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-media-center](https://github.com/users/diegonmarcos/packages/container/package/cloud-media-center) | public | — | 5 days ago |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 2 days ago |
+| [cloud-media-center](https://github.com/users/diegonmarcos/packages/container/package/cloud-media-center) | public | — | 6 days ago |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
 
 </details>
@@ -386,7 +394,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-calendar](https://github.com/users/diegonmarcos/packages/container/package/cloud-calendar) | public | — | 2 days ago |
+| [cloud-calendar](https://github.com/users/diegonmarcos/packages/container/package/cloud-calendar) | public | — | 3 days ago |
 
 </details>
 
@@ -571,8 +579,8 @@
 | [news-gdelt-configs](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt-configs) | public | 1.9 MB | cloud |
 | [nixhm-sudo-gcp-proxy](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-gcp-proxy) | public | 733.2 MB | cloud |
 | [nixhm-sudo-gcp-t4](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-gcp-t4) | public | 2.44 GB | cloud |
-| [nixhm-sudo-oci-analytics](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-analytics) | public | 708.7 MB | cloud |
-| [nixhm-sudo-oci-mail](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-mail) | public | 708.8 MB | cloud |
+| [nixhm-sudo-oci-analytics](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-analytics) | public | 708.6 MB | cloud |
+| [nixhm-sudo-oci-mail](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-mail) | public | 708.9 MB | cloud |
 | [nocodb](https://github.com/users/diegonmarcos/packages/container/package/nocodb) | public | 397.8 MB | cloud |
 | [nocodb-configs](https://github.com/users/diegonmarcos/packages/container/package/nocodb-configs) | public | 2.2 MB | cloud |
 | [nocodb-db](https://github.com/users/diegonmarcos/packages/container/package/nocodb-db) | public | 147.9 MB | cloud |
@@ -666,4 +674,4 @@
 
 ---
 
-<sub>Auto-generated from GHCR API · <code>ghrc/src/fetch.ts</code> + <code>ghrc/src/generate-md.ts</code> · Aug 5, 2026</sub>
+<sub>Auto-generated from GHCR API · <code>ghrc/src/fetch.ts</code> + <code>ghrc/src/generate-md.ts</code> · Aug 6, 2026</sub>
