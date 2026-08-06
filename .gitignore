@@ -1,25 +1,50 @@
-# Object files
-#*.o
-#*.a
-#*.so
+# ══════════════════════════════════════════════════════════
+# REPO: vault (PRIVATE)
+# https://github.com/diegonmarcos/vault
+# ══════════════════════════════════════════════════════════
 
-# Executable files (if you create test programs)
-#a.out
-#*.out
+# ── Vault repo: ALLOW secrets (override global gitignore) ──
+# The global gitignore blocks secret file types as a safety net.
+# This IS the secrets repo — negate every blocked pattern.
+# KEEP IN SYNC with global gitignore: ~/git/unix/ba_flakes_desktop/src/modules/programs/git.nix
+#                                      ~/git/unix/bb_flakes_termux/src/modules/programs/git.nix
 
-# Compiled library
-#libft.a
-#libft.h.gch
+# Decrypted secrets output
+!.secrets
+!*.secrets
+!.secrets.d/
 
-# Files generated during compilation (if you use a build directory)
-#build/
+# Environment files
+!.env
+!.env.*
 
-# Test files directory
-#test_files/
-#*.log
+# Private keys & certificates
+!*.pem
+!*.key
+!*.p12
+!*.pfx
+!*.jks
+!*.keystore
 
-*/malloc_allocs
-*/malloc_allocs.txt
-*/rclone.log
-node_modules/
+# Auth tokens & credentials
+!*.token
+!*credentials*.json
+!*_token.json
+!*_tokens.json
+
+# Cloud provider configs
+!.oci/
+!.gcloud/
+
+# GPG & age
+!*.asc
+!*.age
+
+# Terraform
+!terraform.tfvars
+!*.tfvars
+
+# Python (used by get_token.py etc.)
+!__pycache__/
+!*.pyc
 
