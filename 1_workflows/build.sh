@@ -12,6 +12,10 @@
 # ║ Usage: ./build.sh [build|deploy|all|test]                        ║
 # ╚══════════════════════════════════════════════════════════════════╝
 set -e
+chmod +x "$0"
+
+# Prefer termux coreutils over nix binaries (nix cp/tail fail with libpthread on Android).
+export PATH="/data/data/com.termux.nix/files/usr/bin:$PATH"
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
