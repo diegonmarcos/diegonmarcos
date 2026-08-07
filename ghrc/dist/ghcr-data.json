@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-06T09:13:29.992Z",
+  "fetched_at": "2026-08-07T07:50:37.444Z",
   "owner": "diegonmarcos",
   "total_packages": 309,
   "repos": {
@@ -34910,13 +34910,20 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/chat-mattermost-configs",
           "created_at": "2026-06-10T16:49:58Z",
-          "updated_at": "2026-08-06T06:18:56Z",
+          "updated_at": "2026-08-06T12:30:18Z",
           "versions": [
             {
-              "id": 1104426682,
+              "id": 1105653794,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-06T12:30:18Z",
+              "updated_at": "2026-08-06T12:30:18Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/chat-mattermost-configs/1105653794"
+            },
+            {
+              "id": 1104426682,
+              "tags": [],
               "created_at": "2026-08-06T06:18:56Z",
               "updated_at": "2026-08-06T06:18:56Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/chat-mattermost-configs/1104426682"
@@ -35276,7 +35283,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 2018883,
+              "size_bytes": 2018886,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -35285,7 +35292,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-08-06T06:18:52.906108507Z"
+              "created": "2026-08-06T12:30:12.104901874Z"
             }
           ]
         },
@@ -36472,13 +36479,20 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp-configs",
           "created_at": "2026-04-02T17:43:42Z",
-          "updated_at": "2026-08-06T06:17:36Z",
+          "updated_at": "2026-08-06T12:29:29Z",
           "versions": [
             {
-              "id": 1104423445,
+              "id": 1105650972,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-06T12:29:29Z",
+              "updated_at": "2026-08-06T12:29:29Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-mcp-configs/1105650972"
+            },
+            {
+              "id": 1104423445,
+              "tags": [],
               "created_at": "2026-08-06T06:17:36Z",
               "updated_at": "2026-08-06T06:17:36Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-mcp-configs/1104423445"
@@ -37174,7 +37188,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 1997656,
+              "size_bytes": 1998063,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -37183,7 +37197,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-08-06T06:17:32.054298642Z"
+              "created": "2026-08-06T12:29:23.425164793Z"
             }
           ]
         },
@@ -37192,13 +37206,34 @@
           "visibility": "private",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp-octocode-db",
           "created_at": "2026-06-25T08:15:54Z",
-          "updated_at": "2026-08-06T08:14:19Z",
+          "updated_at": "2026-08-06T22:15:38Z",
           "versions": [
             {
-              "id": 1104789813,
+              "id": 1106547258,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-06T22:15:38Z",
+              "updated_at": "2026-08-06T22:15:38Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-mcp-octocode-db/1106547258"
+            },
+            {
+              "id": 1106091437,
+              "tags": [],
+              "created_at": "2026-08-06T14:28:35Z",
+              "updated_at": "2026-08-06T14:28:35Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-mcp-octocode-db/1106091437"
+            },
+            {
+              "id": 1105581199,
+              "tags": [],
+              "created_at": "2026-08-06T12:10:22Z",
+              "updated_at": "2026-08-06T12:10:22Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-mcp-octocode-db/1105581199"
+            },
+            {
+              "id": 1104789813,
+              "tags": [],
               "created_at": "2026-08-06T08:14:19Z",
               "updated_at": "2026-08-06T08:14:19Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-mcp-octocode-db/1104789813"
@@ -49893,13 +49928,34 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp-configs",
           "created_at": "2026-04-25T11:59:14Z",
-          "updated_at": "2026-08-06T06:07:47Z",
+          "updated_at": "2026-08-07T07:40:37Z",
           "versions": [
             {
-              "id": 1104399769,
+              "id": 1107702687,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-07T07:40:37Z",
+              "updated_at": "2026-08-07T07:40:37Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-configs/1107702687"
+            },
+            {
+              "id": 1105621974,
+              "tags": [],
+              "created_at": "2026-08-06T12:21:38Z",
+              "updated_at": "2026-08-06T12:21:38Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-configs/1105621974"
+            },
+            {
+              "id": 1105346111,
+              "tags": [],
+              "created_at": "2026-08-06T10:59:33Z",
+              "updated_at": "2026-08-06T10:59:33Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-configs/1105346111"
+            },
+            {
+              "id": 1104399769,
+              "tags": [],
               "created_at": "2026-08-06T06:07:47Z",
               "updated_at": "2026-08-06T06:07:47Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-configs/1104399769"
@@ -50448,7 +50504,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 1997028,
+              "size_bytes": 1997342,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -50457,7 +50513,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-08-06T06:07:44.200623605Z"
+              "created": "2026-08-07T07:40:32.713750185Z"
             }
           ]
         },
@@ -77517,13 +77573,34 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/mail-mcp-configs",
           "created_at": "2026-04-02T18:42:59Z",
-          "updated_at": "2026-08-06T06:07:48Z",
+          "updated_at": "2026-08-07T07:40:37Z",
           "versions": [
             {
-              "id": 1104399775,
+              "id": 1107702689,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-07T07:40:37Z",
+              "updated_at": "2026-08-07T07:40:37Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/mail-mcp-configs/1107702689"
+            },
+            {
+              "id": 1105621843,
+              "tags": [],
+              "created_at": "2026-08-06T12:21:37Z",
+              "updated_at": "2026-08-06T12:21:37Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/mail-mcp-configs/1105621843"
+            },
+            {
+              "id": 1105346117,
+              "tags": [],
+              "created_at": "2026-08-06T10:59:33Z",
+              "updated_at": "2026-08-06T10:59:33Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/mail-mcp-configs/1105346117"
+            },
+            {
+              "id": 1104399775,
+              "tags": [],
               "created_at": "2026-08-06T06:07:48Z",
               "updated_at": "2026-08-06T06:07:48Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/mail-mcp-configs/1104399775"
@@ -78303,7 +78380,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 1997579,
+              "size_bytes": 1997581,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -78312,7 +78389,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-08-06T06:07:44.202086136Z"
+              "created": "2026-08-07T07:40:32.71298897Z"
             }
           ]
         },
@@ -82299,13 +82376,20 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/mattermost-mcp",
           "created_at": "2026-03-22T20:11:49Z",
-          "updated_at": "2026-08-02T15:28:22Z",
+          "updated_at": "2026-08-06T11:26:23Z",
           "versions": [
             {
-              "id": 1088537084,
+              "id": 1105433692,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-06T11:26:23Z",
+              "updated_at": "2026-08-06T11:26:23Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/mattermost-mcp/1105433692"
+            },
+            {
+              "id": 1088537084,
+              "tags": [],
               "created_at": "2026-08-01T13:03:11Z",
               "updated_at": "2026-08-01T13:03:11Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/mattermost-mcp/1088537084"
@@ -87790,7 +87874,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 108613086,
+              "size_bytes": 108621698,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "/app",
@@ -87804,7 +87888,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 10,
-              "created": "2026-08-01T13:02:52.37386638Z"
+              "created": "2026-08-06T11:20:40.475026276Z"
             }
           ]
         },
@@ -87852,13 +87936,34 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/mattermost-mcp-configs",
           "created_at": "2026-04-02T18:44:01Z",
-          "updated_at": "2026-08-06T06:07:48Z",
+          "updated_at": "2026-08-07T07:40:37Z",
           "versions": [
             {
-              "id": 1104399773,
+              "id": 1107702686,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-07T07:40:37Z",
+              "updated_at": "2026-08-07T07:40:37Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/mattermost-mcp-configs/1107702686"
+            },
+            {
+              "id": 1105621824,
+              "tags": [],
+              "created_at": "2026-08-06T12:21:36Z",
+              "updated_at": "2026-08-06T12:21:36Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/mattermost-mcp-configs/1105621824"
+            },
+            {
+              "id": 1105346125,
+              "tags": [],
+              "created_at": "2026-08-06T10:59:34Z",
+              "updated_at": "2026-08-06T10:59:34Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/mattermost-mcp-configs/1105346125"
+            },
+            {
+              "id": 1104399773,
+              "tags": [],
               "created_at": "2026-08-06T06:07:48Z",
               "updated_at": "2026-08-06T06:07:48Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/mattermost-mcp-configs/1104399773"
@@ -88484,7 +88589,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 1996871,
+              "size_bytes": 1997189,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -88493,7 +88598,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-08-06T06:07:44.199673647Z"
+              "created": "2026-08-07T07:40:32.714500358Z"
             }
           ]
         },
@@ -153103,7 +153208,7 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/unix-dev-store-cache",
           "created_at": "2026-07-09T18:37:23Z",
-          "updated_at": "2026-08-05T22:45:30Z",
+          "updated_at": "2026-08-06T12:03:06Z",
           "versions": [
             {
               "id": 1018135204,
@@ -153146,22 +153251,50 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/unix-hm-cache",
           "created_at": "2026-07-09T11:02:33Z",
-          "updated_at": "2026-08-02T19:50:01Z",
+          "updated_at": "2026-08-06T14:02:12Z",
           "versions": [
             {
-              "id": 1091347607,
+              "id": 1105993575,
               "tags": [
                 "nixcache-latest"
               ],
+              "created_at": "2026-08-06T14:02:12Z",
+              "updated_at": "2026-08-06T14:02:12Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-hm-cache/1105993575"
+            },
+            {
+              "id": 1105925049,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-06T13:43:19Z",
+              "updated_at": "2026-08-06T13:43:19Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-hm-cache/1105925049"
+            },
+            {
+              "id": 1105639507,
+              "tags": [],
+              "created_at": "2026-08-06T12:26:28Z",
+              "updated_at": "2026-08-06T12:26:28Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-hm-cache/1105639507"
+            },
+            {
+              "id": 1105577152,
+              "tags": [],
+              "created_at": "2026-08-06T12:09:14Z",
+              "updated_at": "2026-08-06T12:09:14Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-hm-cache/1105577152"
+            },
+            {
+              "id": 1091347607,
+              "tags": [],
               "created_at": "2026-08-02T19:50:00Z",
               "updated_at": "2026-08-02T19:50:00Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-hm-cache/1091347607"
             },
             {
               "id": 1091316597,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-08-02T19:31:03Z",
               "updated_at": "2026-08-02T19:31:03Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-hm-cache/1091316597"
@@ -153927,13 +154060,13 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 9594549050,
+              "size_bytes": 9689702112,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
               "env": [],
               "labels": {
-                "com.diegonmarcos.activation-path": "/nix/store/lymsd5fs74gj9czmk7g7snr4k585bzmf-home-manager-generation",
+                "com.diegonmarcos.activation-path": "/nix/store/83p1v9z4w1sscw3f4169p4l3iz2x0sc1-home-manager-generation",
                 "org.opencontainers.image.description": "Desktop home-manager activation closure as layered store paths (incremental GHCR cache).",
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/unix"
               },
@@ -154156,13 +154289,20 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/unix-termux-nixcache",
           "created_at": "2026-07-25T10:25:55Z",
-          "updated_at": "2026-07-29T06:47:14Z",
+          "updated_at": "2026-08-06T17:58:30Z",
           "versions": [
             {
-              "id": 1077185238,
+              "id": 1106413654,
               "tags": [
                 "nixcache-latest"
               ],
+              "created_at": "2026-08-06T17:58:30Z",
+              "updated_at": "2026-08-06T17:58:30Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-termux-nixcache/1106413654"
+            },
+            {
+              "id": 1077185238,
+              "tags": [],
               "created_at": "2026-07-29T06:47:14Z",
               "updated_at": "2026-07-29T06:47:14Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-termux-nixcache/1077185238"
@@ -156492,12 +156632,11 @@
       ]
     },
     {
-      "workflow": "Ship → Container images",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-containers.yml",
+      "workflow": "Ship → /boot kernel cache (GHCR public)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-boot-cache.yml",
       "repo": "unix",
       "packages": [
-        "cloud-builder-x",
-        "cloud-builder-x-deb-nixhm"
+        "unix-boot-cache"
       ]
     },
     {
@@ -156512,119 +156651,6 @@
       ]
     },
     {
-      "workflow": "Ship → kali-linux (GHCR public)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-kali-linux.yml",
-      "repo": "unix",
-      "packages": [
-        "kali-linux"
-      ]
-    },
-    {
-      "workflow": "Ship → /boot kernel cache (GHCR public)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-boot-cache.yml",
-      "repo": "unix",
-      "packages": [
-        "unix-boot-cache"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud SuperApp APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-superapp.yml",
-      "repo": "unix",
-      "packages": [
-        "cloud-superapp",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud-IDE Hub APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-ide.yml",
-      "repo": "unix",
-      "packages": [
-        "cloud-ide-hub",
-        "cloud-superapp",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Nav APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-nav.yml",
-      "repo": "unix",
-      "packages": [
-        "cloud-nav",
-        "cloud-superapp",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Garmin Watch Face (.prg → GHCR via ORAS + GitHub Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-garmin-watchface.yml",
-      "repo": "unix",
-      "packages": [
-        "cloud-superapp",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Termux nix-on-droid closure (build on arm64, never OOM the phone)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_nix-flakes_termux.yaml",
-      "repo": "unix",
-      "packages": [
-        "unix-termux-cache"
-      ]
-    },
-    {
-      "workflow": "Ship → Desktop home-manager closure (build remotely, never freeze the laptop)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_nix-flakes_desktop_hm.yaml",
-      "repo": "unix",
-      "packages": [
-        "unix-hm-cache"
-      ]
-    },
-    {
-      "workflow": "Ship → Desktop NixOS closure (build remotely, never freeze the laptop)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_nix-flakes_desktop_nixos.yaml",
-      "repo": "unix",
-      "packages": [
-        "ntfy",
-        "unix-boot-cache",
-        "unix-system-cache"
-      ]
-    },
-    {
-      "workflow": "Ship → Redroid baked image (apps + layout + theme baked into GHCR image)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-redroid-image.yml",
-      "repo": "unix",
-      "packages": [
-        "redroid-cloud"
-      ]
-    },
-    {
-      "workflow": "Ship → qutebrowser standalone config release (decoupled from desktop HM closure)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_qutebrowser_standalone.yaml",
-      "repo": "unix",
-      "packages": [
-        "qutebrowser-standalone"
-      ]
-    },
-    {
-      "workflow": "Ship → my-konsole rescue ISO (stock kernel, cache boot closure to GHCR)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-my-konsole-iso.yml",
-      "repo": "unix",
-      "packages": [
-        "unix-boot-cache",
-        "unix-my-konsole-boot-cache"
-      ]
-    },
-    {
-      "workflow": "Ship → Waydroid container image (sway+Sunshine GPU stream stack) to GHCR",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-waydroid-container.yml",
-      "repo": "unix",
-      "packages": [
-        "waydroid-container"
-      ]
-    },
-    {
       "workflow": "Ship → Cloud Browser APK (build + push to GHCR via ORAS + attach to GH Release)",
       "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-browser.yml",
       "repo": "unix",
@@ -156633,37 +156659,11 @@
       ]
     },
     {
-      "workflow": "Ship → Cloud Vault APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-vault.yml",
+      "workflow": "Ship → Cloud Calendar APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-calendar.yml",
       "repo": "unix",
       "packages": [
-        "cloud-vault"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Wallet APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-wallet.yml",
-      "repo": "unix",
-      "packages": [
-        "cloud-wallet"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Keyboard APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-keyboard.yml",
-      "repo": "unix",
-      "packages": [
-        "cloud-keyboard",
-        "cloud-superapp",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → my-browser-rust-chromium (Rust + CEF) release",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_my-browser-rust-chromium.yaml",
-      "repo": "unix",
-      "packages": [
-        "my-browser-rust-chromium"
+        "cloud-calendar"
       ]
     },
     {
@@ -156682,6 +156682,37 @@
       "repo": "unix",
       "packages": [
         "cloud-comms-dialer",
+        "cloud-superapp",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud-IDE Hub APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-ide.yml",
+      "repo": "unix",
+      "packages": [
+        "cloud-ide-hub",
+        "cloud-superapp",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Keyboard Libs APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-keyboard-libs.yml",
+      "repo": "unix",
+      "packages": [
+        "cloud-keyboard",
+        "cloud-keyboard-libs",
+        "cloud-superapp",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Keyboard APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-keyboard.yml",
+      "repo": "unix",
+      "packages": [
+        "cloud-keyboard",
         "cloud-superapp",
         "superapp"
       ]
@@ -156707,17 +156738,6 @@
       ]
     },
     {
-      "workflow": "Ship → Cloud Keyboard Libs APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-keyboard-libs.yml",
-      "repo": "unix",
-      "packages": [
-        "cloud-keyboard",
-        "cloud-keyboard-libs",
-        "cloud-superapp",
-        "superapp"
-      ]
-    },
-    {
       "workflow": "Ship → Cloud Media Center APK (build + push to GHCR via ORAS + attach to GH Release)",
       "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-media-center.yml",
       "repo": "unix",
@@ -156728,11 +156748,131 @@
       ]
     },
     {
-      "workflow": "Ship → Cloud Calendar APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-calendar.yml",
+      "workflow": "Ship → Cloud Nav APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-nav.yml",
       "repo": "unix",
       "packages": [
-        "cloud-calendar"
+        "cloud-nav",
+        "cloud-superapp",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud SuperApp APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-superapp.yml",
+      "repo": "unix",
+      "packages": [
+        "cloud-superapp",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Vault APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-vault.yml",
+      "repo": "unix",
+      "packages": [
+        "cloud-vault"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Wallet APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-wallet.yml",
+      "repo": "unix",
+      "packages": [
+        "cloud-wallet"
+      ]
+    },
+    {
+      "workflow": "Ship → Container images",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-containers.yml",
+      "repo": "unix",
+      "packages": [
+        "cloud-builder-x",
+        "cloud-builder-x-deb-nixhm"
+      ]
+    },
+    {
+      "workflow": "Ship → Garmin Watch Face (.prg → GHCR via ORAS + GitHub Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-garmin-watchface.yml",
+      "repo": "unix",
+      "packages": [
+        "cloud-superapp",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → kali-linux (GHCR public)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-kali-linux.yml",
+      "repo": "unix",
+      "packages": [
+        "kali-linux"
+      ]
+    },
+    {
+      "workflow": "Ship → my-konsole rescue ISO (stock kernel, cache boot closure to GHCR)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-my-konsole-iso.yml",
+      "repo": "unix",
+      "packages": [
+        "unix-boot-cache",
+        "unix-my-konsole-boot-cache"
+      ]
+    },
+    {
+      "workflow": "Ship → Redroid baked image (apps + layout + theme baked into GHCR image)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-redroid-image.yml",
+      "repo": "unix",
+      "packages": [
+        "redroid-cloud"
+      ]
+    },
+    {
+      "workflow": "Ship → Waydroid container image (sway+Sunshine GPU stream stack) to GHCR",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-waydroid-container.yml",
+      "repo": "unix",
+      "packages": [
+        "waydroid-container"
+      ]
+    },
+    {
+      "workflow": "Ship → my-browser-rust-chromium (Rust + CEF) release",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_my-browser-rust-chromium.yaml",
+      "repo": "unix",
+      "packages": [
+        "my-browser-rust-chromium"
+      ]
+    },
+    {
+      "workflow": "Ship → Desktop home-manager closure (build remotely, never freeze the laptop)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_nix-flakes_desktop_hm.yaml",
+      "repo": "unix",
+      "packages": [
+        "unix-hm-cache"
+      ]
+    },
+    {
+      "workflow": "Ship → Desktop NixOS closure (build remotely, never freeze the laptop)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_nix-flakes_desktop_nixos.yaml",
+      "repo": "unix",
+      "packages": [
+        "ntfy",
+        "unix-boot-cache",
+        "unix-system-cache"
+      ]
+    },
+    {
+      "workflow": "Ship → Termux nix-on-droid closure (build on arm64, never OOM the phone)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_nix-flakes_termux.yaml",
+      "repo": "unix",
+      "packages": [
+        "unix-termux-cache"
+      ]
+    },
+    {
+      "workflow": "Ship → qutebrowser standalone config release (decoupled from desktop HM closure)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_qutebrowser_standalone.yaml",
+      "repo": "unix",
+      "packages": [
+        "qutebrowser-standalone"
       ]
     }
   ],
