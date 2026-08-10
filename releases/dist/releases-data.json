@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-09T07:31:47.056Z",
+  "fetched_at": "2026-08-10T08:11:36.137Z",
   "owner": "diegonmarcos",
   "total_releases": 100,
   "total_assets": 131,
-  "total_downloads": 1163,
+  "total_downloads": 1161,
   "repos": {
     "front-galaxy-gaia": {
       "repo_url": "https://github.com/diegonmarcos/front-galaxy-gaia",
@@ -1098,10 +1098,10 @@
             {
               "name": "my-ai-aarch64",
               "size": 8705048,
-              "download_count": 2,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-aarch64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-08T17:59:32Z"
+              "updated_at": "2026-08-09T14:02:23Z"
             },
             {
               "name": "my-ai-dash",
@@ -1113,19 +1113,19 @@
             },
             {
               "name": "my-ai-dash-aarch64",
-              "size": 4168840,
-              "download_count": 2,
+              "size": 4172408,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-dash-aarch64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-08T17:59:32Z"
+              "updated_at": "2026-08-09T14:02:23Z"
             },
             {
               "name": "my-ai-dash-x86_64",
-              "size": 4249840,
+              "size": 4272816,
               "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-dash-x86_64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-08T18:09:14Z"
+              "updated_at": "2026-08-09T14:12:00Z"
             },
             {
               "name": "my-ai-gui",
@@ -1137,27 +1137,27 @@
             },
             {
               "name": "my-ai-gui-x86_64",
-              "size": 10039168,
+              "size": 10042400,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-gui-x86_64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-08T18:09:14Z"
+              "updated_at": "2026-08-09T14:12:00Z"
             },
             {
               "name": "my-ai-gui_0.1.0_amd64.deb",
-              "size": 3318742,
+              "size": 3318394,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-gui_0.1.0_amd64.deb",
               "content_type": "application/x-debian-package",
-              "updated_at": "2026-08-08T18:09:14Z"
+              "updated_at": "2026-08-09T14:12:00Z"
             },
             {
               "name": "my-ai-x86_64",
-              "size": 8666456,
+              "size": 8670544,
               "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-x86_64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-08T18:09:14Z"
+              "updated_at": "2026-08-09T14:12:00Z"
             }
           ]
         },
@@ -2172,19 +2172,19 @@
             },
             {
               "name": "Cloud-Calendar-x86_64.apk",
-              "size": 6445880,
+              "size": 7859311,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Calendar-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-08-02T22:46:11Z"
+              "updated_at": "2026-08-09T16:29:42Z"
             },
             {
               "name": "Cloud-Calendar.apk",
-              "size": 6445880,
+              "size": 7859311,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Calendar.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-08-02T22:46:17Z"
+              "updated_at": "2026-08-09T16:28:59Z"
             },
             {
               "name": "cloud-comms-chat.apk",
