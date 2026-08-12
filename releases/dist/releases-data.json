@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-11T07:44:48.772Z",
+  "fetched_at": "2026-08-12T08:00:06.484Z",
   "owner": "diegonmarcos",
   "total_releases": 103,
   "total_assets": 136,
-  "total_downloads": 1145,
+  "total_downloads": 1185,
   "repos": {
     "front-galaxy-gaia": {
       "repo_url": "https://github.com/diegonmarcos/front-galaxy-gaia",
@@ -48,7 +48,7 @@
             {
               "name": "octocode-0.12.2-fastembed-x86_64",
               "size": 135286584,
-              "download_count": 345,
+              "download_count": 365,
               "browser_download_url": "https://github.com/diegonmarcos/tools/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-03-26T14:49:32Z"
@@ -95,7 +95,7 @@
             {
               "name": "cloud-comms-mail.apk",
               "size": 29345617,
-              "download_count": 2,
+              "download_count": 6,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-mail-20260810.144558/cloud-comms-mail.apk",
               "content_type": "application/vnd.android.package-archive",
               "updated_at": "2026-08-10T14:51:41Z"
@@ -145,7 +145,7 @@
             {
               "name": "httpd-web-server-json-md-eruda-x86_64",
               "size": 124980416,
-              "download_count": 1,
+              "download_count": 8,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/httpd-web-server-json-md-eruda-latest/httpd-web-server-json-md-eruda-x86_64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-08-10T14:45:51Z"
@@ -1627,19 +1627,19 @@
           "assets": [
             {
               "name": "agentic-ui-dist.tar.gz",
-              "size": 2127895,
+              "size": 2127891,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-konsole-latest/agentic-ui-dist.tar.gz",
               "content_type": "application/x-gtar",
-              "updated_at": "2026-08-10T14:57:21Z"
+              "updated_at": "2026-08-11T18:22:32Z"
             },
             {
               "name": "my-konsole",
-              "size": 11564536,
+              "size": 11843120,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-konsole-latest/my-konsole",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-10T14:57:21Z"
+              "updated_at": "2026-08-11T18:22:33Z"
             },
             {
               "name": "my-konsole-dash",
@@ -1647,7 +1647,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-konsole-latest/my-konsole-dash",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-10T14:57:21Z"
+              "updated_at": "2026-08-11T18:22:32Z"
             },
             {
               "name": "my-konsole-engine-aarch64",
@@ -1655,15 +1655,15 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-konsole-latest/my-konsole-engine-aarch64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-10T14:45:52Z"
+              "updated_at": "2026-08-11T18:09:00Z"
             },
             {
               "name": "my-konsole_0.1.0_amd64.deb",
-              "size": 7128294,
+              "size": 7210582,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-konsole-latest/my-konsole_0.1.0_amd64.deb",
               "content_type": "application/x-debian-package",
-              "updated_at": "2026-08-10T14:57:21Z"
+              "updated_at": "2026-08-11T18:22:33Z"
             }
           ]
         },
@@ -2295,7 +2295,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-IDE-Hub.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-08-10T14:47:59Z"
+              "updated_at": "2026-08-11T17:32:49Z"
             },
             {
               "name": "Cloud-Keyboard-Libs.apk",
@@ -2339,19 +2339,19 @@
             },
             {
               "name": "Cloud-News-x86_64.apk",
-              "size": 6740998,
+              "size": 6753286,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-News-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-08-10T16:03:45Z"
+              "updated_at": "2026-08-11T07:45:04Z"
             },
             {
               "name": "Cloud-News.apk",
-              "size": 6740998,
+              "size": 6753286,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-News.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-08-10T16:01:57Z"
+              "updated_at": "2026-08-11T07:45:09Z"
             },
             {
               "name": "Cloud-SuperApp-x86_64.apk",
@@ -2391,7 +2391,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Vault-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-08-10T14:47:51Z"
+              "updated_at": "2026-08-11T10:13:25Z"
             },
             {
               "name": "Cloud-Vault.apk",
@@ -2399,7 +2399,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/latest/Cloud-Vault.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-08-10T14:47:54Z"
+              "updated_at": "2026-08-11T10:13:19Z"
             },
             {
               "name": "Cloud-Wallet-x86_64.apk",
@@ -2433,7 +2433,7 @@
             {
               "name": "octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
               "size": 27050620,
-              "download_count": 745,
+              "download_count": 754,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/octocode-0.12.2-hf/octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
               "content_type": "application/x-gtar",
               "updated_at": "2026-03-24T12:47:34Z"
