@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-15T07:03:17.038Z",
+  "fetched_at": "2026-08-16T07:05:40.331Z",
   "owner": "diegonmarcos",
   "total_releases": 106,
   "total_assets": 139,
-  "total_downloads": 1232,
+  "total_downloads": 1236,
   "repos": {
     "front-galaxy-gaia": {
       "repo_url": "https://github.com/diegonmarcos/front-galaxy-gaia",
@@ -95,7 +95,7 @@
             {
               "name": "cloud-comms-mail.apk",
               "size": 29345617,
-              "download_count": 11,
+              "download_count": 15,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-mail-20260812.102526/cloud-comms-mail.apk",
               "content_type": "application/vnd.android.package-archive",
               "updated_at": "2026-08-12T10:32:21Z"
