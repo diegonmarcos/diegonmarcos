@@ -48,9 +48,9 @@ Comments here
 
 | Repository | Classification | Languages | Frameworks | Description | Vis |
 |---|---|---|---|---|---|
-| ☁️[Cloud](https://github.com/diegonmarcos/cloud) | Infrastructure, IaC, Containers | Nix, Terraform, Shell | Docker, Caddy, Authelia | *"Self-hosted everything, orchestrated from flakes to VMs."* | Pub |
-| 🐧[Unix](https://github.com/diegonmarcos/unix) | Dotfiles, System Configuration | Nix, Shell | Home Manager, NixOS | *"Declarative configs — because imperative is chaos."* | Pub |
-| 🔐[Vault](https://github.com/diegonmarcos/vault) | SSH Keys, Secrets, Configs | Shell | SSH, GPG | *"The keys to the kingdom, version-controlled."* | Priv |
+| ☁️[Cloud](https://github.com/diegonmarcos/cloud-infra) | Infrastructure, IaC, Containers | Nix, Terraform, Shell | Docker, Caddy, Authelia | *"Self-hosted everything, orchestrated from flakes to VMs."* | Pub |
+| 🐧[Unix](https://github.com/diegonmarcos/cloud-unix) | Dotfiles, System Configuration | Nix, Shell | Home Manager, NixOS | *"Declarative configs — because imperative is chaos."* | Pub |
+| 🔐[Vault](https://github.com/diegonmarcos/cloud-vault) | SSH Keys, Secrets, Configs | Shell | SSH, GPG | *"The keys to the kingdom, version-controlled."* | Priv |
 | 🌐[Front](https://github.com/diegonmarcos/diegonmarcos.github.io) | Monorepo — 30+ Web Projects | TS, JS, CSS, HTML | Vite, Svelte, Sass | *"One repo to rule them all."* | Pub |
 
 </details>

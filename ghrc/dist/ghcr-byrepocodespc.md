@@ -15,7 +15,7 @@
 
 ---
 
-### 📁 [cloud](https://github.com/diegonmarcos/cloud) <sup>252 · 48.25 GB · Role: Read</sup>
+### 📁 [cloud](https://github.com/diegonmarcos/cloud-infra) <sup>252 · 48.25 GB · Role: Read</sup>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -290,7 +290,7 @@
 
 ---
 
-### 📁 [unix](https://github.com/diegonmarcos/unix) <sup>40 · 76.90 GB · Role: Read</sup>
+### 📁 [unix](https://github.com/diegonmarcos/cloud-unix) <sup>40 · 76.90 GB · Role: Read</sup>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|

@@ -16,7 +16,7 @@
 ### 📁 cloud <sup>5 workflows</sup>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship.yml"><b>Ship</b></a> &nbsp;<sub>5 packages · 435.1 MB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-infra/blob/main/.github/workflows/ship.yml"><b>Ship</b></a> &nbsp;<sub>5 packages · 435.1 MB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/ship-gen-configs.yml"><b>Ship → gen-configs (cloud-data)</b></a> &nbsp;<sub>4 packages · 75.8 MB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-infra/blob/main/.github/workflows/ship-gen-configs.yml"><b>Ship → gen-configs (cloud-data)</b></a> &nbsp;<sub>4 packages · 75.8 MB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -41,7 +41,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/lint-pipeline.yml"><b>lint-pipeline</b></a> &nbsp;<sub>2 packages · 487.7 MB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-infra/blob/main/.github/workflows/lint-pipeline.yml"><b>lint-pipeline</b></a> &nbsp;<sub>2 packages · 487.7 MB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -51,7 +51,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/mirror-hermes-image.yml"><b>Mirror hermes-agent image</b></a> &nbsp;<sub>1 package · 905.1 MB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-infra/blob/main/.github/workflows/mirror-hermes-image.yml"><b>Mirror hermes-agent image</b></a> &nbsp;<sub>1 package · 905.1 MB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud/blob/main/.github/workflows/cgc-db-propagate.yml"><b>cgc-db propagate-only (stream GHCR layer -> oci-apps)</b></a> &nbsp;<sub>2 packages · 2.57 GB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-infra/blob/main/.github/workflows/cgc-db-propagate.yml"><b>cgc-db propagate-only (stream GHCR layer -> oci-apps)</b></a> &nbsp;<sub>2 packages · 2.57 GB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -87,7 +87,7 @@
 ### 📁 unix <sup>28 workflows</sup>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-containers.yml"><b>Ship → Container images</b></a> &nbsp;<sub>2 packages · 2.40 GB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-containers.yml"><b>Ship → Container images</b></a> &nbsp;<sub>2 packages · 2.40 GB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -97,7 +97,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-builders.yml"><b>Ship → Builder images (TWO NATIVE RUNNERS: amd64 on GHA, arm64 on GHA ubuntu-24.04-arm → multi-arch :latest)</b></a> &nbsp;<sub>3 packages · 3.12 GB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-builders.yml"><b>Ship → Builder images (TWO NATIVE RUNNERS: amd64 on GHA, arm64 on GHA ubuntu-24.04-arm → multi-arch :latest)</b></a> &nbsp;<sub>3 packages · 3.12 GB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -108,7 +108,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-kali-linux.yml"><b>Ship → kali-linux (GHCR public)</b></a> &nbsp;<sub>1 package · 14.20 GB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-kali-linux.yml"><b>Ship → kali-linux (GHCR public)</b></a> &nbsp;<sub>1 package · 14.20 GB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -117,7 +117,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-boot-cache.yml"><b>Ship → /boot kernel cache (GHCR public)</b></a> &nbsp;<sub>1 package · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-boot-cache.yml"><b>Ship → /boot kernel cache (GHCR public)</b></a> &nbsp;<sub>1 package · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-superapp.yml"><b>Ship → Cloud SuperApp APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>2 packages · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-superapp.yml"><b>Ship → Cloud SuperApp APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>2 packages · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -136,7 +136,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-ide.yml"><b>Ship → Cloud-IDE Hub APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-ide.yml"><b>Ship → Cloud-IDE Hub APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -147,7 +147,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-nav.yml"><b>Ship → Cloud Nav APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-nav.yml"><b>Ship → Cloud Nav APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -158,7 +158,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-garmin-watchface.yml"><b>Ship → Garmin Watch Face (.prg → GHCR via ORAS + GitHub Release)</b></a> &nbsp;<sub>2 packages · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-garmin-watchface.yml"><b>Ship → Garmin Watch Face (.prg → GHCR via ORAS + GitHub Release)</b></a> &nbsp;<sub>2 packages · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -168,7 +168,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_nix-flakes_termux.yaml"><b>Ship → Termux nix-on-droid closure (build on arm64, never OOM the phone)</b></a> &nbsp;<sub>1 package · 2.19 GB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_nix-flakes_termux.yaml"><b>Ship → Termux nix-on-droid closure (build on arm64, never OOM the phone)</b></a> &nbsp;<sub>1 package · 2.19 GB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -177,7 +177,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_nix-flakes_desktop_hm.yaml"><b>Ship → Desktop home-manager closure (build remotely, never freeze the laptop)</b></a> &nbsp;<sub>1 package · 8.97 GB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_nix-flakes_desktop_hm.yaml"><b>Ship → Desktop home-manager closure (build remotely, never freeze the laptop)</b></a> &nbsp;<sub>1 package · 8.97 GB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -186,7 +186,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_nix-flakes_desktop_nixos.yaml"><b>Ship → Desktop NixOS closure (build remotely, never freeze the laptop)</b></a> &nbsp;<sub>3 packages · 7.10 GB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_nix-flakes_desktop_nixos.yaml"><b>Ship → Desktop NixOS closure (build remotely, never freeze the laptop)</b></a> &nbsp;<sub>3 packages · 7.10 GB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -197,7 +197,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-redroid-image.yml"><b>Ship → Redroid baked image (apps + layout + theme baked into GHCR image)</b></a> &nbsp;<sub>1 package · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-redroid-image.yml"><b>Ship → Redroid baked image (apps + layout + theme baked into GHCR image)</b></a> &nbsp;<sub>1 package · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -206,7 +206,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_qutebrowser_standalone.yaml"><b>Ship → qutebrowser standalone config release (decoupled from desktop HM closure)</b></a> &nbsp;<sub>1 package · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_qutebrowser_standalone.yaml"><b>Ship → qutebrowser standalone config release (decoupled from desktop HM closure)</b></a> &nbsp;<sub>1 package · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -215,7 +215,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-my-konsole-iso.yml"><b>Ship → my-konsole rescue ISO (stock kernel, cache boot closure to GHCR)</b></a> &nbsp;<sub>2 packages · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-my-konsole-iso.yml"><b>Ship → my-konsole rescue ISO (stock kernel, cache boot closure to GHCR)</b></a> &nbsp;<sub>2 packages · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -225,7 +225,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-waydroid-container.yml"><b>Ship → Waydroid container image (sway+Sunshine GPU stream stack) to GHCR</b></a> &nbsp;<sub>1 package · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-waydroid-container.yml"><b>Ship → Waydroid container image (sway+Sunshine GPU stream stack) to GHCR</b></a> &nbsp;<sub>1 package · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -234,7 +234,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-browser.yml"><b>Ship → Cloud Browser APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>1 package · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-browser.yml"><b>Ship → Cloud Browser APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>1 package · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -243,7 +243,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-vault.yml"><b>Ship → Cloud Vault APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>1 package · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-vault.yml"><b>Ship → Cloud Vault APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>1 package · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -252,7 +252,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-wallet.yml"><b>Ship → Cloud Wallet APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>1 package · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-wallet.yml"><b>Ship → Cloud Wallet APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>1 package · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -261,7 +261,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-keyboard.yml"><b>Ship → Cloud Keyboard APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-keyboard.yml"><b>Ship → Cloud Keyboard APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -272,7 +272,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_my-browser-rust-chromium.yaml"><b>Ship → my-browser-rust-chromium (Rust + CEF) release</b></a> &nbsp;<sub>1 package · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_my-browser-rust-chromium.yaml"><b>Ship → my-browser-rust-chromium (Rust + CEF) release</b></a> &nbsp;<sub>1 package · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -281,7 +281,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-chat.yml"><b>Ship → Cloud Chat (materialize + build + publish to GHCR)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-chat.yml"><b>Ship → Cloud Chat (materialize + build + publish to GHCR)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -292,7 +292,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-dialer.yml"><b>Ship → Cloud Dialer (materialize + build + publish to GHCR)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-dialer.yml"><b>Ship → Cloud Dialer (materialize + build + publish to GHCR)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -303,7 +303,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-mail.yml"><b>Ship → Cloud Mail (materialize + build + publish to GHCR)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-mail.yml"><b>Ship → Cloud Mail (materialize + build + publish to GHCR)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -314,7 +314,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-matrix.yml"><b>Ship → Cloud Matrix (materialize + build + publish to GHCR)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-matrix.yml"><b>Ship → Cloud Matrix (materialize + build + publish to GHCR)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -325,7 +325,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-keyboard-libs.yml"><b>Ship → Cloud Keyboard Libs APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>4 packages · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-keyboard-libs.yml"><b>Ship → Cloud Keyboard Libs APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>4 packages · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -337,7 +337,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-media-center.yml"><b>Ship → Cloud Media Center APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-media-center.yml"><b>Ship → Cloud Media Center APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -348,7 +348,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-calendar.yml"><b>Ship → Cloud Calendar APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>1 package · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-calendar.yml"><b>Ship → Cloud Calendar APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>1 package · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
@@ -357,7 +357,7 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-news.yml"><b>Ship → Cloud News APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>1 package · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-news.yml"><b>Ship → Cloud News APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>1 package · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
