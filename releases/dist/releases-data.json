@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-17T07:32:39.130Z",
+  "fetched_at": "2026-08-18T07:13:58.080Z",
   "owner": "diegonmarcos",
   "total_releases": 106,
   "total_assets": 139,
-  "total_downloads": 1240,
+  "total_downloads": 1249,
   "repos": {
     "front-galaxy-gaia": {
       "repo_url": "https://github.com/diegonmarcos/front-galaxy-gaia",
@@ -48,7 +48,7 @@
             {
               "name": "octocode-0.12.2-fastembed-x86_64",
               "size": 135286584,
-              "download_count": 375,
+              "download_count": 376,
               "browser_download_url": "https://github.com/diegonmarcos/tools/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-03-26T14:49:32Z"
@@ -95,7 +95,7 @@
             {
               "name": "cloud-comms-mail.apk",
               "size": 29345617,
-              "download_count": 19,
+              "download_count": 23,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/cloud-comms-mail-20260812.102526/cloud-comms-mail.apk",
               "content_type": "application/vnd.android.package-archive",
               "updated_at": "2026-08-12T10:32:21Z"
@@ -200,10 +200,10 @@
             {
               "name": "httpd-web-server-json-md-eruda-aarch64",
               "size": 122293376,
-              "download_count": 3,
+              "download_count": 5,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/httpd-web-server-json-md-eruda-latest/httpd-web-server-json-md-eruda-aarch64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-12T10:25:14Z"
+              "updated_at": "2026-08-17T11:28:25Z"
             },
             {
               "name": "httpd-web-server-json-md-eruda-x86_64",
@@ -211,7 +211,7 @@
               "download_count": 3,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/httpd-web-server-json-md-eruda-latest/httpd-web-server-json-md-eruda-x86_64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-12T10:25:17Z"
+              "updated_at": "2026-08-17T11:28:26Z"
             }
           ]
         },
@@ -1224,7 +1224,7 @@
             {
               "name": "my-ai-aarch64",
               "size": 8796128,
-              "download_count": 1,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-aarch64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-08-12T13:32:12Z"
@@ -1240,7 +1240,7 @@
             {
               "name": "my-ai-dash-aarch64",
               "size": 4173000,
-              "download_count": 1,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/unix/releases/download/my-ai-latest/my-ai-dash-aarch64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-08-12T13:32:12Z"

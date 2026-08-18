@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T07:32:25.393Z",
+  "fetched_at": "2026-08-18T07:13:46.182Z",
   "owner": "diegonmarcos",
   "total_packages": 311,
   "repos": {
@@ -38331,13 +38331,34 @@
           "visibility": "private",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp-octocode-db",
           "created_at": "2026-06-25T08:15:54Z",
-          "updated_at": "2026-08-13T21:37:41Z",
+          "updated_at": "2026-08-18T00:45:13Z",
           "versions": [
             {
-              "id": 1130916707,
+              "id": 1142993620,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-18T00:45:13Z",
+              "updated_at": "2026-08-18T00:45:13Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-mcp-octocode-db/1142993620"
+            },
+            {
+              "id": 1142691067,
+              "tags": [],
+              "created_at": "2026-08-17T22:10:49Z",
+              "updated_at": "2026-08-17T22:10:49Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-mcp-octocode-db/1142691067"
+            },
+            {
+              "id": 1142043576,
+              "tags": [],
+              "created_at": "2026-08-17T18:33:51Z",
+              "updated_at": "2026-08-17T18:33:51Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-mcp-octocode-db/1142043576"
+            },
+            {
+              "id": 1130916707,
+              "tags": [],
               "created_at": "2026-08-13T21:37:41Z",
               "updated_at": "2026-08-13T21:37:41Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-mcp-octocode-db/1130916707"
@@ -158584,7 +158605,7 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/unix-dev-store-cache",
           "created_at": "2026-07-09T18:37:23Z",
-          "updated_at": "2026-08-12T12:31:28Z",
+          "updated_at": "2026-08-17T12:11:53Z",
           "versions": [
             {
               "id": 1110449717,
@@ -162287,11 +162308,12 @@
       ]
     },
     {
-      "workflow": "Ship → /boot kernel cache (GHCR public)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-boot-cache.yml",
+      "workflow": "Ship → Container images",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-containers.yml",
       "repo": "unix",
       "packages": [
-        "unix-boot-cache"
+        "cloud-builder-x",
+        "cloud-builder-x-deb-nixhm"
       ]
     },
     {
@@ -162305,6 +162327,119 @@
       ]
     },
     {
+      "workflow": "Ship → kali-linux (GHCR public)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-kali-linux.yml",
+      "repo": "unix",
+      "packages": [
+        "kali-linux"
+      ]
+    },
+    {
+      "workflow": "Ship → /boot kernel cache (GHCR public)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-boot-cache.yml",
+      "repo": "unix",
+      "packages": [
+        "unix-boot-cache"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud SuperApp APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-superapp.yml",
+      "repo": "unix",
+      "packages": [
+        "cloud-superapp",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud-IDE Hub APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-ide.yml",
+      "repo": "unix",
+      "packages": [
+        "cloud-ide-hub",
+        "cloud-superapp",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Nav APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-nav.yml",
+      "repo": "unix",
+      "packages": [
+        "cloud-nav",
+        "cloud-superapp",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Garmin Watch Face (.prg → GHCR via ORAS + GitHub Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-garmin-watchface.yml",
+      "repo": "unix",
+      "packages": [
+        "cloud-superapp",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Termux nix-on-droid closure (build on arm64, never OOM the phone)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_nix-flakes_termux.yaml",
+      "repo": "unix",
+      "packages": [
+        "unix-termux-cache"
+      ]
+    },
+    {
+      "workflow": "Ship → Desktop home-manager closure (build remotely, never freeze the laptop)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_nix-flakes_desktop_hm.yaml",
+      "repo": "unix",
+      "packages": [
+        "unix-hm-cache"
+      ]
+    },
+    {
+      "workflow": "Ship → Desktop NixOS closure (build remotely, never freeze the laptop)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_nix-flakes_desktop_nixos.yaml",
+      "repo": "unix",
+      "packages": [
+        "ntfy",
+        "unix-boot-cache",
+        "unix-system-cache"
+      ]
+    },
+    {
+      "workflow": "Ship → Redroid baked image (apps + layout + theme baked into GHCR image)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-redroid-image.yml",
+      "repo": "unix",
+      "packages": [
+        "redroid-cloud"
+      ]
+    },
+    {
+      "workflow": "Ship → qutebrowser standalone config release (decoupled from desktop HM closure)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_qutebrowser_standalone.yaml",
+      "repo": "unix",
+      "packages": [
+        "qutebrowser-standalone"
+      ]
+    },
+    {
+      "workflow": "Ship → my-konsole rescue ISO (stock kernel, cache boot closure to GHCR)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-my-konsole-iso.yml",
+      "repo": "unix",
+      "packages": [
+        "unix-boot-cache",
+        "unix-my-konsole-boot-cache"
+      ]
+    },
+    {
+      "workflow": "Ship → Waydroid container image (sway+Sunshine GPU stream stack) to GHCR",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-waydroid-container.yml",
+      "repo": "unix",
+      "packages": [
+        "waydroid-container"
+      ]
+    },
+    {
       "workflow": "Ship → Cloud Browser APK (build + push to GHCR via ORAS + attach to GH Release)",
       "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-browser.yml",
       "repo": "unix",
@@ -162313,11 +162448,37 @@
       ]
     },
     {
-      "workflow": "Ship → Cloud Calendar APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-calendar.yml",
+      "workflow": "Ship → Cloud Vault APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-vault.yml",
       "repo": "unix",
       "packages": [
-        "cloud-calendar"
+        "cloud-vault"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Wallet APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-wallet.yml",
+      "repo": "unix",
+      "packages": [
+        "cloud-wallet"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Keyboard APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-keyboard.yml",
+      "repo": "unix",
+      "packages": [
+        "cloud-keyboard",
+        "cloud-superapp",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → my-browser-rust-chromium (Rust + CEF) release",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_my-browser-rust-chromium.yaml",
+      "repo": "unix",
+      "packages": [
+        "my-browser-rust-chromium"
       ]
     },
     {
@@ -162336,37 +162497,6 @@
       "repo": "unix",
       "packages": [
         "cloud-comms-dialer",
-        "cloud-superapp",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud-IDE Hub APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-ide.yml",
-      "repo": "unix",
-      "packages": [
-        "cloud-ide-hub",
-        "cloud-superapp",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Keyboard Libs APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-keyboard-libs.yml",
-      "repo": "unix",
-      "packages": [
-        "cloud-keyboard",
-        "cloud-keyboard-libs",
-        "cloud-superapp",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Keyboard APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-keyboard.yml",
-      "repo": "unix",
-      "packages": [
-        "cloud-keyboard",
         "cloud-superapp",
         "superapp"
       ]
@@ -162392,6 +162522,17 @@
       ]
     },
     {
+      "workflow": "Ship → Cloud Keyboard Libs APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-keyboard-libs.yml",
+      "repo": "unix",
+      "packages": [
+        "cloud-keyboard",
+        "cloud-keyboard-libs",
+        "cloud-superapp",
+        "superapp"
+      ]
+    },
+    {
       "workflow": "Ship → Cloud Media Center APK (build + push to GHCR via ORAS + attach to GH Release)",
       "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-media-center.yml",
       "repo": "unix",
@@ -162402,13 +162543,11 @@
       ]
     },
     {
-      "workflow": "Ship → Cloud Nav APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-nav.yml",
+      "workflow": "Ship → Cloud Calendar APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-calendar.yml",
       "repo": "unix",
       "packages": [
-        "cloud-nav",
-        "cloud-superapp",
-        "superapp"
+        "cloud-calendar"
       ]
     },
     {
@@ -162417,124 +162556,6 @@
       "repo": "unix",
       "packages": [
         "cloud-news"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud SuperApp APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-superapp.yml",
-      "repo": "unix",
-      "packages": [
-        "cloud-superapp",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Vault APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-vault.yml",
-      "repo": "unix",
-      "packages": [
-        "cloud-vault"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Wallet APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-cloud-wallet.yml",
-      "repo": "unix",
-      "packages": [
-        "cloud-wallet"
-      ]
-    },
-    {
-      "workflow": "Ship → Container images",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-containers.yml",
-      "repo": "unix",
-      "packages": [
-        "cloud-builder-x",
-        "cloud-builder-x-deb-nixhm"
-      ]
-    },
-    {
-      "workflow": "Ship → Garmin Watch Face (.prg → GHCR via ORAS + GitHub Release)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-garmin-watchface.yml",
-      "repo": "unix",
-      "packages": [
-        "cloud-superapp",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → kali-linux (GHCR public)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-kali-linux.yml",
-      "repo": "unix",
-      "packages": [
-        "kali-linux"
-      ]
-    },
-    {
-      "workflow": "Ship → my-konsole rescue ISO (stock kernel, cache boot closure to GHCR)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-my-konsole-iso.yml",
-      "repo": "unix",
-      "packages": [
-        "unix-boot-cache",
-        "unix-my-konsole-boot-cache"
-      ]
-    },
-    {
-      "workflow": "Ship → Redroid baked image (apps + layout + theme baked into GHCR image)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-redroid-image.yml",
-      "repo": "unix",
-      "packages": [
-        "redroid-cloud"
-      ]
-    },
-    {
-      "workflow": "Ship → Waydroid container image (sway+Sunshine GPU stream stack) to GHCR",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship-waydroid-container.yml",
-      "repo": "unix",
-      "packages": [
-        "waydroid-container"
-      ]
-    },
-    {
-      "workflow": "Ship → my-browser-rust-chromium (Rust + CEF) release",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_my-browser-rust-chromium.yaml",
-      "repo": "unix",
-      "packages": [
-        "my-browser-rust-chromium"
-      ]
-    },
-    {
-      "workflow": "Ship → Desktop home-manager closure (build remotely, never freeze the laptop)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_nix-flakes_desktop_hm.yaml",
-      "repo": "unix",
-      "packages": [
-        "unix-hm-cache"
-      ]
-    },
-    {
-      "workflow": "Ship → Desktop NixOS closure (build remotely, never freeze the laptop)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_nix-flakes_desktop_nixos.yaml",
-      "repo": "unix",
-      "packages": [
-        "ntfy",
-        "unix-boot-cache",
-        "unix-system-cache"
-      ]
-    },
-    {
-      "workflow": "Ship → Termux nix-on-droid closure (build on arm64, never OOM the phone)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_nix-flakes_termux.yaml",
-      "repo": "unix",
-      "packages": [
-        "unix-termux-cache"
-      ]
-    },
-    {
-      "workflow": "Ship → qutebrowser standalone config release (decoupled from desktop HM closure)",
-      "workflow_url": "https://github.com/diegonmarcos/unix/blob/main/.github/workflows/ship_qutebrowser_standalone.yaml",
-      "repo": "unix",
-      "packages": [
-        "qutebrowser-standalone"
       ]
     }
   ],
