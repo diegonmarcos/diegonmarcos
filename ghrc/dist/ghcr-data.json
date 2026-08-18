@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-18T07:13:46.182Z",
+  "fetched_at": "2026-08-18T12:07:40.671Z",
   "owner": "diegonmarcos",
   "total_packages": 311,
   "repos": {
-    "cloud": {
+    "cloud-infra": {
       "repo_url": "https://github.com/diegonmarcos/cloud-infra",
       "packages": [
         {
@@ -734,7 +734,7 @@
                 "org.opencontainers.image.licenses": "Apache-2.0",
                 "org.opencontainers.image.ref.name": "4.39.15",
                 "org.opencontainers.image.revision": "b1d9a4905a7b35c3c283ee3aa08b6e5d862669c4",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "authelia",
                 "org.opencontainers.image.url": "https://github.com/authelia/authelia/pkgs/container/authelia",
                 "org.opencontainers.image.vendor": "Authelia",
@@ -790,7 +790,7 @@
                 "org.opencontainers.image.licenses": "Apache-2.0",
                 "org.opencontainers.image.ref.name": "4.39.15",
                 "org.opencontainers.image.revision": "b1d9a4905a7b35c3c283ee3aa08b6e5d862669c4",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "authelia",
                 "org.opencontainers.image.url": "https://github.com/authelia/authelia/pkgs/container/authelia",
                 "org.opencontainers.image.vendor": "Authelia",
@@ -2029,7 +2029,7 @@
               ],
               "labels": {
                 "cloud.diegonmarcos.from-image": "alpine:3.19",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 1,
               "created": "2025-10-08T11:10:40Z"
@@ -2807,7 +2807,7 @@
               ],
               "labels": {
                 "cloud.diegonmarcos.from-image": "alpine:3.20",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 1,
               "created": "2026-04-16T23:53:24.896953537Z"
@@ -3592,7 +3592,7 @@
                 "org.opencontainers.image.description": "backup-gitea",
                 "org.opencontainers.image.licenses": "MIT",
                 "org.opencontainers.image.revision": "f913d90ab664c1deccdfbe8c563abb13e897d62b",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "backup-gitea",
                 "org.opencontainers.image.url": "https://github.com/go-gitea/gitea",
                 "org.opencontainers.image.version": "1.25.5"
@@ -4291,7 +4291,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 11,
               "created": "2026-07-31T08:18:32.070027471Z"
@@ -4792,7 +4792,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 11,
               "created": "2026-07-31T08:18:32.070027471Z"
@@ -10270,7 +10270,7 @@
                 "YARN_VERSION=1.22.22"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 10,
               "created": "2026-08-12T17:35:29.782018682Z"
@@ -10364,7 +10364,7 @@
                 "YARN_VERSION=1.22.22"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 10,
               "created": "2026-08-12T17:35:29.782018682Z"
@@ -17392,7 +17392,7 @@
                 "YARN_VERSION=1.22.22"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 10,
               "created": "2026-08-12T17:36:18.428020588Z"
@@ -17542,7 +17542,7 @@
                 "YARN_VERSION=1.22.22"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 10,
               "created": "2026-08-12T17:36:18.428020588Z"
@@ -18539,7 +18539,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 11,
               "created": "2026-08-12T15:02:07.401846028Z"
@@ -18669,7 +18669,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 11,
               "created": "2026-08-12T09:42:54.197096154Z"
@@ -23830,7 +23830,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 11,
               "created": "2026-08-12T16:44:07.7581993Z"
@@ -23876,7 +23876,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 11,
               "created": "2026-08-12T16:44:07.7581993Z"
@@ -29512,7 +29512,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 11,
               "created": "2026-08-12T16:44:44.314472331Z"
@@ -29614,7 +29614,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 11,
               "created": "2026-08-12T16:44:44.314472331Z"
@@ -31891,7 +31891,7 @@
                 "org.opencontainers.image.dockerfile-path": "a_solutions/infra-sec_caddy/src/code/Dockerfile",
                 "org.opencontainers.image.documentation": "https://caddyserver.com/docs",
                 "org.opencontainers.image.licenses": "Apache-2.0",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "Caddy",
                 "org.opencontainers.image.url": "https://caddyserver.com",
                 "org.opencontainers.image.vendor": "Light Code Labs",
@@ -32034,7 +32034,7 @@
                 "org.opencontainers.image.dockerfile-path": "a_solutions/infra-sec_caddy/src/code/Dockerfile",
                 "org.opencontainers.image.documentation": "https://caddyserver.com/docs",
                 "org.opencontainers.image.licenses": "Apache-2.0",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "Caddy",
                 "org.opencontainers.image.url": "https://caddyserver.com",
                 "org.opencontainers.image.vendor": "Light Code Labs",
@@ -33889,7 +33889,7 @@
                 "org.opencontainers.image.description": "a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go",
                 "org.opencontainers.image.documentation": "https://caddyserver.com/docs",
                 "org.opencontainers.image.licenses": "Apache-2.0",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "Caddy",
                 "org.opencontainers.image.url": "https://caddyserver.com",
                 "org.opencontainers.image.vendor": "Light Code Labs",
@@ -37325,7 +37325,7 @@
                 "org.opencontainers.image.authors": "Diego Nepomuceno Marcos",
                 "org.opencontainers.image.description": "Octocode 0.12.2 ARM + fastembed + Lance DB + repos (semantic graph)",
                 "org.opencontainers.image.ref.name": "ubuntu",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "octocode-fastembed-graphrag-indexed-arm",
                 "org.opencontainers.image.version": "0.12.2"
               },
@@ -37485,7 +37485,7 @@
                 "org.opencontainers.image.authors": "Diego Nepomuceno Marcos",
                 "org.opencontainers.image.description": "Octocode 0.12.2 ARM + fastembed + Lance DB + repos (semantic graph)",
                 "org.opencontainers.image.ref.name": "ubuntu",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "octocode-fastembed-graphrag-indexed-arm",
                 "org.opencontainers.image.version": "0.12.2"
               },
@@ -38331,13 +38331,20 @@
           "visibility": "private",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp-octocode-db",
           "created_at": "2026-06-25T08:15:54Z",
-          "updated_at": "2026-08-18T00:45:13Z",
+          "updated_at": "2026-08-18T08:03:53Z",
           "versions": [
             {
-              "id": 1142993620,
+              "id": 1143975537,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-18T08:03:53Z",
+              "updated_at": "2026-08-18T08:03:53Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-mcp-octocode-db/1143975537"
+            },
+            {
+              "id": 1142993620,
+              "tags": [],
               "created_at": "2026-08-18T00:45:13Z",
               "updated_at": "2026-08-18T00:45:13Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-mcp-octocode-db/1142993620"
@@ -39331,7 +39338,7 @@
               ],
               "labels": {
                 "cloud.diegonmarcos.from-image": "busybox:latest",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 1,
               "created": "2026-05-13T02:21:49Z"
@@ -40215,7 +40222,7 @@
                 "org.opencontainers.image.licenses": "GPL-3.0-only",
                 "org.opencontainers.image.ref.name": "fdab9be361301f50e96adbc722203e2550b8eacc",
                 "org.opencontainers.image.revision": "fdab9be361301f50e96adbc722203e2550b8eacc",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "Code-server",
                 "org.opencontainers.image.url": "https://github.com/linuxserver/docker-code-server/packages",
                 "org.opencontainers.image.vendor": "linuxserver.io",
@@ -43065,7 +43072,7 @@
                 "com.docker.compose.project": "dist",
                 "com.docker.compose.service": "crawlee_db",
                 "com.docker.compose.version": "2.30.3",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 11,
               "created": "2026-04-15T20:24:03.483686077Z"
@@ -43478,7 +43485,7 @@
                 "io.openshift.expose-services": "",
                 "maintainer": "MinIO Inc <dev@min.io>",
                 "name": "MinIO",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "release": "RELEASE.2025-09-07T16-13-09Z",
                 "summary": "MinIO is a High Performance Object Storage, API compatible with Amazon S3 cloud storage service.",
                 "url": "https://catalog.redhat.com/en/search?searchType=containers",
@@ -43888,7 +43895,7 @@
                 "io.openshift.expose-services": "",
                 "maintainer": "MinIO Inc <dev@min.io>",
                 "name": "ubi9/ubi-micro",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "release": "1754467928",
                 "summary": "ubi9 micro image",
                 "url": "https://catalog.redhat.com/en/search?searchType=containers",
@@ -44292,7 +44299,7 @@
                 "com.docker.compose.project": "dist",
                 "com.docker.compose.service": "crawlee_redis",
                 "com.docker.compose.version": "2.30.3",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 8,
               "created": "2026-02-23T17:35:24.435278745Z"
@@ -44334,7 +44341,7 @@
                 "cloud.diegonmarcos.from-image": "crowdsecurity/crowdsec:v1.7.8",
                 "org.opencontainers.image.created": "2026-05-11T13:53:13Z",
                 "org.opencontainers.image.revision": "632274597a88a6b01ed41c0e6affca0f87ff26df",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 9,
               "created": "2026-05-11T15:49:52.968916384Z"
@@ -44376,7 +44383,7 @@
                 "cloud.diegonmarcos.from-image": "crowdsecurity/crowdsec:v1.7.8",
                 "org.opencontainers.image.created": "2026-05-11T13:53:13Z",
                 "org.opencontainers.image.revision": "632274597a88a6b01ed41c0e6affca0f87ff26df",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 9,
               "created": "2026-05-11T15:49:52.968916384Z"
@@ -44783,7 +44790,7 @@
               ],
               "labels": {
                 "cloud.diegonmarcos.from-image": "cypht/cypht:latest",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 34,
               "created": "2026-04-30T17:28:54.273490665Z"
@@ -44964,7 +44971,7 @@
               ],
               "labels": {
                 "cloud.diegonmarcos.from-image": "cypht/cypht:latest",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 34,
               "created": "2026-04-30T17:28:54.273490665Z"
@@ -45999,7 +46006,7 @@
                 "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 10,
               "created": "2026-07-28T20:24:33.320307737Z"
@@ -46067,7 +46074,7 @@
                 "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 10,
               "created": "2026-07-28T20:24:33.320307737Z"
@@ -48023,7 +48030,7 @@
                 "org.opencontainers.image.description": "Etherpad: A modern really-real-time collaborative document editor.",
                 "org.opencontainers.image.licenses": "Apache-2.0",
                 "org.opencontainers.image.revision": "3c90fa07c3a1e1c52c782932e21d70f4628bfb41",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "etherpad",
                 "org.opencontainers.image.url": "https://github.com/ether/etherpad",
                 "org.opencontainers.image.version": "3.3.2"
@@ -48806,7 +48813,7 @@
                 "com.docker.compose.service": "postgres",
                 "com.docker.compose.version": "2.30.3",
                 "org.opencontainers.image.description": "etherpad-db",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "etherpad-db"
               },
               "layers_count": 12,
@@ -49331,7 +49338,7 @@
                 "org.opencontainers.image.created": "2026-06-27T07:17:38Z",
                 "org.opencontainers.image.name": "filebrowser",
                 "org.opencontainers.image.revision": "d76b7d161099853f17e71b1327ce4545a30c27a2",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.version": "2.63.17"
               },
               "layers_count": 12,
@@ -50364,7 +50371,7 @@
               ],
               "labels": {
                 "cloud.diegonmarcos.from-image": "gitea/gitea:latest",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 5,
               "created": "2026-07-27T20:31:14.809291131Z"
@@ -50408,7 +50415,7 @@
               ],
               "labels": {
                 "cloud.diegonmarcos.from-image": "gitea/gitea:latest",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 5,
               "created": "2026-07-27T20:31:14.809291131Z"
@@ -51191,7 +51198,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 11,
               "created": "2026-08-12T17:05:22.955266867Z"
@@ -51363,7 +51370,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 11,
               "created": "2026-08-12T17:05:22.955266867Z"
@@ -57283,7 +57290,7 @@
                 "org.opencontainers.image.description": "An extremely fast Python package and project manager, written in Rust.",
                 "org.opencontainers.image.licenses": "Apache-2.0",
                 "org.opencontainers.image.revision": "ea4560831e503c6ce34d18739476a71ac6e9a9de",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "uv",
                 "org.opencontainers.image.url": "https://github.com/astral-sh/uv",
                 "org.opencontainers.image.version": "0.9.30-python3.11-bookworm-slim"
@@ -57472,7 +57479,7 @@
                 "org.opencontainers.image.description": "An extremely fast Python package and project manager, written in Rust.",
                 "org.opencontainers.image.licenses": "Apache-2.0",
                 "org.opencontainers.image.revision": "ea4560831e503c6ce34d18739476a71ac6e9a9de",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "uv",
                 "org.opencontainers.image.url": "https://github.com/astral-sh/uv",
                 "org.opencontainers.image.version": "0.9.30-python3.11-bookworm-slim"
@@ -58707,7 +58714,7 @@
               ],
               "labels": {
                 "cloud.diegonmarcos.from-image": "gristlabs/grist:latest",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 27,
               "created": "2026-07-08T07:22:21.311387502Z"
@@ -59460,7 +59467,7 @@
                 "cloud.diegonmarcos.from-image": "quay.io/hedgedoc/hedgedoc:latest",
                 "org.opencontainers.image.documentation": "https://github.com/hedgedoc/container/blob/master/README.md",
                 "org.opencontainers.image.licenses": "AGPL-3.0",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "HedgeDoc production image(debian)",
                 "org.opencontainers.image.url": "https://hedgedoc.org"
               },
@@ -60256,7 +60263,7 @@
                 "com.docker.compose.service": "postgres",
                 "com.docker.compose.version": "2.30.3",
                 "org.opencontainers.image.description": "hedgedoc-db",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "hedgedoc-db"
               },
               "layers_count": 12,
@@ -61044,7 +61051,7 @@
                 "org.opencontainers.image.documentation": "https://github.com/hickory-dns/hickory-dns#readme",
                 "org.opencontainers.image.licenses": "MIT or Apache-2.0",
                 "org.opencontainers.image.ref.name": "0.26.0",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "Docker hickory-dns DNS server",
                 "org.opencontainers.image.url": "https://github.com/hickory-dns/hickory-dns#readme",
                 "org.opencontainers.image.vendor": "hickory-dns",
@@ -61300,7 +61307,7 @@
                 "diego.image.embedded": "/home/diego/.image-meta/ (Containerfile + compose.yaml)",
                 "diego.image.flake.config": "diego@cli",
                 "diego.image.flake.path": "ba_flakes_desktop/src/",
-                "diego.image.flake.repo": "github.com/diegonmarcos/cloud-unix",
+                "diego.image.flake.repo": "github.com/diegonmarcos/unix",
                 "diego.image.flake.toolsets": "shell-core dev-languages build-debug containers-cloud security-network data-science",
                 "diego.image.ghcr": "ghcr.io/diegonmarcos/user-dev-x86-deb-nix-hm",
                 "diego.image.home-manager": "release-24.11",
@@ -61322,12 +61329,12 @@
                 "org.opencontainers.image.authors": "Diego Nepomuceno Marcos <me@diegonmarcos.com>",
                 "org.opencontainers.image.base.name": "debian:bookworm-slim",
                 "org.opencontainers.image.description": "Home-Manager activation image for gcp-proxy",
-                "org.opencontainers.image.documentation": "https://github.com/diegonmarcos/cloud-unix/blob/main/README.md",
+                "org.opencontainers.image.documentation": "https://github.com/diegonmarcos/unix/blob/main/README.md",
                 "org.opencontainers.image.licenses": "MIT",
                 "org.opencontainers.image.ref.name": "latest",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "user-dev-x86-deb-nix-hm",
-                "org.opencontainers.image.url": "https://github.com/diegonmarcos/cloud-unix/tree/main/ca_containers_user/src",
+                "org.opencontainers.image.url": "https://github.com/diegonmarcos/unix/tree/main/ca_containers_user/src",
                 "org.opencontainers.image.vendor": "Diego Nepomuceno Marcos"
               },
               "layers_count": 14,
@@ -61737,7 +61744,7 @@
                 "diego.image.embedded": "/home/diego/.image-meta/ (Containerfile + compose.yaml)",
                 "diego.image.flake.config": "diego@cli",
                 "diego.image.flake.path": "ba_flakes_desktop/src/",
-                "diego.image.flake.repo": "github.com/diegonmarcos/cloud-unix",
+                "diego.image.flake.repo": "github.com/diegonmarcos/unix",
                 "diego.image.flake.toolsets": "shell-core dev-languages build-debug containers-cloud security-network data-science",
                 "diego.image.ghcr": "ghcr.io/diegonmarcos/user-dev-x86-deb-nix-hm",
                 "diego.image.home-manager": "release-24.11",
@@ -61759,12 +61766,12 @@
                 "org.opencontainers.image.authors": "Diego Nepomuceno Marcos <me@diegonmarcos.com>",
                 "org.opencontainers.image.base.name": "debian:bookworm-slim",
                 "org.opencontainers.image.description": "Home-Manager activation image for gcp-t4",
-                "org.opencontainers.image.documentation": "https://github.com/diegonmarcos/cloud-unix/blob/main/README.md",
+                "org.opencontainers.image.documentation": "https://github.com/diegonmarcos/unix/blob/main/README.md",
                 "org.opencontainers.image.licenses": "MIT",
                 "org.opencontainers.image.ref.name": "latest",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "user-dev-x86-deb-nix-hm",
-                "org.opencontainers.image.url": "https://github.com/diegonmarcos/cloud-unix/tree/main/ca_containers_user/src",
+                "org.opencontainers.image.url": "https://github.com/diegonmarcos/unix/tree/main/ca_containers_user/src",
                 "org.opencontainers.image.vendor": "Diego Nepomuceno Marcos"
               },
               "layers_count": 14,
@@ -62183,7 +62190,7 @@
                 "diego.image.embedded": "/home/diego/.image-meta/ (Containerfile + compose.yaml)",
                 "diego.image.flake.config": "diego@cli",
                 "diego.image.flake.path": "ba_flakes_desktop/src/",
-                "diego.image.flake.repo": "github.com/diegonmarcos/cloud-unix",
+                "diego.image.flake.repo": "github.com/diegonmarcos/unix",
                 "diego.image.flake.toolsets": "shell-core dev-languages build-debug containers-cloud security-network data-science",
                 "diego.image.ghcr": "ghcr.io/diegonmarcos/user-dev-x86-deb-nix-hm",
                 "diego.image.home-manager": "release-24.11",
@@ -62205,12 +62212,12 @@
                 "org.opencontainers.image.authors": "Diego Nepomuceno Marcos <me@diegonmarcos.com>",
                 "org.opencontainers.image.base.name": "debian:bookworm-slim",
                 "org.opencontainers.image.description": "Home-Manager activation image for oci-analytics",
-                "org.opencontainers.image.documentation": "https://github.com/diegonmarcos/cloud-unix/blob/main/README.md",
+                "org.opencontainers.image.documentation": "https://github.com/diegonmarcos/unix/blob/main/README.md",
                 "org.opencontainers.image.licenses": "MIT",
                 "org.opencontainers.image.ref.name": "latest",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "user-dev-x86-deb-nix-hm",
-                "org.opencontainers.image.url": "https://github.com/diegonmarcos/cloud-unix/tree/main/ca_containers_user/src",
+                "org.opencontainers.image.url": "https://github.com/diegonmarcos/unix/tree/main/ca_containers_user/src",
                 "org.opencontainers.image.vendor": "Diego Nepomuceno Marcos"
               },
               "layers_count": 14,
@@ -62682,7 +62689,7 @@
                 "diego.image.embedded": "/home/diego/.image-meta/ (Containerfile + compose.yaml)",
                 "diego.image.flake.config": "diego@cli",
                 "diego.image.flake.path": "ba_flakes_desktop/src/",
-                "diego.image.flake.repo": "github.com/diegonmarcos/cloud-unix",
+                "diego.image.flake.repo": "github.com/diegonmarcos/unix",
                 "diego.image.flake.toolsets": "shell-core dev-languages build-debug containers-cloud security-network data-science",
                 "diego.image.ghcr": "ghcr.io/diegonmarcos/user-dev-x86-deb-nix-hm",
                 "diego.image.home-manager": "release-24.11",
@@ -62704,12 +62711,12 @@
                 "org.opencontainers.image.authors": "Diego Nepomuceno Marcos <me@diegonmarcos.com>",
                 "org.opencontainers.image.base.name": "debian:bookworm-slim",
                 "org.opencontainers.image.description": "Home-Manager activation image for oci-mail",
-                "org.opencontainers.image.documentation": "https://github.com/diegonmarcos/cloud-unix/blob/main/README.md",
+                "org.opencontainers.image.documentation": "https://github.com/diegonmarcos/unix/blob/main/README.md",
                 "org.opencontainers.image.licenses": "MIT",
                 "org.opencontainers.image.ref.name": "latest",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "user-dev-x86-deb-nix-hm",
-                "org.opencontainers.image.url": "https://github.com/diegonmarcos/cloud-unix/tree/main/ca_containers_user/src",
+                "org.opencontainers.image.url": "https://github.com/diegonmarcos/unix/tree/main/ca_containers_user/src",
                 "org.opencontainers.image.vendor": "Diego Nepomuceno Marcos"
               },
               "layers_count": 14,
@@ -62816,7 +62823,7 @@
                 "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 3,
               "created": "2026-08-12T13:40:21.756716539Z"
@@ -62922,7 +62929,7 @@
                 "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 3,
               "created": "2026-08-12T13:40:21.756716539Z"
@@ -69031,7 +69038,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 9,
               "created": "2026-08-11T17:43:38.813956681Z"
@@ -69702,7 +69709,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 9,
               "created": "2026-08-11T17:43:38.813956681Z"
@@ -70819,7 +70826,7 @@
                 "dev.chainguard.package.main": "",
                 "org.opencontainers.image.authors": "Chainguard Team https://www.chainguard.dev/",
                 "org.opencontainers.image.created": "2026-03-19T19:39:50Z",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "glibc-dynamic",
                 "org.opencontainers.image.url": "https://images.chainguard.dev/directory/image/glibc-dynamic/overview",
                 "org.opencontainers.image.vendor": "Chainguard"
@@ -72145,7 +72152,7 @@
                 "cloud.diegonmarcos.registry": "ghcr.io/diegonmarcos",
                 "maintainer": "Grafana Labs <hello@grafana.com>",
                 "org.opencontainers.image.description": "lgtm-grafana",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "lgtm-grafana"
               },
               "layers_count": 13,
@@ -72505,7 +72512,7 @@
                 "cloud.diegonmarcos.from-image": "grafana/loki:latest",
                 "cloud.diegonmarcos.registry": "ghcr.io/diegonmarcos",
                 "org.opencontainers.image.description": "lgtm-loki",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "lgtm-loki"
               },
               "layers_count": 19,
@@ -72866,7 +72873,7 @@
                 "cloud.diegonmarcos.registry": "ghcr.io/diegonmarcos",
                 "org.opencontainers.image.description": "lgtm-mimir",
                 "org.opencontainers.image.revision": "7f5cb637",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "lgtm-mimir"
               },
               "layers_count": 15,
@@ -73225,7 +73232,7 @@
                 "org.opencontainers.image.created": "2025-03-25T17:45:42Z",
                 "org.opencontainers.image.description": "lgtm-tempo",
                 "org.opencontainers.image.revision": "b33945abd3e99ddeb05e5d8e71155df7800a615a",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "lgtm-tempo",
                 "org.opencontainers.image.url": "https://github.com/grafana/tempo"
               },
@@ -73333,7 +73340,7 @@
                 "org.opencontainers.image.documentation": "https://maddy.email/docker/",
                 "org.opencontainers.image.licenses": "GPL-3.0",
                 "org.opencontainers.image.revision": "ec821b7d1197cc437255c36a159ead1b51099876",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "Maddy Mail Server",
                 "org.opencontainers.image.url": "https://maddy.email",
                 "org.opencontainers.image.version": "0.9.3"
@@ -73658,7 +73665,7 @@
                 "org.opencontainers.image.documentation": "https://maddy.email/docker/",
                 "org.opencontainers.image.licenses": "GPL-3.0",
                 "org.opencontainers.image.revision": "ec821b7d1197cc437255c36a159ead1b51099876",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "Maddy Mail Server",
                 "org.opencontainers.image.url": "https://maddy.email",
                 "org.opencontainers.image.version": "0.9.3"
@@ -73777,7 +73784,7 @@
                 "org.opencontainers.image.documentation": "https://maddy.email/docker/",
                 "org.opencontainers.image.licenses": "GPL-3.0",
                 "org.opencontainers.image.revision": "ec821b7d1197cc437255c36a159ead1b51099876",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "Maddy Mail Server",
                 "org.opencontainers.image.url": "https://maddy.email",
                 "org.opencontainers.image.version": "0.9.3"
@@ -79389,7 +79396,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 11,
               "created": "2026-08-12T17:18:32.492806495Z"
@@ -79582,7 +79589,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 11,
               "created": "2026-08-12T17:18:32.492806495Z"
@@ -81371,7 +81378,7 @@
                 "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 3,
               "created": "2026-08-12T17:37:44.248623207Z"
@@ -81995,7 +82002,7 @@
                 "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 3,
               "created": "2026-08-12T17:37:44.248623207Z"
@@ -82643,7 +82650,7 @@
                 "org.opencontainers.image.description": "Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features. :continuwuity:",
                 "org.opencontainers.image.licenses": "",
                 "org.opencontainers.image.revision": "6957ff7689a3184903a717159287acdcd6a79d23",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "continuwuity",
                 "org.opencontainers.image.url": "https://forgejo.ellis.link/continuwuation/continuwuity",
                 "org.opencontainers.image.version": "v26.7.3"
@@ -82718,7 +82725,7 @@
                 "org.opencontainers.image.description": "Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features. :continuwuity:",
                 "org.opencontainers.image.licenses": "",
                 "org.opencontainers.image.revision": "6957ff7689a3184903a717159287acdcd6a79d23",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "continuwuity",
                 "org.opencontainers.image.url": "https://forgejo.ellis.link/continuwuation/continuwuity",
                 "org.opencontainers.image.version": "v26.7.3"
@@ -83990,7 +83997,7 @@
                 "com.docker.compose.service": "mattermost",
                 "com.docker.compose.version": "2.30.3",
                 "org.opencontainers.image.description": "mattermost",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "mattermost"
               },
               "layers_count": 32,
@@ -84142,7 +84149,7 @@
                 "com.docker.compose.service": "mattermost-bots",
                 "com.docker.compose.version": "2.30.3",
                 "org.opencontainers.image.description": "mattermost-bots",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "mattermost-bots"
               },
               "layers_count": 7,
@@ -84531,7 +84538,7 @@
                 "com.docker.compose.service": "postgres",
                 "com.docker.compose.version": "2.30.3",
                 "org.opencontainers.image.description": "mattermost-db",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "mattermost-db"
               },
               "layers_count": 12,
@@ -90123,7 +90130,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 10,
               "created": "2026-08-12T17:22:38.877401359Z"
@@ -90232,7 +90239,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 10,
               "created": "2026-08-12T17:22:38.877401359Z"
@@ -91643,7 +91650,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 11,
               "created": "2026-07-07T20:11:48.738143079Z"
@@ -93727,7 +93734,7 @@
               ],
               "labels": {
                 "org.opencontainers.image.description": "Home-Manager activation image for nixhm-sudo-gcp-proxy",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 5,
               "created": "2026-08-12T22:01:48.106322558Z"
@@ -93945,7 +93952,7 @@
                 "diego.image.embedded": "/home/diego/.image-meta/ (Containerfile + compose.yaml)",
                 "diego.image.flake.config": "diego@cli",
                 "diego.image.flake.path": "ba_flakes_desktop/src/",
-                "diego.image.flake.repo": "github.com/diegonmarcos/cloud-unix",
+                "diego.image.flake.repo": "github.com/diegonmarcos/unix",
                 "diego.image.flake.toolsets": "shell-core dev-languages build-debug containers-cloud security-network data-science",
                 "diego.image.ghcr": "ghcr.io/diegonmarcos/user-dev-x86-deb-nix-hm",
                 "diego.image.home-manager": "release-24.11",
@@ -93967,12 +93974,12 @@
                 "org.opencontainers.image.authors": "Diego Nepomuceno Marcos <me@diegonmarcos.com>",
                 "org.opencontainers.image.base.name": "debian:bookworm-slim",
                 "org.opencontainers.image.description": "Home-Manager activation image for nixhm-sudo-gcp-t4",
-                "org.opencontainers.image.documentation": "https://github.com/diegonmarcos/cloud-unix/blob/main/README.md",
+                "org.opencontainers.image.documentation": "https://github.com/diegonmarcos/unix/blob/main/README.md",
                 "org.opencontainers.image.licenses": "MIT",
                 "org.opencontainers.image.ref.name": "latest",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "user-dev-x86-deb-nix-hm",
-                "org.opencontainers.image.url": "https://github.com/diegonmarcos/cloud-unix/tree/main/ca_containers_user/src",
+                "org.opencontainers.image.url": "https://github.com/diegonmarcos/unix/tree/main/ca_containers_user/src",
                 "org.opencontainers.image.vendor": "Diego Nepomuceno Marcos"
               },
               "layers_count": 13,
@@ -95360,7 +95367,7 @@
               ],
               "labels": {
                 "org.opencontainers.image.description": "Home-Manager activation image for nixhm-sudo-oci-analytics",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 5,
               "created": "2026-08-12T21:35:41.16900104Z"
@@ -96924,7 +96931,7 @@
               ],
               "labels": {
                 "org.opencontainers.image.description": "Home-Manager activation image for nixhm-sudo-oci-mail",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 5,
               "created": "2026-08-12T22:43:06.013398479Z"
@@ -97167,7 +97174,7 @@
                 "NC_TOOL_DIR=/usr/app/data/"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 8,
               "created": "1980-01-01T00:00:00Z"
@@ -97194,7 +97201,7 @@
                 "NC_TOOL_DIR=/usr/app/data/"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 8,
               "created": "1980-01-01T00:00:00Z"
@@ -97483,7 +97490,7 @@
                 "PGDATA=/var/lib/postgresql/data"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 14,
               "created": "1980-01-01T00:00:00Z"
@@ -97508,7 +97515,7 @@
                 "PGDATA=/var/lib/postgresql/data"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 14,
               "created": "1980-01-01T00:00:00Z"
@@ -97854,7 +97861,7 @@
                 "org.opencontainers.image.description": "Send push notifications to your phone or desktop using PUT/POST",
                 "org.opencontainers.image.documentation": "https://docs.ntfy.sh/",
                 "org.opencontainers.image.licenses": "Apache-2.0, GPL-2.0",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "ntfy",
                 "org.opencontainers.image.url": "https://ntfy.sh/",
                 "org.opencontainers.image.vendor": "Philipp C. Heckel"
@@ -98546,7 +98553,7 @@
                 "com.docker.compose.service": "github-rss",
                 "com.docker.compose.version": "2.30.3",
                 "org.opencontainers.image.description": "ntfy-github-rss",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "ntfy-github-rss"
               },
               "layers_count": 6,
@@ -98866,7 +98873,7 @@
                 "com.docker.compose.service": "syslog-bridge",
                 "com.docker.compose.version": "2.30.3",
                 "org.opencontainers.image.description": "ntfy-syslog-bridge",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "ntfy-syslog-bridge"
               },
               "layers_count": 6,
@@ -98991,7 +98998,7 @@
                 "org.opencontainers.image.authors": "Diego Nepomuceno Marcos",
                 "org.opencontainers.image.description": "Octocode 0.12.2 ARM + fastembed + Lance DB + repos (semantic graph)",
                 "org.opencontainers.image.ref.name": "ubuntu",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "octocode-fastembed-graphrag-indexed-arm",
                 "org.opencontainers.image.version": "0.12.2"
               },
@@ -99185,7 +99192,7 @@
                 "com.docker.compose.service": "ollama",
                 "com.docker.compose.version": "2.30.3",
                 "org.opencontainers.image.ref.name": "ubuntu",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.version": "24.04"
               },
               "layers_count": 4,
@@ -99804,7 +99811,7 @@
               ],
               "labels": {
                 "cloud.diegonmarcos.from-image": "ollama/ollama:latest",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.version": "24.04"
               },
               "layers_count": 4,
@@ -100162,7 +100169,7 @@
               ],
               "labels": {
                 "cloud.diegonmarcos.from-image": "public.ecr.aws/zinclabs/openobserve:v0.14.7",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 21,
               "created": "2025-06-05T03:13:42.803612682Z"
@@ -100200,7 +100207,7 @@
               ],
               "labels": {
                 "cloud.diegonmarcos.from-image": "public.ecr.aws/zinclabs/openobserve:v0.14.7",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 21,
               "created": "2025-06-05T03:13:42.803612682Z"
@@ -100926,7 +100933,7 @@
                 "org.opencontainers.image.description": "Ubuntu 26.04 LTS (Resolute Raccoon)",
                 "org.opencontainers.image.documentation": "https://docs.photoprism.app/getting-started/",
                 "org.opencontainers.image.ref.name": "photoprism",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "PhotoPrism® Plus (Ubuntu 26.04 LTS)",
                 "org.opencontainers.image.url": "photoprism/photoprism",
                 "org.opencontainers.image.vendor": "PhotoPrism UG",
@@ -101815,7 +101822,7 @@
                 "org.opencontainers.image.description": "photoprism-db",
                 "org.opencontainers.image.documentation": "https://hub.docker.com/_/mariadb/",
                 "org.opencontainers.image.licenses": "GPL-2.0",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "photoprism-db",
                 "org.opencontainers.image.url": "https://github.com/MariaDB/mariadb-docker",
                 "org.opencontainers.image.vendor": "MariaDB Community",
@@ -102400,7 +102407,7 @@
                 "org.opencontainers.image.description": "photoprism-rclone",
                 "org.opencontainers.image.licenses": "MIT",
                 "org.opencontainers.image.revision": "2c12ca64d451d79252982fcf96b09dff1d55b55e",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "photoprism-rclone",
                 "org.opencontainers.image.url": "https://github.com/rclone/rclone/pkgs/container/rclone",
                 "org.opencontainers.image.vendor": "rclone",
@@ -103540,7 +103547,7 @@
                 "com.docker.compose.project": "dist",
                 "com.docker.compose.service": "photos-webhook",
                 "com.docker.compose.version": "2.30.3",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 9,
               "created": "2026-04-20T18:10:39.264868804Z"
@@ -104250,7 +104257,7 @@
                 "com.docker.compose.service": "photos-db",
                 "com.docker.compose.version": "2.30.3",
                 "org.opencontainers.image.description": "photos-webhook-db",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "photos-webhook-db"
               },
               "layers_count": 13,
@@ -104578,7 +104585,7 @@
                 "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 3,
               "created": "1980-01-01T00:00:00Z"
@@ -105088,7 +105095,7 @@
                 "com.docker.compose.project": "dist",
                 "com.docker.compose.service": "db",
                 "com.docker.compose.version": "2.30.3",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 11,
               "created": "2026-04-15T20:24:03.483686077Z"
@@ -105432,7 +105439,7 @@
                 "com.docker.compose.project": "dist",
                 "com.docker.compose.service": "engine",
                 "com.docker.compose.version": "2.30.3",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 4,
               "created": "2026-04-07T02:25:53.222264159Z"
@@ -105805,7 +105812,7 @@
                 "com.docker.compose.service": "research",
                 "com.docker.compose.version": "2.30.3",
                 "maintainer": "Jupyter Project <jupyter@googlegroups.com>",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.version": "24.04"
               },
               "layers_count": 37,
@@ -106329,7 +106336,7 @@
                 "org.label-schema.vcs-ref": "",
                 "org.label-schema.vcs-url": "https://github.com/tomsquest/docker-radicale",
                 "org.label-schema.version": "3.7.3",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 5,
               "created": "2026-06-06T02:53:58.704029594Z"
@@ -106797,7 +106804,7 @@
               ],
               "labels": {
                 "cloud.diegonmarcos.from-image": "redis:alpine",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 7,
               "created": "2026-07-24T17:23:12.613940201Z"
@@ -107857,7 +107864,7 @@
                 "org.opencontainers.image.description": "reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file",
                 "org.opencontainers.image.licenses": "MIT",
                 "org.opencontainers.image.revision": "98fabd59442ee8c665c08612ed19bb01f16e061c",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "reveal-md",
                 "org.opencontainers.image.url": "https://github.com/webpro/reveal-md",
                 "org.opencontainers.image.version": "6.1.4"
@@ -108751,7 +108758,7 @@
                 "RUST_LOG=rig_agentic=info"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 5,
               "created": "2026-04-15T07:36:40.832969319Z"
@@ -109713,7 +109720,7 @@
                 "RUST_LOG=rig_agentic=info"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 5,
               "created": "2026-04-17T09:55:29.033969596Z"
@@ -110638,7 +110645,7 @@
                 "com.docker.compose.service": "siem-api",
                 "com.docker.compose.version": "2.30.3",
                 "org.opencontainers.image.description": "sauron-api",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "sauron-api"
               },
               "layers_count": 6,
@@ -111386,7 +111393,7 @@
                 "org.opencontainers.image.documentation": "https://axoflow.com/docs/axosyslog/docs/",
                 "org.opencontainers.image.licenses": "NOASSERTION",
                 "org.opencontainers.image.revision": "de3781f3d2df817a6a3e0bb622a473dd17f17275",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "sauron-syslog",
                 "org.opencontainers.image.url": "https://github.com/axoflow/axosyslog",
                 "org.opencontainers.image.vendor": "Axoflow",
@@ -111439,7 +111446,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 10,
               "created": "2026-07-16T13:39:24.857826775Z"
@@ -111486,7 +111493,7 @@
                 "HOME=/home/appuser"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 10,
               "created": "2026-07-16T13:39:24.857826775Z"
@@ -111586,7 +111593,7 @@
               ],
               "labels": {
                 "cloud.diegonmarcos.from-image": "registry.gitlab.com/timvisee/send:latest",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 16,
               "created": "2025-07-01T07:14:34.243514953Z"
@@ -111630,7 +111637,7 @@
               ],
               "labels": {
                 "cloud.diegonmarcos.from-image": "registry.gitlab.com/timvisee/send:latest",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 16,
               "created": "2025-07-01T07:14:34.243514953Z"
@@ -112118,7 +112125,7 @@
                 "org.opencontainers.image.description": "snappymail",
                 "org.opencontainers.image.licenses": "AGPLv3",
                 "org.opencontainers.image.revision": "e345550c7fddfffdda9095deba64e98dc1c59815",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "snappymail",
                 "org.opencontainers.image.url": "https://github.com/the-djmaze/snappymail",
                 "org.opencontainers.image.version": "v2.38.2"
@@ -112189,7 +112196,7 @@
                 "org.opencontainers.image.description": "SnappyMail",
                 "org.opencontainers.image.licenses": "AGPLv3",
                 "org.opencontainers.image.revision": "e345550c7fddfffdda9095deba64e98dc1c59815",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "snappymail",
                 "org.opencontainers.image.url": "https://github.com/the-djmaze/snappymail",
                 "org.opencontainers.image.version": "v2.38.2"
@@ -112247,7 +112254,7 @@
                 "org.opencontainers.image.description": "SnappyMail",
                 "org.opencontainers.image.licenses": "AGPLv3",
                 "org.opencontainers.image.revision": "e345550c7fddfffdda9095deba64e98dc1c59815",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "snappymail",
                 "org.opencontainers.image.url": "https://github.com/the-djmaze/snappymail",
                 "org.opencontainers.image.version": "v2.38.2"
@@ -113804,7 +113811,7 @@
                 "org.opencontainers.image.description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
                 "org.opencontainers.image.licenses": "",
                 "org.opencontainers.image.revision": "7ac984e1c060c2428d48f6995b394a5ad37e13fc",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "stalwart",
                 "org.opencontainers.image.url": "https://github.com/stalwartlabs/stalwart",
                 "org.opencontainers.image.version": "v0.14"
@@ -113862,7 +113869,7 @@
                 "org.opencontainers.image.description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
                 "org.opencontainers.image.licenses": "",
                 "org.opencontainers.image.revision": "7ac984e1c060c2428d48f6995b394a5ad37e13fc",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "stalwart",
                 "org.opencontainers.image.url": "https://github.com/stalwartlabs/stalwart",
                 "org.opencontainers.image.version": "v0.14"
@@ -114091,7 +114098,7 @@
                 "com.docker.compose.version": "2.30.3",
                 "maintainer": "Andras Mitzki <andras.mitzki@balabit.com>, László Várady <laszlo.varady@balabit.com>",
                 "org.opencontainers.image.description": "syslog-forwarder",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "syslog-forwarder"
               },
               "layers_count": 6,
@@ -116524,7 +116531,7 @@
                 "org.opencontainers.image.licenses": "BSD-3-Clause",
                 "org.opencontainers.image.ref.name": "default",
                 "org.opencontainers.image.revision": "5caaaa1ccbff44e328f3f96f4ccf08520134e7c8",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "unbound-docker",
                 "org.opencontainers.image.url": "https://github.com/klutchell/unbound-docker",
                 "org.opencontainers.image.version": ""
@@ -116578,7 +116585,7 @@
                 "org.opencontainers.image.licenses": "BSD-3-Clause",
                 "org.opencontainers.image.ref.name": "default",
                 "org.opencontainers.image.revision": "5caaaa1ccbff44e328f3f96f4ccf08520134e7c8",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "unbound-docker",
                 "org.opencontainers.image.url": "https://github.com/klutchell/unbound-docker",
                 "org.opencontainers.image.version": ""
@@ -117181,7 +117188,7 @@
                 "org.opencontainers.image.documentation": "https://github.com/dani-garcia/vaultwarden/wiki",
                 "org.opencontainers.image.licenses": "AGPL-3.0-only",
                 "org.opencontainers.image.revision": "f21a3adae2fbb8582b60b121783c597fe6895ff4",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.url": "https://github.com/dani-garcia/vaultwarden",
                 "org.opencontainers.image.version": "1.36.0"
               },
@@ -118161,7 +118168,7 @@
                 "org.opencontainers.image.description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
                 "org.opencontainers.image.licenses": "NOASSERTION",
                 "org.opencontainers.image.revision": "e063db68c9e4b67f796d5433e6800a4ee1f8abcc",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "windmill",
                 "org.opencontainers.image.url": "https://github.com/windmill-labs/windmill",
                 "org.opencontainers.image.version": ""
@@ -118605,7 +118612,7 @@
                 "com.docker.compose.project": "dist",
                 "com.docker.compose.service": "windmill-db",
                 "com.docker.compose.version": "2.30.3",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 11,
               "created": "2026-04-15T20:24:03.483686077Z"
@@ -118614,7 +118621,7 @@
         }
       ]
     },
-    "unix": {
+    "cloud-unix": {
       "repo_url": "https://github.com/diegonmarcos/cloud-unix",
       "packages": [
         {
@@ -118656,13 +118663,96 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-browser",
           "created_at": "2026-07-10T07:24:02Z",
-          "updated_at": "2026-08-12T10:27:36Z",
+          "updated_at": "2026-08-18T11:49:47Z",
           "versions": [
             {
-              "id": 1124655323,
+              "id": 1144818359,
               "tags": [
+                "v0.1.0-dev-x86_64"
+              ],
+              "created_at": "2026-08-18T12:06:34Z",
+              "updated_at": "2026-08-18T12:06:34Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-browser/1144818359"
+            },
+            {
+              "id": 1144818295,
+              "tags": [
+                "sha-13bd3e9d-x86_64"
+              ],
+              "created_at": "2026-08-18T12:06:32Z",
+              "updated_at": "2026-08-18T12:06:32Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-browser/1144818295"
+            },
+            {
+              "id": 1144818253,
+              "tags": [
+                "latest-x86_64"
+              ],
+              "created_at": "2026-08-18T12:06:32Z",
+              "updated_at": "2026-08-18T12:06:32Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-browser/1144818253"
+            },
+            {
+              "id": 1144817808,
+              "tags": [
+                "sha-13bd3e9d",
                 "v0.1.0-dev"
               ],
+              "created_at": "2026-08-18T12:06:24Z",
+              "updated_at": "2026-08-18T12:06:24Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-browser/1144817808"
+            },
+            {
+              "id": 1144817776,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-18T12:06:23Z",
+              "updated_at": "2026-08-18T12:06:23Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-browser/1144817776"
+            },
+            {
+              "id": 1144757357,
+              "tags": [],
+              "created_at": "2026-08-18T11:49:47Z",
+              "updated_at": "2026-08-18T11:49:47Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-browser/1144757357"
+            },
+            {
+              "id": 1144757323,
+              "tags": [
+                "sha-117b248d-x86_64"
+              ],
+              "created_at": "2026-08-18T11:49:46Z",
+              "updated_at": "2026-08-18T11:49:46Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-browser/1144757323"
+            },
+            {
+              "id": 1144757307,
+              "tags": [
+                "sha-117b248d"
+              ],
+              "created_at": "2026-08-18T11:49:46Z",
+              "updated_at": "2026-08-18T11:49:46Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-browser/1144757307"
+            },
+            {
+              "id": 1144757299,
+              "tags": [],
+              "created_at": "2026-08-18T11:49:46Z",
+              "updated_at": "2026-08-18T11:49:46Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-browser/1144757299"
+            },
+            {
+              "id": 1144757256,
+              "tags": [],
+              "created_at": "2026-08-18T11:49:45Z",
+              "updated_at": "2026-08-18T11:49:45Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-browser/1144757256"
+            },
+            {
+              "id": 1124655323,
+              "tags": [],
               "created_at": "2026-08-12T10:27:36Z",
               "updated_at": "2026-08-12T10:27:36Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-browser/1124655323"
@@ -118678,9 +118768,7 @@
             },
             {
               "id": 1124655238,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:27:34Z",
               "updated_at": "2026-08-12T10:27:34Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-browser/1124655238"
@@ -118688,8 +118776,7 @@
             {
               "id": 1124653251,
               "tags": [
-                "sha-2e5640ce-x86_64",
-                "v0.1.0-dev-x86_64"
+                "sha-2e5640ce-x86_64"
               ],
               "created_at": "2026-08-12T10:26:57Z",
               "updated_at": "2026-08-12T10:26:57Z",
@@ -118697,9 +118784,7 @@
             },
             {
               "id": 1124653226,
-              "tags": [
-                "latest-x86_64"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:26:57Z",
               "updated_at": "2026-08-12T10:26:57Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-browser/1124653226"
@@ -118992,13 +119077,32 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-apt",
           "created_at": "2026-05-20T19:30:06Z",
-          "updated_at": "2026-08-12T19:38:01Z",
+          "updated_at": "2026-08-18T11:50:14Z",
           "versions": [
+            {
+              "id": 1144758792,
+              "tags": [
+                "117b248-amd64",
+                "amd64"
+              ],
+              "created_at": "2026-08-18T11:50:13Z",
+              "updated_at": "2026-08-18T11:50:13Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-builder-x-deb-apt/1144758792"
+            },
+            {
+              "id": 1144757192,
+              "tags": [
+                "117b248-arm64",
+                "arm64"
+              ],
+              "created_at": "2026-08-18T11:49:44Z",
+              "updated_at": "2026-08-18T11:49:44Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-builder-x-deb-apt/1144757192"
+            },
             {
               "id": 1126525719,
               "tags": [
-                "aa5aa50-amd64",
-                "amd64"
+                "aa5aa50-amd64"
               ],
               "created_at": "2026-08-12T19:38:00Z",
               "updated_at": "2026-08-12T19:38:00Z",
@@ -119007,8 +119111,7 @@
             {
               "id": 1126524542,
               "tags": [
-                "aa5aa50-arm64",
-                "arm64"
+                "aa5aa50-arm64"
               ],
               "created_at": "2026-08-12T19:37:34Z",
               "updated_at": "2026-08-12T19:37:34Z",
@@ -119222,7 +119325,7 @@
                 "diego.image.ghcr": "ghcr.io/diegonmarcos/cloud-builder-x-deb-apt",
                 "diego.image.variant": "x86-apt",
                 "org.opencontainers.image.description": "cloud-builder — Debian apt CI/CD image (no Nix)",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-unix",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/unix",
                 "org.opencontainers.image.title": "cloud-builder-x-deb-apt"
               },
               "layers_count": 16,
@@ -119246,7 +119349,7 @@
                 "diego.image.ghcr": "ghcr.io/diegonmarcos/cloud-builder-x-deb-apt",
                 "diego.image.variant": "x86-apt",
                 "org.opencontainers.image.description": "cloud-builder — Debian apt CI/CD image (no Nix)",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-unix",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/unix",
                 "org.opencontainers.image.title": "cloud-builder-x-deb-apt"
               },
               "layers_count": 16,
@@ -120297,7 +120400,7 @@
               ],
               "labels": {
                 "org.opencontainers.image.description": "cloud-builder — Debian flat + nix + home-manager CI/CD image",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.usage": "docker run --rm ghcr.io/diegonmarcos/cloud-builder-x-deb-nixhm cat /opt/cloud-builder/cloud-builder.sh | sh -s ship oci-apps"
               },
               "layers_count": 19,
@@ -120322,7 +120425,7 @@
               ],
               "labels": {
                 "org.opencontainers.image.description": "cloud-builder — Debian flat + nix + home-manager CI/CD image",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.usage": "docker run --rm ghcr.io/diegonmarcos/cloud-builder-x-deb-nixhm cat /opt/cloud-builder/cloud-builder.sh | sh -s ship oci-apps"
               },
               "layers_count": 19,
@@ -120335,13 +120438,103 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-calendar",
           "created_at": "2026-08-02T22:46:09Z",
-          "updated_at": "2026-08-12T10:27:32Z",
+          "updated_at": "2026-08-18T11:50:01Z",
           "versions": [
             {
-              "id": 1124655113,
+              "id": 1144819112,
               "tags": [
                 "v0.3.0-dev-x86_64"
               ],
+              "created_at": "2026-08-18T12:06:46Z",
+              "updated_at": "2026-08-18T12:06:46Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-calendar/1144819112"
+            },
+            {
+              "id": 1144819034,
+              "tags": [
+                "sha-13bd3e9d-x86_64"
+              ],
+              "created_at": "2026-08-18T12:06:45Z",
+              "updated_at": "2026-08-18T12:06:45Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-calendar/1144819034"
+            },
+            {
+              "id": 1144818978,
+              "tags": [
+                "latest-x86_64"
+              ],
+              "created_at": "2026-08-18T12:06:44Z",
+              "updated_at": "2026-08-18T12:06:44Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-calendar/1144818978"
+            },
+            {
+              "id": 1144817755,
+              "tags": [
+                "sha-13bd3e9d",
+                "v0.3.0-dev"
+              ],
+              "created_at": "2026-08-18T12:06:23Z",
+              "updated_at": "2026-08-18T12:06:23Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-calendar/1144817755"
+            },
+            {
+              "id": 1144817716,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-18T12:06:23Z",
+              "updated_at": "2026-08-18T12:06:23Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-calendar/1144817716"
+            },
+            {
+              "id": 1144758106,
+              "tags": [],
+              "created_at": "2026-08-18T11:50:01Z",
+              "updated_at": "2026-08-18T11:50:01Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-calendar/1144758106"
+            },
+            {
+              "id": 1144758041,
+              "tags": [
+                "sha-117b248d"
+              ],
+              "created_at": "2026-08-18T11:50:00Z",
+              "updated_at": "2026-08-18T11:50:00Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-calendar/1144758041"
+            },
+            {
+              "id": 1144757983,
+              "tags": [],
+              "created_at": "2026-08-18T11:49:59Z",
+              "updated_at": "2026-08-18T11:49:59Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-calendar/1144757983"
+            },
+            {
+              "id": 1144757050,
+              "tags": [],
+              "created_at": "2026-08-18T11:49:40Z",
+              "updated_at": "2026-08-18T11:49:40Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-calendar/1144757050"
+            },
+            {
+              "id": 1144757023,
+              "tags": [
+                "sha-117b248d-x86_64"
+              ],
+              "created_at": "2026-08-18T11:49:40Z",
+              "updated_at": "2026-08-18T11:49:40Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-calendar/1144757023"
+            },
+            {
+              "id": 1144756996,
+              "tags": [],
+              "created_at": "2026-08-18T11:49:39Z",
+              "updated_at": "2026-08-18T11:49:39Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-calendar/1144756996"
+            },
+            {
+              "id": 1124655113,
+              "tags": [],
               "created_at": "2026-08-12T10:27:32Z",
               "updated_at": "2026-08-12T10:27:32Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-calendar/1124655113"
@@ -120357,18 +120550,14 @@
             },
             {
               "id": 1124655022,
-              "tags": [
-                "latest-x86_64"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:27:30Z",
               "updated_at": "2026-08-12T10:27:30Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-calendar/1124655022"
             },
             {
               "id": 1124654888,
-              "tags": [
-                "v0.3.0-dev"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:27:27Z",
               "updated_at": "2026-08-12T10:27:27Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-calendar/1124654888"
@@ -120384,9 +120573,7 @@
             },
             {
               "id": 1124654860,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:27:26Z",
               "updated_at": "2026-08-12T10:27:26Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-calendar/1124654860"
@@ -120594,6 +120781,24 @@
           "updated_at": "2026-08-12T10:44:18Z",
           "versions": [
             {
+              "id": 1144811268,
+              "tags": [
+                "sha-117b248d"
+              ],
+              "created_at": "2026-08-18T12:04:34Z",
+              "updated_at": "2026-08-18T12:04:34Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-comms-chat/1144811268"
+            },
+            {
+              "id": 1144811242,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-18T12:04:33Z",
+              "updated_at": "2026-08-18T12:04:33Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-comms-chat/1144811242"
+            },
+            {
               "id": 1124710154,
               "tags": [
                 "sha-2e5640ce"
@@ -120604,9 +120809,7 @@
             },
             {
               "id": 1124710075,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:44:17Z",
               "updated_at": "2026-08-12T10:44:17Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-comms-chat/1124710075"
@@ -122902,8 +123105,42 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-mail",
           "created_at": "2026-06-12T13:44:17Z",
-          "updated_at": "2026-08-12T10:32:17Z",
+          "updated_at": "2026-08-18T11:54:18Z",
           "versions": [
+            {
+              "id": 1144773912,
+              "tags": [
+                "sha-117b248d"
+              ],
+              "created_at": "2026-08-18T11:54:18Z",
+              "updated_at": "2026-08-18T11:54:18Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1144773912"
+            },
+            {
+              "id": 1144773848,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-18T11:54:18Z",
+              "updated_at": "2026-08-18T11:54:18Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1144773848"
+            },
+            {
+              "id": 1144563163,
+              "tags": [
+                "sha-2d2f8009"
+              ],
+              "created_at": "2026-08-18T10:52:48Z",
+              "updated_at": "2026-08-18T10:52:48Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1144563163"
+            },
+            {
+              "id": 1144563129,
+              "tags": [],
+              "created_at": "2026-08-18T10:52:47Z",
+              "updated_at": "2026-08-18T10:52:47Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1144563129"
+            },
             {
               "id": 1124671414,
               "tags": [
@@ -122915,9 +123152,7 @@
             },
             {
               "id": 1124671365,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:32:16Z",
               "updated_at": "2026-08-12T10:32:16Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1124671365"
@@ -124493,8 +124728,34 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-matrix",
           "created_at": "2026-07-09T15:58:23Z",
-          "updated_at": "2026-08-12T10:25:50Z",
+          "updated_at": "2026-08-18T11:47:50Z",
           "versions": [
+            {
+              "id": 1144811298,
+              "tags": [
+                "sha-13bd3e9d",
+                "latest"
+              ],
+              "created_at": "2026-08-18T12:04:34Z",
+              "updated_at": "2026-08-18T12:04:34Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-comms-matrix/1144811298"
+            },
+            {
+              "id": 1144750944,
+              "tags": [
+                "sha-117b248d"
+              ],
+              "created_at": "2026-08-18T11:47:50Z",
+              "updated_at": "2026-08-18T11:47:50Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-comms-matrix/1144750944"
+            },
+            {
+              "id": 1144750895,
+              "tags": [],
+              "created_at": "2026-08-18T11:47:50Z",
+              "updated_at": "2026-08-18T11:47:50Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-comms-matrix/1144750895"
+            },
             {
               "id": 1124649609,
               "tags": [
@@ -124506,9 +124767,7 @@
             },
             {
               "id": 1124649533,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:25:49Z",
               "updated_at": "2026-08-12T10:25:49Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-comms-matrix/1124649533"
@@ -124761,13 +125020,265 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-ide-hub",
           "created_at": "2026-06-11T15:05:15Z",
-          "updated_at": "2026-08-12T10:27:20Z",
+          "updated_at": "2026-08-18T11:50:02Z",
           "versions": [
             {
-              "id": 1124654555,
+              "id": 1144817715,
               "tags": [
                 "v0.1.0-dev-x86_64"
               ],
+              "created_at": "2026-08-18T12:06:23Z",
+              "updated_at": "2026-08-18T12:06:23Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144817715"
+            },
+            {
+              "id": 1144817657,
+              "tags": [
+                "sha-13bd3e9d-x86_64",
+                "latest-x86_64"
+              ],
+              "created_at": "2026-08-18T12:06:21Z",
+              "updated_at": "2026-08-18T12:06:21Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144817657"
+            },
+            {
+              "id": 1144817640,
+              "tags": [
+                "sha-13bd3e9d",
+                "v0.1.0-dev"
+              ],
+              "created_at": "2026-08-18T12:06:21Z",
+              "updated_at": "2026-08-18T12:06:21Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144817640"
+            },
+            {
+              "id": 1144817609,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-18T12:06:20Z",
+              "updated_at": "2026-08-18T12:06:20Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144817609"
+            },
+            {
+              "id": 1144813301,
+              "tags": [],
+              "created_at": "2026-08-18T12:05:04Z",
+              "updated_at": "2026-08-18T12:05:04Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144813301"
+            },
+            {
+              "id": 1144813250,
+              "tags": [
+                "sha-187e3235"
+              ],
+              "created_at": "2026-08-18T12:05:04Z",
+              "updated_at": "2026-08-18T12:05:04Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144813250"
+            },
+            {
+              "id": 1144813203,
+              "tags": [],
+              "created_at": "2026-08-18T12:05:03Z",
+              "updated_at": "2026-08-18T12:05:03Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144813203"
+            },
+            {
+              "id": 1144812387,
+              "tags": [
+                "sha-187e3235-x86_64"
+              ],
+              "created_at": "2026-08-18T12:04:51Z",
+              "updated_at": "2026-08-18T12:04:51Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144812387"
+            },
+            {
+              "id": 1144812348,
+              "tags": [],
+              "created_at": "2026-08-18T12:04:51Z",
+              "updated_at": "2026-08-18T12:04:51Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144812348"
+            },
+            {
+              "id": 1144758101,
+              "tags": [
+                "sha-117b248d-x86_64"
+              ],
+              "created_at": "2026-08-18T11:50:01Z",
+              "updated_at": "2026-08-18T11:50:01Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144758101"
+            },
+            {
+              "id": 1144758070,
+              "tags": [],
+              "created_at": "2026-08-18T11:50:01Z",
+              "updated_at": "2026-08-18T11:50:01Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144758070"
+            },
+            {
+              "id": 1144757359,
+              "tags": [],
+              "created_at": "2026-08-18T11:49:47Z",
+              "updated_at": "2026-08-18T11:49:47Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144757359"
+            },
+            {
+              "id": 1144757315,
+              "tags": [
+                "sha-117b248d"
+              ],
+              "created_at": "2026-08-18T11:49:46Z",
+              "updated_at": "2026-08-18T11:49:46Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144757315"
+            },
+            {
+              "id": 1144757275,
+              "tags": [],
+              "created_at": "2026-08-18T11:49:45Z",
+              "updated_at": "2026-08-18T11:49:45Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144757275"
+            },
+            {
+              "id": 1144632528,
+              "tags": [],
+              "created_at": "2026-08-18T11:13:26Z",
+              "updated_at": "2026-08-18T11:13:26Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144632528"
+            },
+            {
+              "id": 1144632497,
+              "tags": [
+                "sha-0bb296b5"
+              ],
+              "created_at": "2026-08-18T11:13:26Z",
+              "updated_at": "2026-08-18T11:13:26Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144632497"
+            },
+            {
+              "id": 1144632467,
+              "tags": [],
+              "created_at": "2026-08-18T11:13:25Z",
+              "updated_at": "2026-08-18T11:13:25Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144632467"
+            },
+            {
+              "id": 1144631207,
+              "tags": [],
+              "created_at": "2026-08-18T11:13:03Z",
+              "updated_at": "2026-08-18T11:13:03Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144631207"
+            },
+            {
+              "id": 1144631147,
+              "tags": [
+                "sha-0bb296b5-x86_64"
+              ],
+              "created_at": "2026-08-18T11:13:02Z",
+              "updated_at": "2026-08-18T11:13:02Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144631147"
+            },
+            {
+              "id": 1144631101,
+              "tags": [],
+              "created_at": "2026-08-18T11:13:01Z",
+              "updated_at": "2026-08-18T11:13:01Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144631101"
+            },
+            {
+              "id": 1144438171,
+              "tags": [],
+              "created_at": "2026-08-18T10:16:18Z",
+              "updated_at": "2026-08-18T10:16:18Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144438171"
+            },
+            {
+              "id": 1144438124,
+              "tags": [
+                "sha-e33cb10e-x86_64"
+              ],
+              "created_at": "2026-08-18T10:16:18Z",
+              "updated_at": "2026-08-18T10:16:18Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144438124"
+            },
+            {
+              "id": 1144438072,
+              "tags": [],
+              "created_at": "2026-08-18T10:16:17Z",
+              "updated_at": "2026-08-18T10:16:17Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144438072"
+            },
+            {
+              "id": 1144437922,
+              "tags": [],
+              "created_at": "2026-08-18T10:16:14Z",
+              "updated_at": "2026-08-18T10:16:14Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144437922"
+            },
+            {
+              "id": 1144437875,
+              "tags": [
+                "sha-e33cb10e"
+              ],
+              "created_at": "2026-08-18T10:16:14Z",
+              "updated_at": "2026-08-18T10:16:14Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144437875"
+            },
+            {
+              "id": 1144437822,
+              "tags": [],
+              "created_at": "2026-08-18T10:16:13Z",
+              "updated_at": "2026-08-18T10:16:13Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144437822"
+            },
+            {
+              "id": 1144340079,
+              "tags": [],
+              "created_at": "2026-08-18T09:47:00Z",
+              "updated_at": "2026-08-18T09:47:00Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144340079"
+            },
+            {
+              "id": 1144340021,
+              "tags": [
+                "sha-dbe6918f"
+              ],
+              "created_at": "2026-08-18T09:46:59Z",
+              "updated_at": "2026-08-18T09:46:59Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144340021"
+            },
+            {
+              "id": 1144339960,
+              "tags": [],
+              "created_at": "2026-08-18T09:46:58Z",
+              "updated_at": "2026-08-18T09:46:58Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144339960"
+            },
+            {
+              "id": 1144339618,
+              "tags": [],
+              "created_at": "2026-08-18T09:46:53Z",
+              "updated_at": "2026-08-18T09:46:53Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144339618"
+            },
+            {
+              "id": 1144339584,
+              "tags": [
+                "sha-dbe6918f-x86_64"
+              ],
+              "created_at": "2026-08-18T09:46:52Z",
+              "updated_at": "2026-08-18T09:46:52Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144339584"
+            },
+            {
+              "id": 1144339539,
+              "tags": [],
+              "created_at": "2026-08-18T09:46:51Z",
+              "updated_at": "2026-08-18T09:46:51Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1144339539"
+            },
+            {
+              "id": 1124654555,
+              "tags": [],
               "created_at": "2026-08-12T10:27:20Z",
               "updated_at": "2026-08-12T10:27:20Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1124654555"
@@ -124783,18 +125294,14 @@
             },
             {
               "id": 1124654507,
-              "tags": [
-                "latest-x86_64"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:27:19Z",
               "updated_at": "2026-08-12T10:27:19Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1124654507"
             },
             {
               "id": 1124654300,
-              "tags": [
-                "v0.1.0-dev"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:27:15Z",
               "updated_at": "2026-08-12T10:27:15Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1124654300"
@@ -124810,9 +125317,7 @@
             },
             {
               "id": 1124654231,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:27:14Z",
               "updated_at": "2026-08-12T10:27:14Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-ide-hub/1124654231"
@@ -127901,13 +128406,30 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard",
           "created_at": "2026-07-14T18:42:32Z",
-          "updated_at": "2026-08-12T10:30:21Z",
+          "updated_at": "2026-08-18T11:52:10Z",
           "versions": [
+            {
+              "id": 1144765948,
+              "tags": [
+                "sha-117b248d"
+              ],
+              "created_at": "2026-08-18T11:52:10Z",
+              "updated_at": "2026-08-18T11:52:10Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-keyboard/1144765948"
+            },
+            {
+              "id": 1144765904,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-18T11:52:09Z",
+              "updated_at": "2026-08-18T11:52:09Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-keyboard/1144765904"
+            },
             {
               "id": 1124665056,
               "tags": [
-                "sha-2e5640ce",
-                "latest"
+                "sha-2e5640ce"
               ],
               "created_at": "2026-08-12T10:30:20Z",
               "updated_at": "2026-08-12T10:30:20Z",
@@ -128344,8 +128866,26 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard-libs",
           "created_at": "2026-07-23T18:03:16Z",
-          "updated_at": "2026-08-12T10:28:25Z",
+          "updated_at": "2026-08-18T11:50:23Z",
           "versions": [
+            {
+              "id": 1144759370,
+              "tags": [
+                "sha-117b248d"
+              ],
+              "created_at": "2026-08-18T11:50:23Z",
+              "updated_at": "2026-08-18T11:50:23Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-keyboard-libs/1144759370"
+            },
+            {
+              "id": 1144759344,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-18T11:50:23Z",
+              "updated_at": "2026-08-18T11:50:23Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-keyboard-libs/1144759344"
+            },
             {
               "id": 1124658154,
               "tags": [
@@ -128357,9 +128897,7 @@
             },
             {
               "id": 1124658105,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:28:24Z",
               "updated_at": "2026-08-12T10:28:24Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-keyboard-libs/1124658105"
@@ -128548,8 +129086,44 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-media-center",
           "created_at": "2026-07-30T14:15:39Z",
-          "updated_at": "2026-08-12T10:38:49Z",
+          "updated_at": "2026-08-18T12:00:57Z",
           "versions": [
+            {
+              "id": 1144798415,
+              "tags": [
+                "sha-117b248d-x86_64"
+              ],
+              "created_at": "2026-08-18T12:00:57Z",
+              "updated_at": "2026-08-18T12:00:57Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1144798415"
+            },
+            {
+              "id": 1144798366,
+              "tags": [
+                "latest-x86_64"
+              ],
+              "created_at": "2026-08-18T12:00:56Z",
+              "updated_at": "2026-08-18T12:00:56Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1144798366"
+            },
+            {
+              "id": 1144794152,
+              "tags": [
+                "sha-117b248d"
+              ],
+              "created_at": "2026-08-18T11:59:46Z",
+              "updated_at": "2026-08-18T11:59:46Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1144794152"
+            },
+            {
+              "id": 1144794110,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-18T11:59:45Z",
+              "updated_at": "2026-08-18T11:59:45Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1144794110"
+            },
             {
               "id": 1124692390,
               "tags": [
@@ -128561,9 +129135,7 @@
             },
             {
               "id": 1124692358,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:38:49Z",
               "updated_at": "2026-08-12T10:38:49Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1124692358"
@@ -128579,9 +129151,7 @@
             },
             {
               "id": 1124692146,
-              "tags": [
-                "latest-x86_64"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:38:45Z",
               "updated_at": "2026-08-12T10:38:45Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1124692146"
@@ -128686,13 +129256,66 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-nav",
           "created_at": "2026-06-14T21:16:58Z",
-          "updated_at": "2026-08-12T10:28:16Z",
+          "updated_at": "2026-08-18T11:50:40Z",
           "versions": [
+            {
+              "id": 1144760371,
+              "tags": [
+                "v0.1.0-dev-x86_64"
+              ],
+              "created_at": "2026-08-18T11:50:40Z",
+              "updated_at": "2026-08-18T11:50:40Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-nav/1144760371"
+            },
+            {
+              "id": 1144760331,
+              "tags": [
+                "sha-117b248d-x86_64"
+              ],
+              "created_at": "2026-08-18T11:50:39Z",
+              "updated_at": "2026-08-18T11:50:39Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-nav/1144760331"
+            },
+            {
+              "id": 1144760288,
+              "tags": [
+                "latest-x86_64"
+              ],
+              "created_at": "2026-08-18T11:50:38Z",
+              "updated_at": "2026-08-18T11:50:38Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-nav/1144760288"
+            },
+            {
+              "id": 1144760138,
+              "tags": [
+                "v0.1.0-dev"
+              ],
+              "created_at": "2026-08-18T11:50:36Z",
+              "updated_at": "2026-08-18T11:50:36Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-nav/1144760138"
+            },
+            {
+              "id": 1144760069,
+              "tags": [
+                "sha-117b248d"
+              ],
+              "created_at": "2026-08-18T11:50:35Z",
+              "updated_at": "2026-08-18T11:50:35Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-nav/1144760069"
+            },
+            {
+              "id": 1144759990,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-18T11:50:34Z",
+              "updated_at": "2026-08-18T11:50:34Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-nav/1144759990"
+            },
             {
               "id": 1124657602,
               "tags": [
-                "sha-2e5640ce",
-                "v0.1.0-dev"
+                "sha-2e5640ce"
               ],
               "created_at": "2026-08-12T10:28:15Z",
               "updated_at": "2026-08-12T10:28:15Z",
@@ -128700,9 +129323,7 @@
             },
             {
               "id": 1124657539,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:28:14Z",
               "updated_at": "2026-08-12T10:28:14Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-nav/1124657539"
@@ -128710,8 +129331,7 @@
             {
               "id": 1124657257,
               "tags": [
-                "sha-2e5640ce-x86_64",
-                "v0.1.0-dev-x86_64"
+                "sha-2e5640ce-x86_64"
               ],
               "created_at": "2026-08-12T10:28:10Z",
               "updated_at": "2026-08-12T10:28:10Z",
@@ -128719,9 +129339,7 @@
             },
             {
               "id": 1124657226,
-              "tags": [
-                "latest-x86_64"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:28:09Z",
               "updated_at": "2026-08-12T10:28:09Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-nav/1124657226"
@@ -133139,13 +133757,80 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-news",
           "created_at": "2026-08-10T11:44:30Z",
-          "updated_at": "2026-08-12T10:27:32Z",
+          "updated_at": "2026-08-18T11:50:57Z",
           "versions": [
             {
-              "id": 1124655105,
+              "id": 1144820889,
               "tags": [
+                "sha-13bd3e9d-x86_64",
                 "v0.4.1-dev-x86_64"
               ],
+              "created_at": "2026-08-18T12:07:14Z",
+              "updated_at": "2026-08-18T12:07:14Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-news/1144820889"
+            },
+            {
+              "id": 1144820854,
+              "tags": [
+                "latest-x86_64"
+              ],
+              "created_at": "2026-08-18T12:07:14Z",
+              "updated_at": "2026-08-18T12:07:14Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-news/1144820854"
+            },
+            {
+              "id": 1144761363,
+              "tags": [
+                "v0.4.1-dev"
+              ],
+              "created_at": "2026-08-18T11:50:57Z",
+              "updated_at": "2026-08-18T11:50:57Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-news/1144761363"
+            },
+            {
+              "id": 1144761321,
+              "tags": [
+                "sha-117b248d"
+              ],
+              "created_at": "2026-08-18T11:50:56Z",
+              "updated_at": "2026-08-18T11:50:56Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-news/1144761321"
+            },
+            {
+              "id": 1144761293,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-18T11:50:56Z",
+              "updated_at": "2026-08-18T11:50:56Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-news/1144761293"
+            },
+            {
+              "id": 1144760695,
+              "tags": [],
+              "created_at": "2026-08-18T11:50:45Z",
+              "updated_at": "2026-08-18T11:50:45Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-news/1144760695"
+            },
+            {
+              "id": 1144760657,
+              "tags": [
+                "sha-117b248d-x86_64"
+              ],
+              "created_at": "2026-08-18T11:50:45Z",
+              "updated_at": "2026-08-18T11:50:45Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-news/1144760657"
+            },
+            {
+              "id": 1144760624,
+              "tags": [],
+              "created_at": "2026-08-18T11:50:44Z",
+              "updated_at": "2026-08-18T11:50:44Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-news/1144760624"
+            },
+            {
+              "id": 1124655105,
+              "tags": [],
               "created_at": "2026-08-12T10:27:32Z",
               "updated_at": "2026-08-12T10:27:32Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-news/1124655105"
@@ -133161,18 +133846,14 @@
             },
             {
               "id": 1124655018,
-              "tags": [
-                "latest-x86_64"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:27:30Z",
               "updated_at": "2026-08-12T10:27:30Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-news/1124655018"
             },
             {
               "id": 1124653967,
-              "tags": [
-                "v0.4.1-dev"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:27:10Z",
               "updated_at": "2026-08-12T10:27:10Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-news/1124653967"
@@ -133188,9 +133869,7 @@
             },
             {
               "id": 1124653816,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:27:08Z",
               "updated_at": "2026-08-12T10:27:08Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-news/1124653816"
@@ -133659,13 +134338,58 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp",
           "created_at": "2026-05-29T13:44:05Z",
-          "updated_at": "2026-08-12T14:19:31Z",
+          "updated_at": "2026-08-18T11:55:42Z",
           "versions": [
+            {
+              "id": 1144779039,
+              "tags": [
+                "sha-117b248d",
+                "v0.1.1-dev"
+              ],
+              "created_at": "2026-08-18T11:55:41Z",
+              "updated_at": "2026-08-18T11:55:41Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1144779039"
+            },
+            {
+              "id": 1144778993,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-18T11:55:40Z",
+              "updated_at": "2026-08-18T11:55:40Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1144778993"
+            },
+            {
+              "id": 1144775105,
+              "tags": [
+                "v0.1.1-dev-x86_64"
+              ],
+              "created_at": "2026-08-18T11:54:38Z",
+              "updated_at": "2026-08-18T11:54:38Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1144775105"
+            },
+            {
+              "id": 1144775059,
+              "tags": [
+                "sha-117b248d-x86_64"
+              ],
+              "created_at": "2026-08-18T11:54:37Z",
+              "updated_at": "2026-08-18T11:54:37Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1144775059"
+            },
+            {
+              "id": 1144775009,
+              "tags": [
+                "latest-x86_64"
+              ],
+              "created_at": "2026-08-18T11:54:37Z",
+              "updated_at": "2026-08-18T11:54:37Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1144775009"
+            },
             {
               "id": 1125476496,
               "tags": [
-                "sha-95be5e6c",
-                "v0.1.1-dev"
+                "sha-95be5e6c"
               ],
               "created_at": "2026-08-12T14:19:31Z",
               "updated_at": "2026-08-12T14:19:31Z",
@@ -133673,18 +134397,14 @@
             },
             {
               "id": 1125476466,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T14:19:30Z",
               "updated_at": "2026-08-12T14:19:30Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1125476466"
             },
             {
               "id": 1125474380,
-              "tags": [
-                "v0.1.1-dev-x86_64"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T14:18:57Z",
               "updated_at": "2026-08-12T14:18:57Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1125474380"
@@ -133700,9 +134420,7 @@
             },
             {
               "id": 1125474235,
-              "tags": [
-                "latest-x86_64"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T14:18:55Z",
               "updated_at": "2026-08-12T14:18:55Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1125474235"
@@ -155205,13 +155923,97 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-vault",
           "created_at": "2026-07-10T07:34:04Z",
-          "updated_at": "2026-08-12T13:52:24Z",
+          "updated_at": "2026-08-18T11:49:46Z",
           "versions": [
+            {
+              "id": 1144817925,
+              "tags": [
+                "v0.1.0-dev-x86_64"
+              ],
+              "created_at": "2026-08-18T12:06:26Z",
+              "updated_at": "2026-08-18T12:06:26Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-vault/1144817925"
+            },
+            {
+              "id": 1144817904,
+              "tags": [
+                "sha-13bd3e9d-x86_64"
+              ],
+              "created_at": "2026-08-18T12:06:26Z",
+              "updated_at": "2026-08-18T12:06:26Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-vault/1144817904"
+            },
+            {
+              "id": 1144817885,
+              "tags": [
+                "latest-x86_64"
+              ],
+              "created_at": "2026-08-18T12:06:25Z",
+              "updated_at": "2026-08-18T12:06:25Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-vault/1144817885"
+            },
+            {
+              "id": 1144817406,
+              "tags": [
+                "sha-13bd3e9d",
+                "v0.1.0-dev"
+              ],
+              "created_at": "2026-08-18T12:06:16Z",
+              "updated_at": "2026-08-18T12:06:16Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-vault/1144817406"
+            },
+            {
+              "id": 1144817379,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-18T12:06:16Z",
+              "updated_at": "2026-08-18T12:06:16Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-vault/1144817379"
+            },
+            {
+              "id": 1144757287,
+              "tags": [
+                "sha-117b248d-x86_64"
+              ],
+              "created_at": "2026-08-18T11:49:45Z",
+              "updated_at": "2026-08-18T11:49:45Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-vault/1144757287"
+            },
+            {
+              "id": 1144757235,
+              "tags": [],
+              "created_at": "2026-08-18T11:49:44Z",
+              "updated_at": "2026-08-18T11:49:44Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-vault/1144757235"
+            },
+            {
+              "id": 1144757174,
+              "tags": [],
+              "created_at": "2026-08-18T11:49:43Z",
+              "updated_at": "2026-08-18T11:49:43Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-vault/1144757174"
+            },
+            {
+              "id": 1144757148,
+              "tags": [
+                "sha-117b248d"
+              ],
+              "created_at": "2026-08-18T11:49:43Z",
+              "updated_at": "2026-08-18T11:49:43Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-vault/1144757148"
+            },
+            {
+              "id": 1144757115,
+              "tags": [],
+              "created_at": "2026-08-18T11:49:42Z",
+              "updated_at": "2026-08-18T11:49:42Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-vault/1144757115"
+            },
             {
               "id": 1125378266,
               "tags": [
-                "sha-b3d42b6d",
-                "v0.1.0-dev"
+                "sha-b3d42b6d"
               ],
               "created_at": "2026-08-12T13:52:23Z",
               "updated_at": "2026-08-12T13:52:23Z",
@@ -155219,18 +156021,14 @@
             },
             {
               "id": 1125378257,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T13:52:23Z",
               "updated_at": "2026-08-12T13:52:23Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-vault/1125378257"
             },
             {
               "id": 1125378172,
-              "tags": [
-                "v0.1.0-dev-x86_64"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T13:52:21Z",
               "updated_at": "2026-08-12T13:52:21Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-vault/1125378172"
@@ -155246,9 +156044,7 @@
             },
             {
               "id": 1125378064,
-              "tags": [
-                "latest-x86_64"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T13:52:19Z",
               "updated_at": "2026-08-12T13:52:19Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-vault/1125378064"
@@ -155869,13 +156665,58 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-wallet",
           "created_at": "2026-07-10T07:24:20Z",
-          "updated_at": "2026-08-12T10:28:57Z",
+          "updated_at": "2026-08-18T11:50:53Z",
           "versions": [
+            {
+              "id": 1144761125,
+              "tags": [
+                "v0.1.0-dev-x86_64"
+              ],
+              "created_at": "2026-08-18T11:50:53Z",
+              "updated_at": "2026-08-18T11:50:53Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1144761125"
+            },
+            {
+              "id": 1144761070,
+              "tags": [
+                "sha-117b248d-x86_64"
+              ],
+              "created_at": "2026-08-18T11:50:52Z",
+              "updated_at": "2026-08-18T11:50:52Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1144761070"
+            },
+            {
+              "id": 1144761024,
+              "tags": [
+                "latest-x86_64"
+              ],
+              "created_at": "2026-08-18T11:50:51Z",
+              "updated_at": "2026-08-18T11:50:51Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1144761024"
+            },
+            {
+              "id": 1144760526,
+              "tags": [
+                "sha-117b248d",
+                "v0.1.0-dev"
+              ],
+              "created_at": "2026-08-18T11:50:42Z",
+              "updated_at": "2026-08-18T11:50:42Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1144760526"
+            },
+            {
+              "id": 1144760496,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-18T11:50:42Z",
+              "updated_at": "2026-08-18T11:50:42Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1144760496"
+            },
             {
               "id": 1124660194,
               "tags": [
-                "sha-2e5640ce-x86_64",
-                "v0.1.0-dev-x86_64"
+                "sha-2e5640ce-x86_64"
               ],
               "created_at": "2026-08-12T10:28:56Z",
               "updated_at": "2026-08-12T10:28:56Z",
@@ -155883,9 +156724,7 @@
             },
             {
               "id": 1124660168,
-              "tags": [
-                "latest-x86_64"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:28:56Z",
               "updated_at": "2026-08-12T10:28:56Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1124660168"
@@ -155893,8 +156732,7 @@
             {
               "id": 1124657599,
               "tags": [
-                "sha-2e5640ce",
-                "v0.1.0-dev"
+                "sha-2e5640ce"
               ],
               "created_at": "2026-08-12T10:28:15Z",
               "updated_at": "2026-08-12T10:28:15Z",
@@ -155902,9 +156740,7 @@
             },
             {
               "id": 1124657554,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:28:15Z",
               "updated_at": "2026-08-12T10:28:15Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1124657554"
@@ -157185,7 +158021,7 @@
                 "org.opencontainers.image.description": "Kali data sets (wordlists, seclists, exploitdb) for bind-mount into kali-os.",
                 "org.opencontainers.image.licenses": "GPL-3.0-or-later",
                 "org.opencontainers.image.revision": "6baf8c1d",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-unix",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/unix",
                 "org.opencontainers.image.title": "kali-data",
                 "org.opencontainers.image.url": "https://www.kali.org/",
                 "org.opencontainers.image.vendor": "OffSec",
@@ -157313,10 +158149,10 @@
                 "org.opencontainers.image.authors": "Kali Developers <devel@kali.org>",
                 "org.opencontainers.image.created": "2026-04-26T04:05:24Z",
                 "org.opencontainers.image.description": "Full Kali Linux toolset (kali-linux-everything) with CLI + noVNC GUI modes, host-network, scan orchestrator.",
-                "org.opencontainers.image.documentation": "https://github.com/diegonmarcos/cloud-unix/tree/main/ab_fallback_os/ab_kali_security/container",
+                "org.opencontainers.image.documentation": "https://github.com/diegonmarcos/unix/tree/main/ab_fallback_os/ab_kali_security/container",
                 "org.opencontainers.image.licenses": "GPL-3.0-or-later",
                 "org.opencontainers.image.revision": "6baf8c1d",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-unix",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/unix",
                 "org.opencontainers.image.title": "kali-linux",
                 "org.opencontainers.image.url": "https://www.kali.org/",
                 "org.opencontainers.image.vendor": "OffSec",
@@ -157381,10 +158217,10 @@
                 "org.opencontainers.image.authors": "Kali Developers <devel@kali.org>",
                 "org.opencontainers.image.created": "2026-05-03T04:04:49Z",
                 "org.opencontainers.image.description": "Kali Linux — full toolkit + GUI. Bind-mount kali-data for wordlists/exploitdb/seclists.",
-                "org.opencontainers.image.documentation": "https://github.com/diegonmarcos/cloud-unix/tree/main/ab_fallback_os/ab_kali_security/container",
+                "org.opencontainers.image.documentation": "https://github.com/diegonmarcos/unix/tree/main/ab_fallback_os/ab_kali_security/container",
                 "org.opencontainers.image.licenses": "GPL-3.0-or-later",
                 "org.opencontainers.image.revision": "6baf8c1d",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-unix",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/unix",
                 "org.opencontainers.image.title": "kali-os",
                 "org.opencontainers.image.url": "https://www.kali.org/",
                 "org.opencontainers.image.vendor": "OffSec",
@@ -157504,13 +158340,20 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/qutebrowser-standalone",
           "created_at": "2026-07-04T11:02:54Z",
-          "updated_at": "2026-08-12T10:26:02Z",
+          "updated_at": "2026-08-18T11:48:15Z",
           "versions": [
             {
-              "id": 1124650297,
+              "id": 1144752432,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-18T11:48:15Z",
+              "updated_at": "2026-08-18T11:48:15Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/qutebrowser-standalone/1144752432"
+            },
+            {
+              "id": 1124650297,
+              "tags": [],
               "created_at": "2026-08-12T10:26:02Z",
               "updated_at": "2026-08-12T10:26:02Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/qutebrowser-standalone/1124650297"
@@ -157944,8 +158787,59 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache",
           "created_at": "2026-05-16T09:49:19Z",
-          "updated_at": "2026-08-12T12:39:31Z",
+          "updated_at": "2026-08-18T12:04:08Z",
           "versions": [
+            {
+              "id": 1144809752,
+              "tags": [
+                "fedora-latest",
+                "fedora-linux-surface-6.19.8-3"
+              ],
+              "created_at": "2026-08-18T12:04:07Z",
+              "updated_at": "2026-08-18T12:04:07Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-boot-cache/1144809752"
+            },
+            {
+              "id": 1144809747,
+              "tags": [
+                "arch-latest",
+                "arch-linux-surface-6.19.8.arch1-3"
+              ],
+              "created_at": "2026-08-18T12:04:06Z",
+              "updated_at": "2026-08-18T12:04:06Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-boot-cache/1144809747"
+            },
+            {
+              "id": 1144809743,
+              "tags": [
+                "deb-latest",
+                "deb-linux-surface-6.19.8-surface-3"
+              ],
+              "created_at": "2026-08-18T12:04:06Z",
+              "updated_at": "2026-08-18T12:04:06Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-boot-cache/1144809743"
+            },
+            {
+              "id": 1144749529,
+              "tags": [],
+              "created_at": "2026-08-18T11:47:27Z",
+              "updated_at": "2026-08-18T11:47:27Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-boot-cache/1144749529"
+            },
+            {
+              "id": 1144748937,
+              "tags": [],
+              "created_at": "2026-08-18T11:47:15Z",
+              "updated_at": "2026-08-18T11:47:15Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-boot-cache/1144748937"
+            },
+            {
+              "id": 1144748911,
+              "tags": [],
+              "created_at": "2026-08-18T11:47:15Z",
+              "updated_at": "2026-08-18T11:47:15Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-boot-cache/1144748911"
+            },
             {
               "id": 1125105685,
               "tags": [
@@ -157958,30 +158852,21 @@
             },
             {
               "id": 1124646686,
-              "tags": [
-                "deb-latest",
-                "deb-linux-surface-6.19.8-surface-3"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:24:57Z",
               "updated_at": "2026-08-12T10:24:57Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-boot-cache/1124646686"
             },
             {
               "id": 1124646595,
-              "tags": [
-                "fedora-latest",
-                "fedora-linux-surface-6.19.8-3"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:24:55Z",
               "updated_at": "2026-08-12T10:24:55Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-boot-cache/1124646595"
             },
             {
               "id": 1124646553,
-              "tags": [
-                "arch-latest",
-                "arch-linux-surface-6.19.8.arch1-3"
-              ],
+              "tags": [],
               "created_at": "2026-08-12T10:24:55Z",
               "updated_at": "2026-08-12T10:24:55Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-boot-cache/1124646553"
@@ -158643,7 +159528,7 @@
               "labels": {
                 "com.diegonmarcos.activation-path": "/nix/store/vc4hd0x9pnbh55bcvkf05lz1ychzd2qk-dev-profile",
                 "org.opencontainers.image.description": "Dev-store profile (devProfile) as layered store paths (incremental GHCR cache).",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-unix"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/unix"
               },
               "layers_count": 120,
               "created": "1970-01-01T00:00:01+00:00"
@@ -159724,7 +160609,7 @@
               "labels": {
                 "com.diegonmarcos.activation-path": "/nix/store/v138hhaywmsvwfmgphshsf9v3mxss4ri-home-manager-generation",
                 "org.opencontainers.image.description": "Desktop home-manager activation closure as layered store paths (incremental GHCR cache).",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-unix"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/unix"
               },
               "layers_count": 120,
               "created": "1970-01-01T00:00:01+00:00"
@@ -159856,7 +160741,7 @@
               "env": [],
               "labels": {
                 "org.opencontainers.image.description": "Desktop NixOS system closure as layered store paths (incremental GHCR cache).",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-unix"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/unix"
               },
               "layers_count": 120,
               "created": "1970-01-01T00:00:01+00:00"
@@ -159947,7 +160832,7 @@
               "env": [],
               "labels": {
                 "org.opencontainers.image.description": "Termux (nix-on-droid) activation closure as layered store paths (incremental GHCR cache).",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-unix"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/unix"
               },
               "layers_count": 120,
               "created": "1970-01-01T00:00:01+00:00"
@@ -159959,13 +160844,20 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/unix-termux-nixcache",
           "created_at": "2026-07-25T10:25:55Z",
-          "updated_at": "2026-08-12T13:15:09Z",
+          "updated_at": "2026-08-18T11:56:51Z",
           "versions": [
             {
-              "id": 1125237858,
+              "id": 1144783639,
               "tags": [
                 "nixcache-latest"
               ],
+              "created_at": "2026-08-18T11:56:51Z",
+              "updated_at": "2026-08-18T11:56:51Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-termux-nixcache/1144783639"
+            },
+            {
+              "id": 1125237858,
+              "tags": [],
               "created_at": "2026-08-12T13:15:09Z",
               "updated_at": "2026-08-12T13:15:09Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-termux-nixcache/1125237858"
@@ -160163,7 +161055,7 @@
                 "diego.image.variant": "deb-apt",
                 "org.opencontainers.image.base.name": "debian:bookworm-slim",
                 "org.opencontainers.image.description": "Diego's portable dev environment — Debian + apt packages (no Nix)",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-unix",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/unix",
                 "org.opencontainers.image.title": "user-dev-x86-deb-apt",
                 "org.opencontainers.image.vendor": "Diego Nepomuceno Marcos"
               },
@@ -160228,7 +161120,7 @@
                 "diego.image.embedded": "/home/diego/.image-meta/ (Containerfile + compose.yaml)",
                 "diego.image.flake.config": "diego@cli",
                 "diego.image.flake.path": "ba_flakes_desktop/src/",
-                "diego.image.flake.repo": "github.com/diegonmarcos/cloud-unix",
+                "diego.image.flake.repo": "github.com/diegonmarcos/unix",
                 "diego.image.flake.toolsets": "shell-core dev-languages build-debug containers-cloud security-network data-science",
                 "diego.image.ghcr": "ghcr.io/diegonmarcos/user-dev-x86-deb-nix-hm",
                 "diego.image.home-manager": "release-24.11",
@@ -160250,12 +161142,12 @@
                 "org.opencontainers.image.authors": "Diego Nepomuceno Marcos <me@diegonmarcos.com>",
                 "org.opencontainers.image.base.name": "debian:bookworm-slim",
                 "org.opencontainers.image.description": "Diego's portable dev environment — Debian + Nix Home-Manager (diego@cli profile)",
-                "org.opencontainers.image.documentation": "https://github.com/diegonmarcos/cloud-unix/blob/main/README.md",
+                "org.opencontainers.image.documentation": "https://github.com/diegonmarcos/unix/blob/main/README.md",
                 "org.opencontainers.image.licenses": "MIT",
                 "org.opencontainers.image.ref.name": "latest",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-unix",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/unix",
                 "org.opencontainers.image.title": "user-dev-x86-deb-nix-hm",
-                "org.opencontainers.image.url": "https://github.com/diegonmarcos/cloud-unix/tree/main/ca_containers_user/src",
+                "org.opencontainers.image.url": "https://github.com/diegonmarcos/unix/tree/main/ca_containers_user/src",
                 "org.opencontainers.image.vendor": "Diego Nepomuceno Marcos"
               },
               "layers_count": 9,
@@ -160307,7 +161199,7 @@
                 "diego.image.runner": "dtk.sh containers nixos-hm {cli|gui|tty}",
                 "diego.image.variant": "nixos-hm",
                 "org.opencontainers.image.description": "Pure Nix container — Home-Manager cli profile (dockerTools.buildLayeredImage)",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-unix",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/unix",
                 "org.opencontainers.image.title": "user-dev-x86-nixos-nix-hm"
               },
               "layers_count": 125,
@@ -160479,7 +161371,7 @@
                 "NTFY_URL=https://rss.diegonmarcos.com"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 9,
               "created": "2026-03-28T05:57:19.145315925Z"
@@ -161393,7 +162285,7 @@
                 "org.opencontainers.image.description": "dozzle",
                 "org.opencontainers.image.licenses": "MIT",
                 "org.opencontainers.image.revision": "922d6de14ee12be44d5e820338ab819c5a9ec21b",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "dozzle",
                 "org.opencontainers.image.url": "https://github.com/amir20/dozzle",
                 "org.opencontainers.image.version": "v10.2.1"
@@ -161467,7 +162359,7 @@
                 "org.opencontainers.image.description": "fluent-bit",
                 "org.opencontainers.image.documentation": "https://docs.fluentbit.io/",
                 "org.opencontainers.image.licenses": "Apache-2.0",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "fluent-bit",
                 "org.opencontainers.image.vendor": "Fluent Organization",
                 "org.opencontainers.image.version": "5.0.2",
@@ -161559,7 +162451,7 @@
                 "DEBIAN_FRONTEND=noninteractive"
               ],
               "labels": {
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 22,
               "created": "2026-04-18T13:11:32.537652393Z"
@@ -161615,7 +162507,7 @@
                 "com.docker.compose.service": "sauron-forwarder",
                 "com.docker.compose.version": "5.0.2",
                 "org.opencontainers.image.description": "sauron-forwarder",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "sauron-forwarder"
               },
               "layers_count": 2,
@@ -161699,7 +162591,7 @@
               ],
               "labels": {
                 "cloud.diegonmarcos.from-image": "ghcr.io/umami-software/umami:latest",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud"
               },
               "layers_count": 18,
               "created": "2026-06-24T23:40:00.314044188Z"
@@ -161773,7 +162665,7 @@
                 "com.docker.compose.service": "umami-db",
                 "com.docker.compose.version": "2.30.3",
                 "org.opencontainers.image.description": "umami-db",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "umami-db"
               },
               "layers_count": 12,
@@ -161845,7 +162737,7 @@
                 "name": "curl-linux-arm64:8.19.0",
                 "org.opencontainers.image.description": "umami-setup",
                 "org.opencontainers.image.licenses": "MIT",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
                 "org.opencontainers.image.title": "umami-setup",
                 "version": "8.19.0"
               },
@@ -162253,10 +163145,11 @@
     {
       "workflow": "Ship",
       "workflow_url": "https://github.com/diegonmarcos/cloud-infra/blob/main/.github/workflows/ship.yml",
-      "repo": "cloud",
+      "repo": "cloud-infra",
       "packages": [
         "caddy",
         "claude-superset-api",
+        "cloud-vault",
         "gha-runner",
         "http-to-smtp-proxy-api",
         "ntfy"
@@ -162265,18 +163158,27 @@
     {
       "workflow": "Ship → gen-configs (cloud-data)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-infra/blob/main/.github/workflows/ship-gen-configs.yml",
-      "repo": "cloud",
+      "repo": "cloud-infra",
       "packages": [
         "authelia",
         "caddy",
+        "cloud-vault",
         "hickory-dns",
         "vm-pilot"
       ]
     },
     {
+      "workflow": "Ship → home-manager",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-infra/blob/main/.github/workflows/ship-home-manager.yml",
+      "repo": "cloud-infra",
+      "packages": [
+        "cloud-vault"
+      ]
+    },
+    {
       "workflow": "lint-pipeline",
       "workflow_url": "https://github.com/diegonmarcos/cloud-infra/blob/main/.github/workflows/lint-pipeline.yml",
-      "repo": "cloud",
+      "repo": "cloud-infra",
       "packages": [
         "cloud-builder-x",
         "mattermost"
@@ -162285,32 +163187,32 @@
     {
       "workflow": "Mirror hermes-agent image",
       "workflow_url": "https://github.com/diegonmarcos/cloud-infra/blob/main/.github/workflows/mirror-hermes-image.yml",
-      "repo": "cloud",
+      "repo": "cloud-infra",
       "packages": [
         "hermes-agent"
       ]
     },
     {
+      "workflow": "Ship → Reports image",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-infra/blob/main/.github/workflows/ship-reports.yml",
+      "repo": "cloud-infra",
+      "packages": [
+        "cloud-vault"
+      ]
+    },
+    {
       "workflow": "cgc-db propagate-only (stream GHCR layer -> oci-apps)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-infra/blob/main/.github/workflows/cgc-db-propagate.yml",
-      "repo": "cloud",
+      "repo": "cloud-infra",
       "packages": [
         "cloud-cgc-mcp",
         "cloud-cgc-mcp-octocode-db"
       ]
     },
     {
-      "workflow": "CI/CD Pipeline",
-      "workflow_url": "https://github.com/diegonmarcos/ml-Agentic/blob/main/.github/workflows/ci-cd.yml",
-      "repo": "ml-Agentic",
-      "packages": [
-        "redis"
-      ]
-    },
-    {
       "workflow": "Ship → Container images",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-containers.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "cloud-builder-x",
         "cloud-builder-x-deb-nixhm"
@@ -162319,7 +163221,7 @@
     {
       "workflow": "Ship → Builder images (TWO NATIVE RUNNERS: amd64 on GHA, arm64 on GHA ubuntu-24.04-arm → multi-arch :latest)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-builders.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "cloud-builder-x",
         "cloud-builder-x-deb-apt",
@@ -162329,7 +163231,7 @@
     {
       "workflow": "Ship → kali-linux (GHCR public)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-kali-linux.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "kali-linux"
       ]
@@ -162337,7 +163239,7 @@
     {
       "workflow": "Ship → /boot kernel cache (GHCR public)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-boot-cache.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "unix-boot-cache"
       ]
@@ -162345,36 +163247,39 @@
     {
       "workflow": "Ship → Cloud SuperApp APK (build + push to GHCR via ORAS + attach to GH Release)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-superapp.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "cloud-superapp",
+        "cloud-vault",
         "superapp"
       ]
     },
     {
       "workflow": "Ship → Cloud-IDE Hub APK (build + push to GHCR via ORAS + attach to GH Release)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-ide.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "cloud-ide-hub",
         "cloud-superapp",
+        "cloud-vault",
         "superapp"
       ]
     },
     {
       "workflow": "Ship → Cloud Nav APK (build + push to GHCR via ORAS + attach to GH Release)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-nav.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "cloud-nav",
         "cloud-superapp",
+        "cloud-vault",
         "superapp"
       ]
     },
     {
       "workflow": "Ship → Garmin Watch Face (.prg → GHCR via ORAS + GitHub Release)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-garmin-watchface.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "cloud-superapp",
         "superapp"
@@ -162383,7 +163288,7 @@
     {
       "workflow": "Ship → Termux nix-on-droid closure (build on arm64, never OOM the phone)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_nix-flakes_termux.yaml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "unix-termux-cache"
       ]
@@ -162391,7 +163296,7 @@
     {
       "workflow": "Ship → Desktop home-manager closure (build remotely, never freeze the laptop)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_nix-flakes_desktop_hm.yaml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "unix-hm-cache"
       ]
@@ -162399,7 +163304,7 @@
     {
       "workflow": "Ship → Desktop NixOS closure (build remotely, never freeze the laptop)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_nix-flakes_desktop_nixos.yaml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "ntfy",
         "unix-boot-cache",
@@ -162409,7 +163314,7 @@
     {
       "workflow": "Ship → Redroid baked image (apps + layout + theme baked into GHCR image)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-redroid-image.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "redroid-cloud"
       ]
@@ -162417,7 +163322,7 @@
     {
       "workflow": "Ship → qutebrowser standalone config release (decoupled from desktop HM closure)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_qutebrowser_standalone.yaml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "qutebrowser-standalone"
       ]
@@ -162425,7 +163330,7 @@
     {
       "workflow": "Ship → my-konsole rescue ISO (stock kernel, cache boot closure to GHCR)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-my-konsole-iso.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "unix-boot-cache",
         "unix-my-konsole-boot-cache"
@@ -162434,7 +163339,7 @@
     {
       "workflow": "Ship → Waydroid container image (sway+Sunshine GPU stream stack) to GHCR",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-waydroid-container.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "waydroid-container"
       ]
@@ -162442,15 +163347,16 @@
     {
       "workflow": "Ship → Cloud Browser APK (build + push to GHCR via ORAS + attach to GH Release)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-browser.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
-        "cloud-browser"
+        "cloud-browser",
+        "cloud-vault"
       ]
     },
     {
       "workflow": "Ship → Cloud Vault APK (build + push to GHCR via ORAS + attach to GH Release)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-vault.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "cloud-vault"
       ]
@@ -162458,25 +163364,27 @@
     {
       "workflow": "Ship → Cloud Wallet APK (build + push to GHCR via ORAS + attach to GH Release)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-wallet.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
+        "cloud-vault",
         "cloud-wallet"
       ]
     },
     {
       "workflow": "Ship → Cloud Keyboard APK (build + push to GHCR via ORAS + attach to GH Release)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-keyboard.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "cloud-keyboard",
         "cloud-superapp",
+        "cloud-vault",
         "superapp"
       ]
     },
     {
       "workflow": "Ship → my-browser-rust-chromium (Rust + CEF) release",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_my-browser-rust-chromium.yaml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "my-browser-rust-chromium"
       ]
@@ -162484,78 +163392,94 @@
     {
       "workflow": "Ship → Cloud Chat (materialize + build + publish to GHCR)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-chat.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "cloud-comms-chat",
         "cloud-superapp",
+        "cloud-vault",
         "superapp"
       ]
     },
     {
       "workflow": "Ship → Cloud Dialer (materialize + build + publish to GHCR)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-dialer.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "cloud-comms-dialer",
         "cloud-superapp",
+        "cloud-vault",
         "superapp"
       ]
     },
     {
       "workflow": "Ship → Cloud Mail (materialize + build + publish to GHCR)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-mail.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "cloud-comms-mail",
         "cloud-superapp",
+        "cloud-vault",
         "superapp"
       ]
     },
     {
       "workflow": "Ship → Cloud Matrix (materialize + build + publish to GHCR)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-matrix.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "cloud-comms-matrix",
         "cloud-superapp",
+        "cloud-vault",
         "superapp"
       ]
     },
     {
       "workflow": "Ship → Cloud Keyboard Libs APK (build + push to GHCR via ORAS + attach to GH Release)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-keyboard-libs.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "cloud-keyboard",
         "cloud-keyboard-libs",
         "cloud-superapp",
+        "cloud-vault",
         "superapp"
       ]
     },
     {
       "workflow": "Ship → Cloud Media Center APK (build + push to GHCR via ORAS + attach to GH Release)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-media-center.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
         "cloud-media-center",
         "cloud-superapp",
+        "cloud-vault",
         "superapp"
       ]
     },
     {
       "workflow": "Ship → Cloud Calendar APK (build + push to GHCR via ORAS + attach to GH Release)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-calendar.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
-        "cloud-calendar"
+        "cloud-calendar",
+        "cloud-vault"
       ]
     },
     {
       "workflow": "Ship → Cloud News APK (build + push to GHCR via ORAS + attach to GH Release)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-news.yml",
-      "repo": "unix",
+      "repo": "cloud-unix",
       "packages": [
-        "cloud-news"
+        "cloud-news",
+        "cloud-vault"
+      ]
+    },
+    {
+      "workflow": "CI/CD Pipeline",
+      "workflow_url": "https://github.com/diegonmarcos/ml-Agentic/blob/main/.github/workflows/ci-cd.yml",
+      "repo": "ml-Agentic",
+      "packages": [
+        "redis"
       ]
     }
   ],
