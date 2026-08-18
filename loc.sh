@@ -7,9 +7,9 @@ set -e
 
 REPOS=(
   "$HOME/git/front"
-  "$HOME/git/cloud"
-  "$HOME/git/unix"
-  "$HOME/git/vault"
+  "$HOME/git/cloud-infra"
+  "$HOME/git/cloud-unix"
+  "$HOME/git/cloud-vault"
 )
 
 OUTDIR="$(cd "$(dirname "$0")" && pwd)"
