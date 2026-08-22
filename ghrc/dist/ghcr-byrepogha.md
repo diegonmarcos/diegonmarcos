@@ -7,25 +7,25 @@
   <a href="ghcr-byrepocodespc.md"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20By%20Codespace-30363d?style=for-the-badge" alt="By Codespace" height="28"></a>
 </p>
 
-<p align="center"><sub><b>339</b> packages · <b>126.84 GB</b> total</sub></p>
+<p align="center"><sub><b>346</b> packages · <b>126.84 GB</b> total</sub></p>
 
 # ⚙️ Packages — By GitHub Actions Workflow
 
 ---
 
-### 📁 cloud-infra <sup>7 workflows</sup>
+### 📁 cloud-infra <sup>8 workflows</sup>
 
 <details>
 <summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-infra/blob/main/.github/workflows/ship.yml"><b>Ship</b></a> &nbsp;<sub>6 packages · 435.1 MB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | 39.7 MB | 22 days ago |
-| [claude-superset-api](https://github.com/users/diegonmarcos/packages/container/package/claude-superset-api) | public | 329.0 MB | 9 days ago |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
-| [gha-runner](https://github.com/users/diegonmarcos/packages/container/package/gha-runner) | private | — | 26 days ago |
-| [http-to-smtp-proxy-api](https://github.com/users/diegonmarcos/packages/container/package/http-to-smtp-proxy-api) | public | 33.6 MB | yesterday |
-| [ntfy](https://github.com/users/diegonmarcos/packages/container/package/ntfy) | public | 32.9 MB | 27 days ago |
+| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | 39.7 MB | 23 days ago |
+| [claude-superset-api](https://github.com/users/diegonmarcos/packages/container/package/claude-superset-api) | public | 329.0 MB | 10 days ago |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
+| [gha-runner](https://github.com/users/diegonmarcos/packages/container/package/gha-runner) | private | — | 27 days ago |
+| [http-to-smtp-proxy-api](https://github.com/users/diegonmarcos/packages/container/package/http-to-smtp-proxy-api) | public | 33.6 MB | 2 days ago |
+| [ntfy](https://github.com/users/diegonmarcos/packages/container/package/ntfy) | public | 32.9 MB | 28 days ago |
 
 </details>
 
@@ -34,10 +34,10 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [authelia](https://github.com/users/diegonmarcos/packages/container/package/authelia) | public | 24.5 MB | 22 days ago |
-| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | 39.7 MB | 22 days ago |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
-| [hickory-dns](https://github.com/users/diegonmarcos/packages/container/package/hickory-dns) | public | 11.5 MB | 22 days ago |
+| [authelia](https://github.com/users/diegonmarcos/packages/container/package/authelia) | public | 24.5 MB | 23 days ago |
+| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | 39.7 MB | 23 days ago |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
+| [hickory-dns](https://github.com/users/diegonmarcos/packages/container/package/hickory-dns) | public | 11.5 MB | 23 days ago |
 | [vm-pilot](https://github.com/users/diegonmarcos/packages/container/package/vm-pilot) | public | 69 KB | 4 months ago |
 
 </details>
@@ -47,7 +47,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
 
 </details>
 
@@ -56,7 +56,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-builder-x](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x) | private | — | 23 days ago |
+| [cloud-builder-x](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x) | private | — | 24 days ago |
 | [mattermost](https://github.com/users/diegonmarcos/packages/container/package/mattermost) | public | 487.7 MB | 4 months ago |
 
 </details>
@@ -66,7 +66,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [hermes-agent](https://github.com/users/diegonmarcos/packages/container/package/hermes-agent) | public | 905.1 MB | 4 days ago |
+| [hermes-agent](https://github.com/users/diegonmarcos/packages/container/package/hermes-agent) | public | 905.1 MB | 5 days ago |
 
 </details>
 
@@ -75,7 +75,18 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
+
+</details>
+
+<details>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-infra/blob/main/.github/workflows/cgc-db-index.yml"><b>cgc-db-index (reusable octocode index phase)</b></a> &nbsp;<sub>3 packages · 2.63 GB</sub></summary>
+
+| Package | Visibility | Size | Updated |
+|:---|:---|:---|:---|
+| [cloud-cgc-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp) | public | 2.57 GB | today |
+| [dagu](https://github.com/users/diegonmarcos/packages/container/package/dagu) | public | 67.7 MB | 24 days ago |
+| [gha-runner](https://github.com/users/diegonmarcos/packages/container/package/gha-runner) | private | — | 27 days ago |
 
 </details>
 
@@ -84,22 +95,21 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-cgc-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp) | public | 2.57 GB | yesterday |
+| [cloud-cgc-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp) | public | 2.57 GB | today |
 | [cloud-cgc-mcp-octocode-db](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp-octocode-db) | private | — | today |
 
 </details>
 
 ---
 
-### 📁 cloud-unix <sup>29 workflows</sup>
+### 📁 cloud-unix <sup>30 workflows</sup>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-containers.yml"><b>Ship → Container images</b></a> &nbsp;<sub>2 packages · 2.38 GB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-boot-cache.yml"><b>Ship → /boot kernel cache (GHCR public)</b></a> &nbsp;<sub>1 package · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-builder-x](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x) | private | — | 23 days ago |
-| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.38 GB | 2 days ago |
+| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | — | yesterday |
 
 </details>
 
@@ -108,37 +118,62 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-builder-x](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x) | private | — | 23 days ago |
-| [cloud-builder-x-deb-apt](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-apt) | public | 728.7 MB | 2 days ago |
-| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.38 GB | 2 days ago |
+| [cloud-builder-x](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x) | private | — | 24 days ago |
+| [cloud-builder-x-deb-apt](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-apt) | public | 728.7 MB | 3 days ago |
+| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.38 GB | 3 days ago |
 
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-kali-linux.yml"><b>Ship → kali-linux (GHCR public)</b></a> &nbsp;<sub>1 package · 14.20 GB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-browser.yml"><b>Ship → Cloud Browser APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>2 packages · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [kali-linux](https://github.com/users/diegonmarcos/packages/container/package/kali-linux) | public | 14.20 GB | 3 months ago |
+| [cloud-browser](https://github.com/users/diegonmarcos/packages/container/package/cloud-browser) | public | — | yesterday |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
 
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-boot-cache.yml"><b>Ship → /boot kernel cache (GHCR public)</b></a> &nbsp;<sub>1 package · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-calendar.yml"><b>Ship → Cloud Calendar APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>2 packages · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | — | today |
+| [cloud-calendar](https://github.com/users/diegonmarcos/packages/container/package/cloud-calendar) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
 
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-superapp.yml"><b>Ship → Cloud SuperApp APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-chat.yml"><b>Ship → Cloud Chat (materialize + build + publish to GHCR)</b></a> &nbsp;<sub>4 packages · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
+| [cloud-comms-chat](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-chat) | public | — | yesterday |
 | [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
+| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
+
+</details>
+
+<details>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-contacts.yml"><b>Ship → Cloud Contacts APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>2 packages · —</sub></summary>
+
+| Package | Visibility | Size | Updated |
+|:---|:---|:---|:---|
+| [cloud-contacts](https://github.com/users/diegonmarcos/packages/container/package/cloud-contacts) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
+
+</details>
+
+<details>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-dialer.yml"><b>Ship → Cloud Dialer (materialize + build + publish to GHCR)</b></a> &nbsp;<sub>4 packages · —</sub></summary>
+
+| Package | Visibility | Size | Updated |
+|:---|:---|:---|:---|
+| [cloud-comms-dialer](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-dialer) | public | — | yesterday |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
 
 </details>
@@ -148,9 +183,88 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-ide-hub](https://github.com/users/diegonmarcos/packages/container/package/cloud-ide-hub) | public | — | today |
+| [cloud-ide-hub](https://github.com/users/diegonmarcos/packages/container/package/cloud-ide-hub) | public | — | yesterday |
 | [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
+| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
+
+</details>
+
+<details>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-keyboard-libs.yml"><b>Ship → Cloud Keyboard Libs APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>5 packages · —</sub></summary>
+
+| Package | Visibility | Size | Updated |
+|:---|:---|:---|:---|
+| [cloud-keyboard](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard) | public | — | yesterday |
+| [cloud-keyboard-libs](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard-libs) | public | — | yesterday |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
+| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
+
+</details>
+
+<details>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-keyboard.yml"><b>Ship → Cloud Keyboard APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>4 packages · —</sub></summary>
+
+| Package | Visibility | Size | Updated |
+|:---|:---|:---|:---|
+| [cloud-keyboard](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard) | public | — | yesterday |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
+| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
+
+</details>
+
+<details>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-libs.yml"><b>Ship → Cloud Libs APKs (one APK per library module + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>10 packages · —</sub></summary>
+
+| Package | Visibility | Size | Updated |
+|:---|:---|:---|:---|
+| [cloud-calendar](https://github.com/users/diegonmarcos/packages/container/package/cloud-calendar) | public | — | today |
+| [cloud-contacts](https://github.com/users/diegonmarcos/packages/container/package/cloud-contacts) | public | — | today |
+| [cloud-keyboard](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard) | public | — | yesterday |
+| [cloud-keyboard-libs](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard-libs) | public | — | yesterday |
+| [cloud-nav](https://github.com/users/diegonmarcos/packages/container/package/cloud-nav) | public | — | yesterday |
+| [cloud-news](https://github.com/users/diegonmarcos/packages/container/package/cloud-news) | public | — | today |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
+| [cloud-wallet](https://github.com/users/diegonmarcos/packages/container/package/cloud-wallet) | public | — | yesterday |
+| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
+
+</details>
+
+<details>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-mail.yml"><b>Ship → Cloud Mail (materialize + build + publish to GHCR)</b></a> &nbsp;<sub>4 packages · —</sub></summary>
+
+| Package | Visibility | Size | Updated |
+|:---|:---|:---|:---|
+| [cloud-comms-mail](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-mail) | public | — | yesterday |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
+| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
+
+</details>
+
+<details>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-matrix.yml"><b>Ship → Cloud Matrix (materialize + build + publish to GHCR)</b></a> &nbsp;<sub>4 packages · —</sub></summary>
+
+| Package | Visibility | Size | Updated |
+|:---|:---|:---|:---|
+| [cloud-comms-matrix](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-matrix) | public | — | yesterday |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
+| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
+
+</details>
+
+<details>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-media-center.yml"><b>Ship → Cloud Media Center APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>4 packages · —</sub></summary>
+
+| Package | Visibility | Size | Updated |
+|:---|:---|:---|:---|
+| [cloud-media-center](https://github.com/users/diegonmarcos/packages/container/package/cloud-media-center) | public | — | yesterday |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
 
 </details>
@@ -160,10 +274,72 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-nav](https://github.com/users/diegonmarcos/packages/container/package/cloud-nav) | public | — | today |
+| [cloud-nav](https://github.com/users/diegonmarcos/packages/container/package/cloud-nav) | public | — | yesterday |
 | [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
+
+</details>
+
+<details>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-news.yml"><b>Ship → Cloud News APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>2 packages · —</sub></summary>
+
+| Package | Visibility | Size | Updated |
+|:---|:---|:---|:---|
+| [cloud-news](https://github.com/users/diegonmarcos/packages/container/package/cloud-news) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
+
+</details>
+
+<details>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-superapp.yml"><b>Ship → Cloud SuperApp APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
+
+| Package | Visibility | Size | Updated |
+|:---|:---|:---|:---|
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
+| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
+
+</details>
+
+<details>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-unix-termux-boot.yml"><b>Ship → Cloud Unix Termux Boot APK (build + sign with the shared constellation key)</b></a> &nbsp;<sub>2 packages · —</sub></summary>
+
+| Package | Visibility | Size | Updated |
+|:---|:---|:---|:---|
+| [cloud-unix-termux-boot](https://github.com/users/diegonmarcos/packages/container/package/cloud-unix-termux-boot) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
+
+</details>
+
+<details>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-vault.yml"><b>Ship → Cloud Vault APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
+
+| Package | Visibility | Size | Updated |
+|:---|:---|:---|:---|
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
+| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
+
+</details>
+
+<details>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-wallet.yml"><b>Ship → Cloud Wallet APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>2 packages · —</sub></summary>
+
+| Package | Visibility | Size | Updated |
+|:---|:---|:---|:---|
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | yesterday |
+| [cloud-wallet](https://github.com/users/diegonmarcos/packages/container/package/cloud-wallet) | public | — | yesterday |
+
+</details>
+
+<details>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-containers.yml"><b>Ship → Container images</b></a> &nbsp;<sub>2 packages · 2.38 GB</sub></summary>
+
+| Package | Visibility | Size | Updated |
+|:---|:---|:---|:---|
+| [cloud-builder-x](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x) | private | — | 24 days ago |
+| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | 2.38 GB | 3 days ago |
 
 </details>
 
@@ -178,40 +354,11 @@
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_nix-flakes_termux.yaml"><b>Ship → Termux nix-on-droid closure (build on arm64, never OOM the phone)</b></a> &nbsp;<sub>1 package · 2.19 GB</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-kali-linux.yml"><b>Ship → kali-linux (GHCR public)</b></a> &nbsp;<sub>1 package · 14.20 GB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [unix-termux-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-termux-cache) | public | 2.19 GB | 27 days ago |
-
-</details>
-
-<details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_nix-flakes_desktop_hm.yaml"><b>Ship → Desktop home-manager closure (build remotely, never freeze the laptop)</b></a> &nbsp;<sub>1 package · 8.97 GB</sub></summary>
-
-| Package | Visibility | Size | Updated |
-|:---|:---|:---|:---|
-| [unix-hm-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-hm-cache) | public | 8.97 GB | yesterday |
-
-</details>
-
-<details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_nix-flakes_desktop_nixos.yaml"><b>Ship → Desktop NixOS closure (build remotely, never freeze the laptop)</b></a> &nbsp;<sub>3 packages · 7.10 GB</sub></summary>
-
-| Package | Visibility | Size | Updated |
-|:---|:---|:---|:---|
-| [ntfy](https://github.com/users/diegonmarcos/packages/container/package/ntfy) | public | 32.9 MB | 27 days ago |
-| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | — | today |
-| [unix-system-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-system-cache) | public | 7.06 GB | 1 month ago |
-
-</details>
-
-<details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_qutebrowser_standalone.yaml"><b>Ship → qutebrowser standalone config release (decoupled from desktop HM closure)</b></a> &nbsp;<sub>1 package · —</sub></summary>
-
-| Package | Visibility | Size | Updated |
-|:---|:---|:---|:---|
-| [qutebrowser-standalone](https://github.com/users/diegonmarcos/packages/container/package/qutebrowser-standalone) | public | — | 2 days ago |
+| [kali-linux](https://github.com/users/diegonmarcos/packages/container/package/kali-linux) | public | 14.20 GB | 3 months ago |
 
 </details>
 
@@ -220,8 +367,8 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | — | today |
-| [unix-my-konsole-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-my-konsole-boot-cache) | public | — | 2 days ago |
+| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | — | yesterday |
+| [unix-my-konsole-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-my-konsole-boot-cache) | public | — | 3 days ago |
 
 </details>
 
@@ -230,50 +377,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [waydroid-container](https://github.com/users/diegonmarcos/packages/container/package/waydroid-container) | public | — | today |
-
-</details>
-
-<details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-browser.yml"><b>Ship → Cloud Browser APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>2 packages · —</sub></summary>
-
-| Package | Visibility | Size | Updated |
-|:---|:---|:---|:---|
-| [cloud-browser](https://github.com/users/diegonmarcos/packages/container/package/cloud-browser) | public | — | today |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
-
-</details>
-
-<details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-vault.yml"><b>Ship → Cloud Vault APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>3 packages · —</sub></summary>
-
-| Package | Visibility | Size | Updated |
-|:---|:---|:---|:---|
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
-| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
-
-</details>
-
-<details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-wallet.yml"><b>Ship → Cloud Wallet APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>2 packages · —</sub></summary>
-
-| Package | Visibility | Size | Updated |
-|:---|:---|:---|:---|
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
-| [cloud-wallet](https://github.com/users/diegonmarcos/packages/container/package/cloud-wallet) | public | — | today |
-
-</details>
-
-<details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-keyboard.yml"><b>Ship → Cloud Keyboard APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>4 packages · —</sub></summary>
-
-| Package | Visibility | Size | Updated |
-|:---|:---|:---|:---|
-| [cloud-keyboard](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard) | public | — | today |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
-| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
+| [waydroid-container](https://github.com/users/diegonmarcos/packages/container/package/waydroid-container) | public | — | yesterday |
 
 </details>
 
@@ -282,123 +386,45 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [my-browser-rust-chromium](https://github.com/users/diegonmarcos/packages/container/package/my-browser-rust-chromium) | public | — | 8 days ago |
+| [my-browser-rust-chromium](https://github.com/users/diegonmarcos/packages/container/package/my-browser-rust-chromium) | public | — | 9 days ago |
 
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-chat.yml"><b>Ship → Cloud Chat (materialize + build + publish to GHCR)</b></a> &nbsp;<sub>4 packages · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_nix-flakes_desktop_hm.yaml"><b>Ship → Desktop home-manager closure (build remotely, never freeze the laptop)</b></a> &nbsp;<sub>1 package · 8.97 GB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-comms-chat](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-chat) | public | — | today |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
-| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
+| [unix-hm-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-hm-cache) | public | 8.97 GB | today |
 
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-dialer.yml"><b>Ship → Cloud Dialer (materialize + build + publish to GHCR)</b></a> &nbsp;<sub>4 packages · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_nix-flakes_desktop_nixos.yaml"><b>Ship → Desktop NixOS closure (build remotely, never freeze the laptop)</b></a> &nbsp;<sub>3 packages · 7.10 GB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-comms-dialer](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-dialer) | public | — | today |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
-| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
+| [ntfy](https://github.com/users/diegonmarcos/packages/container/package/ntfy) | public | 32.9 MB | 28 days ago |
+| [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | — | yesterday |
+| [unix-system-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-system-cache) | public | 7.06 GB | 1 month ago |
 
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-mail.yml"><b>Ship → Cloud Mail (materialize + build + publish to GHCR)</b></a> &nbsp;<sub>4 packages · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_nix-flakes_termux.yaml"><b>Ship → Termux nix-on-droid closure (build on arm64, never OOM the phone)</b></a> &nbsp;<sub>1 package · 2.19 GB</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-comms-mail](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-mail) | public | — | today |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
-| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
+| [unix-termux-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-termux-cache) | public | 2.19 GB | 28 days ago |
 
 </details>
 
 <details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-matrix.yml"><b>Ship → Cloud Matrix (materialize + build + publish to GHCR)</b></a> &nbsp;<sub>4 packages · —</sub></summary>
+<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_qutebrowser_standalone.yaml"><b>Ship → qutebrowser standalone config release (decoupled from desktop HM closure)</b></a> &nbsp;<sub>1 package · —</sub></summary>
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-comms-matrix](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-matrix) | public | — | today |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
-| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
-
-</details>
-
-<details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-keyboard-libs.yml"><b>Ship → Cloud Keyboard Libs APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>5 packages · —</sub></summary>
-
-| Package | Visibility | Size | Updated |
-|:---|:---|:---|:---|
-| [cloud-keyboard](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard) | public | — | today |
-| [cloud-keyboard-libs](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard-libs) | public | — | today |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
-| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
-
-</details>
-
-<details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-media-center.yml"><b>Ship → Cloud Media Center APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>4 packages · —</sub></summary>
-
-| Package | Visibility | Size | Updated |
-|:---|:---|:---|:---|
-| [cloud-media-center](https://github.com/users/diegonmarcos/packages/container/package/cloud-media-center) | public | — | today |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
-| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
-
-</details>
-
-<details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-calendar.yml"><b>Ship → Cloud Calendar APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>2 packages · —</sub></summary>
-
-| Package | Visibility | Size | Updated |
-|:---|:---|:---|:---|
-| [cloud-calendar](https://github.com/users/diegonmarcos/packages/container/package/cloud-calendar) | public | — | today |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
-
-</details>
-
-<details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-news.yml"><b>Ship → Cloud News APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>2 packages · —</sub></summary>
-
-| Package | Visibility | Size | Updated |
-|:---|:---|:---|:---|
-| [cloud-news](https://github.com/users/diegonmarcos/packages/container/package/cloud-news) | public | — | today |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
-
-</details>
-
-<details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-contacts.yml"><b>Ship → Cloud Contacts APK (build + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>2 packages · —</sub></summary>
-
-| Package | Visibility | Size | Updated |
-|:---|:---|:---|:---|
-| [cloud-contacts](https://github.com/users/diegonmarcos/packages/container/package/cloud-contacts) | public | — | today |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
-
-</details>
-
-<details>
-<summary>⚙️ <a href="https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-libs.yml"><b>Ship → Cloud Libs APKs (one APK per library module + push to GHCR via ORAS + attach to GH Release)</b></a> &nbsp;<sub>5 packages · —</sub></summary>
-
-| Package | Visibility | Size | Updated |
-|:---|:---|:---|:---|
-| [cloud-keyboard](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard) | public | — | today |
-| [cloud-keyboard-libs](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard-libs) | public | — | today |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
-| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 2 months ago |
+| [qutebrowser-standalone](https://github.com/users/diegonmarcos/packages/container/package/qutebrowser-standalone) | public | — | 3 days ago |
 
 </details>
 
@@ -411,13 +437,13 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [redis](https://github.com/users/diegonmarcos/packages/container/package/redis) | public | 35.9 MB | 22 days ago |
+| [redis](https://github.com/users/diegonmarcos/packages/container/package/redis) | public | 35.9 MB | 23 days ago |
 
 </details>
 
 ---
 
-### 🚫 No GHA workflow <sup>297</sup>
+### 🚫 No GHA workflow <sup>302</sup>
 
 | Package | Visibility | Size | Source Repo |
 |:---|:---|:---|:---|
@@ -481,7 +507,9 @@
 | [cloud-lib-apptabs](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-apptabs) | public | — | cloud-unix |
 | [cloud-lib-battery](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-battery) | public | — | cloud-unix |
 | [cloud-lib-browser](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-browser) | public | — | cloud-unix |
+| [cloud-lib-cal](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-cal) | public | — | cloud-unix |
 | [cloud-lib-chat](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-chat) | public | — | cloud-unix |
+| [cloud-lib-contacts](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-contacts) | public | — | cloud-unix |
 | [cloud-lib-core](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-core) | public | — | cloud-unix |
 | [cloud-lib-datamanager](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-datamanager) | public | — | cloud-unix |
 | [cloud-lib-devtools](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-devtools) | public | — | cloud-unix |
@@ -491,8 +519,11 @@
 | [cloud-lib-health](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-health) | public | — | cloud-unix |
 | [cloud-lib-kde-connect](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-kde-connect) | public | — | cloud-unix |
 | [cloud-lib-mail](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-mail) | public | — | cloud-unix |
+| [cloud-lib-maps](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-maps) | public | — | cloud-unix |
 | [cloud-lib-media](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-media) | public | — | cloud-unix |
 | [cloud-lib-net](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-net) | public | — | cloud-unix |
+| [cloud-lib-net-wg](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-net-wg) | public | — | cloud-unix |
+| [cloud-lib-news](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-news) | public | — | cloud-unix |
 | [cloud-lib-onehand](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-onehand) | public | — | cloud-unix |
 | [cloud-lib-ops](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ops) | public | — | cloud-unix |
 | [cloud-lib-shizuku-adb-debug-tools](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-shizuku-adb-debug-tools) | public | — | cloud-unix |
@@ -501,6 +532,7 @@
 | [cloud-lib-updater](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-updater) | public | — | cloud-unix |
 | [cloud-lib-voice](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-voice) | public | — | cloud-unix |
 | [cloud-lib-voice-vosk](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-voice-vosk) | public | — | cloud-unix |
+| [cloud-lib-wallet](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-wallet) | public | — | cloud-unix |
 | [cloud-lib-zoomies](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-zoomies) | public | — | cloud-unix |
 | [cloud-spec](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec) | public | 1.9 MB | cloud-infra |
 | [cloud-spec-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec-configs) | public | 3.2 MB | cloud-infra |
@@ -524,7 +556,6 @@
 | [cypht-binaries](https://github.com/users/diegonmarcos/packages/container/package/cypht-binaries) | public | 291.8 MB | cloud-infra |
 | [cypht-binaries-binaries](https://github.com/users/diegonmarcos/packages/container/package/cypht-binaries-binaries) | public | 291.8 MB | cloud-infra |
 | [cypht-configs](https://github.com/users/diegonmarcos/packages/container/package/cypht-configs) | public | 2.2 MB | cloud-infra |
-| [dagu](https://github.com/users/diegonmarcos/packages/container/package/dagu) | public | 67.7 MB | cloud-infra |
 | [dagu-binaries](https://github.com/users/diegonmarcos/packages/container/package/dagu-binaries) | public | 67.7 MB | cloud-infra |
 | [dagu-configs](https://github.com/users/diegonmarcos/packages/container/package/dagu-configs) | public | 1.9 MB | cloud-infra |
 | [dbgate](https://github.com/users/diegonmarcos/packages/container/package/dbgate) | public | 141.2 MB | cloud-infra |
@@ -721,4 +752,4 @@
 
 ---
 
-<sub>Auto-generated from GHCR API · <code>ghrc/src/fetch.ts</code> + <code>ghrc/src/generate-md.ts</code> · Aug 21, 2026</sub>
+<sub>Auto-generated from GHCR API · <code>ghrc/src/fetch.ts</code> + <code>ghrc/src/generate-md.ts</code> · Aug 22, 2026</sub>
