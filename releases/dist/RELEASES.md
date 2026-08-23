@@ -3,7 +3,7 @@
   <a href="releases-byrepo.md"><img src="https://img.shields.io/badge/%F0%9F%93%81%20By%20Repo-30363d?style=for-the-badge" alt="By Repo" height="28"></a>
 </p>
 
-<p align="center"><sub><b>131</b> releases · <b>1,382</b> downloads</sub></p>
+<p align="center"><sub><b>133</b> releases · <b>1,409</b> downloads</sub></p>
 
 ```
         ╔══════════════════════════════════════════════════╗
@@ -25,14 +25,14 @@
 
 ---
 
-### 📁 <a href="https://github.com/diegonmarcos/cloud-mykonsole-dtk/releases">cloud-mykonsole-dtk</a> &nbsp;<sup>1 release · 415 downloads</sup>
+### 📁 <a href="https://github.com/diegonmarcos/cloud-mykonsole-dtk/releases">cloud-mykonsole-dtk</a> &nbsp;<sup>1 release · 429 downloads</sup>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-mykonsole-dtk/releases/tag/octocode-v0.12.2-fastembed"><b>octocode 0.12.2 (fastembed+huggingface+graphrag)</b></a> &nbsp;<code>octocode-v0.12.2-fastembed</code> &nbsp;<sub>Published 4 months ago · 1 asset · 415 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-mykonsole-dtk/releases/tag/octocode-v0.12.2-fastembed"><b>octocode 0.12.2 (fastembed+huggingface+graphrag)</b></a> &nbsp;<code>octocode-v0.12.2-fastembed</code> &nbsp;<sub>Published 4 months ago · 1 asset · 429 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`octocode-0.12.2-fastembed-x86_64`](https://github.com/diegonmarcos/cloud-mykonsole-dtk/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64) | 129.0 MB | 415 | Mar 26, 2026 |
+| [`octocode-0.12.2-fastembed-x86_64`](https://github.com/diegonmarcos/cloud-mykonsole-dtk/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64) | 129.0 MB | 429 | Mar 26, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/cloud-mykonsole-dtk/archive/refs/tags/octocode-v0.12.2-fastembed.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-mykonsole-dtk/archive/refs/tags/octocode-v0.12.2-fastembed.tar.gz)</sub>
 
@@ -40,10 +40,32 @@
 
 ---
 
-### 📁 <a href="https://github.com/diegonmarcos/cloud-unix/releases">cloud-unix</a> &nbsp;<sup>129 releases · 965 downloads</sup>
+### 📁 <a href="https://github.com/diegonmarcos/cloud-unix/releases">cloud-unix</a> &nbsp;<sup>131 releases · 978 downloads</sup>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260820.193524"><b>Cloud Matrix · 20260820.193524</b></a> &nbsp;<code>cloud-comms-matrix-20260820.193524</code> &nbsp;<sub>Published yesterday · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260822.100753"><b>Cloud Mail · 20260822.100753</b></a> &nbsp;<code>cloud-comms-mail-20260822.100753</code> &nbsp;<sub>Published today · 1 asset</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/cloud-comms-mail-20260822.100753/cloud-comms-mail.apk) | 27.9 MB | 0 | Aug 22, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-unix/archive/refs/tags/cloud-comms-mail-20260822.100753.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-unix/archive/refs/tags/cloud-comms-mail-20260822.100753.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-dialer-20260822.100754"><b>Cloud Dialer · 20260822.100754</b></a> &nbsp;<code>cloud-comms-dialer-20260822.100754</code> &nbsp;<sub>Published today · 1 asset</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/cloud-comms-dialer-20260822.100754/cloud-comms-dialer.apk) | 9.1 MB | 0 | Aug 22, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-unix/archive/refs/tags/cloud-comms-dialer-20260822.100754.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-unix/archive/refs/tags/cloud-comms-dialer-20260822.100754.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260820.193524"><b>Cloud Matrix · 20260820.193524</b></a> &nbsp;<code>cloud-comms-matrix-20260820.193524</code> &nbsp;<sub>Published 2 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -54,7 +76,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260820.180902"><b>Cloud Matrix · 20260820.180902</b></a> &nbsp;<code>cloud-comms-matrix-20260820.180902</code> &nbsp;<sub>Published yesterday · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260820.180902"><b>Cloud Matrix · 20260820.180902</b></a> &nbsp;<code>cloud-comms-matrix-20260820.180902</code> &nbsp;<sub>Published 2 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -65,7 +87,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260820.202112"><b>Cloud Mail · 20260820.202112</b></a> &nbsp;<code>cloud-comms-mail-20260820.202112</code> &nbsp;<sub>Published yesterday · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260820.202112"><b>Cloud Mail · 20260820.202112</b></a> &nbsp;<code>cloud-comms-mail-20260820.202112</code> &nbsp;<sub>Published 2 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -76,7 +98,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260820.180856"><b>Cloud Mail · 20260820.180856</b></a> &nbsp;<code>cloud-comms-mail-20260820.180856</code> &nbsp;<sub>Published yesterday · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260820.180856"><b>Cloud Mail · 20260820.180856</b></a> &nbsp;<code>cloud-comms-mail-20260820.180856</code> &nbsp;<sub>Published 2 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -87,7 +109,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-dialer-20260820.202105"><b>Cloud Dialer · 20260820.202105</b></a> &nbsp;<code>cloud-comms-dialer-20260820.202105</code> &nbsp;<sub>Published yesterday · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-dialer-20260820.202105"><b>Cloud Dialer · 20260820.202105</b></a> &nbsp;<code>cloud-comms-dialer-20260820.202105</code> &nbsp;<sub>Published 2 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -98,7 +120,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-dialer-20260820.180855"><b>Cloud Dialer · 20260820.180855</b></a> &nbsp;<code>cloud-comms-dialer-20260820.180855</code> &nbsp;<sub>Published yesterday · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-dialer-20260820.180855"><b>Cloud Dialer · 20260820.180855</b></a> &nbsp;<code>cloud-comms-dialer-20260820.180855</code> &nbsp;<sub>Published 2 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -109,7 +131,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260820.193548"><b>Cloud Chat · 20260820.193548</b></a> &nbsp;<code>cloud-comms-chat-20260820.193548</code> &nbsp;<sub>Published yesterday · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260820.193548"><b>Cloud Chat · 20260820.193548</b></a> &nbsp;<code>cloud-comms-chat-20260820.193548</code> &nbsp;<sub>Published 2 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -120,7 +142,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260819.092833"><b>Cloud Mail · 20260819.092833</b></a> &nbsp;<code>cloud-comms-mail-20260819.092833</code> &nbsp;<sub>Published 2 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260819.092833"><b>Cloud Mail · 20260819.092833</b></a> &nbsp;<code>cloud-comms-mail-20260819.092833</code> &nbsp;<sub>Published 3 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -131,7 +153,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-dialer-20260819.094731"><b>Cloud Dialer · 20260819.094731</b></a> &nbsp;<code>cloud-comms-dialer-20260819.094731</code> &nbsp;<sub>Published 2 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-dialer-20260819.094731"><b>Cloud Dialer · 20260819.094731</b></a> &nbsp;<code>cloud-comms-dialer-20260819.094731</code> &nbsp;<sub>Published 3 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -142,19 +164,19 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/my-webserver-latest"><b>my-webserver (rolling)</b></a> &nbsp;<code>my-webserver-latest</code> &nbsp;<sub>Published 3 days ago · 2 assets · 42 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/my-webserver-latest"><b>my-webserver (rolling)</b></a> &nbsp;<code>my-webserver-latest</code> &nbsp;<sub>Published 4 days ago · 2 assets · 47 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
+| [`my-webserver-x86_64`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-webserver-latest/my-webserver-x86_64) | 119.3 MB | 25 | Aug 18, 2026 |
 | [`my-webserver-aarch64`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-webserver-latest/my-webserver-aarch64) | 116.7 MB | 22 | Aug 18, 2026 |
-| [`my-webserver-x86_64`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-webserver-latest/my-webserver-x86_64) | 119.3 MB | 20 | Aug 18, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/cloud-unix/archive/refs/tags/my-webserver-latest.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-unix/archive/refs/tags/my-webserver-latest.tar.gz)</sub>
 
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/my-konsole-iso-latest"><b>my-konsole rescue ISO (rolling)</b></a> &nbsp;<code>my-konsole-iso-latest</code> &nbsp;<sub>Published 3 days ago · 3 assets</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/my-konsole-iso-latest"><b>my-konsole rescue ISO (rolling)</b></a> &nbsp;<code>my-konsole-iso-latest</code> &nbsp;<sub>Published 4 days ago · 3 assets</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -167,7 +189,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260818.120743"><b>Cloud Matrix · 20260818.120743</b></a> &nbsp;<code>cloud-comms-matrix-20260818.120743</code> &nbsp;<sub>Published 3 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260818.120743"><b>Cloud Matrix · 20260818.120743</b></a> &nbsp;<code>cloud-comms-matrix-20260818.120743</code> &nbsp;<sub>Published 4 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -178,7 +200,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260818.120421"><b>Cloud Matrix · 20260818.120421</b></a> &nbsp;<code>cloud-comms-matrix-20260818.120421</code> &nbsp;<sub>Published 3 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260818.120421"><b>Cloud Matrix · 20260818.120421</b></a> &nbsp;<code>cloud-comms-matrix-20260818.120421</code> &nbsp;<sub>Published 4 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -189,7 +211,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260818.114736"><b>Cloud Matrix · 20260818.114736</b></a> &nbsp;<code>cloud-comms-matrix-20260818.114736</code> &nbsp;<sub>Published 3 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260818.114736"><b>Cloud Matrix · 20260818.114736</b></a> &nbsp;<code>cloud-comms-matrix-20260818.114736</code> &nbsp;<sub>Published 4 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -200,7 +222,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260818.171059"><b>Cloud Mail · 20260818.171059</b></a> &nbsp;<code>cloud-comms-mail-20260818.171059</code> &nbsp;<sub>Published 3 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260818.171059"><b>Cloud Mail · 20260818.171059</b></a> &nbsp;<code>cloud-comms-mail-20260818.171059</code> &nbsp;<sub>Published 4 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -211,7 +233,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260818.140155"><b>Cloud Mail · 20260818.140155</b></a> &nbsp;<code>cloud-comms-mail-20260818.140155</code> &nbsp;<sub>Published 3 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260818.140155"><b>Cloud Mail · 20260818.140155</b></a> &nbsp;<code>cloud-comms-mail-20260818.140155</code> &nbsp;<sub>Published 4 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -222,7 +244,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260818.120759"><b>Cloud Mail · 20260818.120759</b></a> &nbsp;<code>cloud-comms-mail-20260818.120759</code> &nbsp;<sub>Published 3 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260818.120759"><b>Cloud Mail · 20260818.120759</b></a> &nbsp;<code>cloud-comms-mail-20260818.120759</code> &nbsp;<sub>Published 4 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -233,7 +255,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260818.120459"><b>Cloud Mail · 20260818.120459</b></a> &nbsp;<code>cloud-comms-mail-20260818.120459</code> &nbsp;<sub>Published 3 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260818.120459"><b>Cloud Mail · 20260818.120459</b></a> &nbsp;<code>cloud-comms-mail-20260818.120459</code> &nbsp;<sub>Published 4 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -244,7 +266,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260818.114756"><b>Cloud Mail · 20260818.114756</b></a> &nbsp;<code>cloud-comms-mail-20260818.114756</code> &nbsp;<sub>Published 3 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260818.114756"><b>Cloud Mail · 20260818.114756</b></a> &nbsp;<code>cloud-comms-mail-20260818.114756</code> &nbsp;<sub>Published 4 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -255,7 +277,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260818.104629"><b>Cloud Mail · 20260818.104629</b></a> &nbsp;<code>cloud-comms-mail-20260818.104629</code> &nbsp;<sub>Published 3 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260818.104629"><b>Cloud Mail · 20260818.104629</b></a> &nbsp;<code>cloud-comms-mail-20260818.104629</code> &nbsp;<sub>Published 4 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -266,7 +288,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-dialer-20260818.140137"><b>Cloud Dialer · 20260818.140137</b></a> &nbsp;<code>cloud-comms-dialer-20260818.140137</code> &nbsp;<sub>Published 3 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-dialer-20260818.140137"><b>Cloud Dialer · 20260818.140137</b></a> &nbsp;<code>cloud-comms-dialer-20260818.140137</code> &nbsp;<sub>Published 4 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -277,7 +299,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-contacts-20260818.135059"><b>Cloud Contacts · 20260818.135059</b></a> &nbsp;<code>cloud-comms-contacts-20260818.135059</code> &nbsp;<sub>Published 3 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-contacts-20260818.135059"><b>Cloud Contacts · 20260818.135059</b></a> &nbsp;<code>cloud-comms-contacts-20260818.135059</code> &nbsp;<sub>Published 4 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -288,7 +310,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260818.120848"><b>Cloud Chat · 20260818.120848</b></a> &nbsp;<code>cloud-comms-chat-20260818.120848</code> &nbsp;<sub>Published 3 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260818.120848"><b>Cloud Chat · 20260818.120848</b></a> &nbsp;<code>cloud-comms-chat-20260818.120848</code> &nbsp;<sub>Published 4 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -299,7 +321,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260818.120444"><b>Cloud Chat · 20260818.120444</b></a> &nbsp;<code>cloud-comms-chat-20260818.120444</code> &nbsp;<sub>Published 3 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260818.120444"><b>Cloud Chat · 20260818.120444</b></a> &nbsp;<code>cloud-comms-chat-20260818.120444</code> &nbsp;<sub>Published 4 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -310,7 +332,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260818.114804"><b>Cloud Chat · 20260818.114804</b></a> &nbsp;<code>cloud-comms-chat-20260818.114804</code> &nbsp;<sub>Published 3 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260818.114804"><b>Cloud Chat · 20260818.114804</b></a> &nbsp;<code>cloud-comms-chat-20260818.114804</code> &nbsp;<sub>Published 4 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -321,7 +343,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260812.102532"><b>Cloud Matrix · 20260812.102532</b></a> &nbsp;<code>cloud-comms-matrix-20260812.102532</code> &nbsp;<sub>Published 9 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260812.102532"><b>Cloud Matrix · 20260812.102532</b></a> &nbsp;<code>cloud-comms-matrix-20260812.102532</code> &nbsp;<sub>Published 10 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -332,7 +354,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260812.102526"><b>Cloud Mail · 20260812.102526</b></a> &nbsp;<code>cloud-comms-mail-20260812.102526</code> &nbsp;<sub>Published 9 days ago · 1 asset · 23 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260812.102526"><b>Cloud Mail · 20260812.102526</b></a> &nbsp;<code>cloud-comms-mail-20260812.102526</code> &nbsp;<sub>Published 10 days ago · 1 asset · 23 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -343,7 +365,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260812.102540"><b>Cloud Chat · 20260812.102540</b></a> &nbsp;<code>cloud-comms-chat-20260812.102540</code> &nbsp;<sub>Published 9 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260812.102540"><b>Cloud Chat · 20260812.102540</b></a> &nbsp;<code>cloud-comms-chat-20260812.102540</code> &nbsp;<sub>Published 10 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -354,7 +376,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260810.144524"><b>Cloud Matrix · 20260810.144524</b></a> &nbsp;<code>cloud-comms-matrix-20260810.144524</code> &nbsp;<sub>Published 11 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260810.144524"><b>Cloud Matrix · 20260810.144524</b></a> &nbsp;<code>cloud-comms-matrix-20260810.144524</code> &nbsp;<sub>Published 12 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -365,7 +387,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260810.144558"><b>Cloud Mail · 20260810.144558</b></a> &nbsp;<code>cloud-comms-mail-20260810.144558</code> &nbsp;<sub>Published 11 days ago · 1 asset · 6 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260810.144558"><b>Cloud Mail · 20260810.144558</b></a> &nbsp;<code>cloud-comms-mail-20260810.144558</code> &nbsp;<sub>Published 12 days ago · 1 asset · 6 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -376,7 +398,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260810.144604"><b>Cloud Chat · 20260810.144604</b></a> &nbsp;<code>cloud-comms-chat-20260810.144604</code> &nbsp;<sub>Published 11 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260810.144604"><b>Cloud Chat · 20260810.144604</b></a> &nbsp;<code>cloud-comms-chat-20260810.144604</code> &nbsp;<sub>Published 12 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -387,7 +409,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/httpd-web-server-json-md-eruda-latest"><b>httpd-web-server-json-md-eruda (rolling)</b></a> &nbsp;<code>httpd-web-server-json-md-eruda-latest</code> &nbsp;<sub>Published 14 days ago · 2 assets · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/httpd-web-server-json-md-eruda-latest"><b>httpd-web-server-json-md-eruda (rolling)</b></a> &nbsp;<code>httpd-web-server-json-md-eruda-latest</code> &nbsp;<sub>Published 15 days ago · 2 assets · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -399,7 +421,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260730.123456"><b>Cloud Matrix · 20260730.123456</b></a> &nbsp;<code>cloud-comms-matrix-20260730.123456</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260730.123456"><b>Cloud Matrix · 20260730.123456</b></a> &nbsp;<code>cloud-comms-matrix-20260730.123456</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -410,7 +432,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260730.122147"><b>Cloud Matrix · 20260730.122147</b></a> &nbsp;<code>cloud-comms-matrix-20260730.122147</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260730.122147"><b>Cloud Matrix · 20260730.122147</b></a> &nbsp;<code>cloud-comms-matrix-20260730.122147</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -421,7 +443,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260730.120411"><b>Cloud Matrix · 20260730.120411</b></a> &nbsp;<code>cloud-comms-matrix-20260730.120411</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260730.120411"><b>Cloud Matrix · 20260730.120411</b></a> &nbsp;<code>cloud-comms-matrix-20260730.120411</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -432,7 +454,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260730.114705"><b>Cloud Matrix · 20260730.114705</b></a> &nbsp;<code>cloud-comms-matrix-20260730.114705</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260730.114705"><b>Cloud Matrix · 20260730.114705</b></a> &nbsp;<code>cloud-comms-matrix-20260730.114705</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -443,7 +465,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260730.112718"><b>Cloud Matrix · 20260730.112718</b></a> &nbsp;<code>cloud-comms-matrix-20260730.112718</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260730.112718"><b>Cloud Matrix · 20260730.112718</b></a> &nbsp;<code>cloud-comms-matrix-20260730.112718</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -454,7 +476,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260730.092258"><b>Cloud Matrix · 20260730.092258</b></a> &nbsp;<code>cloud-comms-matrix-20260730.092258</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260730.092258"><b>Cloud Matrix · 20260730.092258</b></a> &nbsp;<code>cloud-comms-matrix-20260730.092258</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -465,7 +487,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260730.091443"><b>Cloud Matrix · 20260730.091443</b></a> &nbsp;<code>cloud-comms-matrix-20260730.091443</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260730.091443"><b>Cloud Matrix · 20260730.091443</b></a> &nbsp;<code>cloud-comms-matrix-20260730.091443</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -476,7 +498,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260730.123526"><b>Cloud Mail · 20260730.123526</b></a> &nbsp;<code>cloud-comms-mail-20260730.123526</code> &nbsp;<sub>Published 22 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260730.123526"><b>Cloud Mail · 20260730.123526</b></a> &nbsp;<code>cloud-comms-mail-20260730.123526</code> &nbsp;<sub>Published 23 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -487,7 +509,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260730.122207"><b>Cloud Mail · 20260730.122207</b></a> &nbsp;<code>cloud-comms-mail-20260730.122207</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260730.122207"><b>Cloud Mail · 20260730.122207</b></a> &nbsp;<code>cloud-comms-mail-20260730.122207</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -498,7 +520,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260730.120424"><b>Cloud Mail · 20260730.120424</b></a> &nbsp;<code>cloud-comms-mail-20260730.120424</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260730.120424"><b>Cloud Mail · 20260730.120424</b></a> &nbsp;<code>cloud-comms-mail-20260730.120424</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -509,7 +531,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260730.114717"><b>Cloud Mail · 20260730.114717</b></a> &nbsp;<code>cloud-comms-mail-20260730.114717</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260730.114717"><b>Cloud Mail · 20260730.114717</b></a> &nbsp;<code>cloud-comms-mail-20260730.114717</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -520,7 +542,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260730.112744"><b>Cloud Mail · 20260730.112744</b></a> &nbsp;<code>cloud-comms-mail-20260730.112744</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260730.112744"><b>Cloud Mail · 20260730.112744</b></a> &nbsp;<code>cloud-comms-mail-20260730.112744</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -531,7 +553,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260730.092303"><b>Cloud Mail · 20260730.092303</b></a> &nbsp;<code>cloud-comms-mail-20260730.092303</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260730.092303"><b>Cloud Mail · 20260730.092303</b></a> &nbsp;<code>cloud-comms-mail-20260730.092303</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -542,7 +564,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260730.091502"><b>Cloud Mail · 20260730.091502</b></a> &nbsp;<code>cloud-comms-mail-20260730.091502</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260730.091502"><b>Cloud Mail · 20260730.091502</b></a> &nbsp;<code>cloud-comms-mail-20260730.091502</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -553,7 +575,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260730.123543"><b>Cloud Chat · 20260730.123543</b></a> &nbsp;<code>cloud-comms-chat-20260730.123543</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260730.123543"><b>Cloud Chat · 20260730.123543</b></a> &nbsp;<code>cloud-comms-chat-20260730.123543</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -564,7 +586,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260730.122227"><b>Cloud Chat · 20260730.122227</b></a> &nbsp;<code>cloud-comms-chat-20260730.122227</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260730.122227"><b>Cloud Chat · 20260730.122227</b></a> &nbsp;<code>cloud-comms-chat-20260730.122227</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -575,7 +597,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260730.120451"><b>Cloud Chat · 20260730.120451</b></a> &nbsp;<code>cloud-comms-chat-20260730.120451</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260730.120451"><b>Cloud Chat · 20260730.120451</b></a> &nbsp;<code>cloud-comms-chat-20260730.120451</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -586,7 +608,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260730.114750"><b>Cloud Chat · 20260730.114750</b></a> &nbsp;<code>cloud-comms-chat-20260730.114750</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260730.114750"><b>Cloud Chat · 20260730.114750</b></a> &nbsp;<code>cloud-comms-chat-20260730.114750</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -597,7 +619,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260730.112749"><b>Cloud Chat · 20260730.112749</b></a> &nbsp;<code>cloud-comms-chat-20260730.112749</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260730.112749"><b>Cloud Chat · 20260730.112749</b></a> &nbsp;<code>cloud-comms-chat-20260730.112749</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -608,7 +630,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260730.092326"><b>Cloud Chat · 20260730.092326</b></a> &nbsp;<code>cloud-comms-chat-20260730.092326</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260730.092326"><b>Cloud Chat · 20260730.092326</b></a> &nbsp;<code>cloud-comms-chat-20260730.092326</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -619,7 +641,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260730.091518"><b>Cloud Chat · 20260730.091518</b></a> &nbsp;<code>cloud-comms-chat-20260730.091518</code> &nbsp;<sub>Published 22 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260730.091518"><b>Cloud Chat · 20260730.091518</b></a> &nbsp;<code>cloud-comms-chat-20260730.091518</code> &nbsp;<sub>Published 23 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -630,7 +652,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260727.080249"><b>Cloud Chat · 20260727.080249</b></a> &nbsp;<code>cloud-comms-chat-20260727.080249</code> &nbsp;<sub>Published 25 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260727.080249"><b>Cloud Chat · 20260727.080249</b></a> &nbsp;<code>cloud-comms-chat-20260727.080249</code> &nbsp;<sub>Published 26 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -641,7 +663,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260726.131512"><b>Cloud Matrix · 20260726.131512</b></a> &nbsp;<code>cloud-comms-matrix-20260726.131512</code> &nbsp;<sub>Published 26 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-matrix-20260726.131512"><b>Cloud Matrix · 20260726.131512</b></a> &nbsp;<code>cloud-comms-matrix-20260726.131512</code> &nbsp;<sub>Published 27 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -652,7 +674,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260726.131528"><b>Cloud Mail · 20260726.131528</b></a> &nbsp;<code>cloud-comms-mail-20260726.131528</code> &nbsp;<sub>Published 26 days ago · 1 asset · 11 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260726.131528"><b>Cloud Mail · 20260726.131528</b></a> &nbsp;<code>cloud-comms-mail-20260726.131528</code> &nbsp;<sub>Published 27 days ago · 1 asset · 11 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -663,7 +685,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260726.131545"><b>Cloud Chat · 20260726.131545</b></a> &nbsp;<code>cloud-comms-chat-20260726.131545</code> &nbsp;<sub>Published 26 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260726.131545"><b>Cloud Chat · 20260726.131545</b></a> &nbsp;<code>cloud-comms-chat-20260726.131545</code> &nbsp;<sub>Published 27 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -674,7 +696,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260725.130521"><b>Cloud Chat · 20260725.130521</b></a> &nbsp;<code>cloud-comms-chat-20260725.130521</code> &nbsp;<sub>Published 27 days ago · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-chat-20260725.130521"><b>Cloud Chat · 20260725.130521</b></a> &nbsp;<code>cloud-comms-chat-20260725.130521</code> &nbsp;<sub>Published 28 days ago · 1 asset</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -685,7 +707,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260723.215718"><b>Cloud Mail · 20260723.215718</b></a> &nbsp;<code>cloud-comms-mail-20260723.215718</code> &nbsp;<sub>Published 29 days ago · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260723.215718"><b>Cloud Mail · 20260723.215718</b></a> &nbsp;<code>cloud-comms-mail-20260723.215718</code> &nbsp;<sub>Published 1 month ago · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -696,7 +718,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260723.171333"><b>Cloud Mail · 20260723.171333</b></a> &nbsp;<code>cloud-comms-mail-20260723.171333</code> &nbsp;<sub>Published 29 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260723.171333"><b>Cloud Mail · 20260723.171333</b></a> &nbsp;<code>cloud-comms-mail-20260723.171333</code> &nbsp;<sub>Published 1 month ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -916,19 +938,19 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/my-ai-latest"><b>my-ai (rolling)</b></a> &nbsp;<code>my-ai-latest</code> &nbsp;<sub>Published 1 month ago · 9 assets · 40 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/my-ai-latest"><b>my-ai (rolling)</b></a> &nbsp;<code>my-ai-latest</code> &nbsp;<sub>Published 1 month ago · 9 assets · 6 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`my-ai-aarch64`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-ai-latest/my-ai-aarch64) | 8.5 MB | 18 | Aug 20, 2026 |
-| [`my-ai-dash-aarch64`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-ai-latest/my-ai-dash-aarch64) | 4.0 MB | 18 | Aug 20, 2026 |
+| [`my-ai-aarch64`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-ai-latest/my-ai-aarch64) | 8.4 MB | 1 | Aug 22, 2026 |
 | [`my-ai-dash`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-ai-latest/my-ai-dash) | 4.0 MB | 1 | Jul 16, 2026 |
-| [`my-ai-dash-x86_64`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-ai-latest/my-ai-dash-x86_64) | 4.1 MB | 1 | Aug 20, 2026 |
+| [`my-ai-dash-aarch64`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-ai-latest/my-ai-dash-aarch64) | 4.0 MB | 1 | Aug 22, 2026 |
+| [`my-ai-dash-x86_64`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-ai-latest/my-ai-dash-x86_64) | 4.1 MB | 1 | Aug 22, 2026 |
 | [`my-ai-gui`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-ai-latest/my-ai-gui) | 9.3 MB | 1 | Jul 16, 2026 |
-| [`my-ai-x86_64`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-ai-latest/my-ai-x86_64) | 8.5 MB | 1 | Aug 20, 2026 |
+| [`my-ai-x86_64`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-ai-latest/my-ai-x86_64) | 8.5 MB | 1 | Aug 22, 2026 |
 | [`my-ai`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-ai-latest/my-ai) | 3.5 MB | 0 | Jul 16, 2026 |
-| [`my-ai-gui-x86_64`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-ai-latest/my-ai-gui-x86_64) | 9.6 MB | 0 | Aug 20, 2026 |
-| [`my-ai-gui_0.1.0_amd64.deb`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-ai-latest/my-ai-gui_0.1.0_amd64.deb) | 3.2 MB | 0 | Aug 20, 2026 |
+| [`my-ai-gui-x86_64`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-ai-latest/my-ai-gui-x86_64) | 9.6 MB | 0 | Aug 22, 2026 |
+| [`my-ai-gui_0.1.0_amd64.deb`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-ai-latest/my-ai-gui_0.1.0_amd64.deb) | 3.2 MB | 0 | Aug 22, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/cloud-unix/archive/refs/tags/my-ai-latest.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-unix/archive/refs/tags/my-ai-latest.tar.gz)</sub>
 
@@ -1146,11 +1168,11 @@
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`agentic-ui-dist.tar.gz`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-konsole-latest/agentic-ui-dist.tar.gz) | 2.0 MB | 0 | Aug 21, 2026 |
-| [`my-konsole`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-konsole-latest/my-konsole) | 11.3 MB | 0 | Aug 21, 2026 |
-| [`my-konsole-dash`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-konsole-latest/my-konsole-dash) | 1.3 MB | 0 | Aug 21, 2026 |
-| [`my-konsole-engine-aarch64`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-konsole-latest/my-konsole-engine-aarch64) | 1.4 MB | 0 | Aug 21, 2026 |
-| [`my-konsole_0.1.0_amd64.deb`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-konsole-latest/my-konsole_0.1.0_amd64.deb) | 6.9 MB | 0 | Aug 21, 2026 |
+| [`agentic-ui-dist.tar.gz`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-konsole-latest/agentic-ui-dist.tar.gz) | 2.0 MB | 0 | Aug 22, 2026 |
+| [`my-konsole`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-konsole-latest/my-konsole) | 11.3 MB | 0 | Aug 22, 2026 |
+| [`my-konsole-dash`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-konsole-latest/my-konsole-dash) | 1.3 MB | 0 | Aug 22, 2026 |
+| [`my-konsole-engine-aarch64`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-konsole-latest/my-konsole-engine-aarch64) | 1.4 MB | 0 | Aug 22, 2026 |
+| [`my-konsole_0.1.0_amd64.deb`](https://github.com/diegonmarcos/cloud-unix/releases/download/my-konsole-latest/my-konsole_0.1.0_amd64.deb) | 6.9 MB | 0 | Aug 22, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/cloud-unix/archive/refs/tags/my-konsole-latest.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-unix/archive/refs/tags/my-konsole-latest.tar.gz)</sub>
 
@@ -1447,68 +1469,72 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/latest"><b>latest</b></a> &nbsp;<code>latest</code> &nbsp;<sub>Published 2 months ago · 58 assets · 5 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-unix/releases/tag/latest"><b>latest</b></a> &nbsp;<code>latest</code> &nbsp;<sub>Published 2 months ago · 62 assets · 47 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`Cloud-Comms-Hub.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Comms-Hub.apk) | 183.6 MB | 4 | Jul 21, 2026 |
+| [`Cloud-Comms-Hub.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Comms-Hub.apk) | 183.6 MB | 14 | Jul 21, 2026 |
+| [`Cloud-Keyboard.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Keyboard.apk) | 24.8 MB | 7 | Aug 20, 2026 |
+| [`cloud-comms-matrix.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/cloud-comms-matrix.apk) | 108.8 MB | 5 | Aug 20, 2026 |
+| [`cloud-media-center.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/cloud-media-center.apk) | 100.2 MB | 5 | Aug 20, 2026 |
+| [`cloud-comms-chat.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/cloud-comms-chat.apk) | 179.4 MB | 4 | Aug 20, 2026 |
+| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/cloud-comms-dialer.apk) | 9.1 MB | 4 | Aug 22, 2026 |
+| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/cloud-comms-mail.apk) | 27.9 MB | 4 | Aug 22, 2026 |
+| [`Cloud-IDE-Hub.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-IDE-Hub.apk) | 6.5 MB | 3 | Aug 22, 2026 |
 | [`Cloud-Unix-Termux-Boot.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Unix-Termux-Boot.apk) | 565 KB | 1 | Aug 21, 2026 |
-| [`Cloud-Browser-x86_64.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Browser-x86_64.apk) | 6.3 MB | 0 | Aug 20, 2026 |
-| [`Cloud-Browser.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Browser.apk) | 6.3 MB | 0 | Aug 20, 2026 |
-| [`Cloud-Calendar-x86_64.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Calendar-x86_64.apk) | 7.5 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Calendar.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Calendar.apk) | 7.5 MB | 0 | Aug 21, 2026 |
-| [`cloud-comms-chat.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/cloud-comms-chat.apk) | 179.4 MB | 0 | Aug 20, 2026 |
-| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/cloud-comms-dialer.apk) | 9.1 MB | 0 | Aug 20, 2026 |
-| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/cloud-comms-mail.apk) | 27.9 MB | 0 | Aug 20, 2026 |
-| [`cloud-comms-matrix.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/cloud-comms-matrix.apk) | 108.8 MB | 0 | Aug 20, 2026 |
-| [`Cloud-Contacts-x86_64.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Contacts-x86_64.apk) | 6.4 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Contacts.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Contacts.apk) | 6.4 MB | 0 | Aug 21, 2026 |
-| [`Cloud-IDE-Hub.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-IDE-Hub.apk) | 6.5 MB | 0 | Aug 20, 2026 |
-| [`Cloud-Keyboard-Libs.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Keyboard-Libs.apk) | 55.6 MB | 0 | Aug 20, 2026 |
-| [`Cloud-Keyboard.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Keyboard.apk) | 24.8 MB | 0 | Aug 20, 2026 |
-| [`Cloud-Lib-Apptabs.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Apptabs.apk) | 5.6 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Battery.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Battery.apk) | 8.8 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Browser.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Browser.apk) | 5.6 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Cal.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Cal.apk) | 2.1 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Chat.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Chat.apk) | 3.3 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Contacts.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Contacts.apk) | 2.1 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Core.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Core.apk) | 2.1 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Datamanager.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Datamanager.apk) | 3.2 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Devtools.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Devtools.apk) | 2.1 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Feed.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Feed.apk) | 2.1 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Fin.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Fin.apk) | 3.2 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Firewall.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Firewall.apk) | 2.4 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Health.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Health.apk) | 12.0 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Kde-Connect.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Kde-Connect.apk) | 9.3 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Mail.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Mail.apk) | 6.9 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Maps.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Maps.apk) | 24.9 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Media.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Media.apk) | 8.9 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Net-Wg.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Net-Wg.apk) | 10.5 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Net.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Net.apk) | 2.4 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-News.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-News.apk) | 2.2 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Onehand.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Onehand.apk) | 3.3 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Ops.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Ops.apk) | 3.3 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Shizuku-Adb-Debug-Tools.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Shizuku-Adb-Debug-Tools.apk) | 8.0 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Translate-Mlkit.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Translate-Mlkit.apk) | 21.0 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Translate.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Translate.apk) | 2.1 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Updater.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Updater.apk) | 3.0 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Voice-Vosk.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Voice-Vosk.apk) | 10.8 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Voice.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Voice.apk) | 2.1 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Wallet.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Wallet.apk) | 11.1 MB | 0 | Aug 21, 2026 |
-| [`Cloud-Lib-Zoomies.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Zoomies.apk) | 3.4 MB | 0 | Aug 21, 2026 |
-| [`cloud-media-center.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/cloud-media-center.apk) | 100.2 MB | 0 | Aug 20, 2026 |
-| [`Cloud-Nav-x86_64.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Nav-x86_64.apk) | 28.7 MB | 0 | Aug 20, 2026 |
-| [`Cloud-Nav.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Nav.apk) | 28.5 MB | 0 | Aug 20, 2026 |
-| [`Cloud-News-x86_64.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-News-x86_64.apk) | 6.4 MB | 0 | Aug 21, 2026 |
-| [`Cloud-News.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-News.apk) | 6.4 MB | 0 | Aug 21, 2026 |
-| [`Cloud-SuperApp-x86_64.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-SuperApp-x86_64.apk) | 12.2 MB | 0 | Aug 21, 2026 |
-| [`Cloud-SuperApp.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-SuperApp.apk) | 11.8 MB | 0 | Aug 21, 2026 |
+| [`Cloud-Browser-x86_64.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Browser-x86_64.apk) | 6.3 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Browser.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Browser.apk) | 6.3 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Calendar-x86_64.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Calendar-x86_64.apk) | 7.5 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Calendar.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Calendar.apk) | 7.5 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Contacts-x86_64.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Contacts-x86_64.apk) | 6.4 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Contacts.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Contacts.apk) | 6.4 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Keyboard-Libs.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Keyboard-Libs.apk) | 82.8 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Appstore.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Appstore.apk) | 11.5 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Apptabs.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Apptabs.apk) | 5.6 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Battery.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Battery.apk) | 11.3 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Browser.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Browser.apk) | 5.6 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Cal.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Cal.apk) | 2.1 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Chat.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Chat.apk) | 3.3 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Contacts.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Contacts.apk) | 2.1 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Core.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Core.apk) | 2.1 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Datamanager.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Datamanager.apk) | 3.2 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Devtools.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Devtools.apk) | 2.1 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Feed.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Feed.apk) | 2.1 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Fin.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Fin.apk) | 3.3 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Firewall.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Firewall.apk) | 2.4 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Health.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Health.apk) | 12.0 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Kde-Connect.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Kde-Connect.apk) | 9.4 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Launcher-Apptabs.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Launcher-Apptabs.apk) | 5.6 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Launcher-Onehand.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Launcher-Onehand.apk) | 3.3 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Launcher-Zoomies.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Launcher-Zoomies.apk) | 3.4 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Mail.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Mail.apk) | 7.0 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Maps.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Maps.apk) | 36.0 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Media.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Media.apk) | 8.9 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Net-Wg.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Net-Wg.apk) | 18.8 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Net.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Net.apk) | 2.4 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-News.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-News.apk) | 2.2 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Onehand.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Onehand.apk) | 3.3 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Ops.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Ops.apk) | 3.3 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Shizuku-Adb-Debug-Tools.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Shizuku-Adb-Debug-Tools.apk) | 10.5 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Translate-Mlkit.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Translate-Mlkit.apk) | 38.8 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Translate.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Translate.apk) | 2.1 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Updater.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Updater.apk) | 3.1 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Voice-Vosk.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Voice-Vosk.apk) | 20.2 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Voice.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Voice.apk) | 2.1 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Wallet.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Wallet.apk) | 11.1 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Lib-Zoomies.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Lib-Zoomies.apk) | 3.4 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Nav-x86_64.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Nav-x86_64.apk) | 28.7 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Nav.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Nav.apk) | 28.5 MB | 0 | Aug 22, 2026 |
+| [`Cloud-News-x86_64.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-News-x86_64.apk) | 6.5 MB | 0 | Aug 22, 2026 |
+| [`Cloud-News.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-News.apk) | 6.5 MB | 0 | Aug 22, 2026 |
+| [`Cloud-SuperApp-x86_64.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-SuperApp-x86_64.apk) | 12.2 MB | 0 | Aug 22, 2026 |
+| [`Cloud-SuperApp.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-SuperApp.apk) | 11.8 MB | 0 | Aug 22, 2026 |
 | [`cloud-terminal.tar.zst`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/cloud-terminal.tar.zst) | 5.0 MB | 0 | Jun 28, 2026 |
 | [`cloud-terminal.version`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/cloud-terminal.version) | 0 KB | 0 | Jun 28, 2026 |
-| [`Cloud-Vault-x86_64.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Vault-x86_64.apk) | 82.6 MB | 0 | Aug 20, 2026 |
-| [`Cloud-Vault.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Vault.apk) | 82.6 MB | 0 | Aug 20, 2026 |
-| [`Cloud-Wallet-x86_64.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Wallet-x86_64.apk) | 14.7 MB | 0 | Aug 20, 2026 |
-| [`Cloud-Wallet.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Wallet.apk) | 14.7 MB | 0 | Aug 20, 2026 |
+| [`Cloud-Vault-x86_64.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Vault-x86_64.apk) | 82.6 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Vault.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Vault.apk) | 82.6 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Wallet-x86_64.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Wallet-x86_64.apk) | 14.8 MB | 0 | Aug 22, 2026 |
+| [`Cloud-Wallet.apk`](https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Wallet.apk) | 14.8 MB | 0 | Aug 22, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/cloud-unix/archive/refs/tags/latest.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-unix/archive/refs/tags/latest.tar.gz)</sub>
 
@@ -1530,7 +1556,7 @@
 ### 📁 <a href="https://github.com/diegonmarcos/front-galaxy-gaia/releases">front-galaxy-gaia</a> &nbsp;<sup>1 release · 2 downloads</sup>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/front-galaxy-gaia/releases/tag/assets-src"><b>Source assets (licensed Synty packages)</b></a> &nbsp;<code>assets-src</code> &nbsp;<sub>Published 28 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/front-galaxy-gaia/releases/tag/assets-src"><b>Source assets (licensed Synty packages)</b></a> &nbsp;<code>assets-src</code> &nbsp;<sub>Published 29 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1542,4 +1568,4 @@
 
 ---
 
-<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Aug 22, 2026</sub>
+<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Aug 23, 2026</sub>
