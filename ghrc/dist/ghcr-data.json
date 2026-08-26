@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-08-25T07:16:24.405Z",
+  "fetched_at": "2026-08-26T07:18:08.529Z",
   "owner": "diegonmarcos",
-  "total_packages": 377,
+  "total_packages": 379,
   "repos": {
     "cloud-infra": {
       "repo_url": "https://github.com/diegonmarcos/cloud-infra",
@@ -36347,8 +36347,24 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cgc-db-base",
           "created_at": "2026-08-22T13:04:28Z",
-          "updated_at": "2026-08-22T13:04:28Z",
+          "updated_at": "2026-08-25T18:32:43Z",
           "versions": [
+            {
+              "id": 1171231884,
+              "tags": [
+                "0.22.0"
+              ],
+              "created_at": "2026-08-25T18:32:43Z",
+              "updated_at": "2026-08-25T18:32:43Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-base/1171231884"
+            },
+            {
+              "id": 1171230449,
+              "tags": [],
+              "created_at": "2026-08-25T18:32:18Z",
+              "updated_at": "2026-08-25T18:32:18Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-base/1171230449"
+            },
             {
               "id": 1160336734,
               "tags": [
@@ -36384,13 +36400,48 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-android",
           "created_at": "2026-08-22T16:19:11Z",
-          "updated_at": "2026-08-25T04:34:07Z",
+          "updated_at": "2026-08-26T04:35:10Z",
           "versions": [
             {
-              "id": 1168342530,
+              "id": 1172693979,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-26T04:35:09Z",
+              "updated_at": "2026-08-26T04:35:09Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-android/1172693979"
+            },
+            {
+              "id": 1172393865,
+              "tags": [],
+              "created_at": "2026-08-26T02:06:48Z",
+              "updated_at": "2026-08-26T02:06:48Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-android/1172393865"
+            },
+            {
+              "id": 1171227981,
+              "tags": [],
+              "created_at": "2026-08-25T18:31:28Z",
+              "updated_at": "2026-08-25T18:31:28Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-android/1171227981"
+            },
+            {
+              "id": 1170904434,
+              "tags": [],
+              "created_at": "2026-08-25T16:53:29Z",
+              "updated_at": "2026-08-25T16:53:29Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-android/1170904434"
+            },
+            {
+              "id": 1170825944,
+              "tags": [],
+              "created_at": "2026-08-25T16:30:29Z",
+              "updated_at": "2026-08-25T16:30:29Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-android/1170825944"
+            },
+            {
+              "id": 1168342530,
+              "tags": [],
               "created_at": "2026-08-25T04:34:07Z",
               "updated_at": "2026-08-25T04:34:07Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-android/1168342530"
@@ -36540,7 +36591,7 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 2799530,
+              "size_bytes": 97976926,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -36552,7 +36603,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-android"
               },
               "layers_count": 2,
-              "created": "2026-08-25T04:34:03.65249803Z"
+              "created": "2026-08-26T04:34:50.333915596Z"
             }
           ]
         },
@@ -36561,13 +36612,48 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-infra",
           "created_at": "2026-08-22T15:04:54Z",
-          "updated_at": "2026-08-25T04:37:40Z",
+          "updated_at": "2026-08-26T05:30:53Z",
           "versions": [
             {
-              "id": 1168350031,
+              "id": 1172829511,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-26T05:30:53Z",
+              "updated_at": "2026-08-26T05:30:53Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-infra/1172829511"
+            },
+            {
+              "id": 1172475628,
+              "tags": [],
+              "created_at": "2026-08-26T02:47:28Z",
+              "updated_at": "2026-08-26T02:47:28Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-infra/1172475628"
+            },
+            {
+              "id": 1171864531,
+              "tags": [],
+              "created_at": "2026-08-25T21:59:37Z",
+              "updated_at": "2026-08-25T21:59:37Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-infra/1171864531"
+            },
+            {
+              "id": 1170911993,
+              "tags": [],
+              "created_at": "2026-08-25T16:55:41Z",
+              "updated_at": "2026-08-25T16:55:41Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-infra/1170911993"
+            },
+            {
+              "id": 1170856904,
+              "tags": [],
+              "created_at": "2026-08-25T16:39:55Z",
+              "updated_at": "2026-08-25T16:39:55Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-infra/1170856904"
+            },
+            {
+              "id": 1168350031,
+              "tags": [],
               "created_at": "2026-08-25T04:37:40Z",
               "updated_at": "2026-08-25T04:37:40Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-infra/1168350031"
@@ -36710,7 +36796,7 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 282521389,
+              "size_bytes": 153390292,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -36722,7 +36808,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
               },
               "layers_count": 2,
-              "created": "2026-08-25T04:36:30.477411838Z"
+              "created": "2026-08-26T05:30:27.397848872Z"
             }
           ]
         },
@@ -36731,13 +36817,48 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-mykonsole-dtk",
           "created_at": "2026-08-22T13:16:25Z",
-          "updated_at": "2026-08-25T04:34:00Z",
+          "updated_at": "2026-08-26T04:34:46Z",
           "versions": [
             {
-              "id": 1168342245,
+              "id": 1172693024,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-26T04:34:46Z",
+              "updated_at": "2026-08-26T04:34:46Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-mykonsole-dtk/1172693024"
+            },
+            {
+              "id": 1172075352,
+              "tags": [],
+              "created_at": "2026-08-25T23:28:33Z",
+              "updated_at": "2026-08-25T23:28:33Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-mykonsole-dtk/1172075352"
+            },
+            {
+              "id": 1171344614,
+              "tags": [],
+              "created_at": "2026-08-25T19:07:41Z",
+              "updated_at": "2026-08-25T19:07:41Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-mykonsole-dtk/1171344614"
+            },
+            {
+              "id": 1170909308,
+              "tags": [],
+              "created_at": "2026-08-25T16:54:55Z",
+              "updated_at": "2026-08-25T16:54:55Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-mykonsole-dtk/1170909308"
+            },
+            {
+              "id": 1170835248,
+              "tags": [],
+              "created_at": "2026-08-25T16:33:13Z",
+              "updated_at": "2026-08-25T16:33:13Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-mykonsole-dtk/1170835248"
+            },
+            {
+              "id": 1168342245,
+              "tags": [],
               "created_at": "2026-08-25T04:34:00Z",
               "updated_at": "2026-08-25T04:34:00Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-mykonsole-dtk/1168342245"
@@ -36887,7 +37008,7 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 5720473,
+              "size_bytes": 19510834,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -36899,7 +37020,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-mykonsole-dtk"
               },
               "layers_count": 2,
-              "created": "2026-08-25T04:33:56.69809134Z"
+              "created": "2026-08-26T04:34:40.052478254Z"
             }
           ]
         },
@@ -36908,13 +37029,48 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-unix",
           "created_at": "2026-08-22T16:10:15Z",
-          "updated_at": "2026-08-25T04:40:27Z",
+          "updated_at": "2026-08-26T04:34:58Z",
           "versions": [
             {
-              "id": 1168355351,
+              "id": 1172693483,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-26T04:34:58Z",
+              "updated_at": "2026-08-26T04:34:58Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-unix/1172693483"
+            },
+            {
+              "id": 1172467727,
+              "tags": [],
+              "created_at": "2026-08-26T02:43:40Z",
+              "updated_at": "2026-08-26T02:43:40Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-unix/1172467727"
+            },
+            {
+              "id": 1171915272,
+              "tags": [],
+              "created_at": "2026-08-25T22:18:12Z",
+              "updated_at": "2026-08-25T22:18:12Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-unix/1171915272"
+            },
+            {
+              "id": 1170908577,
+              "tags": [],
+              "created_at": "2026-08-25T16:54:43Z",
+              "updated_at": "2026-08-25T16:54:43Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-unix/1170908577"
+            },
+            {
+              "id": 1170842864,
+              "tags": [],
+              "created_at": "2026-08-25T16:35:38Z",
+              "updated_at": "2026-08-25T16:35:38Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-unix/1170842864"
+            },
+            {
+              "id": 1168355351,
+              "tags": [],
               "created_at": "2026-08-25T04:40:27Z",
               "updated_at": "2026-08-25T04:40:27Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-unix/1168355351"
@@ -37071,7 +37227,7 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 198929737,
+              "size_bytes": 136222116,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -37083,7 +37239,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-unix"
               },
               "layers_count": 2,
-              "created": "2026-08-25T04:39:33.631833253Z"
+              "created": "2026-08-26T04:34:37.863613432Z"
             }
           ]
         },
@@ -37092,13 +37248,48 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cgc-db-front",
           "created_at": "2026-08-22T15:40:56Z",
-          "updated_at": "2026-08-25T04:35:07Z",
+          "updated_at": "2026-08-26T05:09:04Z",
           "versions": [
             {
-              "id": 1168344331,
+              "id": 1172767572,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-26T05:09:04Z",
+              "updated_at": "2026-08-26T05:09:04Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-front/1172767572"
+            },
+            {
+              "id": 1172475747,
+              "tags": [],
+              "created_at": "2026-08-26T02:47:31Z",
+              "updated_at": "2026-08-26T02:47:31Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-front/1172475747"
+            },
+            {
+              "id": 1171954209,
+              "tags": [],
+              "created_at": "2026-08-25T22:33:44Z",
+              "updated_at": "2026-08-25T22:33:44Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-front/1171954209"
+            },
+            {
+              "id": 1170914823,
+              "tags": [],
+              "created_at": "2026-08-25T16:56:31Z",
+              "updated_at": "2026-08-25T16:56:31Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-front/1170914823"
+            },
+            {
+              "id": 1170827749,
+              "tags": [],
+              "created_at": "2026-08-25T16:31:01Z",
+              "updated_at": "2026-08-25T16:31:01Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-front/1170827749"
+            },
+            {
+              "id": 1168344331,
+              "tags": [],
               "created_at": "2026-08-25T04:35:07Z",
               "updated_at": "2026-08-25T04:35:07Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-front/1168344331"
@@ -37255,7 +37446,7 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 112511396,
+              "size_bytes": 250696693,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -37267,7 +37458,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/diegonmarcos.github.io"
               },
               "layers_count": 2,
-              "created": "2026-08-25T04:34:40.444921919Z"
+              "created": "2026-08-26T05:08:16.301393971Z"
             }
           ]
         },
@@ -37276,13 +37467,48 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cgc-db-front-data",
           "created_at": "2026-08-22T13:04:21Z",
-          "updated_at": "2026-08-25T04:34:16Z",
+          "updated_at": "2026-08-26T04:34:49Z",
           "versions": [
             {
-              "id": 1168342847,
+              "id": 1172693117,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-26T04:34:49Z",
+              "updated_at": "2026-08-26T04:34:49Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-front-data/1172693117"
+            },
+            {
+              "id": 1171997141,
+              "tags": [],
+              "created_at": "2026-08-25T22:52:37Z",
+              "updated_at": "2026-08-25T22:52:37Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-front-data/1171997141"
+            },
+            {
+              "id": 1171230055,
+              "tags": [],
+              "created_at": "2026-08-25T18:32:10Z",
+              "updated_at": "2026-08-25T18:32:10Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-front-data/1171230055"
+            },
+            {
+              "id": 1170905942,
+              "tags": [],
+              "created_at": "2026-08-25T16:53:56Z",
+              "updated_at": "2026-08-25T16:53:56Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-front-data/1170905942"
+            },
+            {
+              "id": 1170825800,
+              "tags": [],
+              "created_at": "2026-08-25T16:30:26Z",
+              "updated_at": "2026-08-25T16:30:26Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-front-data/1170825800"
+            },
+            {
+              "id": 1168342847,
+              "tags": [],
               "created_at": "2026-08-25T04:34:16Z",
               "updated_at": "2026-08-25T04:34:16Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-front-data/1168342847"
@@ -37439,7 +37665,7 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 2569106,
+              "size_bytes": 3912026,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -37451,7 +37677,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/front-data"
               },
               "layers_count": 2,
-              "created": "2026-08-25T04:34:12.595680448Z"
+              "created": "2026-08-26T04:34:44.851334587Z"
             }
           ]
         },
@@ -37460,13 +37686,41 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/chat-mattermost-configs",
           "created_at": "2026-06-10T16:49:58Z",
-          "updated_at": "2026-08-24T21:02:24Z",
+          "updated_at": "2026-08-25T18:41:40Z",
           "versions": [
             {
-              "id": 1167383503,
+              "id": 1171260878,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T18:41:40Z",
+              "updated_at": "2026-08-25T18:41:40Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/chat-mattermost-configs/1171260878"
+            },
+            {
+              "id": 1171235991,
+              "tags": [],
+              "created_at": "2026-08-25T18:34:00Z",
+              "updated_at": "2026-08-25T18:34:00Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/chat-mattermost-configs/1171235991"
+            },
+            {
+              "id": 1169788637,
+              "tags": [],
+              "created_at": "2026-08-25T12:13:32Z",
+              "updated_at": "2026-08-25T12:13:32Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/chat-mattermost-configs/1169788637"
+            },
+            {
+              "id": 1169700855,
+              "tags": [],
+              "created_at": "2026-08-25T11:50:26Z",
+              "updated_at": "2026-08-25T11:50:26Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/chat-mattermost-configs/1169700855"
+            },
+            {
+              "id": 1167383503,
+              "tags": [],
               "created_at": "2026-08-24T21:02:24Z",
               "updated_at": "2026-08-24T21:02:24Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/chat-mattermost-configs/1167383503"
@@ -38015,7 +38269,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 2018886,
+              "size_bytes": 2018882,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -38024,7 +38278,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-08-24T21:02:20.611063818Z"
+              "created": "2026-08-25T18:41:35.026660438Z"
             }
           ]
         },
@@ -41364,13 +41618,41 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-pub-mcp",
           "created_at": "2026-08-22T15:32:29Z",
-          "updated_at": "2026-08-24T21:00:33Z",
+          "updated_at": "2026-08-25T18:43:38Z",
           "versions": [
             {
-              "id": 1167377249,
+              "id": 1171266927,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T18:43:38Z",
+              "updated_at": "2026-08-25T18:43:38Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp/1171266927"
+            },
+            {
+              "id": 1171243011,
+              "tags": [],
+              "created_at": "2026-08-25T18:36:19Z",
+              "updated_at": "2026-08-25T18:36:19Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp/1171243011"
+            },
+            {
+              "id": 1169783015,
+              "tags": [],
+              "created_at": "2026-08-25T12:12:12Z",
+              "updated_at": "2026-08-25T12:12:12Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp/1169783015"
+            },
+            {
+              "id": 1169708084,
+              "tags": [],
+              "created_at": "2026-08-25T11:52:15Z",
+              "updated_at": "2026-08-25T11:52:15Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp/1169708084"
+            },
+            {
+              "id": 1167377249,
+              "tags": [],
               "created_at": "2026-08-24T21:00:33Z",
               "updated_at": "2026-08-24T21:00:33Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp/1167377249"
@@ -41478,7 +41760,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 2754480987,
+              "size_bytes": 2754468269,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "/app",
@@ -41501,7 +41783,7 @@
                 "org.opencontainers.image.version": "0.12.2"
               },
               "layers_count": 16,
-              "created": "2026-08-24T21:00:02.618724866Z"
+              "created": "2026-08-25T18:43:05.850074899Z"
             }
           ]
         },
@@ -41510,13 +41792,41 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-pub-mcp-binaries",
           "created_at": "2026-08-22T15:32:35Z",
-          "updated_at": "2026-08-24T21:00:37Z",
+          "updated_at": "2026-08-25T18:43:42Z",
           "versions": [
             {
-              "id": 1167377570,
+              "id": 1171267094,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T18:43:42Z",
+              "updated_at": "2026-08-25T18:43:42Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-binaries/1171267094"
+            },
+            {
+              "id": 1171243212,
+              "tags": [],
+              "created_at": "2026-08-25T18:36:23Z",
+              "updated_at": "2026-08-25T18:36:23Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-binaries/1171243212"
+            },
+            {
+              "id": 1169783196,
+              "tags": [],
+              "created_at": "2026-08-25T12:12:15Z",
+              "updated_at": "2026-08-25T12:12:15Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-binaries/1169783196"
+            },
+            {
+              "id": 1169708251,
+              "tags": [],
+              "created_at": "2026-08-25T11:52:18Z",
+              "updated_at": "2026-08-25T11:52:18Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-binaries/1169708251"
+            },
+            {
+              "id": 1167377570,
+              "tags": [],
               "created_at": "2026-08-24T21:00:37Z",
               "updated_at": "2026-08-24T21:00:37Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-binaries/1167377570"
@@ -41624,7 +41934,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 2754480987,
+              "size_bytes": 2754468269,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "/app",
@@ -41647,7 +41957,7 @@
                 "org.opencontainers.image.version": "0.12.2"
               },
               "layers_count": 16,
-              "created": "2026-08-24T21:00:02.618724866Z"
+              "created": "2026-08-25T18:43:05.850074899Z"
             }
           ]
         },
@@ -41656,13 +41966,41 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-pub-mcp-configs",
           "created_at": "2026-08-22T15:30:34Z",
-          "updated_at": "2026-08-24T20:58:15Z",
+          "updated_at": "2026-08-25T18:41:22Z",
           "versions": [
             {
-              "id": 1167369370,
+              "id": 1171259958,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T18:41:22Z",
+              "updated_at": "2026-08-25T18:41:22Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-configs/1171259958"
+            },
+            {
+              "id": 1171236017,
+              "tags": [],
+              "created_at": "2026-08-25T18:34:00Z",
+              "updated_at": "2026-08-25T18:34:00Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-configs/1171236017"
+            },
+            {
+              "id": 1169773048,
+              "tags": [],
+              "created_at": "2026-08-25T12:09:40Z",
+              "updated_at": "2026-08-25T12:09:40Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-configs/1169773048"
+            },
+            {
+              "id": 1169698850,
+              "tags": [],
+              "created_at": "2026-08-25T11:49:58Z",
+              "updated_at": "2026-08-25T11:49:58Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-configs/1169698850"
+            },
+            {
+              "id": 1167369370,
+              "tags": [],
               "created_at": "2026-08-24T20:58:15Z",
               "updated_at": "2026-08-24T20:58:15Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-configs/1167369370"
@@ -41770,7 +42108,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 2008307,
+              "size_bytes": 2015379,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -41779,7 +42117,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-08-24T20:58:10.437782186Z"
+              "created": "2026-08-25T18:41:18.314819365Z"
             }
           ]
         },
@@ -41940,13 +42278,56 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-mail-mcp",
           "created_at": "2026-08-24T15:42:16Z",
-          "updated_at": "2026-08-24T20:55:14Z",
+          "updated_at": "2026-08-25T19:58:15Z",
           "versions": [
             {
-              "id": 1167358784,
+              "id": 1171504333,
               "tags": [
+                "40017bc17f5e",
                 "latest"
               ],
+              "created_at": "2026-08-25T19:58:11Z",
+              "updated_at": "2026-08-25T19:58:11Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp/1171504333"
+            },
+            {
+              "id": 1171257358,
+              "tags": [],
+              "created_at": "2026-08-25T18:40:37Z",
+              "updated_at": "2026-08-25T18:40:37Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp/1171257358"
+            },
+            {
+              "id": 1171227915,
+              "tags": [],
+              "created_at": "2026-08-25T18:31:27Z",
+              "updated_at": "2026-08-25T18:31:27Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp/1171227915"
+            },
+            {
+              "id": 1170719594,
+              "tags": [],
+              "created_at": "2026-08-25T16:00:59Z",
+              "updated_at": "2026-08-25T16:00:59Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp/1170719594"
+            },
+            {
+              "id": 1169743818,
+              "tags": [],
+              "created_at": "2026-08-25T12:01:47Z",
+              "updated_at": "2026-08-25T12:01:47Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp/1169743818"
+            },
+            {
+              "id": 1169671511,
+              "tags": [],
+              "created_at": "2026-08-25T11:42:19Z",
+              "updated_at": "2026-08-25T11:42:19Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp/1169671511"
+            },
+            {
+              "id": 1167358784,
+              "tags": [],
               "created_at": "2026-08-24T20:55:14Z",
               "updated_at": "2026-08-24T20:55:14Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp/1167358784"
@@ -41984,7 +42365,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 137759231,
+              "size_bytes": 137757997,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "/app",
@@ -41998,7 +42379,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
               },
               "layers_count": 11,
-              "created": "2026-08-24T20:55:04.890326458Z"
+              "created": "2026-08-25T19:58:03.20298507Z"
             }
           ]
         },
@@ -42007,13 +42388,56 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-mail-mcp-binaries",
           "created_at": "2026-08-24T15:42:22Z",
-          "updated_at": "2026-08-24T20:55:17Z",
+          "updated_at": "2026-08-25T19:58:16Z",
           "versions": [
             {
-              "id": 1167359006,
+              "id": 1171504568,
               "tags": [
+                "40017bc17f5e",
                 "latest"
               ],
+              "created_at": "2026-08-25T19:58:14Z",
+              "updated_at": "2026-08-25T19:58:14Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-binaries/1171504568"
+            },
+            {
+              "id": 1171257562,
+              "tags": [],
+              "created_at": "2026-08-25T18:40:40Z",
+              "updated_at": "2026-08-25T18:40:40Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-binaries/1171257562"
+            },
+            {
+              "id": 1171228127,
+              "tags": [],
+              "created_at": "2026-08-25T18:31:31Z",
+              "updated_at": "2026-08-25T18:31:31Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-binaries/1171228127"
+            },
+            {
+              "id": 1170719950,
+              "tags": [],
+              "created_at": "2026-08-25T16:01:03Z",
+              "updated_at": "2026-08-25T16:01:03Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-binaries/1170719950"
+            },
+            {
+              "id": 1169744142,
+              "tags": [],
+              "created_at": "2026-08-25T12:01:51Z",
+              "updated_at": "2026-08-25T12:01:51Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-binaries/1169744142"
+            },
+            {
+              "id": 1169671701,
+              "tags": [],
+              "created_at": "2026-08-25T11:42:23Z",
+              "updated_at": "2026-08-25T11:42:23Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-binaries/1169671701"
+            },
+            {
+              "id": 1167359006,
+              "tags": [],
               "created_at": "2026-08-24T20:55:17Z",
               "updated_at": "2026-08-24T20:55:17Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-binaries/1167359006"
@@ -42051,7 +42475,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 137759231,
+              "size_bytes": 137757997,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "/app",
@@ -42065,7 +42489,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
               },
               "layers_count": 11,
-              "created": "2026-08-24T20:55:04.890326458Z"
+              "created": "2026-08-25T19:58:03.20298507Z"
             }
           ]
         },
@@ -42074,13 +42498,55 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-mail-mcp-configs",
           "created_at": "2026-08-24T15:41:17Z",
-          "updated_at": "2026-08-24T20:54:49Z",
+          "updated_at": "2026-08-25T19:57:52Z",
           "versions": [
             {
-              "id": 1167357382,
+              "id": 1171503368,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T19:57:52Z",
+              "updated_at": "2026-08-25T19:57:52Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-configs/1171503368"
+            },
+            {
+              "id": 1171255794,
+              "tags": [],
+              "created_at": "2026-08-25T18:40:11Z",
+              "updated_at": "2026-08-25T18:40:11Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-configs/1171255794"
+            },
+            {
+              "id": 1171226483,
+              "tags": [],
+              "created_at": "2026-08-25T18:31:00Z",
+              "updated_at": "2026-08-25T18:31:00Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-configs/1171226483"
+            },
+            {
+              "id": 1170717205,
+              "tags": [],
+              "created_at": "2026-08-25T16:00:27Z",
+              "updated_at": "2026-08-25T16:00:27Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-configs/1170717205"
+            },
+            {
+              "id": 1169742297,
+              "tags": [],
+              "created_at": "2026-08-25T12:01:26Z",
+              "updated_at": "2026-08-25T12:01:26Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-configs/1169742297"
+            },
+            {
+              "id": 1169669565,
+              "tags": [],
+              "created_at": "2026-08-25T11:41:43Z",
+              "updated_at": "2026-08-25T11:41:43Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-configs/1169669565"
+            },
+            {
+              "id": 1167357382,
+              "tags": [],
               "created_at": "2026-08-24T20:54:49Z",
               "updated_at": "2026-08-24T20:54:49Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-configs/1167357382"
@@ -42118,7 +42584,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 1997594,
+              "size_bytes": 1997595,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -42127,7 +42593,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-08-24T20:54:43.922995329Z"
+              "created": "2026-08-25T19:57:47.01981492Z"
             }
           ]
         },
@@ -42136,13 +42602,41 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-mattermost-mcp",
           "created_at": "2026-08-24T15:42:50Z",
-          "updated_at": "2026-08-24T20:55:05Z",
+          "updated_at": "2026-08-25T18:40:29Z",
           "versions": [
             {
-              "id": 1167358241,
+              "id": 1171256864,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T18:40:29Z",
+              "updated_at": "2026-08-25T18:40:29Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp/1171256864"
+            },
+            {
+              "id": 1171227470,
+              "tags": [],
+              "created_at": "2026-08-25T18:31:19Z",
+              "updated_at": "2026-08-25T18:31:19Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp/1171227470"
+            },
+            {
+              "id": 1169743200,
+              "tags": [],
+              "created_at": "2026-08-25T12:01:39Z",
+              "updated_at": "2026-08-25T12:01:39Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp/1169743200"
+            },
+            {
+              "id": 1169671297,
+              "tags": [],
+              "created_at": "2026-08-25T11:42:16Z",
+              "updated_at": "2026-08-25T11:42:16Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp/1169671297"
+            },
+            {
+              "id": 1167358241,
+              "tags": [],
               "created_at": "2026-08-24T20:55:04Z",
               "updated_at": "2026-08-24T20:55:04Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp/1167358241"
@@ -42180,7 +42674,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 108625917,
+              "size_bytes": 108625005,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "/app",
@@ -42194,7 +42688,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
               },
               "layers_count": 10,
-              "created": "2026-08-24T20:54:57.732311055Z"
+              "created": "2026-08-25T18:40:22.173612376Z"
             }
           ]
         },
@@ -42203,13 +42697,41 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-mattermost-mcp-binaries",
           "created_at": "2026-08-24T15:42:55Z",
-          "updated_at": "2026-08-24T20:55:08Z",
+          "updated_at": "2026-08-25T18:40:32Z",
           "versions": [
             {
-              "id": 1167358448,
+              "id": 1171257060,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T18:40:32Z",
+              "updated_at": "2026-08-25T18:40:32Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-binaries/1171257060"
+            },
+            {
+              "id": 1171227633,
+              "tags": [],
+              "created_at": "2026-08-25T18:31:23Z",
+              "updated_at": "2026-08-25T18:31:23Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-binaries/1171227633"
+            },
+            {
+              "id": 1169743416,
+              "tags": [],
+              "created_at": "2026-08-25T12:01:42Z",
+              "updated_at": "2026-08-25T12:01:42Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-binaries/1169743416"
+            },
+            {
+              "id": 1169671641,
+              "tags": [],
+              "created_at": "2026-08-25T11:42:22Z",
+              "updated_at": "2026-08-25T11:42:22Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-binaries/1169671641"
+            },
+            {
+              "id": 1167358448,
+              "tags": [],
               "created_at": "2026-08-24T20:55:08Z",
               "updated_at": "2026-08-24T20:55:08Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-binaries/1167358448"
@@ -42247,7 +42769,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 108625917,
+              "size_bytes": 108625005,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "/app",
@@ -42261,7 +42783,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
               },
               "layers_count": 10,
-              "created": "2026-08-24T20:54:57.732311055Z"
+              "created": "2026-08-25T18:40:22.173612376Z"
             }
           ]
         },
@@ -42270,13 +42792,41 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-mattermost-mcp-configs",
           "created_at": "2026-08-24T15:42:41Z",
-          "updated_at": "2026-08-24T20:54:49Z",
+          "updated_at": "2026-08-25T18:40:11Z",
           "versions": [
             {
-              "id": 1167357385,
+              "id": 1171255828,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T18:40:11Z",
+              "updated_at": "2026-08-25T18:40:11Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-configs/1171255828"
+            },
+            {
+              "id": 1171226472,
+              "tags": [],
+              "created_at": "2026-08-25T18:31:00Z",
+              "updated_at": "2026-08-25T18:31:00Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-configs/1171226472"
+            },
+            {
+              "id": 1169742293,
+              "tags": [],
+              "created_at": "2026-08-25T12:01:26Z",
+              "updated_at": "2026-08-25T12:01:26Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-configs/1169742293"
+            },
+            {
+              "id": 1169669568,
+              "tags": [],
+              "created_at": "2026-08-25T11:41:43Z",
+              "updated_at": "2026-08-25T11:41:43Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-configs/1169669568"
+            },
+            {
+              "id": 1167357385,
+              "tags": [],
               "created_at": "2026-08-24T20:54:49Z",
               "updated_at": "2026-08-24T20:54:49Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-configs/1167357385"
@@ -42314,7 +42864,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 1997194,
+              "size_bytes": 1997195,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -42323,7 +42873,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-08-24T20:54:44.359533289Z"
+              "created": "2026-08-25T18:40:06.409899029Z"
             }
           ]
         },
@@ -42917,13 +43467,20 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-spec-configs",
           "created_at": "2026-03-31T23:50:38Z",
-          "updated_at": "2026-08-24T17:54:16Z",
+          "updated_at": "2026-08-25T19:49:41Z",
           "versions": [
             {
-              "id": 1166769764,
+              "id": 1171477690,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T19:49:41Z",
+              "updated_at": "2026-08-25T19:49:41Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-spec-configs/1171477690"
+            },
+            {
+              "id": 1166769764,
+              "tags": [],
               "created_at": "2026-08-24T17:54:16Z",
               "updated_at": "2026-08-24T17:54:16Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-spec-configs/1166769764"
@@ -43325,7 +43882,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 3314425,
+              "size_bytes": 3314414,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -43334,7 +43891,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-08-24T17:54:08.783403899Z"
+              "created": "2026-08-25T19:49:36.07623449Z"
             }
           ]
         },
@@ -49695,13 +50252,41 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/dagu-configs",
           "created_at": "2026-04-01T02:02:50Z",
-          "updated_at": "2026-08-24T17:58:41Z",
+          "updated_at": "2026-08-25T12:54:05Z",
           "versions": [
             {
-              "id": 1166784302,
+              "id": 1169946570,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T12:54:05Z",
+              "updated_at": "2026-08-25T12:54:05Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/dagu-configs/1169946570"
+            },
+            {
+              "id": 1169927913,
+              "tags": [],
+              "created_at": "2026-08-25T12:49:34Z",
+              "updated_at": "2026-08-25T12:49:34Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/dagu-configs/1169927913"
+            },
+            {
+              "id": 1169756397,
+              "tags": [],
+              "created_at": "2026-08-25T12:05:10Z",
+              "updated_at": "2026-08-25T12:05:10Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/dagu-configs/1169756397"
+            },
+            {
+              "id": 1169695777,
+              "tags": [],
+              "created_at": "2026-08-25T11:49:06Z",
+              "updated_at": "2026-08-25T11:49:06Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/dagu-configs/1169695777"
+            },
+            {
+              "id": 1166784302,
+              "tags": [],
               "created_at": "2026-08-24T17:58:41Z",
               "updated_at": "2026-08-24T17:58:41Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/dagu-configs/1166784302"
@@ -50635,7 +51220,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 2047104,
+              "size_bytes": 2046194,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -50644,7 +51229,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-08-24T17:58:37.234552873Z"
+              "created": "2026-08-25T12:54:00.146520555Z"
             }
           ]
         },
@@ -50653,13 +51238,21 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/dbgate",
           "created_at": "2026-04-05T11:49:16Z",
-          "updated_at": "2026-08-24T18:04:18Z",
+          "updated_at": "2026-08-25T20:03:33Z",
           "versions": [
             {
-              "id": 1166803556,
+              "id": 1171520682,
               "tags": [
+                "d270dea609d3",
                 "latest"
               ],
+              "created_at": "2026-08-25T20:03:30Z",
+              "updated_at": "2026-08-25T20:03:30Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/dbgate/1171520682"
+            },
+            {
+              "id": 1166803556,
+              "tags": [],
               "created_at": "2026-08-24T18:04:18Z",
               "updated_at": "2026-08-24T18:04:18Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/dbgate/1166803556"
@@ -50791,7 +51384,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 148032535,
+              "size_bytes": 148032534,
               "entrypoint": [
                 "docker-entrypoint.sh"
               ],
@@ -50808,7 +51401,7 @@
                 "org.opencontainers.image.source": "https://github.com/dbgate/dbgate"
               },
               "layers_count": 11,
-              "created": "2026-08-24T18:04:13.481375279Z"
+              "created": "2026-08-25T20:03:25.914882986Z"
             }
           ]
         },
@@ -50817,13 +51410,21 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/dbgate-binaries",
           "created_at": "2026-08-01T13:12:28Z",
-          "updated_at": "2026-08-24T18:04:22Z",
+          "updated_at": "2026-08-25T20:03:34Z",
           "versions": [
             {
-              "id": 1166803813,
+              "id": 1171520840,
               "tags": [
+                "d270dea609d3",
                 "latest"
               ],
+              "created_at": "2026-08-25T20:03:32Z",
+              "updated_at": "2026-08-25T20:03:32Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/dbgate-binaries/1171520840"
+            },
+            {
+              "id": 1166803813,
+              "tags": [],
               "created_at": "2026-08-24T18:04:22Z",
               "updated_at": "2026-08-24T18:04:22Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/dbgate-binaries/1166803813"
@@ -50854,7 +51455,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 148032535,
+              "size_bytes": 148032534,
               "entrypoint": [
                 "docker-entrypoint.sh"
               ],
@@ -50871,7 +51472,7 @@
                 "org.opencontainers.image.source": "https://github.com/dbgate/dbgate"
               },
               "layers_count": 11,
-              "created": "2026-08-24T18:04:13.481375279Z"
+              "created": "2026-08-25T20:03:25.914882986Z"
             }
           ]
         },
@@ -50880,13 +51481,20 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/dbgate-configs",
           "created_at": "2026-04-05T11:48:30Z",
-          "updated_at": "2026-08-24T18:03:24Z",
+          "updated_at": "2026-08-25T20:03:21Z",
           "versions": [
             {
-              "id": 1166800414,
+              "id": 1171520184,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T20:03:21Z",
+              "updated_at": "2026-08-25T20:03:21Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/dbgate-configs/1171520184"
+            },
+            {
+              "id": 1166800414,
+              "tags": [],
               "created_at": "2026-08-24T18:03:24Z",
               "updated_at": "2026-08-24T18:03:24Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/dbgate-configs/1166800414"
@@ -51204,7 +51812,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 1997335,
+              "size_bytes": 1997328,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -51213,7 +51821,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-08-24T18:03:18.232075168Z"
+              "created": "2026-08-25T20:03:16.726356116Z"
             }
           ]
         },
@@ -53396,17 +54004,117 @@
           ]
         },
         {
+          "name": "fin-api",
+          "visibility": "public",
+          "html_url": "https://github.com/users/diegonmarcos/packages/container/package/fin-api",
+          "created_at": "2026-08-25T11:52:49Z",
+          "updated_at": "2026-08-25T12:16:10Z",
+          "versions": [
+            {
+              "id": 1169798429,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-25T12:16:10Z",
+              "updated_at": "2026-08-25T12:16:10Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/fin-api/1169798429"
+            },
+            {
+              "id": 1169710384,
+              "tags": [],
+              "created_at": "2026-08-25T11:52:49Z",
+              "updated_at": "2026-08-25T11:52:49Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/fin-api/1169710384"
+            }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "arm64",
+              "size_bytes": 35887089,
+              "entrypoint": null,
+              "exposed_ports": [],
+              "working_dir": "",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+              ],
+              "labels": {
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+              },
+              "layers_count": 3,
+              "created": "2026-08-25T12:16:05.15273082Z"
+            }
+          ]
+        },
+        {
+          "name": "fin-api-binaries",
+          "visibility": "public",
+          "html_url": "https://github.com/users/diegonmarcos/packages/container/package/fin-api-binaries",
+          "created_at": "2026-08-25T11:52:52Z",
+          "updated_at": "2026-08-25T12:16:13Z",
+          "versions": [
+            {
+              "id": 1169798626,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-25T12:16:13Z",
+              "updated_at": "2026-08-25T12:16:13Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/fin-api-binaries/1169798626"
+            },
+            {
+              "id": 1169710575,
+              "tags": [],
+              "created_at": "2026-08-25T11:52:52Z",
+              "updated_at": "2026-08-25T11:52:52Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/fin-api-binaries/1169710575"
+            }
+          ],
+          "platforms": [
+            {
+              "os": "linux",
+              "architecture": "arm64",
+              "size_bytes": 35887089,
+              "entrypoint": null,
+              "exposed_ports": [],
+              "working_dir": "",
+              "env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+              ],
+              "labels": {
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
+              },
+              "layers_count": 3,
+              "created": "2026-08-25T12:16:05.15273082Z"
+            }
+          ]
+        },
+        {
           "name": "fin-api-configs",
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/fin-api-configs",
           "created_at": "2026-06-11T15:42:27Z",
-          "updated_at": "2026-07-02T23:23:23Z",
+          "updated_at": "2026-08-25T12:15:05Z",
           "versions": [
             {
-              "id": 996413951,
+              "id": 1169794402,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T12:15:05Z",
+              "updated_at": "2026-08-25T12:15:05Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/fin-api-configs/1169794402"
+            },
+            {
+              "id": 1169705782,
+              "tags": [],
+              "created_at": "2026-08-25T11:51:39Z",
+              "updated_at": "2026-08-25T11:51:39Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/fin-api-configs/1169705782"
+            },
+            {
+              "id": 996413951,
+              "tags": [],
               "created_at": "2026-07-02T23:23:23Z",
               "updated_at": "2026-07-02T23:23:23Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/fin-api-configs/996413951"
@@ -53542,7 +54250,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 1997054,
+              "size_bytes": 1996812,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -53551,7 +54259,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-07-03T01:23:19.254270781+02:00"
+              "created": "2026-08-25T12:15:01.376916614Z"
             }
           ]
         },
@@ -54713,13 +55421,41 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp",
           "created_at": "2026-04-25T10:29:30Z",
-          "updated_at": "2026-08-24T20:55:17Z",
+          "updated_at": "2026-08-25T18:40:40Z",
           "versions": [
             {
-              "id": 1167358987,
+              "id": 1171257549,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T18:40:40Z",
+              "updated_at": "2026-08-25T18:40:40Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp/1171257549"
+            },
+            {
+              "id": 1171228122,
+              "tags": [],
+              "created_at": "2026-08-25T18:31:31Z",
+              "updated_at": "2026-08-25T18:31:31Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp/1171228122"
+            },
+            {
+              "id": 1169745646,
+              "tags": [],
+              "created_at": "2026-08-25T12:02:14Z",
+              "updated_at": "2026-08-25T12:02:14Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp/1169745646"
+            },
+            {
+              "id": 1169671660,
+              "tags": [],
+              "created_at": "2026-08-25T11:42:22Z",
+              "updated_at": "2026-08-25T11:42:22Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp/1169671660"
+            },
+            {
+              "id": 1167358987,
+              "tags": [],
               "created_at": "2026-08-24T20:55:17Z",
               "updated_at": "2026-08-24T20:55:17Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp/1167358987"
@@ -55264,7 +56000,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 138431266,
+              "size_bytes": 138432872,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "/app",
@@ -55278,7 +56014,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
               },
               "layers_count": 11,
-              "created": "2026-08-24T20:55:06.297990898Z"
+              "created": "2026-08-25T18:40:30.401820608Z"
             }
           ]
         },
@@ -55287,13 +56023,41 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp-binaries",
           "created_at": "2026-07-12T00:33:44Z",
-          "updated_at": "2026-08-24T20:55:21Z",
+          "updated_at": "2026-08-25T18:40:44Z",
           "versions": [
             {
-              "id": 1167359204,
+              "id": 1171257798,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T18:40:44Z",
+              "updated_at": "2026-08-25T18:40:44Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-binaries/1171257798"
+            },
+            {
+              "id": 1171228294,
+              "tags": [],
+              "created_at": "2026-08-25T18:31:34Z",
+              "updated_at": "2026-08-25T18:31:34Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-binaries/1171228294"
+            },
+            {
+              "id": 1169745935,
+              "tags": [],
+              "created_at": "2026-08-25T12:02:18Z",
+              "updated_at": "2026-08-25T12:02:18Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-binaries/1169745935"
+            },
+            {
+              "id": 1169671804,
+              "tags": [],
+              "created_at": "2026-08-25T11:42:25Z",
+              "updated_at": "2026-08-25T11:42:25Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-binaries/1169671804"
+            },
+            {
+              "id": 1167359204,
+              "tags": [],
               "created_at": "2026-08-24T20:55:21Z",
               "updated_at": "2026-08-24T20:55:21Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-binaries/1167359204"
@@ -55569,7 +56333,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 138431266,
+              "size_bytes": 138432872,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "/app",
@@ -55583,7 +56347,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
               },
               "layers_count": 11,
-              "created": "2026-08-24T20:55:06.297990898Z"
+              "created": "2026-08-25T18:40:30.401820608Z"
             }
           ]
         },
@@ -55592,13 +56356,41 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp-configs",
           "created_at": "2026-04-25T11:59:14Z",
-          "updated_at": "2026-08-24T20:54:49Z",
+          "updated_at": "2026-08-25T18:40:11Z",
           "versions": [
             {
-              "id": 1167357388,
+              "id": 1171255824,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T18:40:11Z",
+              "updated_at": "2026-08-25T18:40:11Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-configs/1171255824"
+            },
+            {
+              "id": 1171226469,
+              "tags": [],
+              "created_at": "2026-08-25T18:31:00Z",
+              "updated_at": "2026-08-25T18:31:00Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-configs/1171226469"
+            },
+            {
+              "id": 1169742337,
+              "tags": [],
+              "created_at": "2026-08-25T12:01:27Z",
+              "updated_at": "2026-08-25T12:01:27Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-configs/1169742337"
+            },
+            {
+              "id": 1169669566,
+              "tags": [],
+              "created_at": "2026-08-25T11:41:43Z",
+              "updated_at": "2026-08-25T11:41:43Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-configs/1169669566"
+            },
+            {
+              "id": 1167357388,
+              "tags": [],
               "created_at": "2026-08-24T20:54:49Z",
               "updated_at": "2026-08-24T20:54:49Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-configs/1167357388"
@@ -56385,7 +57177,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 1997350,
+              "size_bytes": 1997347,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -56394,7 +57186,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-08-24T20:54:44.073432526Z"
+              "created": "2026-08-25T18:40:06.409077203Z"
             }
           ]
         },
@@ -56403,13 +57195,41 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/google-workspace-mcp",
           "created_at": "2026-03-22T20:13:20Z",
-          "updated_at": "2026-08-24T20:56:58Z",
+          "updated_at": "2026-08-25T18:41:56Z",
           "versions": [
             {
-              "id": 1167364662,
+              "id": 1171261765,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T18:41:56Z",
+              "updated_at": "2026-08-25T18:41:56Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp/1171261765"
+            },
+            {
+              "id": 1171233716,
+              "tags": [],
+              "created_at": "2026-08-25T18:33:17Z",
+              "updated_at": "2026-08-25T18:33:17Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp/1171233716"
+            },
+            {
+              "id": 1169751800,
+              "tags": [],
+              "created_at": "2026-08-25T12:03:52Z",
+              "updated_at": "2026-08-25T12:03:52Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp/1169751800"
+            },
+            {
+              "id": 1169687466,
+              "tags": [],
+              "created_at": "2026-08-25T11:46:50Z",
+              "updated_at": "2026-08-25T11:46:50Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp/1169687466"
+            },
+            {
+              "id": 1167364662,
+              "tags": [],
               "created_at": "2026-08-24T20:56:58Z",
               "updated_at": "2026-08-24T20:56:58Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp/1167364662"
@@ -61783,7 +62603,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 138092919,
+              "size_bytes": 138096135,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "/app",
@@ -61807,7 +62627,7 @@
                 "org.opencontainers.image.version": "0.9.30-python3.11-bookworm-slim"
               },
               "layers_count": 11,
-              "created": "2026-08-24T20:56:47.098084804Z"
+              "created": "2026-08-25T18:41:42.031501879Z"
             }
           ]
         },
@@ -61816,13 +62636,41 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/google-workspace-mcp-binaries",
           "created_at": "2026-07-12T00:50:42Z",
-          "updated_at": "2026-08-24T20:57:02Z",
+          "updated_at": "2026-08-25T18:42:01Z",
           "versions": [
             {
-              "id": 1167364950,
+              "id": 1171261998,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T18:42:01Z",
+              "updated_at": "2026-08-25T18:42:01Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-binaries/1171261998"
+            },
+            {
+              "id": 1171233888,
+              "tags": [],
+              "created_at": "2026-08-25T18:33:20Z",
+              "updated_at": "2026-08-25T18:33:20Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-binaries/1171233888"
+            },
+            {
+              "id": 1169752004,
+              "tags": [],
+              "created_at": "2026-08-25T12:03:56Z",
+              "updated_at": "2026-08-25T12:03:56Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-binaries/1169752004"
+            },
+            {
+              "id": 1169687614,
+              "tags": [],
+              "created_at": "2026-08-25T11:46:53Z",
+              "updated_at": "2026-08-25T11:46:53Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-binaries/1169687614"
+            },
+            {
+              "id": 1167364950,
+              "tags": [],
               "created_at": "2026-08-24T20:57:02Z",
               "updated_at": "2026-08-24T20:57:02Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-binaries/1167364950"
@@ -62140,7 +62988,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 138092919,
+              "size_bytes": 138096135,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "/app",
@@ -62164,7 +63012,7 @@
                 "org.opencontainers.image.version": "0.9.30-python3.11-bookworm-slim"
               },
               "layers_count": 11,
-              "created": "2026-08-24T20:56:47.098084804Z"
+              "created": "2026-08-25T18:41:42.031501879Z"
             }
           ]
         },
@@ -62173,13 +63021,41 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/google-workspace-mcp-configs",
           "created_at": "2026-04-02T18:36:11Z",
-          "updated_at": "2026-08-24T20:56:32Z",
+          "updated_at": "2026-08-25T18:41:11Z",
           "versions": [
             {
-              "id": 1167362893,
+              "id": 1171259403,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T18:41:11Z",
+              "updated_at": "2026-08-25T18:41:11Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-configs/1171259403"
+            },
+            {
+              "id": 1171232442,
+              "tags": [],
+              "created_at": "2026-08-25T18:32:53Z",
+              "updated_at": "2026-08-25T18:32:53Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-configs/1171232442"
+            },
+            {
+              "id": 1169750121,
+              "tags": [],
+              "created_at": "2026-08-25T12:03:27Z",
+              "updated_at": "2026-08-25T12:03:27Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-configs/1169750121"
+            },
+            {
+              "id": 1169686152,
+              "tags": [],
+              "created_at": "2026-08-25T11:46:29Z",
+              "updated_at": "2026-08-25T11:46:29Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-configs/1169686152"
+            },
+            {
+              "id": 1167362893,
+              "tags": [],
               "created_at": "2026-08-24T20:56:32Z",
               "updated_at": "2026-08-24T20:56:32Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-configs/1167362893"
@@ -62966,7 +63842,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 1999124,
+              "size_bytes": 1998767,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -62975,7 +63851,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-08-24T20:56:27.363240943Z"
+              "created": "2026-08-25T18:41:07.195005522Z"
             }
           ]
         },
@@ -78706,13 +79582,49 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/maddy-binaries",
           "created_at": "2026-04-22T08:22:29Z",
-          "updated_at": "2026-04-30T20:08:28Z",
+          "updated_at": "2026-08-25T19:01:08Z",
           "versions": [
+            {
+              "id": 1171323787,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-25T19:01:08Z",
+              "updated_at": "2026-08-25T19:01:08Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/maddy-binaries/1171323787"
+            },
+            {
+              "id": 1171286989,
+              "tags": [],
+              "created_at": "2026-08-25T18:49:58Z",
+              "updated_at": "2026-08-25T18:49:58Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/maddy-binaries/1171286989"
+            },
+            {
+              "id": 1171226097,
+              "tags": [],
+              "created_at": "2026-08-25T18:30:52Z",
+              "updated_at": "2026-08-25T18:30:52Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/maddy-binaries/1171226097"
+            },
+            {
+              "id": 1170005884,
+              "tags": [],
+              "created_at": "2026-08-25T13:08:34Z",
+              "updated_at": "2026-08-25T13:08:34Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/maddy-binaries/1170005884"
+            },
+            {
+              "id": 1169958197,
+              "tags": [],
+              "created_at": "2026-08-25T12:56:54Z",
+              "updated_at": "2026-08-25T12:56:54Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/maddy-binaries/1169958197"
+            },
             {
               "id": 833299313,
               "tags": [
-                "fc7e11db1650884be9ae3a7bb5f4e4a11f76bda3",
-                "latest"
+                "fc7e11db1650884be9ae3a7bb5f4e4a11f76bda3"
               ],
               "created_at": "2026-04-30T20:08:27Z",
               "updated_at": "2026-04-30T20:08:27Z",
@@ -78991,7 +79903,7 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 31635039,
+              "size_bytes": 33524692,
               "entrypoint": [
                 "/bin/maddy",
                 "-config",
@@ -79009,20 +79921,19 @@
                 "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
               ],
               "labels": {
-                "cloud.diegonmarcos.from-image": "foxcpp/maddy:0.9",
                 "maintainer": "fox.cpp@disroot.org",
-                "org.opencontainers.image.created": "2026-04-12T11:30:58.806Z",
+                "org.opencontainers.image.created": "2026-05-23T22:32:49.280Z",
                 "org.opencontainers.image.description": "✉️ Composable all-in-one mail server.",
                 "org.opencontainers.image.documentation": "https://maddy.email/docker/",
                 "org.opencontainers.image.licenses": "GPL-3.0",
-                "org.opencontainers.image.revision": "ec821b7d1197cc437255c36a159ead1b51099876",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
+                "org.opencontainers.image.revision": "58e8a11423e140ad37063ce8dfc446de4c1591ed",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
                 "org.opencontainers.image.title": "Maddy Mail Server",
                 "org.opencontainers.image.url": "https://maddy.email",
-                "org.opencontainers.image.version": "0.9.3"
+                "org.opencontainers.image.version": "0.9.5"
               },
-              "layers_count": 5,
-              "created": "2026-04-30T20:08:23.525713614Z"
+              "layers_count": 6,
+              "created": "2026-08-25T19:01:03.554135857Z"
             }
           ]
         },
@@ -79031,13 +79942,48 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/maddy-binaries-binaries",
           "created_at": "2026-04-25T13:45:41Z",
-          "updated_at": "2026-04-30T20:08:30Z",
+          "updated_at": "2026-08-25T19:01:12Z",
           "versions": [
             {
-              "id": 833299413,
+              "id": 1171323995,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T19:01:12Z",
+              "updated_at": "2026-08-25T19:01:12Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/maddy-binaries-binaries/1171323995"
+            },
+            {
+              "id": 1171287179,
+              "tags": [],
+              "created_at": "2026-08-25T18:50:02Z",
+              "updated_at": "2026-08-25T18:50:02Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/maddy-binaries-binaries/1171287179"
+            },
+            {
+              "id": 1171226236,
+              "tags": [],
+              "created_at": "2026-08-25T18:30:55Z",
+              "updated_at": "2026-08-25T18:30:55Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/maddy-binaries-binaries/1171226236"
+            },
+            {
+              "id": 1170006231,
+              "tags": [],
+              "created_at": "2026-08-25T13:08:39Z",
+              "updated_at": "2026-08-25T13:08:39Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/maddy-binaries-binaries/1170006231"
+            },
+            {
+              "id": 1169958741,
+              "tags": [],
+              "created_at": "2026-08-25T12:57:02Z",
+              "updated_at": "2026-08-25T12:57:02Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/maddy-binaries-binaries/1169958741"
+            },
+            {
+              "id": 833299413,
+              "tags": [],
               "created_at": "2026-04-30T20:08:30Z",
               "updated_at": "2026-04-30T20:08:30Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/maddy-binaries-binaries/833299413"
@@ -79110,7 +80056,7 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 31635039,
+              "size_bytes": 33524692,
               "entrypoint": [
                 "/bin/maddy",
                 "-config",
@@ -79128,20 +80074,19 @@
                 "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
               ],
               "labels": {
-                "cloud.diegonmarcos.from-image": "foxcpp/maddy:0.9",
                 "maintainer": "fox.cpp@disroot.org",
-                "org.opencontainers.image.created": "2026-04-12T11:30:58.806Z",
+                "org.opencontainers.image.created": "2026-05-23T22:32:49.280Z",
                 "org.opencontainers.image.description": "✉️ Composable all-in-one mail server.",
                 "org.opencontainers.image.documentation": "https://maddy.email/docker/",
                 "org.opencontainers.image.licenses": "GPL-3.0",
-                "org.opencontainers.image.revision": "ec821b7d1197cc437255c36a159ead1b51099876",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud",
+                "org.opencontainers.image.revision": "58e8a11423e140ad37063ce8dfc446de4c1591ed",
+                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra",
                 "org.opencontainers.image.title": "Maddy Mail Server",
                 "org.opencontainers.image.url": "https://maddy.email",
-                "org.opencontainers.image.version": "0.9.3"
+                "org.opencontainers.image.version": "0.9.5"
               },
-              "layers_count": 5,
-              "created": "2026-04-30T20:08:23.525713614Z"
+              "layers_count": 6,
+              "created": "2026-08-25T19:01:03.554135857Z"
             }
           ]
         },
@@ -87918,13 +88863,27 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/matomo-configs",
           "created_at": "2026-04-02T18:43:49Z",
-          "updated_at": "2026-08-24T18:04:08Z",
+          "updated_at": "2026-08-25T12:06:26Z",
           "versions": [
             {
-              "id": 1166803024,
+              "id": 1169761015,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T12:06:26Z",
+              "updated_at": "2026-08-25T12:06:26Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/matomo-configs/1169761015"
+            },
+            {
+              "id": 1169695772,
+              "tags": [],
+              "created_at": "2026-08-25T11:49:06Z",
+              "updated_at": "2026-08-25T11:49:06Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/matomo-configs/1169695772"
+            },
+            {
+              "id": 1166803024,
+              "tags": [],
               "created_at": "2026-08-24T18:04:08Z",
               "updated_at": "2026-08-24T18:04:08Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/matomo-configs/1166803024"
@@ -88508,7 +89467,7 @@
             {
               "os": "linux",
               "architecture": "arm64",
-              "size_bytes": 2006194,
+              "size_bytes": 2006182,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -88517,7 +89476,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-08-24T18:04:03.92626284Z"
+              "created": "2026-08-25T12:06:22.658779095Z"
             }
           ]
         },
@@ -98376,13 +99335,31 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-gcp-proxy",
           "created_at": "2026-04-05T09:05:42Z",
-          "updated_at": "2026-08-24T19:48:42Z",
+          "updated_at": "2026-08-25T22:02:13Z",
           "versions": [
+            {
+              "id": 1171870916,
+              "tags": [
+                "4fe6713",
+                "latest"
+              ],
+              "created_at": "2026-08-25T22:02:12Z",
+              "updated_at": "2026-08-25T22:02:12Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-gcp-proxy/1171870916"
+            },
+            {
+              "id": 1169282031,
+              "tags": [
+                "0a60ace"
+              ],
+              "created_at": "2026-08-25T09:49:51Z",
+              "updated_at": "2026-08-25T09:49:51Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-gcp-proxy/1169282031"
+            },
             {
               "id": 1167145167,
               "tags": [
-                "ea28629",
-                "latest"
+                "ea28629"
               ],
               "created_at": "2026-08-24T19:48:42Z",
               "updated_at": "2026-08-24T19:48:42Z",
@@ -100297,7 +101274,7 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 768855746,
+              "size_bytes": 768863327,
               "entrypoint": [
                 "/bin/bash",
                 "/hm/activate.sh"
@@ -100306,7 +101283,7 @@
               "working_dir": "",
               "env": [
                 "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
-                "HM_ACTIVATION_PATH=/nix/store/5h8ghlz4lj8zgkc1smrqxbhv5prk119l-home-manager-generation",
+                "HM_ACTIVATION_PATH=/nix/store/1zq7gdd7kv488m0fahyz5k539kgfl5kl-home-manager-generation",
                 "HM_USER=diego"
               ],
               "labels": {
@@ -100314,7 +101291,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
               },
               "layers_count": 5,
-              "created": "2026-08-24T19:46:58.746617926Z"
+              "created": "2026-08-25T22:00:34.587856283Z"
             }
           ]
         },
@@ -100569,13 +101546,31 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-analytics",
           "created_at": "2026-04-05T09:04:10Z",
-          "updated_at": "2026-08-24T19:30:25Z",
+          "updated_at": "2026-08-25T21:29:30Z",
           "versions": [
+            {
+              "id": 1171781713,
+              "tags": [
+                "4baaa8d",
+                "latest"
+              ],
+              "created_at": "2026-08-25T21:29:29Z",
+              "updated_at": "2026-08-25T21:29:29Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-analytics/1171781713"
+            },
+            {
+              "id": 1169159967,
+              "tags": [
+                "0a60ace"
+              ],
+              "created_at": "2026-08-25T09:15:46Z",
+              "updated_at": "2026-08-25T09:15:46Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-analytics/1169159967"
+            },
             {
               "id": 1167088595,
               "tags": [
-                "40594c1",
-                "latest"
+                "40594c1"
               ],
               "created_at": "2026-08-24T19:30:24Z",
               "updated_at": "2026-08-24T19:30:24Z",
@@ -101998,7 +102993,7 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 743074390,
+              "size_bytes": 743098806,
               "entrypoint": [
                 "/bin/bash",
                 "/hm/activate.sh"
@@ -102007,7 +103002,7 @@
               "working_dir": "",
               "env": [
                 "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
-                "HM_ACTIVATION_PATH=/nix/store/mk6225mh42j1y1c3k7yzzmgnnyrv44z7-home-manager-generation",
+                "HM_ACTIVATION_PATH=/nix/store/24pbysr8j67vvpgvq36dr5cz44b0pv2p-home-manager-generation",
                 "HM_USER=ubuntu"
               ],
               "labels": {
@@ -102015,7 +103010,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
               },
               "layers_count": 5,
-              "created": "2026-08-24T19:29:01.021562493Z"
+              "created": "2026-08-25T21:27:53.550109612Z"
             }
           ]
         },
@@ -102024,13 +103019,31 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-mail",
           "created_at": "2026-04-05T09:04:47Z",
-          "updated_at": "2026-08-24T19:36:44Z",
+          "updated_at": "2026-08-25T21:44:22Z",
           "versions": [
+            {
+              "id": 1171822554,
+              "tags": [
+                "4fe6713",
+                "latest"
+              ],
+              "created_at": "2026-08-25T21:44:21Z",
+              "updated_at": "2026-08-25T21:44:21Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-mail/1171822554"
+            },
+            {
+              "id": 1169216908,
+              "tags": [
+                "0a60ace"
+              ],
+              "created_at": "2026-08-25T09:31:11Z",
+              "updated_at": "2026-08-25T09:31:11Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-mail/1169216908"
+            },
             {
               "id": 1167108302,
               "tags": [
-                "ea28629",
-                "latest"
+                "ea28629"
               ],
               "created_at": "2026-08-24T19:36:43Z",
               "updated_at": "2026-08-24T19:36:43Z",
@@ -103605,7 +104618,7 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 743280706,
+              "size_bytes": 743274049,
               "entrypoint": [
                 "/bin/bash",
                 "/hm/activate.sh"
@@ -103614,7 +104627,7 @@
               "working_dir": "",
               "env": [
                 "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
-                "HM_ACTIVATION_PATH=/nix/store/qa91akvi60niq04s1l80z2mniky7mf3s-home-manager-generation",
+                "HM_ACTIVATION_PATH=/nix/store/00snkzdq70xj6fqchchb4m7nkwlybsya-home-manager-generation",
                 "HM_USER=ubuntu"
               ],
               "labels": {
@@ -103622,7 +104635,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
               },
               "layers_count": 5,
-              "created": "2026-08-24T19:34:58.736607798Z"
+              "created": "2026-08-25T21:42:23.28215881Z"
             }
           ]
         },
@@ -106866,7 +107879,7 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/openobserve",
           "created_at": "2026-08-01T13:15:50Z",
-          "updated_at": "2026-08-24T16:22:29Z",
+          "updated_at": "2026-08-25T12:08:58Z",
           "versions": [
             {
               "id": 1146248867,
@@ -106911,7 +107924,7 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/openobserve-binaries",
           "created_at": "2026-08-01T13:15:54Z",
-          "updated_at": "2026-08-24T16:22:30Z",
+          "updated_at": "2026-08-25T12:08:59Z",
           "versions": [
             {
               "id": 1146249059,
@@ -120811,13 +121824,70 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/stalwart-sorter-binaries",
           "created_at": "2026-08-24T20:50:10Z",
-          "updated_at": "2026-08-24T21:24:17Z",
+          "updated_at": "2026-08-25T20:04:45Z",
           "versions": [
             {
-              "id": 1167447968,
+              "id": 1171524371,
               "tags": [
+                "40017bc17f5e",
                 "latest"
               ],
+              "created_at": "2026-08-25T20:04:42Z",
+              "updated_at": "2026-08-25T20:04:42Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries/1171524371"
+            },
+            {
+              "id": 1171485975,
+              "tags": [],
+              "created_at": "2026-08-25T19:52:30Z",
+              "updated_at": "2026-08-25T19:52:30Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries/1171485975"
+            },
+            {
+              "id": 1171223867,
+              "tags": [],
+              "created_at": "2026-08-25T18:30:08Z",
+              "updated_at": "2026-08-25T18:30:08Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries/1171223867"
+            },
+            {
+              "id": 1171191935,
+              "tags": [],
+              "created_at": "2026-08-25T18:20:44Z",
+              "updated_at": "2026-08-25T18:20:44Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries/1171191935"
+            },
+            {
+              "id": 1169619757,
+              "tags": [],
+              "created_at": "2026-08-25T11:28:06Z",
+              "updated_at": "2026-08-25T11:28:06Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries/1169619757"
+            },
+            {
+              "id": 1169549910,
+              "tags": [],
+              "created_at": "2026-08-25T11:09:05Z",
+              "updated_at": "2026-08-25T11:09:05Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries/1169549910"
+            },
+            {
+              "id": 1169489096,
+              "tags": [],
+              "created_at": "2026-08-25T10:51:22Z",
+              "updated_at": "2026-08-25T10:51:22Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries/1169489096"
+            },
+            {
+              "id": 1169470525,
+              "tags": [],
+              "created_at": "2026-08-25T10:45:36Z",
+              "updated_at": "2026-08-25T10:45:36Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries/1169470525"
+            },
+            {
+              "id": 1167447968,
+              "tags": [],
               "created_at": "2026-08-24T21:24:17Z",
               "updated_at": "2026-08-24T21:24:17Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries/1167447968"
@@ -120834,7 +121904,7 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 35162035,
+              "size_bytes": 35180570,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -120845,7 +121915,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
               },
               "layers_count": 3,
-              "created": "2026-08-24T21:24:10.369729423Z"
+              "created": "2026-08-25T20:04:37.375812212Z"
             }
           ]
         },
@@ -120854,13 +121924,70 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/stalwart-sorter-binaries-binaries",
           "created_at": "2026-08-24T20:50:14Z",
-          "updated_at": "2026-08-24T21:24:21Z",
+          "updated_at": "2026-08-25T20:04:45Z",
           "versions": [
             {
-              "id": 1167448145,
+              "id": 1171524524,
               "tags": [
+                "40017bc17f5e",
                 "latest"
               ],
+              "created_at": "2026-08-25T20:04:44Z",
+              "updated_at": "2026-08-25T20:04:44Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries-binaries/1171524524"
+            },
+            {
+              "id": 1171486084,
+              "tags": [],
+              "created_at": "2026-08-25T19:52:33Z",
+              "updated_at": "2026-08-25T19:52:33Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries-binaries/1171486084"
+            },
+            {
+              "id": 1171224076,
+              "tags": [],
+              "created_at": "2026-08-25T18:30:12Z",
+              "updated_at": "2026-08-25T18:30:12Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries-binaries/1171224076"
+            },
+            {
+              "id": 1171192151,
+              "tags": [],
+              "created_at": "2026-08-25T18:20:48Z",
+              "updated_at": "2026-08-25T18:20:48Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries-binaries/1171192151"
+            },
+            {
+              "id": 1169619930,
+              "tags": [],
+              "created_at": "2026-08-25T11:28:09Z",
+              "updated_at": "2026-08-25T11:28:09Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries-binaries/1169619930"
+            },
+            {
+              "id": 1169550056,
+              "tags": [],
+              "created_at": "2026-08-25T11:09:07Z",
+              "updated_at": "2026-08-25T11:09:07Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries-binaries/1169550056"
+            },
+            {
+              "id": 1169489212,
+              "tags": [],
+              "created_at": "2026-08-25T10:51:24Z",
+              "updated_at": "2026-08-25T10:51:24Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries-binaries/1169489212"
+            },
+            {
+              "id": 1169470627,
+              "tags": [],
+              "created_at": "2026-08-25T10:45:38Z",
+              "updated_at": "2026-08-25T10:45:38Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries-binaries/1169470627"
+            },
+            {
+              "id": 1167448145,
+              "tags": [],
               "created_at": "2026-08-24T21:24:21Z",
               "updated_at": "2026-08-24T21:24:21Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries-binaries/1167448145"
@@ -120877,7 +122004,7 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 35162035,
+              "size_bytes": 35180570,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -120888,7 +122015,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
               },
               "layers_count": 3,
-              "created": "2026-08-24T21:24:10.369729423Z"
+              "created": "2026-08-25T20:04:37.375812212Z"
             }
           ]
         },
@@ -122072,13 +123199,69 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/tools-stalwart-configs",
           "created_at": "2026-04-01T02:02:34Z",
-          "updated_at": "2026-08-24T21:23:03Z",
+          "updated_at": "2026-08-25T20:03:28Z",
           "versions": [
             {
-              "id": 1167444240,
+              "id": 1171520608,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T20:03:28Z",
+              "updated_at": "2026-08-25T20:03:28Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/tools-stalwart-configs/1171520608"
+            },
+            {
+              "id": 1171480777,
+              "tags": [],
+              "created_at": "2026-08-25T19:50:43Z",
+              "updated_at": "2026-08-25T19:50:43Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/tools-stalwart-configs/1171480777"
+            },
+            {
+              "id": 1171217571,
+              "tags": [],
+              "created_at": "2026-08-25T18:28:07Z",
+              "updated_at": "2026-08-25T18:28:07Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/tools-stalwart-configs/1171217571"
+            },
+            {
+              "id": 1171185479,
+              "tags": [],
+              "created_at": "2026-08-25T18:18:44Z",
+              "updated_at": "2026-08-25T18:18:44Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/tools-stalwart-configs/1171185479"
+            },
+            {
+              "id": 1169615316,
+              "tags": [],
+              "created_at": "2026-08-25T11:26:53Z",
+              "updated_at": "2026-08-25T11:26:53Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/tools-stalwart-configs/1169615316"
+            },
+            {
+              "id": 1169545376,
+              "tags": [],
+              "created_at": "2026-08-25T11:07:51Z",
+              "updated_at": "2026-08-25T11:07:51Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/tools-stalwart-configs/1169545376"
+            },
+            {
+              "id": 1169485934,
+              "tags": [],
+              "created_at": "2026-08-25T10:50:20Z",
+              "updated_at": "2026-08-25T10:50:20Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/tools-stalwart-configs/1169485934"
+            },
+            {
+              "id": 1169466534,
+              "tags": [],
+              "created_at": "2026-08-25T10:44:19Z",
+              "updated_at": "2026-08-25T10:44:19Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/tools-stalwart-configs/1169466534"
+            },
+            {
+              "id": 1167444240,
+              "tags": [],
               "created_at": "2026-08-24T21:23:03Z",
               "updated_at": "2026-08-24T21:23:03Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/tools-stalwart-configs/1167444240"
@@ -123180,7 +124363,7 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 2317291,
+              "size_bytes": 2319016,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -123189,7 +124372,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-08-24T21:22:58.531146224Z"
+              "created": "2026-08-25T20:03:25.11177816Z"
             }
           ]
         },
@@ -123631,7 +124814,7 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/unbound-dns64",
           "created_at": "2026-07-25T10:47:42Z",
-          "updated_at": "2026-08-24T16:07:32Z",
+          "updated_at": "2026-08-25T11:42:53Z",
           "versions": [
             {
               "id": 1146000561,
@@ -123692,7 +124875,7 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/unbound-dns64-binaries",
           "created_at": "2026-07-25T10:47:45Z",
-          "updated_at": "2026-08-24T16:07:34Z",
+          "updated_at": "2026-08-25T11:42:54Z",
           "versions": [
             {
               "id": 1146000747,
@@ -123753,13 +124936,27 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/unbound-dns64-configs",
           "created_at": "2026-07-25T10:21:31Z",
-          "updated_at": "2026-08-24T16:07:32Z",
+          "updated_at": "2026-08-25T11:42:50Z",
           "versions": [
             {
-              "id": 1166402789,
+              "id": 1169673142,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T11:42:50Z",
+              "updated_at": "2026-08-25T11:42:50Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unbound-dns64-configs/1169673142"
+            },
+            {
+              "id": 1169648440,
+              "tags": [],
+              "created_at": "2026-08-25T11:35:56Z",
+              "updated_at": "2026-08-25T11:35:56Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unbound-dns64-configs/1169648440"
+            },
+            {
+              "id": 1166402789,
+              "tags": [],
               "created_at": "2026-08-24T16:07:32Z",
               "updated_at": "2026-08-24T16:07:32Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/unbound-dns64-configs/1166402789"
@@ -124119,7 +125316,7 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 2297792,
+              "size_bytes": 2297787,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -124128,7 +125325,7 @@
               ],
               "labels": {},
               "layers_count": 2,
-              "created": "2026-08-24T16:07:27.240932248Z"
+              "created": "2026-08-25T11:42:45.651364976Z"
             }
           ]
         },
@@ -131713,8 +132910,26 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-mail",
           "created_at": "2026-06-12T13:44:17Z",
-          "updated_at": "2026-08-22T10:15:22Z",
+          "updated_at": "2026-08-25T11:33:02Z",
           "versions": [
+            {
+              "id": 1169637956,
+              "tags": [
+                "sha-5b6ae181"
+              ],
+              "created_at": "2026-08-25T11:33:02Z",
+              "updated_at": "2026-08-25T11:33:02Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1169637956"
+            },
+            {
+              "id": 1169637907,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-25T11:33:01Z",
+              "updated_at": "2026-08-25T11:33:01Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1169637907"
+            },
             {
               "id": 1160089602,
               "tags": [
@@ -131726,9 +132941,7 @@
             },
             {
               "id": 1160089578,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-08-22T10:15:22Z",
               "updated_at": "2026-08-22T10:15:22Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1160089578"
@@ -189607,8 +190820,26 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cloud-unix-termux-boot",
           "created_at": "2026-08-21T12:08:09Z",
-          "updated_at": "2026-08-21T12:53:12Z",
+          "updated_at": "2026-08-25T21:45:58Z",
           "versions": [
+            {
+              "id": 1171827335,
+              "tags": [
+                "sha-e670b4d4"
+              ],
+              "created_at": "2026-08-25T21:45:58Z",
+              "updated_at": "2026-08-25T21:45:58Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-unix-termux-boot/1171827335"
+            },
+            {
+              "id": 1171827301,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-25T21:45:58Z",
+              "updated_at": "2026-08-25T21:45:58Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-unix-termux-boot/1171827301"
+            },
             {
               "id": 1157309654,
               "tags": [
@@ -189620,9 +190851,7 @@
             },
             {
               "id": 1157309606,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-08-21T12:53:11Z",
               "updated_at": "2026-08-21T12:53:11Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cloud-unix-termux-boot/1157309606"
@@ -193194,13 +194423,20 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/qutebrowser-standalone",
           "created_at": "2026-07-04T11:02:54Z",
-          "updated_at": "2026-08-18T11:48:15Z",
+          "updated_at": "2026-08-25T21:45:43Z",
           "versions": [
             {
-              "id": 1144752432,
+              "id": 1171826606,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T21:45:43Z",
+              "updated_at": "2026-08-25T21:45:43Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/qutebrowser-standalone/1171826606"
+            },
+            {
+              "id": 1144752432,
+              "tags": [],
               "created_at": "2026-08-18T11:48:15Z",
               "updated_at": "2026-08-18T11:48:15Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/qutebrowser-standalone/1144752432"
@@ -194414,13 +195650,27 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/unix-dev-store-cache",
           "created_at": "2026-07-09T18:37:23Z",
-          "updated_at": "2026-08-24T22:57:08Z",
+          "updated_at": "2026-08-25T22:29:05Z",
           "versions": [
             {
-              "id": 1145133665,
+              "id": 1171942943,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-25T22:29:05Z",
+              "updated_at": "2026-08-25T22:29:05Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-dev-store-cache/1171942943"
+            },
+            {
+              "id": 1171375895,
+              "tags": [],
+              "created_at": "2026-08-25T19:16:56Z",
+              "updated_at": "2026-08-25T19:16:56Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-dev-store-cache/1171375895"
+            },
+            {
+              "id": 1145133665,
+              "tags": [],
               "created_at": "2026-08-18T13:27:44Z",
               "updated_at": "2026-08-18T13:27:44Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-dev-store-cache/1145133665"
@@ -194451,13 +195701,13 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 8564854484,
+              "size_bytes": 8516101856,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
               "env": [],
               "labels": {
-                "com.diegonmarcos.activation-path": "/nix/store/q048bn0ddl5cz830qp1yl25k3lpkkq5q-dev-profile",
+                "com.diegonmarcos.activation-path": "/nix/store/nrvjxnzl2c8vmgx4m7m8n2cdrmafjjw8-dev-profile",
                 "org.opencontainers.image.description": "Dev-store profile (devProfile) as layered store paths (incremental GHCR cache).",
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-unix"
               },
@@ -194471,22 +195721,50 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/unix-hm-cache",
           "created_at": "2026-07-09T11:02:33Z",
-          "updated_at": "2026-08-24T23:44:41Z",
+          "updated_at": "2026-08-25T23:21:22Z",
           "versions": [
             {
-              "id": 1167772438,
+              "id": 1172060439,
               "tags": [
                 "nixcache-latest"
               ],
+              "created_at": "2026-08-25T23:21:22Z",
+              "updated_at": "2026-08-25T23:21:22Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-hm-cache/1172060439"
+            },
+            {
+              "id": 1172019833,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-08-25T23:02:48Z",
+              "updated_at": "2026-08-25T23:02:48Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-hm-cache/1172019833"
+            },
+            {
+              "id": 1171572444,
+              "tags": [],
+              "created_at": "2026-08-25T20:19:07Z",
+              "updated_at": "2026-08-25T20:19:07Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-hm-cache/1171572444"
+            },
+            {
+              "id": 1171523944,
+              "tags": [],
+              "created_at": "2026-08-25T20:04:34Z",
+              "updated_at": "2026-08-25T20:04:34Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-hm-cache/1171523944"
+            },
+            {
+              "id": 1167772438,
+              "tags": [],
               "created_at": "2026-08-24T23:44:41Z",
               "updated_at": "2026-08-24T23:44:41Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-hm-cache/1167772438"
             },
             {
               "id": 1167737744,
-              "tags": [
-                "latest"
-              ],
+              "tags": [],
               "created_at": "2026-08-24T23:27:13Z",
               "updated_at": "2026-08-24T23:27:13Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-hm-cache/1167737744"
@@ -195735,13 +197013,13 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 9635185352,
+              "size_bytes": 9586466443,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
               "env": [],
               "labels": {
-                "com.diegonmarcos.activation-path": "/nix/store/hlznds8yfbv3dpxss54sxl487vrn1fza-home-manager-generation",
+                "com.diegonmarcos.activation-path": "/nix/store/2jnfykah4h7bhzf9qqwf14acciyh0if0-home-manager-generation",
                 "org.opencontainers.image.description": "Desktop home-manager activation closure as layered store paths (incremental GHCR cache).",
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-unix"
               },
@@ -195985,13 +197263,27 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/unix-termux-nixcache",
           "created_at": "2026-07-25T10:25:55Z",
-          "updated_at": "2026-08-21T13:37:14Z",
+          "updated_at": "2026-08-25T20:50:00Z",
           "versions": [
             {
-              "id": 1157469511,
+              "id": 1171666979,
               "tags": [
                 "nixcache-latest"
               ],
+              "created_at": "2026-08-25T20:50:00Z",
+              "updated_at": "2026-08-25T20:50:00Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-termux-nixcache/1171666979"
+            },
+            {
+              "id": 1171239602,
+              "tags": [],
+              "created_at": "2026-08-25T18:35:13Z",
+              "updated_at": "2026-08-25T18:35:13Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-termux-nixcache/1171239602"
+            },
+            {
+              "id": 1157469511,
+              "tags": [],
               "created_at": "2026-08-21T13:37:14Z",
               "updated_at": "2026-08-21T13:37:14Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/unix-termux-nixcache/1157469511"
@@ -196643,13 +197935,41 @@
           "visibility": "private",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-data",
           "created_at": "2026-08-23T12:27:53Z",
-          "updated_at": "2026-08-25T04:34:11Z",
+          "updated_at": "2026-08-26T02:47:06Z",
           "versions": [
             {
-              "id": 1168342667,
+              "id": 1172474888,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-26T02:47:06Z",
+              "updated_at": "2026-08-26T02:47:06Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-data/1172474888"
+            },
+            {
+              "id": 1171942656,
+              "tags": [],
+              "created_at": "2026-08-25T22:28:57Z",
+              "updated_at": "2026-08-25T22:28:57Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-data/1171942656"
+            },
+            {
+              "id": 1170910813,
+              "tags": [],
+              "created_at": "2026-08-25T16:55:21Z",
+              "updated_at": "2026-08-25T16:55:21Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-data/1170910813"
+            },
+            {
+              "id": 1170831810,
+              "tags": [],
+              "created_at": "2026-08-25T16:32:16Z",
+              "updated_at": "2026-08-25T16:32:16Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-data/1170831810"
+            },
+            {
+              "id": 1168342667,
+              "tags": [],
               "created_at": "2026-08-25T04:34:11Z",
               "updated_at": "2026-08-25T04:34:11Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-data/1168342667"
@@ -198464,13 +199784,34 @@
           "visibility": "private",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-my-ai_memory",
           "created_at": "2026-08-23T12:28:13Z",
-          "updated_at": "2026-08-25T04:34:14Z",
+          "updated_at": "2026-08-26T04:38:55Z",
           "versions": [
             {
-              "id": 1168342799,
+              "id": 1172702031,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-08-26T04:38:55Z",
+              "updated_at": "2026-08-26T04:38:55Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-my-ai_memory/1172702031"
+            },
+            {
+              "id": 1171236348,
+              "tags": [],
+              "created_at": "2026-08-25T18:34:07Z",
+              "updated_at": "2026-08-25T18:34:07Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-my-ai_memory/1171236348"
+            },
+            {
+              "id": 1170825704,
+              "tags": [],
+              "created_at": "2026-08-25T16:30:24Z",
+              "updated_at": "2026-08-25T16:30:24Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-my-ai_memory/1170825704"
+            },
+            {
+              "id": 1168342799,
+              "tags": [],
               "created_at": "2026-08-25T04:34:14Z",
               "updated_at": "2026-08-25T04:34:14Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-my-ai_memory/1168342799"
@@ -198504,6 +199845,199 @@
   },
   "gha_access": [
     {
+      "workflow": "Ship → Cloud Browser APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-android/blob/main/.github/workflows/ship-cloud-browser.yml",
+      "repo": "cloud-android",
+      "packages": [
+        "cloud-browser",
+        "cloud-superapp",
+        "cloud-vault",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Calendar APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-android/blob/main/.github/workflows/ship-cloud-calendar.yml",
+      "repo": "cloud-android",
+      "packages": [
+        "cloud-calendar",
+        "cloud-superapp",
+        "cloud-vault",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Chat (materialize + build + publish to GHCR)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-android/blob/main/.github/workflows/ship-cloud-chat.yml",
+      "repo": "cloud-android",
+      "packages": [
+        "cloud-comms-chat",
+        "cloud-superapp",
+        "cloud-vault",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Contacts APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-android/blob/main/.github/workflows/ship-cloud-contacts.yml",
+      "repo": "cloud-android",
+      "packages": [
+        "cloud-contacts",
+        "cloud-superapp",
+        "cloud-vault",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Dialer (materialize + build + publish to GHCR)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-android/blob/main/.github/workflows/ship-cloud-dialer.yml",
+      "repo": "cloud-android",
+      "packages": [
+        "cloud-comms-dialer",
+        "cloud-superapp",
+        "cloud-vault",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud-IDE Hub APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-android/blob/main/.github/workflows/ship-cloud-ide.yml",
+      "repo": "cloud-android",
+      "packages": [
+        "cloud-ide-hub",
+        "cloud-superapp",
+        "cloud-vault",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Keyboard Libs APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-android/blob/main/.github/workflows/ship-cloud-keyboard-libs.yml",
+      "repo": "cloud-android",
+      "packages": [
+        "cloud-keyboard",
+        "cloud-keyboard-libs",
+        "cloud-superapp",
+        "cloud-vault",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Keyboard APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-android/blob/main/.github/workflows/ship-cloud-keyboard.yml",
+      "repo": "cloud-android",
+      "packages": [
+        "cloud-keyboard",
+        "cloud-superapp",
+        "cloud-vault",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Libs APKs (one APK per library module + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-android/blob/main/.github/workflows/ship-cloud-libs.yml",
+      "repo": "cloud-android",
+      "packages": [
+        "cloud-calendar",
+        "cloud-contacts",
+        "cloud-keyboard",
+        "cloud-keyboard-libs",
+        "cloud-nav",
+        "cloud-news",
+        "cloud-superapp",
+        "cloud-vault",
+        "cloud-wallet",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Mail (materialize + build + publish to GHCR)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-android/blob/main/.github/workflows/ship-cloud-mail.yml",
+      "repo": "cloud-android",
+      "packages": [
+        "cloud-comms-mail",
+        "cloud-superapp",
+        "cloud-vault",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Matrix (materialize + build + publish to GHCR)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-android/blob/main/.github/workflows/ship-cloud-matrix.yml",
+      "repo": "cloud-android",
+      "packages": [
+        "cloud-comms-matrix",
+        "cloud-superapp",
+        "cloud-vault",
+        "superapp",
+        "waydroid-container"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Media Center APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-android/blob/main/.github/workflows/ship-cloud-media-center.yml",
+      "repo": "cloud-android",
+      "packages": [
+        "cloud-media-center",
+        "cloud-superapp",
+        "cloud-vault",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Nav APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-android/blob/main/.github/workflows/ship-cloud-nav.yml",
+      "repo": "cloud-android",
+      "packages": [
+        "cloud-nav",
+        "cloud-superapp",
+        "cloud-vault",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud News APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-android/blob/main/.github/workflows/ship-cloud-news.yml",
+      "repo": "cloud-android",
+      "packages": [
+        "cloud-news",
+        "cloud-superapp",
+        "cloud-vault",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud SuperApp APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-android/blob/main/.github/workflows/ship-cloud-superapp.yml",
+      "repo": "cloud-android",
+      "packages": [
+        "cloud-superapp",
+        "cloud-vault",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Vault APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-android/blob/main/.github/workflows/ship-cloud-vault.yml",
+      "repo": "cloud-android",
+      "packages": [
+        "cloud-superapp",
+        "cloud-vault",
+        "superapp"
+      ]
+    },
+    {
+      "workflow": "Ship → Cloud Wallet APK (build + push to GHCR via ORAS + attach to GH Release)",
+      "workflow_url": "https://github.com/diegonmarcos/cloud-android/blob/main/.github/workflows/ship-cloud-wallet.yml",
+      "repo": "cloud-android",
+      "packages": [
+        "cloud-superapp",
+        "cloud-vault",
+        "cloud-wallet",
+        "superapp"
+      ]
+    },
+    {
       "workflow": "Ship",
       "workflow_url": "https://github.com/diegonmarcos/cloud-infra/blob/main/.github/workflows/ship.yml",
       "repo": "cloud-infra",
@@ -198511,7 +200045,9 @@
         "c3-public-api",
         "caddy",
         "claude-superset-api",
+        "cloud-cgc-pub-mcp",
         "cloud-vault",
+        "fin-api",
         "gha-runner",
         "google-workspace-mcp",
         "http-to-smtp-proxy-api",
@@ -198622,38 +200158,6 @@
       ]
     },
     {
-      "workflow": "Ship → Cloud SuperApp APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-superapp.yml",
-      "repo": "cloud-unix",
-      "packages": [
-        "cloud-superapp",
-        "cloud-vault",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud-IDE Hub APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-ide.yml",
-      "repo": "cloud-unix",
-      "packages": [
-        "cloud-ide-hub",
-        "cloud-superapp",
-        "cloud-vault",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Nav APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-nav.yml",
-      "repo": "cloud-unix",
-      "packages": [
-        "cloud-nav",
-        "cloud-superapp",
-        "cloud-vault",
-        "superapp"
-      ]
-    },
-    {
       "workflow": "Ship → Garmin Watch Face (.prg → GHCR via ORAS + GitHub Release)",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-garmin-watchface.yml",
       "repo": "cloud-unix",
@@ -198714,172 +200218,11 @@
       ]
     },
     {
-      "workflow": "Ship → Cloud Browser APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-browser.yml",
-      "repo": "cloud-unix",
-      "packages": [
-        "cloud-browser",
-        "cloud-superapp",
-        "cloud-vault",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Vault APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-vault.yml",
-      "repo": "cloud-unix",
-      "packages": [
-        "cloud-superapp",
-        "cloud-vault",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Wallet APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-wallet.yml",
-      "repo": "cloud-unix",
-      "packages": [
-        "cloud-superapp",
-        "cloud-vault",
-        "cloud-wallet",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Keyboard APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-keyboard.yml",
-      "repo": "cloud-unix",
-      "packages": [
-        "cloud-keyboard",
-        "cloud-superapp",
-        "cloud-vault",
-        "superapp"
-      ]
-    },
-    {
       "workflow": "Ship → my-browser-rust-chromium (Rust + CEF) release",
       "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship_my-browser-rust-chromium.yaml",
       "repo": "cloud-unix",
       "packages": [
         "my-browser-rust-chromium"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Chat (materialize + build + publish to GHCR)",
-      "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-chat.yml",
-      "repo": "cloud-unix",
-      "packages": [
-        "cloud-comms-chat",
-        "cloud-superapp",
-        "cloud-vault",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Dialer (materialize + build + publish to GHCR)",
-      "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-dialer.yml",
-      "repo": "cloud-unix",
-      "packages": [
-        "cloud-comms-dialer",
-        "cloud-superapp",
-        "cloud-vault",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Mail (materialize + build + publish to GHCR)",
-      "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-mail.yml",
-      "repo": "cloud-unix",
-      "packages": [
-        "cloud-comms-mail",
-        "cloud-superapp",
-        "cloud-vault",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Matrix (materialize + build + publish to GHCR)",
-      "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-matrix.yml",
-      "repo": "cloud-unix",
-      "packages": [
-        "cloud-comms-matrix",
-        "cloud-superapp",
-        "cloud-vault",
-        "superapp",
-        "waydroid-container"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Keyboard Libs APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-keyboard-libs.yml",
-      "repo": "cloud-unix",
-      "packages": [
-        "cloud-keyboard",
-        "cloud-keyboard-libs",
-        "cloud-superapp",
-        "cloud-vault",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Media Center APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-media-center.yml",
-      "repo": "cloud-unix",
-      "packages": [
-        "cloud-media-center",
-        "cloud-superapp",
-        "cloud-vault",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Calendar APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-calendar.yml",
-      "repo": "cloud-unix",
-      "packages": [
-        "cloud-calendar",
-        "cloud-superapp",
-        "cloud-vault",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud News APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-news.yml",
-      "repo": "cloud-unix",
-      "packages": [
-        "cloud-news",
-        "cloud-superapp",
-        "cloud-vault",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Contacts APK (build + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-contacts.yml",
-      "repo": "cloud-unix",
-      "packages": [
-        "cloud-contacts",
-        "cloud-superapp",
-        "cloud-vault",
-        "superapp"
-      ]
-    },
-    {
-      "workflow": "Ship → Cloud Libs APKs (one APK per library module + push to GHCR via ORAS + attach to GH Release)",
-      "workflow_url": "https://github.com/diegonmarcos/cloud-unix/blob/main/.github/workflows/ship-cloud-libs.yml",
-      "repo": "cloud-unix",
-      "packages": [
-        "cloud-calendar",
-        "cloud-contacts",
-        "cloud-keyboard",
-        "cloud-keyboard-libs",
-        "cloud-nav",
-        "cloud-news",
-        "cloud-superapp",
-        "cloud-vault",
-        "cloud-wallet",
-        "superapp"
       ]
     },
     {

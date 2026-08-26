@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-25T07:16:35.105Z",
+  "fetched_at": "2026-08-26T07:18:20.393Z",
   "owner": "diegonmarcos",
-  "total_releases": 137,
-  "total_assets": 211,
-  "total_downloads": 1446,
+  "total_releases": 138,
+  "total_assets": 214,
+  "total_downloads": 1412,
   "repos": {
     "cloud-mykonsole-dtk": {
       "repo_url": "https://github.com/diegonmarcos/cloud-mykonsole-dtk",
@@ -22,7 +22,7 @@
             {
               "name": "octocode-0.12.2-fastembed-x86_64",
               "size": 135286584,
-              "download_count": 442,
+              "download_count": 443,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-mykonsole-dtk/releases/download/octocode-v0.12.2-fastembed/octocode-0.12.2-fastembed-x86_64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-03-26T14:49:32Z"
@@ -47,11 +47,48 @@
           "assets": [
             {
               "name": "my-watchdog",
-              "size": 2229336,
+              "size": 2258592,
               "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/my-watchdog-latest/my-watchdog",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-25T06:57:59Z"
+              "updated_at": "2026-08-25T21:10:18Z"
+            },
+            {
+              "name": "my-watchdog-aarch64",
+              "size": 659616,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/my-watchdog-latest/my-watchdog-aarch64",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-08-25T21:10:09Z"
+            },
+            {
+              "name": "my-watchdog-x86_64",
+              "size": 770720,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/my-watchdog-latest/my-watchdog-x86_64",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-08-25T21:10:10Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-mail-20260825.112607",
+          "name": "Cloud Mail · 20260825.112607",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-08-25T11:24:25Z",
+          "published_at": "2026-08-25T11:33:05Z",
+          "html_url": "https://github.com/diegonmarcos/cloud-unix/releases/tag/cloud-comms-mail-20260825.112607",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/cloud-unix/tarball/cloud-comms-mail-20260825.112607",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/cloud-unix/zipball/cloud-comms-mail-20260825.112607",
+          "assets": [
+            {
+              "name": "cloud-comms-mail.apk",
+              "size": 29263376,
+              "download_count": 5,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/cloud-comms-mail-20260825.112607/cloud-comms-mail.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-08-25T11:33:04Z"
             }
           ]
         },
@@ -363,18 +400,18 @@
             {
               "name": "my-webserver-aarch64",
               "size": 122358912,
-              "download_count": 22,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/my-webserver-latest/my-webserver-aarch64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-18T12:30:56Z"
+              "updated_at": "2026-08-25T21:26:21Z"
             },
             {
               "name": "my-webserver-x86_64",
               "size": 125045952,
-              "download_count": 31,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/my-webserver-latest/my-webserver-x86_64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-18T12:30:56Z"
+              "updated_at": "2026-08-25T21:26:22Z"
             }
           ]
         },
@@ -1873,7 +1910,7 @@
             {
               "name": "my-ai-aarch64",
               "size": 8795720,
-              "download_count": 1,
+              "download_count": 7,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/my-ai-latest/my-ai-aarch64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-08-23T18:10:30Z"
@@ -1889,7 +1926,7 @@
             {
               "name": "my-ai-dash-aarch64",
               "size": 4173120,
-              "download_count": 1,
+              "download_count": 7,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/my-ai-latest/my-ai-dash-aarch64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-08-23T18:10:30Z"
@@ -2129,11 +2166,11 @@
           "assets": [
             {
               "name": "my-browser-x86_64.gz",
-              "size": 648213104,
+              "size": 648410958,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/my-browser-latest/my-browser-x86_64.gz",
               "content_type": "application/gzip",
-              "updated_at": "2026-08-18T11:52:23Z"
+              "updated_at": "2026-08-25T21:49:54Z"
             }
           ]
         },
@@ -2339,43 +2376,43 @@
           "assets": [
             {
               "name": "agentic-ui-dist.tar.gz",
-              "size": 2126430,
+              "size": 2126435,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/my-konsole-latest/agentic-ui-dist.tar.gz",
               "content_type": "application/x-gtar",
-              "updated_at": "2026-08-25T07:06:58Z"
+              "updated_at": "2026-08-25T21:51:17Z"
             },
             {
               "name": "my-konsole",
-              "size": 12031536,
+              "size": 11802160,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/my-konsole-latest/my-konsole",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-25T07:06:58Z"
+              "updated_at": "2026-08-25T21:51:18Z"
             },
             {
               "name": "my-konsole-dash",
-              "size": 1569752,
+              "size": 1942488,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/my-konsole-latest/my-konsole-dash",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-25T07:06:58Z"
+              "updated_at": "2026-08-25T21:51:17Z"
             },
             {
               "name": "my-konsole-engine-aarch64",
-              "size": 1519312,
+              "size": 1518968,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/my-konsole-latest/my-konsole-engine-aarch64",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-25T06:50:01Z"
+              "updated_at": "2026-08-25T21:35:03Z"
             },
             {
               "name": "my-konsole_0.1.0_amd64.deb",
-              "size": 7300662,
+              "size": 7187936,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/my-konsole-latest/my-konsole_0.1.0_amd64.deb",
               "content_type": "application/x-debian-package",
-              "updated_at": "2026-08-25T07:06:58Z"
+              "updated_at": "2026-08-25T21:51:18Z"
             }
           ]
         },
@@ -2864,7 +2901,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/qute-standalone-latest/qutebrowser-standalone.tar.gz",
               "content_type": "application/x-gtar",
-              "updated_at": "2026-08-18T11:47:48Z"
+              "updated_at": "2026-08-25T21:45:17Z"
             }
           ]
         },
@@ -2885,7 +2922,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/cloud-terminal-latest/cloud-terminal",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-08-18T17:19:09Z"
+              "updated_at": "2026-08-25T21:53:26Z"
             },
             {
               "name": "cloud-terminal_1.0.0_amd64.deb",
@@ -2893,7 +2930,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/cloud-terminal-latest/cloud-terminal_1.0.0_amd64.deb",
               "content_type": "application/x-debian-package",
-              "updated_at": "2026-08-18T17:19:09Z"
+              "updated_at": "2026-08-25T21:53:26Z"
             }
           ]
         },
@@ -2988,10 +3025,10 @@
             {
               "name": "cloud-comms-mail.apk",
               "size": 29263376,
-              "download_count": 7,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/latest/cloud-comms-mail.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-08-22T10:15:28Z"
+              "updated_at": "2026-08-25T11:33:07Z"
             },
             {
               "name": "cloud-comms-matrix-x86_64.apk",
@@ -3396,10 +3433,10 @@
             {
               "name": "Cloud-Unix-Termux-Boot.apk",
               "size": 578894,
-              "download_count": 1,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/latest/Cloud-Unix-Termux-Boot.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-08-21T12:53:13Z"
+              "updated_at": "2026-08-25T21:46:00Z"
             },
             {
               "name": "Cloud-Vault-x86_64.apk",
@@ -3449,7 +3486,7 @@
             {
               "name": "octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
               "size": 27050620,
-              "download_count": 807,
+              "download_count": 813,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-unix/releases/download/octocode-0.12.2-hf/octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
               "content_type": "application/x-gtar",
               "updated_at": "2026-03-24T12:47:34Z"
