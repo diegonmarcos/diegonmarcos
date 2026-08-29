@@ -7,7 +7,7 @@
   <a href="ghcr-byrepocodespc.md"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20By%20Codespace-30363d?style=for-the-badge" alt="By Codespace" height="28"></a>
 </p>
 
-<p align="center"><sub><b>396</b> packages · <b>132.99 GB</b> total</sub></p>
+<p align="center"><sub><b>397</b> packages · <b>133.00 GB</b> total</sub></p>
 
 # ⚙️ Packages — By GitHub Actions Workflow
 
@@ -72,7 +72,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [hermes-agent](https://github.com/users/diegonmarcos/packages/container/package/hermes-agent) | public | 908.1 MB | 4 days ago |
+| [hermes-agent](https://github.com/users/diegonmarcos/packages/container/package/hermes-agent) | public | 908.1 MB | 5 days ago |
 
 </details>
 
@@ -195,7 +195,7 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [waydroid-container](https://github.com/users/diegonmarcos/packages/container/package/waydroid-container) | public | — | 5 days ago |
+| [waydroid-container](https://github.com/users/diegonmarcos/packages/container/package/waydroid-container) | public | — | 6 days ago |
 
 </details>
 
@@ -335,11 +335,11 @@
 
 | Package | Visibility | Size | Updated |
 |:---|:---|:---|:---|
-| [cloud-comms-matrix](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-matrix) | public | — | today |
+| [cloud-comms-matrix](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-matrix) | public | — | yesterday |
 | [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | today |
 | [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | today |
 | [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 3 months ago |
-| [waydroid-container](https://github.com/users/diegonmarcos/packages/container/package/waydroid-container) | public | — | 5 days ago |
+| [waydroid-container](https://github.com/users/diegonmarcos/packages/container/package/waydroid-container) | public | — | 6 days ago |
 
 </details>
 
@@ -469,7 +469,7 @@
 
 ---
 
-### 🚫 No GHA workflow <sup>346</sup>
+### 🚫 No GHA workflow <sup>347</sup>
 
 | Package | Visibility | Size | Source Repo |
 |:---|:---|:---|:---|
@@ -578,6 +578,7 @@
 | [cloud-lib-news](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-news) | public | — | cloud-infra-desktop |
 | [cloud-lib-onehand](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-onehand) | public | — | cloud-infra-desktop |
 | [cloud-lib-ops](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ops) | public | — | cloud-infra-desktop |
+| [cloud-lib-search](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-search) | private | — | cloud-u-android |
 | [cloud-lib-shizuku-adb-debug-tools](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-shizuku-adb-debug-tools) | public | — | cloud-infra-desktop |
 | [cloud-lib-translate](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-translate) | public | — | cloud-infra-desktop |
 | [cloud-lib-translate-mlkit](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-translate-mlkit) | public | — | cloud-infra-desktop |
@@ -599,7 +600,7 @@
 | [cloud-spec-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec-configs) | public | 3.2 MB | cloud-infra |
 | [cloud-terminal](https://github.com/users/diegonmarcos/packages/container/package/cloud-terminal) | public | — | cloud-infra-desktop |
 | [cloud-unix-termux-boot](https://github.com/users/diegonmarcos/packages/container/package/cloud-unix-termux-boot) | public | — | cloud-u-android |
-| [code-server](https://github.com/users/diegonmarcos/packages/container/package/code-server) | public | 294.6 MB | cloud-infra |
+| [code-server](https://github.com/users/diegonmarcos/packages/container/package/code-server) | public | 298.7 MB | cloud-infra |
 | [code-server-binaries](https://github.com/users/diegonmarcos/packages/container/package/code-server-binaries) | public | 298.7 MB | cloud-infra |
 | [code-server-configs](https://github.com/users/diegonmarcos/packages/container/package/code-server-configs) | public | 1.9 MB | cloud-infra |
 | [contacts-radicale](https://github.com/users/diegonmarcos/packages/container/package/contacts-radicale) | public | 42.2 MB | cloud-infra |
@@ -822,4 +823,4 @@
 
 ---
 
-<sub>Auto-generated from GHCR API · <code>ghrc/src/fetch.ts</code> + <code>ghrc/src/generate-md.ts</code> · Aug 28, 2026</sub>
+<sub>Auto-generated from GHCR API · <code>ghrc/src/fetch.ts</code> + <code>ghrc/src/generate-md.ts</code> · Aug 29, 2026</sub>
