@@ -7,7 +7,7 @@
   <a href="ghcr-byrepocodespc.md"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20By%20Codespace-30363d?style=for-the-badge" alt="By Codespace" height="28"></a>
 </p>
 
-<p align="center"><sub><b>447</b> packages · <b>141.95 GB</b> total</sub></p>
+<p align="center"><sub><b>454</b> packages · <b>141.60 GB</b> total</sub></p>
 
 ```
         ╔══════════════════════════════════════════════════╗
@@ -166,7 +166,7 @@ docker pull ghcr.io/diegonmarcos/alerts-api:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-data-reports"><b>cloud-data-reports</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 390 tags · linux/amd64, linux/arm64 · 214.6 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-data-reports"><b>cloud-data-reports</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 414 tags · linux/amd64, linux/arm64 · 214.6 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-data-reports:latest
@@ -174,9 +174,33 @@ docker pull ghcr.io/diegonmarcos/cloud-data-reports:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `src-d1a612e` `a9b6073` `latest` | Sep 24, 2026 | [`1289318795`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1289318795) |
-| 🏷️ | `a9b6073-amd64` `amd64` | Sep 24, 2026 | [`1289316340`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1289316340) |
-| 🏷️ | `a9b6073-arm64` `arm64` | Sep 24, 2026 | [`1289310538`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1289310538) |
+| 🟢 | `src-8e62c5f` `2b6709d` `latest` | Sep 25, 2026 | [`1294259868`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1294259868) |
+| 🏷️ | `2b6709d-amd64` `amd64` | Sep 25, 2026 | [`1294257201`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1294257201) |
+| 🏷️ | `2b6709d-arm64` `arm64` | Sep 25, 2026 | [`1294253653`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1294253653) |
+| 🏷️ | `src-cb6f15b` `e1bebe5` | Sep 24, 2026 | [`1291767348`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1291767348) |
+| 🏷️ | `e1bebe5-amd64` | Sep 24, 2026 | [`1291764520`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1291764520) |
+| 🏷️ | `e1bebe5-arm64` | Sep 24, 2026 | [`1291763807`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1291763807) |
+| 🏷️ | `src-94e22a8` `f106e57` | Sep 24, 2026 | [`1291097369`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1291097369) |
+| 🏷️ | `f106e57-amd64` | Sep 24, 2026 | [`1291095517`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1291095517) |
+| 🏷️ | `f106e57-arm64` | Sep 24, 2026 | [`1291091869`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1291091869) |
+| 🏷️ | `src-12dea30` `6e870a1` | Sep 24, 2026 | [`1290732192`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1290732192) |
+| 🏷️ | `6e870a1-amd64` | Sep 24, 2026 | [`1290730054`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1290730054) |
+| 🏷️ | `6e870a1-arm64` | Sep 24, 2026 | [`1290726163`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1290726163) |
+| 🏷️ | `src-1836c0d` `d03ae4e` | Sep 24, 2026 | [`1290604186`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1290604186) |
+| 🏷️ | `d03ae4e-arm64` | Sep 24, 2026 | [`1290601552`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1290601552) |
+| 🏷️ | `d03ae4e-amd64` | Sep 24, 2026 | [`1290600326`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1290600326) |
+| 🏷️ | `src-76e4722` `1551c61` | Sep 24, 2026 | [`1290544837`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1290544837) |
+| 🏷️ | `1551c61-amd64` | Sep 24, 2026 | [`1290541865`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1290541865) |
+| 🏷️ | `1551c61-arm64` | Sep 24, 2026 | [`1290539933`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1290539933) |
+| 🏷️ | `src-0c7a905` `5d2ec00` | Sep 24, 2026 | [`1290311251`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1290311251) |
+| 🏷️ | `5d2ec00-amd64` | Sep 24, 2026 | [`1290308615`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1290308615) |
+| 🏷️ | `5d2ec00-arm64` | Sep 24, 2026 | [`1290303577`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1290303577) |
+| 🏷️ | `src-cd3875e` `a9b6073` | Sep 24, 2026 | [`1290100852`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1290100852) |
+| 🏷️ | `a9b6073-arm64` | Sep 24, 2026 | [`1290096760`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1290096760) |
+| 🏷️ | `a9b6073-amd64` | Sep 24, 2026 | [`1290095636`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1290095636) |
+| 🏷️ | `src-348ea8a` | Sep 24, 2026 | [`1290020298`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1290020298) |
+| 🏷️ | `src-e0ec44d` | Sep 24, 2026 | [`1289504599`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1289504599) |
+| 🏷️ | `src-d1a612e` | Sep 24, 2026 | [`1289318795`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1289318795) |
 | 🏷️ | `src-e2ec667` `2bde46f` | Sep 24, 2026 | [`1289292365`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1289292365) |
 | 🏷️ | `2bde46f-amd64` | Sep 24, 2026 | [`1289289624`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1289289624) |
 | 🏷️ | `2bde46f-arm64` | Sep 24, 2026 | [`1289286205`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1289286205) |
@@ -502,7 +526,7 @@ docker pull ghcr.io/diegonmarcos/cloud-data-reports:latest
 | 🔹 | `4c30f39` | Sep 16, 2026 | [`1254053979`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1254053979) |
 | 🔹 | `a249d65` | Sep 16, 2026 | [`1253989468`](https://github.com/users/diegonmarcos/packages/container/cloud-data-reports/1253989468) |
 | | *… +63 more SHA builds* | | |
-| ⚪ | *201 untagged image layers* | | |
+| ⚪ | *207 untagged image layers* | | |
 
 </details>
 
@@ -610,7 +634,7 @@ docker pull ghcr.io/diegonmarcos/umami-setup:latest
 ### 📁 <a href="https://github.com/diegonmarcos/cloud-data-my-ai-memory">cloud-data-my-ai-memory</a> &nbsp;<sup>1 package · —</sup>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-my-ai_memory"><b>cgc-db-cloud-my-ai_memory</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published 28 days ago · 1 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-my-ai_memory"><b>cgc-db-cloud-my-ai_memory</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published 29 days ago · 1 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cgc-db-cloud-my-ai_memory:latest
@@ -625,10 +649,10 @@ docker pull ghcr.io/diegonmarcos/cgc-db-cloud-my-ai_memory:latest
 
 ---
 
-### 📁 <a href="https://github.com/diegonmarcos/cloud-infra">cloud-infra</a> &nbsp;<sup>325 packages · 63.60 GB</sup>
+### 📁 <a href="https://github.com/diegonmarcos/cloud-infra">cloud-infra</a> &nbsp;<sup>325 packages · 63.25 GB</sup>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/alerts-api-binaries"><b>alerts-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 26 days ago · 1 tags · linux/amd64 · 51.1 MB · port 5000</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/alerts-api-binaries"><b>alerts-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 27 days ago · 1 tags · linux/amd64 · 51.1 MB · port 5000</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/alerts-api-binaries:latest
@@ -641,7 +665,7 @@ docker pull ghcr.io/diegonmarcos/alerts-api-binaries:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/alerts-api-configs"><b>alerts-api-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 26 days ago · 1 tags · linux/amd64 · 2.2 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/alerts-api-configs"><b>alerts-api-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 27 days ago · 1 tags · linux/amd64 · 2.2 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/alerts-api-configs:latest
@@ -663,7 +687,7 @@ docker pull ghcr.io/diegonmarcos/authelia:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `483c1078a3cd` `96e362760498` `065a48c22de7` `ff6ef3164a21` `b0c9ade9f56c` `9ced09227078` `cc16f002957d` `latest` | Aug 31, 2026 | [`1190713336`](https://github.com/users/diegonmarcos/packages/container/authelia/1190713336) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `483c1078a3cd` `96e362760498` `065a48c22de7` `ff6ef3164a21` `b0c9ade9f56c` `9ced09227078` `cc16f002957d` `latest` | Aug 31, 2026 | [`1190713336`](https://github.com/users/diegonmarcos/packages/container/authelia/1190713336) |
 | 🔹 | `18dd3e4bc135` | May 7, 2026 | [`847948888`](https://github.com/users/diegonmarcos/packages/container/authelia/847948888) |
 | ⚪ | *85 untagged image layers* | | |
 
@@ -678,7 +702,7 @@ docker pull ghcr.io/diegonmarcos/authelia-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `483c1078a3cd` `96e362760498` `065a48c22de7` `ff6ef3164a21` `b0c9ade9f56c` `9ced09227078` `cc16f002957d` `latest` | Aug 31, 2026 | [`1190713514`](https://github.com/users/diegonmarcos/packages/container/authelia-binaries/1190713514) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `483c1078a3cd` `96e362760498` `065a48c22de7` `ff6ef3164a21` `b0c9ade9f56c` `9ced09227078` `cc16f002957d` `latest` | Aug 31, 2026 | [`1190713514`](https://github.com/users/diegonmarcos/packages/container/authelia-binaries/1190713514) |
 | ⚪ | *1 untagged image layer* | | |
 
 </details>
@@ -692,8 +716,8 @@ docker pull ghcr.io/diegonmarcos/authelia-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289287614`](https://github.com/users/diegonmarcos/packages/container/authelia-configs/1289287614) |
-| ⚪ | *149 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290547542`](https://github.com/users/diegonmarcos/packages/container/authelia-configs/1290547542) |
+| ⚪ | *152 untagged image layers* | | |
 
 </details>
 
@@ -706,7 +730,7 @@ docker pull ghcr.io/diegonmarcos/backup-borg:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `01cd9268fa54` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 18, 2026 | [`1146220412`](https://github.com/users/diegonmarcos/packages/container/backup-borg/1146220412) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `01cd9268fa54` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 18, 2026 | [`1146220412`](https://github.com/users/diegonmarcos/packages/container/backup-borg/1146220412) |
 | 🔹 | `f923755d10f0` | Jun 20, 2026 | [`961266592`](https://github.com/users/diegonmarcos/packages/container/backup-borg/961266592) |
 | ⚪ | *54 untagged image layers* | | |
 
@@ -721,7 +745,7 @@ docker pull ghcr.io/diegonmarcos/backup-borg-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `01cd9268fa54` `latest` | Aug 31, 2026 | [`1190871237`](https://github.com/users/diegonmarcos/packages/container/backup-borg-binaries/1190871237) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `01cd9268fa54` `latest` | Aug 31, 2026 | [`1190871237`](https://github.com/users/diegonmarcos/packages/container/backup-borg-binaries/1190871237) |
 
 </details>
 
@@ -734,8 +758,8 @@ docker pull ghcr.io/diegonmarcos/backup-borg-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289300006`](https://github.com/users/diegonmarcos/packages/container/backup-borg-configs/1289300006) |
-| ⚪ | *64 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290573243`](https://github.com/users/diegonmarcos/packages/container/backup-borg-configs/1290573243) |
+| ⚪ | *67 untagged image layers* | | |
 
 </details>
 
@@ -748,7 +772,7 @@ docker pull ghcr.io/diegonmarcos/backup-bup:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `01cd9268fa54` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 18, 2026 | [`1146227538`](https://github.com/users/diegonmarcos/packages/container/backup-bup/1146227538) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `01cd9268fa54` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 18, 2026 | [`1146227538`](https://github.com/users/diegonmarcos/packages/container/backup-bup/1146227538) |
 | 🔹 | `f923755d10f0` | Jun 20, 2026 | [`961267589`](https://github.com/users/diegonmarcos/packages/container/backup-bup/961267589) |
 | ⚪ | *54 untagged image layers* | | |
 
@@ -763,7 +787,7 @@ docker pull ghcr.io/diegonmarcos/backup-bup-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `01cd9268fa54` `latest` | Aug 31, 2026 | [`1190871239`](https://github.com/users/diegonmarcos/packages/container/backup-bup-binaries/1190871239) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `01cd9268fa54` `latest` | Aug 31, 2026 | [`1190871239`](https://github.com/users/diegonmarcos/packages/container/backup-bup-binaries/1190871239) |
 
 </details>
 
@@ -776,8 +800,8 @@ docker pull ghcr.io/diegonmarcos/backup-bup-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289301595`](https://github.com/users/diegonmarcos/packages/container/backup-bup-configs/1289301595) |
-| ⚪ | *63 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290580391`](https://github.com/users/diegonmarcos/packages/container/backup-bup-configs/1290580391) |
+| ⚪ | *66 untagged image layers* | | |
 
 </details>
 
@@ -856,7 +880,7 @@ docker pull ghcr.io/diegonmarcos/c3-analytics-api-configs:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api"><b>c3-infra-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 245 tags · linux/arm64 · 239.2 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api"><b>c3-infra-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 248 tags · linux/arm64 · 239.2 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/c3-infra-api:latest
@@ -864,17 +888,17 @@ docker pull ghcr.io/diegonmarcos/c3-infra-api:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289288545`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api/1289288545) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272418487`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api/1272418487) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272210487`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api/1272210487) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272050468`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api/1272050468) |
-| | *… +241 more SHA builds* | | |
-| ⚪ | *529 untagged image layers* | | |
+| 🟢 | `9ca203935d73` `latest` | Sep 24, 2026 | [`1291644812`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api/1291644812) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290554184`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api/1290554184) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290101664`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api/1290101664) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289288545`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api/1289288545) |
+| | *… +244 more SHA builds* | | |
+| ⚪ | *531 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-binaries"><b>c3-infra-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 70 tags · linux/arm64 · 239.2 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-binaries"><b>c3-infra-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 73 tags · linux/arm64 · 239.2 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/c3-infra-api-binaries:latest
@@ -882,12 +906,12 @@ docker pull ghcr.io/diegonmarcos/c3-infra-api-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289288836`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api-binaries/1289288836) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272418572`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api-binaries/1272418572) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272210598`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api-binaries/1272210598) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272050626`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api-binaries/1272050626) |
-| | *… +66 more SHA builds* | | |
-| ⚪ | *29 untagged image layers* | | |
+| 🟢 | `9ca203935d73` `latest` | Sep 24, 2026 | [`1291644962`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api-binaries/1291644962) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290554426`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api-binaries/1290554426) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290101967`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api-binaries/1290101967) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289288836`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api-binaries/1289288836) |
+| | *… +69 more SHA builds* | | |
+| ⚪ | *31 untagged image layers* | | |
 
 </details>
 
@@ -900,8 +924,8 @@ docker pull ghcr.io/diegonmarcos/c3-infra-api-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289283975`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api-configs/1289283975) |
-| ⚪ | *202 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1291641652`](https://github.com/users/diegonmarcos/packages/container/c3-infra-api-configs/1291641652) |
+| ⚪ | *207 untagged image layers* | | |
 
 </details>
 
@@ -953,7 +977,7 @@ docker pull ghcr.io/diegonmarcos/c3-infra-mcp-configs:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-public-api"><b>c3-public-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 13 tags · linux/amd64 · 123.9 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-public-api"><b>c3-public-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 16 tags · linux/amd64 · 123.9 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/c3-public-api:latest
@@ -961,17 +985,17 @@ docker pull ghcr.io/diegonmarcos/c3-public-api:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289284377`](https://github.com/users/diegonmarcos/packages/container/c3-public-api/1289284377) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272214178`](https://github.com/users/diegonmarcos/packages/container/c3-public-api/1272214178) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272046610`](https://github.com/users/diegonmarcos/packages/container/c3-public-api/1272046610) |
-| 🔹 | `5ca58963a78a` | Sep 20, 2026 | [`1271880931`](https://github.com/users/diegonmarcos/packages/container/c3-public-api/1271880931) |
-| | *… +9 more SHA builds* | | |
-| ⚪ | *21 untagged image layers* | | |
+| 🟢 | `9ca203935d73` `latest` | Sep 24, 2026 | [`1291636763`](https://github.com/users/diegonmarcos/packages/container/c3-public-api/1291636763) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290555269`](https://github.com/users/diegonmarcos/packages/container/c3-public-api/1290555269) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290099355`](https://github.com/users/diegonmarcos/packages/container/c3-public-api/1290099355) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289284377`](https://github.com/users/diegonmarcos/packages/container/c3-public-api/1289284377) |
+| | *… +12 more SHA builds* | | |
+| ⚪ | *23 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-public-api-binaries"><b>c3-public-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 13 tags · linux/amd64 · 123.9 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-public-api-binaries"><b>c3-public-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 16 tags · linux/amd64 · 123.9 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/c3-public-api-binaries:latest
@@ -979,17 +1003,17 @@ docker pull ghcr.io/diegonmarcos/c3-public-api-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289284657`](https://github.com/users/diegonmarcos/packages/container/c3-public-api-binaries/1289284657) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272214257`](https://github.com/users/diegonmarcos/packages/container/c3-public-api-binaries/1272214257) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272046745`](https://github.com/users/diegonmarcos/packages/container/c3-public-api-binaries/1272046745) |
-| 🔹 | `5ca58963a78a` | Sep 20, 2026 | [`1271881065`](https://github.com/users/diegonmarcos/packages/container/c3-public-api-binaries/1271881065) |
-| | *… +9 more SHA builds* | | |
-| ⚪ | *20 untagged image layers* | | |
+| 🟢 | `9ca203935d73` `latest` | Sep 24, 2026 | [`1291636915`](https://github.com/users/diegonmarcos/packages/container/c3-public-api-binaries/1291636915) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290555628`](https://github.com/users/diegonmarcos/packages/container/c3-public-api-binaries/1290555628) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290099627`](https://github.com/users/diegonmarcos/packages/container/c3-public-api-binaries/1290099627) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289284657`](https://github.com/users/diegonmarcos/packages/container/c3-public-api-binaries/1289284657) |
+| | *… +12 more SHA builds* | | |
+| ⚪ | *22 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-public-api-configs"><b>c3-public-api-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 3 days ago · 1 tags · linux/amd64 · 2.2 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-public-api-configs"><b>c3-public-api-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 1 tags · linux/amd64 · 2.2 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/c3-public-api-configs:latest
@@ -997,13 +1021,13 @@ docker pull ghcr.io/diegonmarcos/c3-public-api-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 20, 2026 | [`1272212858`](https://github.com/users/diegonmarcos/packages/container/c3-public-api-configs/1272212858) |
-| ⚪ | *62 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1291635454`](https://github.com/users/diegonmarcos/packages/container/c3-public-api-configs/1291635454) |
+| ⚪ | *67 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-services-api"><b>c3-services-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 231 tags · linux/arm64 · 102.6 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-services-api"><b>c3-services-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 234 tags · linux/arm64 · 102.6 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/c3-services-api:latest
@@ -1011,17 +1035,17 @@ docker pull ghcr.io/diegonmarcos/c3-services-api:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289287533`](https://github.com/users/diegonmarcos/packages/container/c3-services-api/1289287533) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272417977`](https://github.com/users/diegonmarcos/packages/container/c3-services-api/1272417977) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272209977`](https://github.com/users/diegonmarcos/packages/container/c3-services-api/1272209977) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272049844`](https://github.com/users/diegonmarcos/packages/container/c3-services-api/1272049844) |
-| | *… +227 more SHA builds* | | |
-| ⚪ | *464 untagged image layers* | | |
+| 🟢 | `9ca203935d73` `latest` | Sep 24, 2026 | [`1291643822`](https://github.com/users/diegonmarcos/packages/container/c3-services-api/1291643822) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290552723`](https://github.com/users/diegonmarcos/packages/container/c3-services-api/1290552723) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290099866`](https://github.com/users/diegonmarcos/packages/container/c3-services-api/1290099866) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289287533`](https://github.com/users/diegonmarcos/packages/container/c3-services-api/1289287533) |
+| | *… +230 more SHA builds* | | |
+| ⚪ | *466 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-services-api-binaries"><b>c3-services-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 51 tags · linux/arm64 · 102.6 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-services-api-binaries"><b>c3-services-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 54 tags · linux/arm64 · 102.6 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/c3-services-api-binaries:latest
@@ -1029,12 +1053,12 @@ docker pull ghcr.io/diegonmarcos/c3-services-api-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289287860`](https://github.com/users/diegonmarcos/packages/container/c3-services-api-binaries/1289287860) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272418084`](https://github.com/users/diegonmarcos/packages/container/c3-services-api-binaries/1272418084) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272210074`](https://github.com/users/diegonmarcos/packages/container/c3-services-api-binaries/1272210074) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272049960`](https://github.com/users/diegonmarcos/packages/container/c3-services-api-binaries/1272049960) |
-| | *… +47 more SHA builds* | | |
-| ⚪ | *14 untagged image layers* | | |
+| 🟢 | `9ca203935d73` `latest` | Sep 24, 2026 | [`1291644036`](https://github.com/users/diegonmarcos/packages/container/c3-services-api-binaries/1291644036) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290552992`](https://github.com/users/diegonmarcos/packages/container/c3-services-api-binaries/1290552992) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290100145`](https://github.com/users/diegonmarcos/packages/container/c3-services-api-binaries/1290100145) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289287860`](https://github.com/users/diegonmarcos/packages/container/c3-services-api-binaries/1289287860) |
+| | *… +50 more SHA builds* | | |
+| ⚪ | *16 untagged image layers* | | |
 
 </details>
 
@@ -1047,8 +1071,8 @@ docker pull ghcr.io/diegonmarcos/c3-services-api-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289283984`](https://github.com/users/diegonmarcos/packages/container/c3-services-api-configs/1289283984) |
-| ⚪ | *148 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1291641653`](https://github.com/users/diegonmarcos/packages/container/c3-services-api-configs/1291641653) |
+| ⚪ | *153 untagged image layers* | | |
 
 </details>
 
@@ -1100,7 +1124,7 @@ docker pull ghcr.io/diegonmarcos/c3-services-mcp-configs:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/caddy"><b>caddy</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 78 tags · linux/amd64 · 39.7 MB · port 2019, 443, 443/udp, 80</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/caddy"><b>caddy</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 80 tags · linux/amd64 · 39.7 MB · port 2019, 443, 443/udp, 80</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/caddy:latest
@@ -1108,17 +1132,17 @@ docker pull ghcr.io/diegonmarcos/caddy:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289299850`](https://github.com/users/diegonmarcos/packages/container/caddy/1289299850) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290567231`](https://github.com/users/diegonmarcos/packages/container/caddy/1290567231) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290122334`](https://github.com/users/diegonmarcos/packages/container/caddy/1290122334) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289299850`](https://github.com/users/diegonmarcos/packages/container/caddy/1289299850) |
 | 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272214425`](https://github.com/users/diegonmarcos/packages/container/caddy/1272214425) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272055531`](https://github.com/users/diegonmarcos/packages/container/caddy/1272055531) |
-| 🔹 | `5ca58963a78a` | Sep 20, 2026 | [`1271883387`](https://github.com/users/diegonmarcos/packages/container/caddy/1271883387) |
-| | *… +74 more SHA builds* | | |
-| ⚪ | *182 untagged image layers* | | |
+| | *… +76 more SHA builds* | | |
+| ⚪ | *183 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/caddy-binaries"><b>caddy-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 36 tags · linux/amd64 · 39.7 MB · port 2019, 443, 443/udp, 80</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/caddy-binaries"><b>caddy-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 38 tags · linux/amd64 · 39.7 MB · port 2019, 443, 443/udp, 80</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/caddy-binaries:latest
@@ -1126,12 +1150,12 @@ docker pull ghcr.io/diegonmarcos/caddy-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289299995`](https://github.com/users/diegonmarcos/packages/container/caddy-binaries/1289299995) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290567627`](https://github.com/users/diegonmarcos/packages/container/caddy-binaries/1290567627) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290122621`](https://github.com/users/diegonmarcos/packages/container/caddy-binaries/1290122621) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289299995`](https://github.com/users/diegonmarcos/packages/container/caddy-binaries/1289299995) |
 | 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272214518`](https://github.com/users/diegonmarcos/packages/container/caddy-binaries/1272214518) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272055639`](https://github.com/users/diegonmarcos/packages/container/caddy-binaries/1272055639) |
-| 🔹 | `5ca58963a78a` | Sep 20, 2026 | [`1271883493`](https://github.com/users/diegonmarcos/packages/container/caddy-binaries/1271883493) |
-| | *… +32 more SHA builds* | | |
-| ⚪ | *23 untagged image layers* | | |
+| | *… +34 more SHA builds* | | |
+| ⚪ | *24 untagged image layers* | | |
 
 </details>
 
@@ -1203,7 +1227,7 @@ docker pull ghcr.io/diegonmarcos/caddy-l4-binaries:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/caddy-l4-public-configs"><b>caddy-l4-public-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 2 months ago · 1 tags · linux/amd64 · 2.2 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/caddy-l4-public-configs"><b>caddy-l4-public-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 3 months ago · 1 tags · linux/amd64 · 2.2 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/caddy-l4-public-configs:latest
@@ -1217,7 +1241,7 @@ docker pull ghcr.io/diegonmarcos/caddy-l4-public-configs:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/caddy-public"><b>caddy-public</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 19 tags · linux/amd64 · 39.7 MB · port 2019, 443, 443/udp, 80</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/caddy-public"><b>caddy-public</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 21 tags · linux/amd64 · 39.7 MB · port 2019, 443, 443/udp, 80</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/caddy-public:latest
@@ -1225,17 +1249,17 @@ docker pull ghcr.io/diegonmarcos/caddy-public:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289290543`](https://github.com/users/diegonmarcos/packages/container/caddy-public/1289290543) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290563973`](https://github.com/users/diegonmarcos/packages/container/caddy-public/1290563973) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290113582`](https://github.com/users/diegonmarcos/packages/container/caddy-public/1290113582) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289290543`](https://github.com/users/diegonmarcos/packages/container/caddy-public/1289290543) |
 | 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272217711`](https://github.com/users/diegonmarcos/packages/container/caddy-public/1272217711) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272052162`](https://github.com/users/diegonmarcos/packages/container/caddy-public/1272052162) |
-| 🔹 | `5ca58963a78a` | Sep 20, 2026 | [`1271884565`](https://github.com/users/diegonmarcos/packages/container/caddy-public/1271884565) |
-| | *… +15 more SHA builds* | | |
-| ⚪ | *4 untagged image layers* | | |
+| | *… +17 more SHA builds* | | |
+| ⚪ | *5 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/caddy-public-binaries"><b>caddy-public-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 19 tags · linux/amd64 · 39.7 MB · port 2019, 443, 443/udp, 80</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/caddy-public-binaries"><b>caddy-public-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 21 tags · linux/amd64 · 39.7 MB · port 2019, 443, 443/udp, 80</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/caddy-public-binaries:latest
@@ -1243,12 +1267,12 @@ docker pull ghcr.io/diegonmarcos/caddy-public-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289290723`](https://github.com/users/diegonmarcos/packages/container/caddy-public-binaries/1289290723) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290564222`](https://github.com/users/diegonmarcos/packages/container/caddy-public-binaries/1290564222) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290113723`](https://github.com/users/diegonmarcos/packages/container/caddy-public-binaries/1290113723) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289290723`](https://github.com/users/diegonmarcos/packages/container/caddy-public-binaries/1289290723) |
 | 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272217776`](https://github.com/users/diegonmarcos/packages/container/caddy-public-binaries/1272217776) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272052235`](https://github.com/users/diegonmarcos/packages/container/caddy-public-binaries/1272052235) |
-| 🔹 | `5ca58963a78a` | Sep 20, 2026 | [`1271884634`](https://github.com/users/diegonmarcos/packages/container/caddy-public-binaries/1271884634) |
-| | *… +15 more SHA builds* | | |
-| ⚪ | *4 untagged image layers* | | |
+| | *… +17 more SHA builds* | | |
+| ⚪ | *5 untagged image layers* | | |
 
 </details>
 
@@ -1261,8 +1285,8 @@ docker pull ghcr.io/diegonmarcos/caddy-public-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289282125`](https://github.com/users/diegonmarcos/packages/container/caddy-public-configs/1289282125) |
-| ⚪ | *66 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290553903`](https://github.com/users/diegonmarcos/packages/container/caddy-public-configs/1290553903) |
+| ⚪ | *69 untagged image layers* | | |
 
 </details>
 
@@ -1275,7 +1299,7 @@ docker pull ghcr.io/diegonmarcos/calendar-radicale:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289358748`](https://github.com/users/diegonmarcos/packages/container/calendar-radicale/1289358748) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289358748`](https://github.com/users/diegonmarcos/packages/container/calendar-radicale/1289358748) |
 | 🔹 | `f6dea770456b` | Sep 22, 2026 | [`1277885816`](https://github.com/users/diegonmarcos/packages/container/calendar-radicale/1277885816) |
 | 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1271998766`](https://github.com/users/diegonmarcos/packages/container/calendar-radicale/1271998766) |
 | 🔹 | `2db48c263f48` | Sep 19, 2026 | [`1269256625`](https://github.com/users/diegonmarcos/packages/container/calendar-radicale/1269256625) |
@@ -1293,7 +1317,7 @@ docker pull ghcr.io/diegonmarcos/calendar-radicale-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289359027`](https://github.com/users/diegonmarcos/packages/container/calendar-radicale-binaries/1289359027) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289359027`](https://github.com/users/diegonmarcos/packages/container/calendar-radicale-binaries/1289359027) |
 | 🔹 | `f6dea770456b` | Sep 22, 2026 | [`1277885932`](https://github.com/users/diegonmarcos/packages/container/calendar-radicale-binaries/1277885932) |
 | 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1271998895`](https://github.com/users/diegonmarcos/packages/container/calendar-radicale-binaries/1271998895) |
 | 🔹 | `2db48c263f48` | Sep 19, 2026 | [`1269256778`](https://github.com/users/diegonmarcos/packages/container/calendar-radicale-binaries/1269256778) |
@@ -1311,13 +1335,13 @@ docker pull ghcr.io/diegonmarcos/calendar-radicale-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289357915`](https://github.com/users/diegonmarcos/packages/container/calendar-radicale-configs/1289357915) |
-| ⚪ | *28 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290640885`](https://github.com/users/diegonmarcos/packages/container/calendar-radicale-configs/1290640885) |
+| ⚪ | *31 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cf-worker-http-to-wg-public-bridge"><b>cf-worker-http-to-wg-public-bridge</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published 2 months ago · 28 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cf-worker-http-to-wg-public-bridge"><b>cf-worker-http-to-wg-public-bridge</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published 3 months ago · 28 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cf-worker-http-to-wg-public-bridge:latest
@@ -1335,7 +1359,7 @@ docker pull ghcr.io/diegonmarcos/cf-worker-http-to-wg-public-bridge:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cf-worker-http-to-wg-public-bridge-binaries"><b>cf-worker-http-to-wg-public-bridge-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published 2 months ago · 1 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cf-worker-http-to-wg-public-bridge-binaries"><b>cf-worker-http-to-wg-public-bridge-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published 3 months ago · 1 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cf-worker-http-to-wg-public-bridge-binaries:latest
@@ -1349,7 +1373,7 @@ docker pull ghcr.io/diegonmarcos/cf-worker-http-to-wg-public-bridge-binaries:lat
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-base"><b>cgc-db-base</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 29 days ago · 2 tags · linux/amd64 · 2.2 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-base"><b>cgc-db-base</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 1 month ago · 2 tags · linux/amd64 · 2.2 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cgc-db-base:latest
@@ -1364,7 +1388,7 @@ docker pull ghcr.io/diegonmarcos/cgc-db-base:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-android"><b>cgc-db-cloud-android</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 27 days ago · 1 tags · linux/amd64 · 555.8 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-android"><b>cgc-db-cloud-android</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 28 days ago · 1 tags · linux/amd64 · 555.8 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cgc-db-cloud-android:latest
@@ -1378,7 +1402,7 @@ docker pull ghcr.io/diegonmarcos/cgc-db-cloud-android:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-infra"><b>cgc-db-cloud-infra</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 1 tags · linux/amd64 · 482.2 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-infra"><b>cgc-db-cloud-infra</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 1 tags · linux/amd64 · 360.9 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cgc-db-cloud-infra:latest
@@ -1386,13 +1410,13 @@ docker pull ghcr.io/diegonmarcos/cgc-db-cloud-infra:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1288759411`](https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-infra/1288759411) |
-| ⚪ | *109 untagged image layers* | | |
+| 🟢 | `latest` | Sep 25, 2026 | [`1293293457`](https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-infra/1293293457) |
+| ⚪ | *111 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-infra-desktop"><b>cgc-db-cloud-infra-desktop</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 1 tags · linux/amd64 · 147.6 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-infra-desktop"><b>cgc-db-cloud-infra-desktop</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 1 tags · linux/amd64 · 138.2 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cgc-db-cloud-infra-desktop:latest
@@ -1400,13 +1424,13 @@ docker pull ghcr.io/diegonmarcos/cgc-db-cloud-infra-desktop:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1287477020`](https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-infra-desktop/1287477020) |
-| ⚪ | *51 untagged image layers* | | |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292338339`](https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-infra-desktop/1292338339) |
+| ⚪ | *53 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-mykonsole-dtk"><b>cgc-db-cloud-mykonsole-dtk</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 28 days ago · 1 tags · linux/amd64 · 18.6 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-mykonsole-dtk"><b>cgc-db-cloud-mykonsole-dtk</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 29 days ago · 1 tags · linux/amd64 · 18.6 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cgc-db-cloud-mykonsole-dtk:latest
@@ -1420,7 +1444,7 @@ docker pull ghcr.io/diegonmarcos/cgc-db-cloud-mykonsole-dtk:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-u-android"><b>cgc-db-cloud-u-android</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 6 days ago · 1 tags · linux/amd64 · 1.10 GB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-u-android"><b>cgc-db-cloud-u-android</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 7 days ago · 1 tags · linux/amd64 · 1.10 GB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cgc-db-cloud-u-android:latest
@@ -1434,7 +1458,7 @@ docker pull ghcr.io/diegonmarcos/cgc-db-cloud-u-android:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-u-containers"><b>cgc-db-cloud-u-containers</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 1 tags · linux/amd64 · 1.63 GB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-u-containers"><b>cgc-db-cloud-u-containers</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 1 tags · linux/amd64 · 1.28 GB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cgc-db-cloud-u-containers:latest
@@ -1442,13 +1466,13 @@ docker pull ghcr.io/diegonmarcos/cgc-db-cloud-u-containers:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1287483557`](https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-containers/1287483557) |
-| ⚪ | *55 untagged image layers* | | |
+| 🟢 | `latest` | Sep 25, 2026 | [`1293293680`](https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-containers/1293293680) |
+| ⚪ | *57 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-unix"><b>cgc-db-cloud-unix</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 27 days ago · 1 tags · linux/amd64 · 445.4 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-unix"><b>cgc-db-cloud-unix</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 28 days ago · 1 tags · linux/amd64 · 445.4 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cgc-db-cloud-unix:latest
@@ -1462,7 +1486,7 @@ docker pull ghcr.io/diegonmarcos/cgc-db-cloud-unix:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-front"><b>cgc-db-front</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 13 days ago · 1 tags · linux/amd64 · 354.9 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-front"><b>cgc-db-front</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 14 days ago · 1 tags · linux/amd64 · 354.9 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cgc-db-front:latest
@@ -1476,7 +1500,7 @@ docker pull ghcr.io/diegonmarcos/cgc-db-front:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-front-data"><b>cgc-db-front-data</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 13 days ago · 1 tags · linux/amd64 · 8.3 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cgc-db-front-data"><b>cgc-db-front-data</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 14 days ago · 1 tags · linux/amd64 · 8.3 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cgc-db-front-data:latest
@@ -1490,7 +1514,7 @@ docker pull ghcr.io/diegonmarcos/cgc-db-front-data:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/chat-mattermost"><b>chat-mattermost</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 69 tags · linux/arm64 · 668.2 MB · port 8065, 8067, 8074, 8075</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/chat-mattermost"><b>chat-mattermost</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 73 tags · linux/arm64 · 668.9 MB · port 8065, 8067, 8074, 8075</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/chat-mattermost:latest
@@ -1498,17 +1522,17 @@ docker pull ghcr.io/diegonmarcos/chat-mattermost:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289340549`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost/1289340549) |
-| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1289329739`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost/1289329739) |
-| 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1275586762`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost/1275586762) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272234604`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost/1272234604) |
-| | *… +65 more SHA builds* | | |
-| ⚪ | *26 untagged image layers* | | |
+| 🟢 | `c06d491a8d9e` `latest` | Sep 25, 2026 | [`1294265343`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost/1294265343) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290624485`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost/1290624485) |
+| 🔹 | `3c2a93e95c34` | Sep 24, 2026 | [`1290341016`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost/1290341016) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290175676`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost/1290175676) |
+| | *… +69 more SHA builds* | | |
+| ⚪ | *30 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/chat-mattermost-binaries"><b>chat-mattermost-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 69 tags · linux/arm64 · 668.2 MB · port 8065, 8067, 8074, 8075</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/chat-mattermost-binaries"><b>chat-mattermost-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 73 tags · linux/arm64 · 668.9 MB · port 8065, 8067, 8074, 8075</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/chat-mattermost-binaries:latest
@@ -1516,12 +1540,12 @@ docker pull ghcr.io/diegonmarcos/chat-mattermost-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289340888`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost-binaries/1289340888) |
-| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1289330233`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost-binaries/1289330233) |
-| 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1275587195`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost-binaries/1275587195) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272234697`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost-binaries/1272234697) |
-| | *… +65 more SHA builds* | | |
-| ⚪ | *26 untagged image layers* | | |
+| 🟢 | `c06d491a8d9e` `latest` | Sep 25, 2026 | [`1294265664`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost-binaries/1294265664) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290624886`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost-binaries/1290624886) |
+| 🔹 | `3c2a93e95c34` | Sep 24, 2026 | [`1290341266`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost-binaries/1290341266) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290176208`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost-binaries/1290176208) |
+| | *… +69 more SHA builds* | | |
+| ⚪ | *30 untagged image layers* | | |
 
 </details>
 
@@ -1534,8 +1558,8 @@ docker pull ghcr.io/diegonmarcos/chat-mattermost-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289324718`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost-configs/1289324718) |
-| ⚪ | *203 untagged image layers* | | |
+| 🟢 | `latest` | Sep 25, 2026 | [`1294256028`](https://github.com/users/diegonmarcos/packages/container/chat-mattermost-configs/1294256028) |
+| ⚪ | *211 untagged image layers* | | |
 
 </details>
 
@@ -1596,7 +1620,7 @@ docker pull ghcr.io/diegonmarcos/claude-openai-bridge-configs:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/claude-superset-api"><b>claude-superset-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 3 days ago · 41 tags · linux/arm64 · 493.6 MB · port 11436, 3117, 8788, 8789</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/claude-superset-api"><b>claude-superset-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 45 tags · linux/arm64 · 496.0 MB · port 11436, 3117, 8788, 8789</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/claude-superset-api:latest
@@ -1604,17 +1628,17 @@ docker pull ghcr.io/diegonmarcos/claude-superset-api:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `a1783250e0af` `latest` | Sep 20, 2026 | [`1272233857`](https://github.com/users/diegonmarcos/packages/container/claude-superset-api/1272233857) |
-| 🔹 | `49a465334c3d` | Sep 20, 2026 | [`1272123806`](https://github.com/users/diegonmarcos/packages/container/claude-superset-api/1272123806) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272077351`](https://github.com/users/diegonmarcos/packages/container/claude-superset-api/1272077351) |
-| 🔹 | `e851cba8e7fb` | Sep 20, 2026 | [`1271937938`](https://github.com/users/diegonmarcos/packages/container/claude-superset-api/1271937938) |
-| | *… +37 more SHA builds* | | |
-| ⚪ | *32 untagged image layers* | | |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290624725`](https://github.com/users/diegonmarcos/packages/container/claude-superset-api/1290624725) |
+| 🔹 | `3c2a93e95c34` | Sep 24, 2026 | [`1290348348`](https://github.com/users/diegonmarcos/packages/container/claude-superset-api/1290348348) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290178352`](https://github.com/users/diegonmarcos/packages/container/claude-superset-api/1290178352) |
+| 🔹 | `5d2ec007c0ff` | Sep 24, 2026 | [`1290147201`](https://github.com/users/diegonmarcos/packages/container/claude-superset-api/1290147201) |
+| | *… +41 more SHA builds* | | |
+| ⚪ | *37 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/claude-superset-api-binaries"><b>claude-superset-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 3 days ago · 42 tags · linux/arm64 · 493.6 MB · port 11436, 3117, 8788, 8789</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/claude-superset-api-binaries"><b>claude-superset-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 46 tags · linux/arm64 · 496.0 MB · port 11436, 3117, 8788, 8789</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/claude-superset-api-binaries:latest
@@ -1622,17 +1646,17 @@ docker pull ghcr.io/diegonmarcos/claude-superset-api-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `a1783250e0af` `latest` | Sep 20, 2026 | [`1272234197`](https://github.com/users/diegonmarcos/packages/container/claude-superset-api-binaries/1272234197) |
-| 🔹 | `49a465334c3d` | Sep 20, 2026 | [`1272123934`](https://github.com/users/diegonmarcos/packages/container/claude-superset-api-binaries/1272123934) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272077511`](https://github.com/users/diegonmarcos/packages/container/claude-superset-api-binaries/1272077511) |
-| 🔹 | `e851cba8e7fb` | Sep 20, 2026 | [`1271938112`](https://github.com/users/diegonmarcos/packages/container/claude-superset-api-binaries/1271938112) |
-| | *… +38 more SHA builds* | | |
-| ⚪ | *32 untagged image layers* | | |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290625072`](https://github.com/users/diegonmarcos/packages/container/claude-superset-api-binaries/1290625072) |
+| 🔹 | `3c2a93e95c34` | Sep 24, 2026 | [`1290348746`](https://github.com/users/diegonmarcos/packages/container/claude-superset-api-binaries/1290348746) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290178720`](https://github.com/users/diegonmarcos/packages/container/claude-superset-api-binaries/1290178720) |
+| 🔹 | `5d2ec007c0ff` | Sep 24, 2026 | [`1290147664`](https://github.com/users/diegonmarcos/packages/container/claude-superset-api-binaries/1290147664) |
+| | *… +42 more SHA builds* | | |
+| ⚪ | *37 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/claude-superset-api-configs"><b>claude-superset-api-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 18 days ago · 1 tags · linux/arm64 · 4.4 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/claude-superset-api-configs"><b>claude-superset-api-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 19 days ago · 1 tags · linux/arm64 · 4.4 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/claude-superset-api-configs:latest
@@ -1748,7 +1772,7 @@ docker pull ghcr.io/diegonmarcos/cloud-cgc-mcp-octocode-db:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-pub-mcp"><b>cloud-cgc-pub-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 113 tags · linux/arm64 · 369.0 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-pub-mcp"><b>cloud-cgc-pub-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 117 tags · linux/arm64 · 369.1 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-cgc-pub-mcp:latest
@@ -1756,17 +1780,17 @@ docker pull ghcr.io/diegonmarcos/cloud-cgc-pub-mcp:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289323640`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp/1289323640) |
-| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1289312136`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp/1289312136) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272226896`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp/1272226896) |
-| 🔹 | `10115303f4ca` | Sep 20, 2026 | [`1272221548`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp/1272221548) |
-| | *… +109 more SHA builds* | | |
-| ⚪ | *49 untagged image layers* | | |
+| 🟢 | `c06d491a8d9e` `latest` | Sep 25, 2026 | [`1294262302`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp/1294262302) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290599533`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp/1290599533) |
+| 🔹 | `3c2a93e95c34` | Sep 24, 2026 | [`1290328675`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp/1290328675) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290154518`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp/1290154518) |
+| | *… +113 more SHA builds* | | |
+| ⚪ | *53 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-pub-mcp-binaries"><b>cloud-cgc-pub-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 113 tags · linux/arm64 · 369.0 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-pub-mcp-binaries"><b>cloud-cgc-pub-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 117 tags · linux/arm64 · 369.1 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-cgc-pub-mcp-binaries:latest
@@ -1774,12 +1798,12 @@ docker pull ghcr.io/diegonmarcos/cloud-cgc-pub-mcp-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289323892`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-binaries/1289323892) |
-| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1289312488`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-binaries/1289312488) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272226989`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-binaries/1272226989) |
-| 🔹 | `10115303f4ca` | Sep 20, 2026 | [`1272221608`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-binaries/1272221608) |
-| | *… +109 more SHA builds* | | |
-| ⚪ | *49 untagged image layers* | | |
+| 🟢 | `c06d491a8d9e` `latest` | Sep 25, 2026 | [`1294262589`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-binaries/1294262589) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290599792`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-binaries/1290599792) |
+| 🔹 | `3c2a93e95c34` | Sep 24, 2026 | [`1290328892`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-binaries/1290328892) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290154814`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-binaries/1290154814) |
+| | *… +113 more SHA builds* | | |
+| ⚪ | *53 untagged image layers* | | |
 
 </details>
 
@@ -1792,13 +1816,13 @@ docker pull ghcr.io/diegonmarcos/cloud-cgc-pub-mcp-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289314106`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-configs/1289314106) |
-| ⚪ | *166 untagged image layers* | | |
+| 🟢 | `latest` | Sep 25, 2026 | [`1294255522`](https://github.com/users/diegonmarcos/packages/container/cloud-cgc-pub-mcp-configs/1294255522) |
+| ⚪ | *174 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-drive-mcp"><b>cloud-drive-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 21 tags · linux/arm64 · 304.3 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-drive-mcp"><b>cloud-drive-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 24 tags · linux/arm64 · 304.3 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-drive-mcp:latest
@@ -1806,17 +1830,17 @@ docker pull ghcr.io/diegonmarcos/cloud-drive-mcp:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289289482`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp/1289289482) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272418964`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp/1272418964) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272215421`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp/1272215421) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272050913`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp/1272050913) |
-| | *… +17 more SHA builds* | | |
-| ⚪ | *3 untagged image layers* | | |
+| 🟢 | `9ca203935d73` `latest` | Sep 24, 2026 | [`1291645468`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp/1291645468) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290555236`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp/1290555236) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290115775`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp/1290115775) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289289482`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp/1289289482) |
+| | *… +20 more SHA builds* | | |
+| ⚪ | *5 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-drive-mcp-binaries"><b>cloud-drive-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 21 tags · linux/arm64 · 304.3 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-drive-mcp-binaries"><b>cloud-drive-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 24 tags · linux/arm64 · 304.3 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-drive-mcp-binaries:latest
@@ -1824,12 +1848,12 @@ docker pull ghcr.io/diegonmarcos/cloud-drive-mcp-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289289755`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp-binaries/1289289755) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272419036`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp-binaries/1272419036) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272215489`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp-binaries/1272215489) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272051025`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp-binaries/1272051025) |
-| | *… +17 more SHA builds* | | |
-| ⚪ | *3 untagged image layers* | | |
+| 🟢 | `9ca203935d73` `latest` | Sep 24, 2026 | [`1291645631`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp-binaries/1291645631) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290555482`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp-binaries/1290555482) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290116095`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp-binaries/1290116095) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289289755`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp-binaries/1289289755) |
+| | *… +20 more SHA builds* | | |
+| ⚪ | *5 untagged image layers* | | |
 
 </details>
 
@@ -1842,13 +1866,13 @@ docker pull ghcr.io/diegonmarcos/cloud-drive-mcp-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289284470`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp-configs/1289284470) |
-| ⚪ | *23 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1291641642`](https://github.com/users/diegonmarcos/packages/container/cloud-drive-mcp-configs/1291641642) |
+| ⚪ | *28 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-infra-mcp"><b>cloud-infra-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 72 tags · linux/arm64 · 361.7 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-infra-mcp"><b>cloud-infra-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 75 tags · linux/arm64 · 361.7 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-infra-mcp:latest
@@ -1856,17 +1880,17 @@ docker pull ghcr.io/diegonmarcos/cloud-infra-mcp:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289298901`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp/1289298901) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272421346`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp/1272421346) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272217607`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp/1272217607) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272054372`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp/1272054372) |
-| | *… +68 more SHA builds* | | |
-| ⚪ | *16 untagged image layers* | | |
+| 🟢 | `9ca203935d73` `latest` | Sep 24, 2026 | [`1291651222`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp/1291651222) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290564076`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp/1290564076) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290121760`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp/1290121760) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289298901`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp/1289298901) |
+| | *… +71 more SHA builds* | | |
+| ⚪ | *18 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-infra-mcp-binaries"><b>cloud-infra-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 72 tags · linux/arm64 · 361.7 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-infra-mcp-binaries"><b>cloud-infra-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 75 tags · linux/arm64 · 361.7 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-infra-mcp-binaries:latest
@@ -1874,12 +1898,12 @@ docker pull ghcr.io/diegonmarcos/cloud-infra-mcp-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289299166`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp-binaries/1289299166) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272421401`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp-binaries/1272421401) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272217717`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp-binaries/1272217717) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272054509`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp-binaries/1272054509) |
-| | *… +68 more SHA builds* | | |
-| ⚪ | *16 untagged image layers* | | |
+| 🟢 | `9ca203935d73` `latest` | Sep 24, 2026 | [`1291651360`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp-binaries/1291651360) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290564308`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp-binaries/1290564308) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290122070`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp-binaries/1290122070) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289299166`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp-binaries/1289299166) |
+| | *… +71 more SHA builds* | | |
+| ⚪ | *18 untagged image layers* | | |
 
 </details>
 
@@ -1892,13 +1916,13 @@ docker pull ghcr.io/diegonmarcos/cloud-infra-mcp-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289288676`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp-configs/1289288676) |
-| ⚪ | *87 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1291644464`](https://github.com/users/diegonmarcos/packages/container/cloud-infra-mcp-configs/1291644464) |
+| ⚪ | *92 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-mail-mcp"><b>cloud-mail-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 88 tags · linux/arm64 · 133.8 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-mail-mcp"><b>cloud-mail-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 93 tags · linux/arm64 · 133.8 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-mail-mcp:latest
@@ -1906,17 +1930,17 @@ docker pull ghcr.io/diegonmarcos/cloud-mail-mcp:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `a9b60730bd4b` `latest` | Sep 24, 2026 | [`1289308228`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp/1289308228) |
-| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289292164`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp/1289292164) |
-| 🔹 | `10115303f4ca` | Sep 20, 2026 | [`1272219565`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp/1272219565) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272214659`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp/1272214659) |
-| | *… +84 more SHA builds* | | |
-| ⚪ | *38 untagged image layers* | | |
+| 🟢 | `c06d491a8d9e` `latest` | Sep 25, 2026 | [`1294254856`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp/1294254856) |
+| 🔹 | `008cf6bca385` | Sep 25, 2026 | [`1292351006`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp/1292351006) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290568166`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp/1290568166) |
+| 🔹 | `3c2a93e95c34` | Sep 24, 2026 | [`1290321828`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp/1290321828) |
+| | *… +89 more SHA builds* | | |
+| ⚪ | *42 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-mail-mcp-binaries"><b>cloud-mail-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 88 tags · linux/arm64 · 133.8 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-mail-mcp-binaries"><b>cloud-mail-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 93 tags · linux/arm64 · 133.8 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-mail-mcp-binaries:latest
@@ -1924,12 +1948,12 @@ docker pull ghcr.io/diegonmarcos/cloud-mail-mcp-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `a9b60730bd4b` `latest` | Sep 24, 2026 | [`1289308590`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-binaries/1289308590) |
-| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289292527`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-binaries/1289292527) |
-| 🔹 | `10115303f4ca` | Sep 20, 2026 | [`1272219647`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-binaries/1272219647) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272214743`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-binaries/1272214743) |
-| | *… +84 more SHA builds* | | |
-| ⚪ | *38 untagged image layers* | | |
+| 🟢 | `c06d491a8d9e` `latest` | Sep 25, 2026 | [`1294255101`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-binaries/1294255101) |
+| 🔹 | `008cf6bca385` | Sep 25, 2026 | [`1292351204`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-binaries/1292351204) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290568431`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-binaries/1290568431) |
+| 🔹 | `3c2a93e95c34` | Sep 24, 2026 | [`1290322071`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-binaries/1290322071) |
+| | *… +89 more SHA builds* | | |
+| ⚪ | *42 untagged image layers* | | |
 
 </details>
 
@@ -1942,13 +1966,13 @@ docker pull ghcr.io/diegonmarcos/cloud-mail-mcp-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289301290`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-configs/1289301290) |
-| ⚪ | *128 untagged image layers* | | |
+| 🟢 | `latest` | Sep 25, 2026 | [`1294252999`](https://github.com/users/diegonmarcos/packages/container/cloud-mail-mcp-configs/1294252999) |
+| ⚪ | *137 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-mattermost-mcp"><b>cloud-mattermost-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 58 tags · linux/arm64 · 105.8 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-mattermost-mcp"><b>cloud-mattermost-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 62 tags · linux/arm64 · 105.8 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-mattermost-mcp:latest
@@ -1956,17 +1980,17 @@ docker pull ghcr.io/diegonmarcos/cloud-mattermost-mcp:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289292452`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp/1289292452) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272419254`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp/1272419254) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272215873`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp/1272215873) |
-| 🔹 | `49a465334c3d` | Sep 20, 2026 | [`1272108440`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp/1272108440) |
-| | *… +54 more SHA builds* | | |
-| ⚪ | *29 untagged image layers* | | |
+| 🟢 | `c06d491a8d9e` `latest` | Sep 25, 2026 | [`1294254225`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp/1294254225) |
+| 🔹 | `008cf6bca385` | Sep 25, 2026 | [`1292350582`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp/1292350582) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290569071`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp/1290569071) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290117391`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp/1290117391) |
+| | *… +58 more SHA builds* | | |
+| ⚪ | *30 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-mattermost-mcp-binaries"><b>cloud-mattermost-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 58 tags · linux/arm64 · 105.8 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-mattermost-mcp-binaries"><b>cloud-mattermost-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 62 tags · linux/arm64 · 105.8 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-mattermost-mcp-binaries:latest
@@ -1974,12 +1998,12 @@ docker pull ghcr.io/diegonmarcos/cloud-mattermost-mcp-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289292711`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-binaries/1289292711) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272419339`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-binaries/1272419339) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272215960`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-binaries/1272215960) |
-| 🔹 | `49a465334c3d` | Sep 20, 2026 | [`1272108727`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-binaries/1272108727) |
-| | *… +54 more SHA builds* | | |
-| ⚪ | *29 untagged image layers* | | |
+| 🟢 | `c06d491a8d9e` `latest` | Sep 25, 2026 | [`1294254521`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-binaries/1294254521) |
+| 🔹 | `008cf6bca385` | Sep 25, 2026 | [`1292350818`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-binaries/1292350818) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290569412`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-binaries/1290569412) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290117707`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-binaries/1290117707) |
+| | *… +58 more SHA builds* | | |
+| ⚪ | *30 untagged image layers* | | |
 
 </details>
 
@@ -1992,13 +2016,13 @@ docker pull ghcr.io/diegonmarcos/cloud-mattermost-mcp-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289290621`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-configs/1289290621) |
-| ⚪ | *86 untagged image layers* | | |
+| 🟢 | `latest` | Sep 25, 2026 | [`1294253011`](https://github.com/users/diegonmarcos/packages/container/cloud-mattermost-mcp-configs/1294253011) |
+| ⚪ | *91 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-services-mcp"><b>cloud-services-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 24 tags · linux/arm64 · 134.5 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-services-mcp"><b>cloud-services-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 27 tags · linux/arm64 · 134.5 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-services-mcp:latest
@@ -2006,17 +2030,17 @@ docker pull ghcr.io/diegonmarcos/cloud-services-mcp:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289295188`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp/1289295188) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272979778`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp/1272979778) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272216567`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp/1272216567) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272057955`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp/1272057955) |
-| | *… +20 more SHA builds* | | |
-| ⚪ | *6 untagged image layers* | | |
+| 🟢 | `008cf6bca385` `latest` | Sep 25, 2026 | [`1292351186`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp/1292351186) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290569536`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp/1290569536) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290120297`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp/1290120297) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289295188`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp/1289295188) |
+| | *… +23 more SHA builds* | | |
+| ⚪ | *7 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-services-mcp-binaries"><b>cloud-services-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 24 tags · linux/arm64 · 134.5 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-services-mcp-binaries"><b>cloud-services-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 27 tags · linux/arm64 · 134.5 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-services-mcp-binaries:latest
@@ -2024,12 +2048,12 @@ docker pull ghcr.io/diegonmarcos/cloud-services-mcp-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289295477`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp-binaries/1289295477) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272979869`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp-binaries/1272979869) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272216688`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp-binaries/1272216688) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272058072`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp-binaries/1272058072) |
-| | *… +20 more SHA builds* | | |
-| ⚪ | *6 untagged image layers* | | |
+| 🟢 | `008cf6bca385` `latest` | Sep 25, 2026 | [`1292351375`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp-binaries/1292351375) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290569748`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp-binaries/1290569748) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290120621`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp-binaries/1290120621) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289295477`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp-binaries/1289295477) |
+| | *… +23 more SHA builds* | | |
+| ⚪ | *7 untagged image layers* | | |
 
 </details>
 
@@ -2042,8 +2066,8 @@ docker pull ghcr.io/diegonmarcos/cloud-services-mcp-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289293238`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp-configs/1289293238) |
-| ⚪ | *29 untagged image layers* | | |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292349778`](https://github.com/users/diegonmarcos/packages/container/cloud-services-mcp-configs/1292349778) |
+| ⚪ | *33 untagged image layers* | | |
 
 </details>
 
@@ -2056,7 +2080,7 @@ docker pull ghcr.io/diegonmarcos/cloud-spec:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289306227`](https://github.com/users/diegonmarcos/packages/container/cloud-spec/1289306227) |
+| 🟢 | `008cf6bca385` `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289306227`](https://github.com/users/diegonmarcos/packages/container/cloud-spec/1289306227) |
 | 🔹 | `a1783250e0af` | Sep 3, 2026 | [`1206353204`](https://github.com/users/diegonmarcos/packages/container/cloud-spec/1206353204) |
 | 🔹 | `f923755d10f0` | Jun 20, 2026 | [`961271992`](https://github.com/users/diegonmarcos/packages/container/cloud-spec/961271992) |
 | ⚪ | *56 untagged image layers* | | |
@@ -2072,7 +2096,7 @@ docker pull ghcr.io/diegonmarcos/cloud-spec-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289306441`](https://github.com/users/diegonmarcos/packages/container/cloud-spec-binaries/1289306441) |
+| 🟢 | `008cf6bca385` `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289306441`](https://github.com/users/diegonmarcos/packages/container/cloud-spec-binaries/1289306441) |
 | 🔹 | `a1783250e0af` | Sep 3, 2026 | [`1206353339`](https://github.com/users/diegonmarcos/packages/container/cloud-spec-binaries/1206353339) |
 
 </details>
@@ -2086,13 +2110,13 @@ docker pull ghcr.io/diegonmarcos/cloud-spec-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289304610`](https://github.com/users/diegonmarcos/packages/container/cloud-spec-configs/1289304610) |
-| ⚪ | *73 untagged image layers* | | |
+| 🟢 | `latest` | Sep 25, 2026 | [`1293035709`](https://github.com/users/diegonmarcos/packages/container/cloud-spec-configs/1293035709) |
+| ⚪ | *77 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp-mcp"><b>cloud-superapp-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 11 tags · linux/arm64 · 100.9 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp-mcp"><b>cloud-superapp-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 14 tags · linux/arm64 · 100.9 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-superapp-mcp:latest
@@ -2100,17 +2124,17 @@ docker pull ghcr.io/diegonmarcos/cloud-superapp-mcp:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289294503`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp/1289294503) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272979463`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp/1272979463) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272217366`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp/1272217366) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272057793`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp/1272057793) |
-| | *… +7 more SHA builds* | | |
-| ⚪ | *2 untagged image layers* | | |
+| 🟢 | `008cf6bca385` `latest` | Sep 25, 2026 | [`1292351893`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp/1292351893) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290571369`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp/1290571369) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290119974`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp/1290119974) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289294503`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp/1289294503) |
+| | *… +10 more SHA builds* | | |
+| ⚪ | *3 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp-mcp-binaries"><b>cloud-superapp-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 11 tags · linux/arm64 · 100.9 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp-mcp-binaries"><b>cloud-superapp-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 14 tags · linux/arm64 · 100.9 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-superapp-mcp-binaries:latest
@@ -2118,12 +2142,12 @@ docker pull ghcr.io/diegonmarcos/cloud-superapp-mcp-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289294858`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp-binaries/1289294858) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272979572`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp-binaries/1272979572) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272217472`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp-binaries/1272217472) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272057949`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp-binaries/1272057949) |
-| | *… +7 more SHA builds* | | |
-| ⚪ | *2 untagged image layers* | | |
+| 🟢 | `008cf6bca385` `latest` | Sep 25, 2026 | [`1292352061`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp-binaries/1292352061) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290571591`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp-binaries/1290571591) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290120431`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp-binaries/1290120431) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289294858`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp-binaries/1289294858) |
+| | *… +10 more SHA builds* | | |
+| ⚪ | *3 untagged image layers* | | |
 
 </details>
 
@@ -2136,13 +2160,13 @@ docker pull ghcr.io/diegonmarcos/cloud-superapp-mcp-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289293429`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp-configs/1289293429) |
-| ⚪ | *12 untagged image layers* | | |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292351262`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp-mcp-configs/1292351262) |
+| ⚪ | *16 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-vault-mcp"><b>cloud-vault-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 11 tags · linux/arm64 · 110.3 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-vault-mcp"><b>cloud-vault-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 14 tags · linux/arm64 · 110.3 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-vault-mcp:latest
@@ -2150,17 +2174,17 @@ docker pull ghcr.io/diegonmarcos/cloud-vault-mcp:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289298605`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp/1289298605) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272979549`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp/1272979549) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272217597`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp/1272217597) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272057868`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp/1272057868) |
-| | *… +7 more SHA builds* | | |
-| ⚪ | *2 untagged image layers* | | |
+| 🟢 | `008cf6bca385` `latest` | Sep 25, 2026 | [`1292352423`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp/1292352423) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290571916`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp/1290571916) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290123154`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp/1290123154) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289298605`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp/1289298605) |
+| | *… +10 more SHA builds* | | |
+| ⚪ | *3 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-vault-mcp-binaries"><b>cloud-vault-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 11 tags · linux/arm64 · 110.3 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-vault-mcp-binaries"><b>cloud-vault-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 14 tags · linux/arm64 · 110.3 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-vault-mcp-binaries:latest
@@ -2168,12 +2192,12 @@ docker pull ghcr.io/diegonmarcos/cloud-vault-mcp-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289298873`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp-binaries/1289298873) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272979635`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp-binaries/1272979635) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272217681`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp-binaries/1272217681) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272057982`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp-binaries/1272057982) |
-| | *… +7 more SHA builds* | | |
-| ⚪ | *2 untagged image layers* | | |
+| 🟢 | `008cf6bca385` `latest` | Sep 25, 2026 | [`1292352546`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp-binaries/1292352546) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290572126`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp-binaries/1290572126) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290123656`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp-binaries/1290123656) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289298873`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp-binaries/1289298873) |
+| | *… +10 more SHA builds* | | |
+| ⚪ | *3 untagged image layers* | | |
 
 </details>
 
@@ -2186,13 +2210,13 @@ docker pull ghcr.io/diegonmarcos/cloud-vault-mcp-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289295560`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp-configs/1289295560) |
-| ⚪ | *12 untagged image layers* | | |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292351716`](https://github.com/users/diegonmarcos/packages/container/cloud-vault-mcp-configs/1292351716) |
+| ⚪ | *16 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-webmail-binaries"><b>cloud-webmail-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 16 days ago · 4 tags · linux/arm64 · 93.9 MB · port 3000</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-webmail-binaries"><b>cloud-webmail-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 17 days ago · 4 tags · linux/arm64 · 93.9 MB · port 3000</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-webmail-binaries:latest
@@ -2208,7 +2232,7 @@ docker pull ghcr.io/diegonmarcos/cloud-webmail-binaries:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-webmail-binaries-binaries"><b>cloud-webmail-binaries-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 16 days ago · 4 tags · linux/arm64 · 93.9 MB · port 3000</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-webmail-binaries-binaries"><b>cloud-webmail-binaries-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 17 days ago · 4 tags · linux/arm64 · 93.9 MB · port 3000</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-webmail-binaries-binaries:latest
@@ -2232,8 +2256,8 @@ docker pull ghcr.io/diegonmarcos/cloud-webmail-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289341959`](https://github.com/users/diegonmarcos/packages/container/cloud-webmail-configs/1289341959) |
-| ⚪ | *15 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290625768`](https://github.com/users/diegonmarcos/packages/container/cloud-webmail-configs/1290625768) |
+| ⚪ | *18 untagged image layers* | | |
 
 </details>
 
@@ -2246,7 +2270,7 @@ docker pull ghcr.io/diegonmarcos/code-server:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289362670`](https://github.com/users/diegonmarcos/packages/container/code-server/1289362670) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289362670`](https://github.com/users/diegonmarcos/packages/container/code-server/1289362670) |
 | 🔹 | `f6dea770456b` | Sep 20, 2026 | [`1272001651`](https://github.com/users/diegonmarcos/packages/container/code-server/1272001651) |
 | 🔹 | `2db48c263f48` | Sep 18, 2026 | [`1266202481`](https://github.com/users/diegonmarcos/packages/container/code-server/1266202481) |
 | 🔹 | `96e362760498` | Aug 28, 2026 | [`1183734912`](https://github.com/users/diegonmarcos/packages/container/code-server/1183734912) |
@@ -2264,7 +2288,7 @@ docker pull ghcr.io/diegonmarcos/code-server-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289362838`](https://github.com/users/diegonmarcos/packages/container/code-server-binaries/1289362838) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289362838`](https://github.com/users/diegonmarcos/packages/container/code-server-binaries/1289362838) |
 | 🔹 | `f6dea770456b` | Sep 20, 2026 | [`1272001913`](https://github.com/users/diegonmarcos/packages/container/code-server-binaries/1272001913) |
 | 🔹 | `2db48c263f48` | Sep 18, 2026 | [`1266202704`](https://github.com/users/diegonmarcos/packages/container/code-server-binaries/1266202704) |
 | 🔹 | `96e362760498` | Aug 28, 2026 | [`1183735098`](https://github.com/users/diegonmarcos/packages/container/code-server-binaries/1183735098) |
@@ -2281,8 +2305,8 @@ docker pull ghcr.io/diegonmarcos/code-server-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289359670`](https://github.com/users/diegonmarcos/packages/container/code-server-configs/1289359670) |
-| ⚪ | *45 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290640880`](https://github.com/users/diegonmarcos/packages/container/code-server-configs/1290640880) |
+| ⚪ | *48 untagged image layers* | | |
 
 </details>
 
@@ -2295,7 +2319,7 @@ docker pull ghcr.io/diegonmarcos/contacts-radicale:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289362362`](https://github.com/users/diegonmarcos/packages/container/contacts-radicale/1289362362) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289362362`](https://github.com/users/diegonmarcos/packages/container/contacts-radicale/1289362362) |
 | 🔹 | `f6dea770456b` | Sep 22, 2026 | [`1277885857`](https://github.com/users/diegonmarcos/packages/container/contacts-radicale/1277885857) |
 | 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1271999861`](https://github.com/users/diegonmarcos/packages/container/contacts-radicale/1271999861) |
 | 🔹 | `e94823b65121` | Sep 18, 2026 | [`1266200289`](https://github.com/users/diegonmarcos/packages/container/contacts-radicale/1266200289) |
@@ -2313,7 +2337,7 @@ docker pull ghcr.io/diegonmarcos/contacts-radicale-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289362553`](https://github.com/users/diegonmarcos/packages/container/contacts-radicale-binaries/1289362553) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289362553`](https://github.com/users/diegonmarcos/packages/container/contacts-radicale-binaries/1289362553) |
 | 🔹 | `f6dea770456b` | Sep 22, 2026 | [`1277885974`](https://github.com/users/diegonmarcos/packages/container/contacts-radicale-binaries/1277885974) |
 | 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272000021`](https://github.com/users/diegonmarcos/packages/container/contacts-radicale-binaries/1272000021) |
 | 🔹 | `e94823b65121` | Sep 18, 2026 | [`1266200428`](https://github.com/users/diegonmarcos/packages/container/contacts-radicale-binaries/1266200428) |
@@ -2331,8 +2355,8 @@ docker pull ghcr.io/diegonmarcos/contacts-radicale-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289360868`](https://github.com/users/diegonmarcos/packages/container/contacts-radicale-configs/1289360868) |
-| ⚪ | *28 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290641954`](https://github.com/users/diegonmarcos/packages/container/contacts-radicale-configs/1290641954) |
+| ⚪ | *31 untagged image layers* | | |
 
 </details>
 
@@ -2485,7 +2509,7 @@ docker pull ghcr.io/diegonmarcos/crowdsec:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `f49afcba7052` `13481275a224` `4e3fe743f839` `latest` | Aug 18, 2026 | [`1146257763`](https://github.com/users/diegonmarcos/packages/container/crowdsec/1146257763) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `f49afcba7052` `13481275a224` `4e3fe743f839` `latest` | Aug 18, 2026 | [`1146257763`](https://github.com/users/diegonmarcos/packages/container/crowdsec/1146257763) |
 | ⚪ | *1 untagged image layer* | | |
 
 </details>
@@ -2499,7 +2523,7 @@ docker pull ghcr.io/diegonmarcos/crowdsec-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `f49afcba7052` `13481275a224` `4e3fe743f839` `latest` | Aug 18, 2026 | [`1146257882`](https://github.com/users/diegonmarcos/packages/container/crowdsec-binaries/1146257882) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `f49afcba7052` `13481275a224` `4e3fe743f839` `latest` | Aug 18, 2026 | [`1146257882`](https://github.com/users/diegonmarcos/packages/container/crowdsec-binaries/1146257882) |
 | ⚪ | *1 untagged image layer* | | |
 
 </details>
@@ -2513,8 +2537,8 @@ docker pull ghcr.io/diegonmarcos/crowdsec-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289314036`](https://github.com/users/diegonmarcos/packages/container/crowdsec-configs/1289314036) |
-| ⚪ | *37 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290590096`](https://github.com/users/diegonmarcos/packages/container/crowdsec-configs/1290590096) |
+| ⚪ | *40 untagged image layers* | | |
 
 </details>
 
@@ -2564,7 +2588,7 @@ docker pull ghcr.io/diegonmarcos/cypht-configs:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/dagu"><b>dagu</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 83 tags · linux/arm64 · 67.7 MB · port 8080</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/dagu"><b>dagu</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 86 tags · linux/arm64 · 67.7 MB · port 8080</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/dagu:latest
@@ -2572,18 +2596,18 @@ docker pull ghcr.io/diegonmarcos/dagu:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289307095`](https://github.com/users/diegonmarcos/packages/container/dagu/1289307095) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290588333`](https://github.com/users/diegonmarcos/packages/container/dagu/1290588333) |
 | 🏷️ | `buildcache` | Mar 28, 2026 | [`763739665`](https://github.com/users/diegonmarcos/packages/container/dagu/763739665) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272223646`](https://github.com/users/diegonmarcos/packages/container/dagu/1272223646) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272061361`](https://github.com/users/diegonmarcos/packages/container/dagu/1272061361) |
-| 🔹 | `5ca58963a78a` | Sep 20, 2026 | [`1271888699`](https://github.com/users/diegonmarcos/packages/container/dagu/1271888699) |
-| | *… +78 more SHA builds* | | |
-| ⚪ | *57 untagged image layers* | | |
+| 🔹 | `5d2ec007c0ff` | Sep 24, 2026 | [`1290306035`](https://github.com/users/diegonmarcos/packages/container/dagu/1290306035) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290140576`](https://github.com/users/diegonmarcos/packages/container/dagu/1290140576) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289307095`](https://github.com/users/diegonmarcos/packages/container/dagu/1289307095) |
+| | *… +81 more SHA builds* | | |
+| ⚪ | *58 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/dagu-binaries"><b>dagu-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 21 tags · linux/arm64 · 67.7 MB · port 8080</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/dagu-binaries"><b>dagu-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 24 tags · linux/arm64 · 67.7 MB · port 8080</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/dagu-binaries:latest
@@ -2591,12 +2615,12 @@ docker pull ghcr.io/diegonmarcos/dagu-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289307357`](https://github.com/users/diegonmarcos/packages/container/dagu-binaries/1289307357) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272223842`](https://github.com/users/diegonmarcos/packages/container/dagu-binaries/1272223842) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272061613`](https://github.com/users/diegonmarcos/packages/container/dagu-binaries/1272061613) |
-| 🔹 | `5ca58963a78a` | Sep 20, 2026 | [`1271888818`](https://github.com/users/diegonmarcos/packages/container/dagu-binaries/1271888818) |
-| | *… +17 more SHA builds* | | |
-| ⚪ | *9 untagged image layers* | | |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290588605`](https://github.com/users/diegonmarcos/packages/container/dagu-binaries/1290588605) |
+| 🔹 | `5d2ec007c0ff` | Sep 24, 2026 | [`1290306813`](https://github.com/users/diegonmarcos/packages/container/dagu-binaries/1290306813) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290140935`](https://github.com/users/diegonmarcos/packages/container/dagu-binaries/1290140935) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289307357`](https://github.com/users/diegonmarcos/packages/container/dagu-binaries/1289307357) |
+| | *… +20 more SHA builds* | | |
+| ⚪ | *10 untagged image layers* | | |
 
 </details>
 
@@ -2609,13 +2633,13 @@ docker pull ghcr.io/diegonmarcos/dagu-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289304676`](https://github.com/users/diegonmarcos/packages/container/dagu-configs/1289304676) |
-| ⚪ | *170 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290586485`](https://github.com/users/diegonmarcos/packages/container/dagu-configs/1290586485) |
+| ⚪ | *174 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/dbgate"><b>dbgate</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 17 tags · linux/arm64 · 141.4 MB · port 3000</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/dbgate"><b>dbgate</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 20 tags · linux/arm64 · 141.6 MB · port 3000</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/dbgate:latest
@@ -2623,17 +2647,17 @@ docker pull ghcr.io/diegonmarcos/dbgate:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289312706`](https://github.com/users/diegonmarcos/packages/container/dbgate/1289312706) |
-| 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1275579807`](https://github.com/users/diegonmarcos/packages/container/dbgate/1275579807) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272222281`](https://github.com/users/diegonmarcos/packages/container/dbgate/1272222281) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272061747`](https://github.com/users/diegonmarcos/packages/container/dbgate/1272061747) |
-| | *… +13 more SHA builds* | | |
-| ⚪ | *22 untagged image layers* | | |
+| 🟢 | `008cf6bca385` `latest` | Sep 25, 2026 | [`1293036942`](https://github.com/users/diegonmarcos/packages/container/dbgate/1293036942) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290588150`](https://github.com/users/diegonmarcos/packages/container/dbgate/1290588150) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290140917`](https://github.com/users/diegonmarcos/packages/container/dbgate/1290140917) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289312706`](https://github.com/users/diegonmarcos/packages/container/dbgate/1289312706) |
+| | *… +16 more SHA builds* | | |
+| ⚪ | *23 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/dbgate-binaries"><b>dbgate-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 16 tags · linux/arm64 · 141.4 MB · port 3000</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/dbgate-binaries"><b>dbgate-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 19 tags · linux/arm64 · 141.6 MB · port 3000</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/dbgate-binaries:latest
@@ -2641,12 +2665,12 @@ docker pull ghcr.io/diegonmarcos/dbgate-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289312952`](https://github.com/users/diegonmarcos/packages/container/dbgate-binaries/1289312952) |
-| 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1275580184`](https://github.com/users/diegonmarcos/packages/container/dbgate-binaries/1275580184) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272222367`](https://github.com/users/diegonmarcos/packages/container/dbgate-binaries/1272222367) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272061864`](https://github.com/users/diegonmarcos/packages/container/dbgate-binaries/1272061864) |
-| | *… +12 more SHA builds* | | |
-| ⚪ | *9 untagged image layers* | | |
+| 🟢 | `008cf6bca385` `latest` | Sep 25, 2026 | [`1293037066`](https://github.com/users/diegonmarcos/packages/container/dbgate-binaries/1293037066) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290588342`](https://github.com/users/diegonmarcos/packages/container/dbgate-binaries/1290588342) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290141166`](https://github.com/users/diegonmarcos/packages/container/dbgate-binaries/1290141166) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289312952`](https://github.com/users/diegonmarcos/packages/container/dbgate-binaries/1289312952) |
+| | *… +15 more SHA builds* | | |
+| ⚪ | *10 untagged image layers* | | |
 
 </details>
 
@@ -2659,8 +2683,8 @@ docker pull ghcr.io/diegonmarcos/dbgate-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289307195`](https://github.com/users/diegonmarcos/packages/container/dbgate-configs/1289307195) |
-| ⚪ | *65 untagged image layers* | | |
+| 🟢 | `latest` | Sep 25, 2026 | [`1293035610`](https://github.com/users/diegonmarcos/packages/container/dbgate-configs/1293035610) |
+| ⚪ | *69 untagged image layers* | | |
 
 </details>
 
@@ -2687,7 +2711,7 @@ docker pull ghcr.io/diegonmarcos/etherpad:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289366388`](https://github.com/users/diegonmarcos/packages/container/etherpad/1289366388) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289366388`](https://github.com/users/diegonmarcos/packages/container/etherpad/1289366388) |
 | 🔹 | `a1783250e0af` | Sep 18, 2026 | [`1266203598`](https://github.com/users/diegonmarcos/packages/container/etherpad/1266203598) |
 | 🔹 | `96e362760498` | Aug 27, 2026 | [`1180059872`](https://github.com/users/diegonmarcos/packages/container/etherpad/1180059872) |
 | ⚪ | *72 untagged image layers* | | |
@@ -2703,7 +2727,7 @@ docker pull ghcr.io/diegonmarcos/etherpad-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289366793`](https://github.com/users/diegonmarcos/packages/container/etherpad-binaries/1289366793) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289366793`](https://github.com/users/diegonmarcos/packages/container/etherpad-binaries/1289366793) |
 | 🔹 | `a1783250e0af` | Sep 18, 2026 | [`1266203872`](https://github.com/users/diegonmarcos/packages/container/etherpad-binaries/1266203872) |
 | 🔹 | `96e362760498` | Aug 27, 2026 | [`1180060045`](https://github.com/users/diegonmarcos/packages/container/etherpad-binaries/1180060045) |
 
@@ -2718,8 +2742,8 @@ docker pull ghcr.io/diegonmarcos/etherpad-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289362293`](https://github.com/users/diegonmarcos/packages/container/etherpad-configs/1289362293) |
-| ⚪ | *46 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290642393`](https://github.com/users/diegonmarcos/packages/container/etherpad-configs/1290642393) |
+| ⚪ | *49 untagged image layers* | | |
 
 </details>
 
@@ -2746,7 +2770,7 @@ docker pull ghcr.io/diegonmarcos/filebrowser:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 27, 2026 | [`1180058062`](https://github.com/users/diegonmarcos/packages/container/filebrowser/1180058062) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 27, 2026 | [`1180058062`](https://github.com/users/diegonmarcos/packages/container/filebrowser/1180058062) |
 | ⚪ | *69 untagged image layers* | | |
 
 </details>
@@ -2760,7 +2784,7 @@ docker pull ghcr.io/diegonmarcos/filebrowser-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 27, 2026 | [`1180058263`](https://github.com/users/diegonmarcos/packages/container/filebrowser-binaries/1180058263) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 27, 2026 | [`1180058263`](https://github.com/users/diegonmarcos/packages/container/filebrowser-binaries/1180058263) |
 
 </details>
 
@@ -2773,13 +2797,13 @@ docker pull ghcr.io/diegonmarcos/filebrowser-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289363135`](https://github.com/users/diegonmarcos/packages/container/filebrowser-configs/1289363135) |
-| ⚪ | *39 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290642400`](https://github.com/users/diegonmarcos/packages/container/filebrowser-configs/1290642400) |
+| ⚪ | *42 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/fin-api"><b>fin-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 14 tags · linux/arm64 · 34.2 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/fin-api"><b>fin-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 16 tags · linux/arm64 · 34.2 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/fin-api:latest
@@ -2787,17 +2811,17 @@ docker pull ghcr.io/diegonmarcos/fin-api:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289361516`](https://github.com/users/diegonmarcos/packages/container/fin-api/1289361516) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290640162`](https://github.com/users/diegonmarcos/packages/container/fin-api/1290640162) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290193373`](https://github.com/users/diegonmarcos/packages/container/fin-api/1290193373) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289361516`](https://github.com/users/diegonmarcos/packages/container/fin-api/1289361516) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1276451535`](https://github.com/users/diegonmarcos/packages/container/fin-api/1276451535) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272239254`](https://github.com/users/diegonmarcos/packages/container/fin-api/1272239254) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272083217`](https://github.com/users/diegonmarcos/packages/container/fin-api/1272083217) |
-| | *… +10 more SHA builds* | | |
-| ⚪ | *6 untagged image layers* | | |
+| | *… +12 more SHA builds* | | |
+| ⚪ | *7 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/fin-api-binaries"><b>fin-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 14 tags · linux/arm64 · 34.2 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/fin-api-binaries"><b>fin-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 16 tags · linux/arm64 · 34.2 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/fin-api-binaries:latest
@@ -2805,12 +2829,12 @@ docker pull ghcr.io/diegonmarcos/fin-api-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289361695`](https://github.com/users/diegonmarcos/packages/container/fin-api-binaries/1289361695) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290640335`](https://github.com/users/diegonmarcos/packages/container/fin-api-binaries/1290640335) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290193562`](https://github.com/users/diegonmarcos/packages/container/fin-api-binaries/1290193562) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289361695`](https://github.com/users/diegonmarcos/packages/container/fin-api-binaries/1289361695) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1276451657`](https://github.com/users/diegonmarcos/packages/container/fin-api-binaries/1276451657) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272239363`](https://github.com/users/diegonmarcos/packages/container/fin-api-binaries/1272239363) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272083370`](https://github.com/users/diegonmarcos/packages/container/fin-api-binaries/1272083370) |
-| | *… +10 more SHA builds* | | |
-| ⚪ | *6 untagged image layers* | | |
+| | *… +12 more SHA builds* | | |
+| ⚪ | *7 untagged image layers* | | |
 
 </details>
 
@@ -2823,8 +2847,8 @@ docker pull ghcr.io/diegonmarcos/fin-api-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289354670`](https://github.com/users/diegonmarcos/packages/container/fin-api-configs/1289354670) |
-| ⚪ | *38 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290633011`](https://github.com/users/diegonmarcos/packages/container/fin-api-configs/1290633011) |
+| ⚪ | *41 untagged image layers* | | |
 
 </details>
 
@@ -2864,7 +2888,7 @@ docker pull ghcr.io/diegonmarcos/gha-runner:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `latest` | Sep 18, 2026 | [`1266151050`](https://github.com/users/diegonmarcos/packages/container/gha-runner/1266151050) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `latest` | Sep 18, 2026 | [`1266151050`](https://github.com/users/diegonmarcos/packages/container/gha-runner/1266151050) |
 | 🔹 | `483c1078a3cd` | Sep 4, 2026 | [`1211128116`](https://github.com/users/diegonmarcos/packages/container/gha-runner/1211128116) |
 | ⚪ | *1 untagged image layer* | | |
 
@@ -2879,7 +2903,7 @@ docker pull ghcr.io/diegonmarcos/gha-runner-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `latest` | Sep 18, 2026 | [`1266151198`](https://github.com/users/diegonmarcos/packages/container/gha-runner-binaries/1266151198) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `latest` | Sep 18, 2026 | [`1266151198`](https://github.com/users/diegonmarcos/packages/container/gha-runner-binaries/1266151198) |
 | 🔹 | `483c1078a3cd` | Sep 4, 2026 | [`1211128209`](https://github.com/users/diegonmarcos/packages/container/gha-runner-binaries/1211128209) |
 | ⚪ | *1 untagged image layer* | | |
 
@@ -2894,8 +2918,8 @@ docker pull ghcr.io/diegonmarcos/gha-runner-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289299652`](https://github.com/users/diegonmarcos/packages/container/gha-runner-configs/1289299652) |
-| ⚪ | *11 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290572839`](https://github.com/users/diegonmarcos/packages/container/gha-runner-configs/1290572839) |
+| ⚪ | *14 untagged image layers* | | |
 
 </details>
 
@@ -2908,7 +2932,7 @@ docker pull ghcr.io/diegonmarcos/gitea:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a9b60730bd4b` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `0809d22a59dd` `2db48c263f48` `e94823b65121` `51888af2cc11` `f1d07fb81073` `60a5365d9500` `09330ee750be` `96e362760498` `4598987a9d37` `065a48c22de7` `ff6ef3164a21` `676d65b751f0` `f49afcba7052` `latest` | Aug 30, 2026 | [`1187655864`](https://github.com/users/diegonmarcos/packages/container/gitea/1187655864) |
+| 🟢 | `1551c61db597` `2bde46f5ac60` `a9b60730bd4b` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `0809d22a59dd` `2db48c263f48` `e94823b65121` `51888af2cc11` `f1d07fb81073` `60a5365d9500` `09330ee750be` `96e362760498` `4598987a9d37` `065a48c22de7` `ff6ef3164a21` `676d65b751f0` `f49afcba7052` `latest` | Aug 30, 2026 | [`1187655864`](https://github.com/users/diegonmarcos/packages/container/gitea/1187655864) |
 | 🔹 | `9084c444678f` | Aug 18, 2026 | [`1146286847`](https://github.com/users/diegonmarcos/packages/container/gitea/1146286847) |
 | 🔹 | `f923755d10f0` | Jun 25, 2026 | [`974429441`](https://github.com/users/diegonmarcos/packages/container/gitea/974429441) |
 | ⚪ | *62 untagged image layers* | | |
@@ -2924,7 +2948,7 @@ docker pull ghcr.io/diegonmarcos/gitea-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a9b60730bd4b` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `0809d22a59dd` `2db48c263f48` `e94823b65121` `51888af2cc11` `f1d07fb81073` `60a5365d9500` `09330ee750be` `96e362760498` `4598987a9d37` `065a48c22de7` `ff6ef3164a21` `676d65b751f0` `f49afcba7052` `latest` | Aug 30, 2026 | [`1187655973`](https://github.com/users/diegonmarcos/packages/container/gitea-binaries/1187655973) |
+| 🟢 | `1551c61db597` `2bde46f5ac60` `a9b60730bd4b` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `0809d22a59dd` `2db48c263f48` `e94823b65121` `51888af2cc11` `f1d07fb81073` `60a5365d9500` `09330ee750be` `96e362760498` `4598987a9d37` `065a48c22de7` `ff6ef3164a21` `676d65b751f0` `f49afcba7052` `latest` | Aug 30, 2026 | [`1187655973`](https://github.com/users/diegonmarcos/packages/container/gitea-binaries/1187655973) |
 | 🔹 | `9084c444678f` | Aug 18, 2026 | [`1146287023`](https://github.com/users/diegonmarcos/packages/container/gitea-binaries/1146287023) |
 | ⚪ | *1 untagged image layer* | | |
 
@@ -2939,13 +2963,13 @@ docker pull ghcr.io/diegonmarcos/gitea-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289303981`](https://github.com/users/diegonmarcos/packages/container/gitea-configs/1289303981) |
-| ⚪ | *78 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290582464`](https://github.com/users/diegonmarcos/packages/container/gitea-configs/1290582464) |
+| ⚪ | *81 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp"><b>google-personal-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 91 tags · linux/arm64 · 134.4 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp"><b>google-personal-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 96 tags · linux/arm64 · 134.4 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/google-personal-mcp:latest
@@ -2953,17 +2977,17 @@ docker pull ghcr.io/diegonmarcos/google-personal-mcp:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `a9b60730bd4b` `latest` | Sep 24, 2026 | [`1289307955`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp/1289307955) |
-| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289297719`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp/1289297719) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272219708`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp/1272219708) |
-| 🔹 | `10115303f4ca` | Sep 20, 2026 | [`1272219446`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp/1272219446) |
-| | *… +87 more SHA builds* | | |
-| ⚪ | *101 untagged image layers* | | |
+| 🟢 | `c06d491a8d9e` `latest` | Sep 25, 2026 | [`1294255078`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp/1294255078) |
+| 🔹 | `008cf6bca385` | Sep 25, 2026 | [`1293037532`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp/1293037532) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290572557`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp/1290572557) |
+| 🔹 | `3c2a93e95c34` | Sep 24, 2026 | [`1290321541`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp/1290321541) |
+| | *… +92 more SHA builds* | | |
+| ⚪ | *105 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp-binaries"><b>google-personal-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 84 tags · linux/arm64 · 134.4 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp-binaries"><b>google-personal-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 89 tags · linux/arm64 · 134.4 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/google-personal-mcp-binaries:latest
@@ -2971,12 +2995,12 @@ docker pull ghcr.io/diegonmarcos/google-personal-mcp-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `a9b60730bd4b` `latest` | Sep 24, 2026 | [`1289308330`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-binaries/1289308330) |
-| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289297909`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-binaries/1289297909) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272219778`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-binaries/1272219778) |
-| 🔹 | `10115303f4ca` | Sep 20, 2026 | [`1272219532`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-binaries/1272219532) |
-| | *… +80 more SHA builds* | | |
-| ⚪ | *72 untagged image layers* | | |
+| 🟢 | `c06d491a8d9e` `latest` | Sep 25, 2026 | [`1294255344`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-binaries/1294255344) |
+| 🔹 | `008cf6bca385` | Sep 25, 2026 | [`1293037693`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-binaries/1293037693) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290572742`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-binaries/1290572742) |
+| 🔹 | `3c2a93e95c34` | Sep 24, 2026 | [`1290321802`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-binaries/1290321802) |
+| | *… +85 more SHA builds* | | |
+| ⚪ | *76 untagged image layers* | | |
 
 </details>
 
@@ -2989,13 +3013,13 @@ docker pull ghcr.io/diegonmarcos/google-personal-mcp-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289301300`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-configs/1289301300) |
-| ⚪ | *231 untagged image layers* | | |
+| 🟢 | `latest` | Sep 25, 2026 | [`1294253001`](https://github.com/users/diegonmarcos/packages/container/google-personal-mcp-configs/1294253001) |
+| ⚪ | *240 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/google-workspace-mcp"><b>google-workspace-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 242 tags · linux/arm64 · 134.3 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/google-workspace-mcp"><b>google-workspace-mcp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 244 tags · linux/arm64 · 134.3 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/google-workspace-mcp:latest
@@ -3003,18 +3027,18 @@ docker pull ghcr.io/diegonmarcos/google-workspace-mcp:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289300504`](https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp/1289300504) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290581602`](https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp/1290581602) |
 | 🏷️ | `buildcache` | Mar 27, 2026 | [`762449612`](https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp/762449612) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290127902`](https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp/1290127902) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289300504`](https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp/1289300504) |
 | 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272980690`](https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp/1272980690) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272219808`](https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp/1272219808) |
-| 🔹 | `49a465334c3d` | Sep 20, 2026 | [`1272114142`](https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp/1272114142) |
-| | *… +237 more SHA builds* | | |
-| ⚪ | *515 untagged image layers* | | |
+| | *… +239 more SHA builds* | | |
+| ⚪ | *516 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/google-workspace-mcp-binaries"><b>google-workspace-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 35 tags · linux/arm64 · 134.3 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/google-workspace-mcp-binaries"><b>google-workspace-mcp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 37 tags · linux/arm64 · 134.3 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/google-workspace-mcp-binaries:latest
@@ -3022,12 +3046,12 @@ docker pull ghcr.io/diegonmarcos/google-workspace-mcp-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289300810`](https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-binaries/1289300810) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290581791`](https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-binaries/1290581791) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290128259`](https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-binaries/1290128259) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289300810`](https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-binaries/1289300810) |
 | 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272980797`](https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-binaries/1272980797) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272219898`](https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-binaries/1272219898) |
-| 🔹 | `49a465334c3d` | Sep 20, 2026 | [`1272114250`](https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-binaries/1272114250) |
-| | *… +31 more SHA builds* | | |
-| ⚪ | *59 untagged image layers* | | |
+| | *… +33 more SHA builds* | | |
+| ⚪ | *60 untagged image layers* | | |
 
 </details>
 
@@ -3040,8 +3064,8 @@ docker pull ghcr.io/diegonmarcos/google-workspace-mcp-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289298677`](https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-configs/1289298677) |
-| ⚪ | *160 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290572301`](https://github.com/users/diegonmarcos/packages/container/google-workspace-mcp-configs/1290572301) |
+| ⚪ | *163 untagged image layers* | | |
 
 </details>
 
@@ -3054,7 +3078,7 @@ docker pull ghcr.io/diegonmarcos/grist:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289368343`](https://github.com/users/diegonmarcos/packages/container/grist/1289368343) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289368343`](https://github.com/users/diegonmarcos/packages/container/grist/1289368343) |
 | 🔹 | `f6dea770456b` | Sep 20, 2026 | [`1272003881`](https://github.com/users/diegonmarcos/packages/container/grist/1272003881) |
 | 🔹 | `e94823b65121` | Sep 18, 2026 | [`1266205105`](https://github.com/users/diegonmarcos/packages/container/grist/1266205105) |
 | 🔹 | `96e362760498` | Sep 5, 2026 | [`1212960767`](https://github.com/users/diegonmarcos/packages/container/grist/1212960767) |
@@ -3072,7 +3096,7 @@ docker pull ghcr.io/diegonmarcos/grist-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289368740`](https://github.com/users/diegonmarcos/packages/container/grist-binaries/1289368740) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289368740`](https://github.com/users/diegonmarcos/packages/container/grist-binaries/1289368740) |
 | 🔹 | `f6dea770456b` | Sep 20, 2026 | [`1272004268`](https://github.com/users/diegonmarcos/packages/container/grist-binaries/1272004268) |
 | 🔹 | `e94823b65121` | Sep 18, 2026 | [`1266205353`](https://github.com/users/diegonmarcos/packages/container/grist-binaries/1266205353) |
 | 🔹 | `96e362760498` | Sep 5, 2026 | [`1212960999`](https://github.com/users/diegonmarcos/packages/container/grist-binaries/1212960999) |
@@ -3089,8 +3113,8 @@ docker pull ghcr.io/diegonmarcos/grist-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289363370`](https://github.com/users/diegonmarcos/packages/container/grist-configs/1289363370) |
-| ⚪ | *41 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290642426`](https://github.com/users/diegonmarcos/packages/container/grist-configs/1290642426) |
+| ⚪ | *44 untagged image layers* | | |
 
 </details>
 
@@ -3103,7 +3127,7 @@ docker pull ghcr.io/diegonmarcos/hedgedoc:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 27, 2026 | [`1180062409`](https://github.com/users/diegonmarcos/packages/container/hedgedoc/1180062409) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 27, 2026 | [`1180062409`](https://github.com/users/diegonmarcos/packages/container/hedgedoc/1180062409) |
 | ⚪ | *71 untagged image layers* | | |
 
 </details>
@@ -3117,7 +3141,7 @@ docker pull ghcr.io/diegonmarcos/hedgedoc-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 27, 2026 | [`1180062877`](https://github.com/users/diegonmarcos/packages/container/hedgedoc-binaries/1180062877) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 27, 2026 | [`1180062877`](https://github.com/users/diegonmarcos/packages/container/hedgedoc-binaries/1180062877) |
 
 </details>
 
@@ -3130,8 +3154,8 @@ docker pull ghcr.io/diegonmarcos/hedgedoc-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289365652`](https://github.com/users/diegonmarcos/packages/container/hedgedoc-configs/1289365652) |
-| ⚪ | *47 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290643549`](https://github.com/users/diegonmarcos/packages/container/hedgedoc-configs/1290643549) |
+| ⚪ | *49 untagged image layers* | | |
 
 </details>
 
@@ -3150,7 +3174,7 @@ docker pull ghcr.io/diegonmarcos/hedgedoc-db:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/hermes-agent"><b>hermes-agent</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 15 tags · linux/arm64 · 970.2 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/hermes-agent"><b>hermes-agent</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 18 tags · linux/arm64 · 1.01 GB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/hermes-agent:latest
@@ -3158,17 +3182,17 @@ docker pull ghcr.io/diegonmarcos/hermes-agent:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289320444`](https://github.com/users/diegonmarcos/packages/container/hermes-agent/1289320444) |
-| 🔹 | `f6dea770456b` | Sep 24, 2026 | [`1289146512`](https://github.com/users/diegonmarcos/packages/container/hermes-agent/1289146512) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272226197`](https://github.com/users/diegonmarcos/packages/container/hermes-agent/1272226197) |
-| 🔹 | `49a465334c3d` | Sep 20, 2026 | [`1272114751`](https://github.com/users/diegonmarcos/packages/container/hermes-agent/1272114751) |
-| | *… +11 more SHA builds* | | |
-| ⚪ | *56 untagged image layers* | | |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290597449`](https://github.com/users/diegonmarcos/packages/container/hermes-agent/1290597449) |
+| 🔹 | `3c2a93e95c34` | Sep 24, 2026 | [`1290331696`](https://github.com/users/diegonmarcos/packages/container/hermes-agent/1290331696) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290153976`](https://github.com/users/diegonmarcos/packages/container/hermes-agent/1290153976) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289320444`](https://github.com/users/diegonmarcos/packages/container/hermes-agent/1289320444) |
+| | *… +14 more SHA builds* | | |
+| ⚪ | *57 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/hermes-agent-binaries"><b>hermes-agent-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 15 tags · linux/arm64 · 970.2 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/hermes-agent-binaries"><b>hermes-agent-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 18 tags · linux/arm64 · 1.01 GB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/hermes-agent-binaries:latest
@@ -3176,12 +3200,12 @@ docker pull ghcr.io/diegonmarcos/hermes-agent-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289320609`](https://github.com/users/diegonmarcos/packages/container/hermes-agent-binaries/1289320609) |
-| 🔹 | `f6dea770456b` | Sep 24, 2026 | [`1289146923`](https://github.com/users/diegonmarcos/packages/container/hermes-agent-binaries/1289146923) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272226284`](https://github.com/users/diegonmarcos/packages/container/hermes-agent-binaries/1272226284) |
-| 🔹 | `49a465334c3d` | Sep 20, 2026 | [`1272114847`](https://github.com/users/diegonmarcos/packages/container/hermes-agent-binaries/1272114847) |
-| | *… +11 more SHA builds* | | |
-| ⚪ | *6 untagged image layers* | | |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290597791`](https://github.com/users/diegonmarcos/packages/container/hermes-agent-binaries/1290597791) |
+| 🔹 | `3c2a93e95c34` | Sep 24, 2026 | [`1290331915`](https://github.com/users/diegonmarcos/packages/container/hermes-agent-binaries/1290331915) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290154213`](https://github.com/users/diegonmarcos/packages/container/hermes-agent-binaries/1290154213) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289320609`](https://github.com/users/diegonmarcos/packages/container/hermes-agent-binaries/1289320609) |
+| | *… +14 more SHA builds* | | |
+| ⚪ | *7 untagged image layers* | | |
 
 </details>
 
@@ -3194,8 +3218,8 @@ docker pull ghcr.io/diegonmarcos/hermes-agent-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289314807`](https://github.com/users/diegonmarcos/packages/container/hermes-agent-configs/1289314807) |
-| ⚪ | *63 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290592332`](https://github.com/users/diegonmarcos/packages/container/hermes-agent-configs/1290592332) |
+| ⚪ | *67 untagged image layers* | | |
 
 </details>
 
@@ -3208,7 +3232,7 @@ docker pull ghcr.io/diegonmarcos/hickory-dns:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `89601b3a7af7` `96e362760498` `065a48c22de7` `latest` | Sep 5, 2026 | [`1212928205`](https://github.com/users/diegonmarcos/packages/container/hickory-dns/1212928205) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `89601b3a7af7` `96e362760498` `065a48c22de7` `latest` | Sep 5, 2026 | [`1212928205`](https://github.com/users/diegonmarcos/packages/container/hickory-dns/1212928205) |
 | 🔹 | `ff6ef3164a21` | Sep 3, 2026 | [`1206332759`](https://github.com/users/diegonmarcos/packages/container/hickory-dns/1206332759) |
 | 🔹 | `18dd3e4bc135` | May 30, 2026 | [`904315526`](https://github.com/users/diegonmarcos/packages/container/hickory-dns/904315526) |
 | ⚪ | *41 untagged image layers* | | |
@@ -3224,7 +3248,7 @@ docker pull ghcr.io/diegonmarcos/hickory-dns-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `89601b3a7af7` `96e362760498` `065a48c22de7` `latest` | Sep 5, 2026 | [`1212928314`](https://github.com/users/diegonmarcos/packages/container/hickory-dns-binaries/1212928314) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `89601b3a7af7` `96e362760498` `065a48c22de7` `latest` | Sep 5, 2026 | [`1212928314`](https://github.com/users/diegonmarcos/packages/container/hickory-dns-binaries/1212928314) |
 | 🔹 | `ff6ef3164a21` | Sep 3, 2026 | [`1206332897`](https://github.com/users/diegonmarcos/packages/container/hickory-dns-binaries/1206332897) |
 | ⚪ | *1 untagged image layer* | | |
 
@@ -3316,7 +3340,7 @@ docker pull ghcr.io/diegonmarcos/hm-oci-mail:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/http-to-smtp-proxy-api"><b>http-to-smtp-proxy-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 48 tags · linux/amd64 · 33.6 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/http-to-smtp-proxy-api"><b>http-to-smtp-proxy-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 51 tags · linux/amd64 · 33.6 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/http-to-smtp-proxy-api:latest
@@ -3324,17 +3348,17 @@ docker pull ghcr.io/diegonmarcos/http-to-smtp-proxy-api:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289286829`](https://github.com/users/diegonmarcos/packages/container/http-to-smtp-proxy-api/1289286829) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272982533`](https://github.com/users/diegonmarcos/packages/container/http-to-smtp-proxy-api/1272982533) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272210421`](https://github.com/users/diegonmarcos/packages/container/http-to-smtp-proxy-api/1272210421) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272050343`](https://github.com/users/diegonmarcos/packages/container/http-to-smtp-proxy-api/1272050343) |
-| | *… +44 more SHA builds* | | |
-| ⚪ | *28 untagged image layers* | | |
+| 🟢 | `008cf6bca385` `latest` | Sep 25, 2026 | [`1293038019`](https://github.com/users/diegonmarcos/packages/container/http-to-smtp-proxy-api/1293038019) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290545937`](https://github.com/users/diegonmarcos/packages/container/http-to-smtp-proxy-api/1290545937) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290111270`](https://github.com/users/diegonmarcos/packages/container/http-to-smtp-proxy-api/1290111270) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289286829`](https://github.com/users/diegonmarcos/packages/container/http-to-smtp-proxy-api/1289286829) |
+| | *… +47 more SHA builds* | | |
+| ⚪ | *29 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/http-to-smtp-proxy-api-binaries"><b>http-to-smtp-proxy-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 48 tags · linux/amd64 · 33.6 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/http-to-smtp-proxy-api-binaries"><b>http-to-smtp-proxy-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 51 tags · linux/amd64 · 33.6 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/http-to-smtp-proxy-api-binaries:latest
@@ -3342,17 +3366,17 @@ docker pull ghcr.io/diegonmarcos/http-to-smtp-proxy-api-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289286961`](https://github.com/users/diegonmarcos/packages/container/http-to-smtp-proxy-api-binaries/1289286961) |
-| 🔹 | `10115303f4ca` | Sep 21, 2026 | [`1272982689`](https://github.com/users/diegonmarcos/packages/container/http-to-smtp-proxy-api-binaries/1272982689) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272210523`](https://github.com/users/diegonmarcos/packages/container/http-to-smtp-proxy-api-binaries/1272210523) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272050421`](https://github.com/users/diegonmarcos/packages/container/http-to-smtp-proxy-api-binaries/1272050421) |
-| | *… +44 more SHA builds* | | |
-| ⚪ | *29 untagged image layers* | | |
+| 🟢 | `008cf6bca385` `latest` | Sep 25, 2026 | [`1293038246`](https://github.com/users/diegonmarcos/packages/container/http-to-smtp-proxy-api-binaries/1293038246) |
+| 🔹 | `1551c61db597` | Sep 24, 2026 | [`1290546251`](https://github.com/users/diegonmarcos/packages/container/http-to-smtp-proxy-api-binaries/1290546251) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290111551`](https://github.com/users/diegonmarcos/packages/container/http-to-smtp-proxy-api-binaries/1290111551) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289286961`](https://github.com/users/diegonmarcos/packages/container/http-to-smtp-proxy-api-binaries/1289286961) |
+| | *… +47 more SHA builds* | | |
+| ⚪ | *30 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/introspect-proxy"><b>introspect-proxy</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 288 tags · linux/amd64 · 55.4 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/introspect-proxy"><b>introspect-proxy</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 290 tags · linux/amd64 · 55.4 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/introspect-proxy:latest
@@ -3360,18 +3384,18 @@ docker pull ghcr.io/diegonmarcos/introspect-proxy:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289291255`](https://github.com/users/diegonmarcos/packages/container/introspect-proxy/1289291255) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290561582`](https://github.com/users/diegonmarcos/packages/container/introspect-proxy/1290561582) |
 | 🏷️ | `buildcache` | Mar 27, 2026 | [`762451797`](https://github.com/users/diegonmarcos/packages/container/introspect-proxy/762451797) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290115526`](https://github.com/users/diegonmarcos/packages/container/introspect-proxy/1290115526) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289291255`](https://github.com/users/diegonmarcos/packages/container/introspect-proxy/1289291255) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1275574065`](https://github.com/users/diegonmarcos/packages/container/introspect-proxy/1275574065) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272212589`](https://github.com/users/diegonmarcos/packages/container/introspect-proxy/1272212589) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272052743`](https://github.com/users/diegonmarcos/packages/container/introspect-proxy/1272052743) |
-| | *… +283 more SHA builds* | | |
-| ⚪ | *539 untagged image layers* | | |
+| | *… +285 more SHA builds* | | |
+| ⚪ | *540 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/introspect-proxy-binaries"><b>introspect-proxy-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 19 tags · linux/amd64 · 55.4 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/introspect-proxy-binaries"><b>introspect-proxy-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 21 tags · linux/amd64 · 55.4 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/introspect-proxy-binaries:latest
@@ -3379,12 +3403,12 @@ docker pull ghcr.io/diegonmarcos/introspect-proxy-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289291449`](https://github.com/users/diegonmarcos/packages/container/introspect-proxy-binaries/1289291449) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290561956`](https://github.com/users/diegonmarcos/packages/container/introspect-proxy-binaries/1290561956) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290115767`](https://github.com/users/diegonmarcos/packages/container/introspect-proxy-binaries/1290115767) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289291449`](https://github.com/users/diegonmarcos/packages/container/introspect-proxy-binaries/1289291449) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1275574358`](https://github.com/users/diegonmarcos/packages/container/introspect-proxy-binaries/1275574358) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272212695`](https://github.com/users/diegonmarcos/packages/container/introspect-proxy-binaries/1272212695) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272052858`](https://github.com/users/diegonmarcos/packages/container/introspect-proxy-binaries/1272052858) |
-| | *… +15 more SHA builds* | | |
-| ⚪ | *108 untagged image layers* | | |
+| | *… +17 more SHA builds* | | |
+| ⚪ | *109 untagged image layers* | | |
 
 </details>
 
@@ -3397,8 +3421,8 @@ docker pull ghcr.io/diegonmarcos/introspect-proxy-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289289110`](https://github.com/users/diegonmarcos/packages/container/introspect-proxy-configs/1289289110) |
-| ⚪ | *110 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290548584`](https://github.com/users/diegonmarcos/packages/container/introspect-proxy-configs/1290548584) |
+| ⚪ | *113 untagged image layers* | | |
 
 </details>
 
@@ -3536,7 +3560,7 @@ docker pull ghcr.io/diegonmarcos/kg-store:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a9b60730bd4b` `latest` | Sep 24, 2026 | [`1289310151`](https://github.com/users/diegonmarcos/packages/container/kg-store/1289310151) |
+| 🟢 | `1551c61db597` `5d2ec007c0ff` `2bde46f5ac60` `a9b60730bd4b` `latest` | Sep 24, 2026 | [`1289310151`](https://github.com/users/diegonmarcos/packages/container/kg-store/1289310151) |
 | 🔹 | `a1783250e0af` | Aug 19, 2026 | [`1149833733`](https://github.com/users/diegonmarcos/packages/container/kg-store/1149833733) |
 | ⚪ | *1 untagged image layer* | | |
 
@@ -3551,7 +3575,7 @@ docker pull ghcr.io/diegonmarcos/kg-store-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a9b60730bd4b` `latest` | Sep 24, 2026 | [`1289310719`](https://github.com/users/diegonmarcos/packages/container/kg-store-binaries/1289310719) |
+| 🟢 | `1551c61db597` `5d2ec007c0ff` `2bde46f5ac60` `a9b60730bd4b` `latest` | Sep 24, 2026 | [`1289310719`](https://github.com/users/diegonmarcos/packages/container/kg-store-binaries/1289310719) |
 | 🔹 | `a1783250e0af` | Aug 19, 2026 | [`1149833948`](https://github.com/users/diegonmarcos/packages/container/kg-store-binaries/1149833948) |
 | ⚪ | *1 untagged image layer* | | |
 
@@ -3566,8 +3590,8 @@ docker pull ghcr.io/diegonmarcos/kg-store-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289318729`](https://github.com/users/diegonmarcos/packages/container/kg-store-configs/1289318729) |
-| ⚪ | *55 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290596055`](https://github.com/users/diegonmarcos/packages/container/kg-store-configs/1290596055) |
+| ⚪ | *61 untagged image layers* | | |
 
 </details>
 
@@ -3580,7 +3604,7 @@ docker pull ghcr.io/diegonmarcos/kg-store-pub:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a9b60730bd4b` `latest` | Sep 24, 2026 | [`1289310280`](https://github.com/users/diegonmarcos/packages/container/kg-store-pub/1289310280) |
+| 🟢 | `1551c61db597` `5d2ec007c0ff` `2bde46f5ac60` `a9b60730bd4b` `latest` | Sep 24, 2026 | [`1289310280`](https://github.com/users/diegonmarcos/packages/container/kg-store-pub/1289310280) |
 | 🔹 | `a1783250e0af` | Aug 30, 2026 | [`1187640275`](https://github.com/users/diegonmarcos/packages/container/kg-store-pub/1187640275) |
 
 </details>
@@ -3594,7 +3618,7 @@ docker pull ghcr.io/diegonmarcos/kg-store-pub-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a9b60730bd4b` `latest` | Sep 24, 2026 | [`1289310904`](https://github.com/users/diegonmarcos/packages/container/kg-store-pub-binaries/1289310904) |
+| 🟢 | `1551c61db597` `5d2ec007c0ff` `2bde46f5ac60` `a9b60730bd4b` `latest` | Sep 24, 2026 | [`1289310904`](https://github.com/users/diegonmarcos/packages/container/kg-store-pub-binaries/1289310904) |
 | 🔹 | `a1783250e0af` | Aug 30, 2026 | [`1187640536`](https://github.com/users/diegonmarcos/packages/container/kg-store-pub-binaries/1187640536) |
 
 </details>
@@ -3608,8 +3632,8 @@ docker pull ghcr.io/diegonmarcos/kg-store-pub-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289321426`](https://github.com/users/diegonmarcos/packages/container/kg-store-pub-configs/1289321426) |
-| ⚪ | *17 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290598579`](https://github.com/users/diegonmarcos/packages/container/kg-store-pub-configs/1290598579) |
+| ⚪ | *23 untagged image layers* | | |
 
 </details>
 
@@ -3622,8 +3646,8 @@ docker pull ghcr.io/diegonmarcos/languagetool-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289283978`](https://github.com/users/diegonmarcos/packages/container/languagetool-configs/1289283978) |
-| ⚪ | *28 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290548334`](https://github.com/users/diegonmarcos/packages/container/languagetool-configs/1290548334) |
+| ⚪ | *31 untagged image layers* | | |
 
 </details>
 
@@ -3714,7 +3738,7 @@ docker pull ghcr.io/diegonmarcos/maddy:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/maddy-binaries"><b>maddy-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 54 tags · linux/amd64 · 32.0 MB · port 143, 25, 465, 587, 993</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/maddy-binaries"><b>maddy-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 56 tags · linux/amd64 · 32.0 MB · port 143, 25, 465, 587, 993</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/maddy-binaries:latest
@@ -3722,17 +3746,17 @@ docker pull ghcr.io/diegonmarcos/maddy-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289293764`](https://github.com/users/diegonmarcos/packages/container/maddy-binaries/1289293764) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290570732`](https://github.com/users/diegonmarcos/packages/container/maddy-binaries/1290570732) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290125083`](https://github.com/users/diegonmarcos/packages/container/maddy-binaries/1290125083) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289293764`](https://github.com/users/diegonmarcos/packages/container/maddy-binaries/1289293764) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1275591443`](https://github.com/users/diegonmarcos/packages/container/maddy-binaries/1275591443) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272216595`](https://github.com/users/diegonmarcos/packages/container/maddy-binaries/1272216595) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272056549`](https://github.com/users/diegonmarcos/packages/container/maddy-binaries/1272056549) |
-| | *… +50 more SHA builds* | | |
-| ⚪ | *10 untagged image layers* | | |
+| | *… +52 more SHA builds* | | |
+| ⚪ | *11 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/maddy-binaries-binaries"><b>maddy-binaries-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 24 tags · linux/amd64 · 32.0 MB · port 143, 25, 465, 587, 993</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/maddy-binaries-binaries"><b>maddy-binaries-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 26 tags · linux/amd64 · 32.0 MB · port 143, 25, 465, 587, 993</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/maddy-binaries-binaries:latest
@@ -3740,12 +3764,12 @@ docker pull ghcr.io/diegonmarcos/maddy-binaries-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289294055`](https://github.com/users/diegonmarcos/packages/container/maddy-binaries-binaries/1289294055) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290570898`](https://github.com/users/diegonmarcos/packages/container/maddy-binaries-binaries/1290570898) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290125402`](https://github.com/users/diegonmarcos/packages/container/maddy-binaries-binaries/1290125402) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289294055`](https://github.com/users/diegonmarcos/packages/container/maddy-binaries-binaries/1289294055) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1275591734`](https://github.com/users/diegonmarcos/packages/container/maddy-binaries-binaries/1275591734) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272216708`](https://github.com/users/diegonmarcos/packages/container/maddy-binaries-binaries/1272216708) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272056673`](https://github.com/users/diegonmarcos/packages/container/maddy-binaries-binaries/1272056673) |
-| | *… +20 more SHA builds* | | |
-| ⚪ | *19 untagged image layers* | | |
+| | *… +22 more SHA builds* | | |
+| ⚪ | *20 untagged image layers* | | |
 
 </details>
 
@@ -3797,7 +3821,7 @@ docker pull ghcr.io/diegonmarcos/mail-mcp-configs:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/mail-puller-binaries"><b>mail-puller-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 75 tags · linux/amd64 · 34.5 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/mail-puller-binaries"><b>mail-puller-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 77 tags · linux/amd64 · 34.5 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/mail-puller-binaries:latest
@@ -3805,17 +3829,17 @@ docker pull ghcr.io/diegonmarcos/mail-puller-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289292837`](https://github.com/users/diegonmarcos/packages/container/mail-puller-binaries/1289292837) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290568927`](https://github.com/users/diegonmarcos/packages/container/mail-puller-binaries/1290568927) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290123454`](https://github.com/users/diegonmarcos/packages/container/mail-puller-binaries/1290123454) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289292837`](https://github.com/users/diegonmarcos/packages/container/mail-puller-binaries/1289292837) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1275587008`](https://github.com/users/diegonmarcos/packages/container/mail-puller-binaries/1275587008) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272216135`](https://github.com/users/diegonmarcos/packages/container/mail-puller-binaries/1272216135) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272056301`](https://github.com/users/diegonmarcos/packages/container/mail-puller-binaries/1272056301) |
-| | *… +71 more SHA builds* | | |
-| ⚪ | *62 untagged image layers* | | |
+| | *… +73 more SHA builds* | | |
+| ⚪ | *63 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/mail-puller-binaries-binaries"><b>mail-puller-binaries-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 17 tags · linux/amd64 · 34.5 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/mail-puller-binaries-binaries"><b>mail-puller-binaries-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 19 tags · linux/amd64 · 34.5 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/mail-puller-binaries-binaries:latest
@@ -3823,17 +3847,17 @@ docker pull ghcr.io/diegonmarcos/mail-puller-binaries-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289293119`](https://github.com/users/diegonmarcos/packages/container/mail-puller-binaries-binaries/1289293119) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290569115`](https://github.com/users/diegonmarcos/packages/container/mail-puller-binaries-binaries/1290569115) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290123814`](https://github.com/users/diegonmarcos/packages/container/mail-puller-binaries-binaries/1290123814) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289293119`](https://github.com/users/diegonmarcos/packages/container/mail-puller-binaries-binaries/1289293119) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1275587170`](https://github.com/users/diegonmarcos/packages/container/mail-puller-binaries-binaries/1275587170) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272216210`](https://github.com/users/diegonmarcos/packages/container/mail-puller-binaries-binaries/1272216210) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272056395`](https://github.com/users/diegonmarcos/packages/container/mail-puller-binaries-binaries/1272056395) |
-| | *… +13 more SHA builds* | | |
-| ⚪ | *102 untagged image layers* | | |
+| | *… +15 more SHA builds* | | |
+| ⚪ | *103 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/matomo"><b>matomo</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 9 tags · linux/arm64 · 225.5 MB · port 8080</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/matomo"><b>matomo</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 11 tags · linux/arm64 · 225.5 MB · port 8080</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/matomo:latest
@@ -3841,17 +3865,17 @@ docker pull ghcr.io/diegonmarcos/matomo:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289317410`](https://github.com/users/diegonmarcos/packages/container/matomo/1289317410) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290594908`](https://github.com/users/diegonmarcos/packages/container/matomo/1290594908) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290146431`](https://github.com/users/diegonmarcos/packages/container/matomo/1290146431) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289317410`](https://github.com/users/diegonmarcos/packages/container/matomo/1289317410) |
 | 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272224161`](https://github.com/users/diegonmarcos/packages/container/matomo/1272224161) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272063999`](https://github.com/users/diegonmarcos/packages/container/matomo/1272063999) |
-| 🔹 | `5ca58963a78a` | Sep 20, 2026 | [`1271891407`](https://github.com/users/diegonmarcos/packages/container/matomo/1271891407) |
-| | *… +5 more SHA builds* | | |
-| ⚪ | *1 untagged image layer* | | |
+| | *… +7 more SHA builds* | | |
+| ⚪ | *2 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/matomo-binaries"><b>matomo-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 9 tags · linux/arm64 · 225.5 MB · port 8080</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/matomo-binaries"><b>matomo-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 11 tags · linux/arm64 · 225.5 MB · port 8080</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/matomo-binaries:latest
@@ -3859,12 +3883,12 @@ docker pull ghcr.io/diegonmarcos/matomo-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289317750`](https://github.com/users/diegonmarcos/packages/container/matomo-binaries/1289317750) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290595290`](https://github.com/users/diegonmarcos/packages/container/matomo-binaries/1290595290) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290146879`](https://github.com/users/diegonmarcos/packages/container/matomo-binaries/1290146879) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289317750`](https://github.com/users/diegonmarcos/packages/container/matomo-binaries/1289317750) |
 | 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272224342`](https://github.com/users/diegonmarcos/packages/container/matomo-binaries/1272224342) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272064181`](https://github.com/users/diegonmarcos/packages/container/matomo-binaries/1272064181) |
-| 🔹 | `5ca58963a78a` | Sep 20, 2026 | [`1271891557`](https://github.com/users/diegonmarcos/packages/container/matomo-binaries/1271891557) |
-| | *… +5 more SHA builds* | | |
-| ⚪ | *1 untagged image layer* | | |
+| | *… +7 more SHA builds* | | |
+| ⚪ | *2 untagged image layers* | | |
 
 </details>
 
@@ -3877,8 +3901,8 @@ docker pull ghcr.io/diegonmarcos/matomo-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289308118`](https://github.com/users/diegonmarcos/packages/container/matomo-configs/1289308118) |
-| ⚪ | *144 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290587847`](https://github.com/users/diegonmarcos/packages/container/matomo-configs/1290587847) |
+| ⚪ | *147 untagged image layers* | | |
 
 </details>
 
@@ -3891,7 +3915,7 @@ docker pull ghcr.io/diegonmarcos/matrix-continuwuity:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `13b83089de5a` `2db48c263f48` `e94823b65121` `latest` | Sep 18, 2026 | [`1266190574`](https://github.com/users/diegonmarcos/packages/container/matrix-continuwuity/1266190574) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `13b83089de5a` `2db48c263f48` `e94823b65121` `latest` | Sep 18, 2026 | [`1266190574`](https://github.com/users/diegonmarcos/packages/container/matrix-continuwuity/1266190574) |
 | 🔹 | `483c1078a3cd` | Aug 24, 2026 | [`1166537629`](https://github.com/users/diegonmarcos/packages/container/matrix-continuwuity/1166537629) |
 | 🔹 | `3e485b631caa` | Jul 11, 2026 | [`1021480843`](https://github.com/users/diegonmarcos/packages/container/matrix-continuwuity/1021480843) |
 | ⚪ | *5 untagged image layers* | | |
@@ -3907,7 +3931,7 @@ docker pull ghcr.io/diegonmarcos/matrix-continuwuity-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `13b83089de5a` `2db48c263f48` `e94823b65121` `latest` | Sep 18, 2026 | [`1266190747`](https://github.com/users/diegonmarcos/packages/container/matrix-continuwuity-binaries/1266190747) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `13b83089de5a` `2db48c263f48` `e94823b65121` `latest` | Sep 18, 2026 | [`1266190747`](https://github.com/users/diegonmarcos/packages/container/matrix-continuwuity-binaries/1266190747) |
 | 🔹 | `483c1078a3cd` | Aug 24, 2026 | [`1166537872`](https://github.com/users/diegonmarcos/packages/container/matrix-continuwuity-binaries/1166537872) |
 | ⚪ | *6 untagged image layers* | | |
 
@@ -3922,8 +3946,8 @@ docker pull ghcr.io/diegonmarcos/matrix-continuwuity-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289342224`](https://github.com/users/diegonmarcos/packages/container/matrix-continuwuity-configs/1289342224) |
-| ⚪ | *119 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290626481`](https://github.com/users/diegonmarcos/packages/container/matrix-continuwuity-configs/1290626481) |
+| ⚪ | *122 untagged image layers* | | |
 
 </details>
 
@@ -3936,7 +3960,7 @@ docker pull ghcr.io/diegonmarcos/matrix-element:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289346051`](https://github.com/users/diegonmarcos/packages/container/matrix-element/1289346051) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289346051`](https://github.com/users/diegonmarcos/packages/container/matrix-element/1289346051) |
 | 🔹 | `a1783250e0af` | Sep 18, 2026 | [`1266190853`](https://github.com/users/diegonmarcos/packages/container/matrix-element/1266190853) |
 | 🔹 | `a98aa41c110b` | Sep 1, 2026 | [`1197302371`](https://github.com/users/diegonmarcos/packages/container/matrix-element/1197302371) |
 | 🔹 | `9ced09227078` | Aug 19, 2026 | [`1149878436`](https://github.com/users/diegonmarcos/packages/container/matrix-element/1149878436) |
@@ -3952,7 +3976,7 @@ docker pull ghcr.io/diegonmarcos/matrix-element-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289346222`](https://github.com/users/diegonmarcos/packages/container/matrix-element-binaries/1289346222) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289346222`](https://github.com/users/diegonmarcos/packages/container/matrix-element-binaries/1289346222) |
 | 🔹 | `a1783250e0af` | Sep 18, 2026 | [`1266191062`](https://github.com/users/diegonmarcos/packages/container/matrix-element-binaries/1266191062) |
 | 🔹 | `a98aa41c110b` | Sep 1, 2026 | [`1197302768`](https://github.com/users/diegonmarcos/packages/container/matrix-element-binaries/1197302768) |
 | 🔹 | `9ced09227078` | Aug 19, 2026 | [`1149878804`](https://github.com/users/diegonmarcos/packages/container/matrix-element-binaries/1149878804) |
@@ -3968,13 +3992,13 @@ docker pull ghcr.io/diegonmarcos/matrix-element-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289343395`](https://github.com/users/diegonmarcos/packages/container/matrix-element-configs/1289343395) |
-| ⚪ | *85 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290627432`](https://github.com/users/diegonmarcos/packages/container/matrix-element-configs/1290627432) |
+| ⚪ | *88 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/matrix-mautrix-whatsapp"><b>matrix-mautrix-whatsapp</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published today · 6 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/matrix-mautrix-whatsapp"><b>matrix-mautrix-whatsapp</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published today · 7 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/matrix-mautrix-whatsapp:latest
@@ -3982,17 +4006,17 @@ docker pull ghcr.io/diegonmarcos/matrix-mautrix-whatsapp:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289349438`](https://github.com/users/diegonmarcos/packages/container/matrix-mautrix-whatsapp/1289349438) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `latest` | Sep 24, 2026 | [`1290102972`](https://github.com/users/diegonmarcos/packages/container/matrix-mautrix-whatsapp/1290102972) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289349438`](https://github.com/users/diegonmarcos/packages/container/matrix-mautrix-whatsapp/1289349438) |
 | 🔹 | `a1783250e0af` | Sep 18, 2026 | [`1266191996`](https://github.com/users/diegonmarcos/packages/container/matrix-mautrix-whatsapp/1266191996) |
 | 🔹 | `483c1078a3cd` | Sep 3, 2026 | [`1205013468`](https://github.com/users/diegonmarcos/packages/container/matrix-mautrix-whatsapp/1205013468) |
-| 🔹 | `8033c52a20e8` | Aug 30, 2026 | [`1187670177`](https://github.com/users/diegonmarcos/packages/container/matrix-mautrix-whatsapp/1187670177) |
-| | *… +2 more SHA builds* | | |
+| | *… +3 more SHA builds* | | |
 | ⚪ | *11 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/matrix-mautrix-whatsapp-binaries"><b>matrix-mautrix-whatsapp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published today · 5 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/matrix-mautrix-whatsapp-binaries"><b>matrix-mautrix-whatsapp-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published today · 6 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/matrix-mautrix-whatsapp-binaries:latest
@@ -4000,11 +4024,11 @@ docker pull ghcr.io/diegonmarcos/matrix-mautrix-whatsapp-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289349632`](https://github.com/users/diegonmarcos/packages/container/matrix-mautrix-whatsapp-binaries/1289349632) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `latest` | Sep 24, 2026 | [`1290103274`](https://github.com/users/diegonmarcos/packages/container/matrix-mautrix-whatsapp-binaries/1290103274) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289349632`](https://github.com/users/diegonmarcos/packages/container/matrix-mautrix-whatsapp-binaries/1289349632) |
 | 🔹 | `a1783250e0af` | Sep 18, 2026 | [`1266192171`](https://github.com/users/diegonmarcos/packages/container/matrix-mautrix-whatsapp-binaries/1266192171) |
 | 🔹 | `483c1078a3cd` | Sep 3, 2026 | [`1205013679`](https://github.com/users/diegonmarcos/packages/container/matrix-mautrix-whatsapp-binaries/1205013679) |
-| 🔹 | `8033c52a20e8` | Aug 30, 2026 | [`1187670305`](https://github.com/users/diegonmarcos/packages/container/matrix-mautrix-whatsapp-binaries/1187670305) |
-| | *… +1 more SHA builds* | | |
+| | *… +2 more SHA builds* | | |
 | ⚪ | *12 untagged image layers* | | |
 
 </details>
@@ -4018,8 +4042,8 @@ docker pull ghcr.io/diegonmarcos/matrix-mautrix-whatsapp-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289346877`](https://github.com/users/diegonmarcos/packages/container/matrix-mautrix-whatsapp-configs/1289346877) |
-| ⚪ | *86 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290628584`](https://github.com/users/diegonmarcos/packages/container/matrix-mautrix-whatsapp-configs/1290628584) |
+| ⚪ | *89 untagged image layers* | | |
 
 </details>
 
@@ -4127,7 +4151,7 @@ docker pull ghcr.io/diegonmarcos/mattermost-mcp-configs:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/my-ai_claude-api-configs"><b>my-ai_claude-api-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 3 days ago · 1 tags · linux/arm64 · 4.4 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/my-ai_claude-api-configs"><b>my-ai_claude-api-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 1 tags · linux/arm64 · 4.4 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/my-ai_claude-api-configs:latest
@@ -4135,13 +4159,13 @@ docker pull ghcr.io/diegonmarcos/my-ai_claude-api-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 20, 2026 | [`1272226915`](https://github.com/users/diegonmarcos/packages/container/my-ai_claude-api-configs/1272226915) |
-| ⚪ | *58 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290601942`](https://github.com/users/diegonmarcos/packages/container/my-ai_claude-api-configs/1290601942) |
+| ⚪ | *67 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/my-ai-api"><b>my-ai-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 34 tags · linux/arm64 · 587.9 MB · port 12436, 3217, 8890</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/my-ai-api"><b>my-ai-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 37 tags · linux/arm64 · 587.9 MB · port 12436, 3217, 8890</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/my-ai-api:latest
@@ -4149,17 +4173,17 @@ docker pull ghcr.io/diegonmarcos/my-ai-api:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289353136`](https://github.com/users/diegonmarcos/packages/container/my-ai-api/1289353136) |
-| 🔹 | `f6dea770456b` | Sep 24, 2026 | [`1289158149`](https://github.com/users/diegonmarcos/packages/container/my-ai-api/1289158149) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272234342`](https://github.com/users/diegonmarcos/packages/container/my-ai-api/1272234342) |
-| 🔹 | `49a465334c3d` | Sep 20, 2026 | [`1272135628`](https://github.com/users/diegonmarcos/packages/container/my-ai-api/1272135628) |
-| | *… +30 more SHA builds* | | |
-| ⚪ | *26 untagged image layers* | | |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290626562`](https://github.com/users/diegonmarcos/packages/container/my-ai-api/1290626562) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290180051`](https://github.com/users/diegonmarcos/packages/container/my-ai-api/1290180051) |
+| 🔹 | `5d2ec007c0ff` | Sep 24, 2026 | [`1290149015`](https://github.com/users/diegonmarcos/packages/container/my-ai-api/1290149015) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289353136`](https://github.com/users/diegonmarcos/packages/container/my-ai-api/1289353136) |
+| | *… +33 more SHA builds* | | |
+| ⚪ | *30 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/my-ai-api-binaries"><b>my-ai-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 34 tags · linux/arm64 · 587.9 MB · port 12436, 3217, 8890</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/my-ai-api-binaries"><b>my-ai-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 37 tags · linux/arm64 · 587.9 MB · port 12436, 3217, 8890</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/my-ai-api-binaries:latest
@@ -4167,12 +4191,12 @@ docker pull ghcr.io/diegonmarcos/my-ai-api-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289353645`](https://github.com/users/diegonmarcos/packages/container/my-ai-api-binaries/1289353645) |
-| 🔹 | `f6dea770456b` | Sep 24, 2026 | [`1289158403`](https://github.com/users/diegonmarcos/packages/container/my-ai-api-binaries/1289158403) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272234517`](https://github.com/users/diegonmarcos/packages/container/my-ai-api-binaries/1272234517) |
-| 🔹 | `49a465334c3d` | Sep 20, 2026 | [`1272135809`](https://github.com/users/diegonmarcos/packages/container/my-ai-api-binaries/1272135809) |
-| | *… +30 more SHA builds* | | |
-| ⚪ | *24 untagged image layers* | | |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290626879`](https://github.com/users/diegonmarcos/packages/container/my-ai-api-binaries/1290626879) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290180502`](https://github.com/users/diegonmarcos/packages/container/my-ai-api-binaries/1290180502) |
+| 🔹 | `5d2ec007c0ff` | Sep 24, 2026 | [`1290149558`](https://github.com/users/diegonmarcos/packages/container/my-ai-api-binaries/1290149558) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289353645`](https://github.com/users/diegonmarcos/packages/container/my-ai-api-binaries/1289353645) |
+| | *… +33 more SHA builds* | | |
+| ⚪ | *28 untagged image layers* | | |
 
 </details>
 
@@ -4185,13 +4209,13 @@ docker pull ghcr.io/diegonmarcos/my-ai-api-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289428414`](https://github.com/users/diegonmarcos/packages/container/my-ai-api-configs/1289428414) |
-| ⚪ | *86 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290600644`](https://github.com/users/diegonmarcos/packages/container/my-ai-api-configs/1290600644) |
+| ⚪ | *92 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/news-gdelt"><b>news-gdelt</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 14 tags · linux/arm64 · 196.3 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/news-gdelt"><b>news-gdelt</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 16 tags · linux/arm64 · 196.3 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/news-gdelt:latest
@@ -4199,17 +4223,17 @@ docker pull ghcr.io/diegonmarcos/news-gdelt:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289359750`](https://github.com/users/diegonmarcos/packages/container/news-gdelt/1289359750) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290640124`](https://github.com/users/diegonmarcos/packages/container/news-gdelt/1290640124) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290193059`](https://github.com/users/diegonmarcos/packages/container/news-gdelt/1290193059) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289359750`](https://github.com/users/diegonmarcos/packages/container/news-gdelt/1289359750) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1276453108`](https://github.com/users/diegonmarcos/packages/container/news-gdelt/1276453108) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272240492`](https://github.com/users/diegonmarcos/packages/container/news-gdelt/1272240492) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272085140`](https://github.com/users/diegonmarcos/packages/container/news-gdelt/1272085140) |
-| | *… +10 more SHA builds* | | |
-| ⚪ | *16 untagged image layers* | | |
+| | *… +12 more SHA builds* | | |
+| ⚪ | *17 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/news-gdelt-binaries"><b>news-gdelt-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 10 tags · linux/arm64 · 196.3 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/news-gdelt-binaries"><b>news-gdelt-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 12 tags · linux/arm64 · 196.3 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/news-gdelt-binaries:latest
@@ -4217,12 +4241,12 @@ docker pull ghcr.io/diegonmarcos/news-gdelt-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289360032`](https://github.com/users/diegonmarcos/packages/container/news-gdelt-binaries/1289360032) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290640318`](https://github.com/users/diegonmarcos/packages/container/news-gdelt-binaries/1290640318) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290193426`](https://github.com/users/diegonmarcos/packages/container/news-gdelt-binaries/1290193426) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289360032`](https://github.com/users/diegonmarcos/packages/container/news-gdelt-binaries/1289360032) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1276452972`](https://github.com/users/diegonmarcos/packages/container/news-gdelt-binaries/1276452972) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272240597`](https://github.com/users/diegonmarcos/packages/container/news-gdelt-binaries/1272240597) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272085256`](https://github.com/users/diegonmarcos/packages/container/news-gdelt-binaries/1272085256) |
-| | *… +6 more SHA builds* | | |
-| ⚪ | *2 untagged image layers* | | |
+| | *… +8 more SHA builds* | | |
+| ⚪ | *3 untagged image layers* | | |
 
 </details>
 
@@ -4235,13 +4259,13 @@ docker pull ghcr.io/diegonmarcos/news-gdelt-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289355484`](https://github.com/users/diegonmarcos/packages/container/news-gdelt-configs/1289355484) |
-| ⚪ | *32 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290637367`](https://github.com/users/diegonmarcos/packages/container/news-gdelt-configs/1290637367) |
+| ⚪ | *35 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-gcp-proxy"><b>nixhm-sudo-gcp-proxy</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 8 days ago · 168 tags · linux/amd64 · 733.2 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-gcp-proxy"><b>nixhm-sudo-gcp-proxy</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 170 tags · linux/amd64 · 733.3 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/nixhm-sudo-gcp-proxy:latest
@@ -4249,11 +4273,11 @@ docker pull ghcr.io/diegonmarcos/nixhm-sudo-gcp-proxy:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2e25b08` `latest` | Sep 16, 2026 | [`1255519426`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-gcp-proxy/1255519426) |
+| 🟢 | `cd3b506` `latest` | Sep 25, 2026 | [`1294439914`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-gcp-proxy/1294439914) |
+| 🔹 | `008cf6b` | Sep 24, 2026 | [`1291873123`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-gcp-proxy/1291873123) |
+| 🔹 | `2e25b08` | Sep 16, 2026 | [`1255519426`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-gcp-proxy/1255519426) |
 | 🔹 | `467f516` | Sep 16, 2026 | [`1255461412`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-gcp-proxy/1255461412) |
-| 🔹 | `ab06e1e` | Sep 9, 2026 | [`1226663769`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-gcp-proxy/1226663769) |
-| 🔹 | `15833b1` | Sep 8, 2026 | [`1220999880`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-gcp-proxy/1220999880) |
-| | *… +164 more SHA builds* | | |
+| | *… +166 more SHA builds* | | |
 | ⚪ | *86 untagged image layers* | | |
 
 </details>
@@ -4277,7 +4301,7 @@ docker pull ghcr.io/diegonmarcos/nixhm-sudo-gcp-t4:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-analytics"><b>nixhm-sudo-oci-analytics</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 8 days ago · 154 tags · linux/amd64 · 708.7 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-analytics"><b>nixhm-sudo-oci-analytics</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 155 tags · linux/amd64 · 708.7 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/nixhm-sudo-oci-analytics:latest
@@ -4285,17 +4309,17 @@ docker pull ghcr.io/diegonmarcos/nixhm-sudo-oci-analytics:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `467f516` `latest` | Sep 16, 2026 | [`1255275242`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-analytics/1255275242) |
+| 🟢 | `c06d491` `latest` | Sep 25, 2026 | [`1294257480`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-analytics/1294257480) |
+| 🔹 | `467f516` | Sep 16, 2026 | [`1255275242`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-analytics/1255275242) |
 | 🔹 | `1ac4da7` | Sep 9, 2026 | [`1226581235`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-analytics/1226581235) |
 | 🔹 | `15833b1` | Sep 8, 2026 | [`1220972034`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-analytics/1220972034) |
-| 🔹 | `c365f95` | Sep 6, 2026 | [`1215534759`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-analytics/1215534759) |
-| | *… +150 more SHA builds* | | |
+| | *… +151 more SHA builds* | | |
 | ⚪ | *32 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-mail"><b>nixhm-sudo-oci-mail</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 8 days ago · 159 tags · linux/amd64 · 708.9 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-mail"><b>nixhm-sudo-oci-mail</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 161 tags · linux/amd64 · 708.8 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/nixhm-sudo-oci-mail:latest
@@ -4303,11 +4327,11 @@ docker pull ghcr.io/diegonmarcos/nixhm-sudo-oci-mail:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `467f516` `latest` | Sep 16, 2026 | [`1255211273`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-mail/1255211273) |
+| 🟢 | `cd3b506` `latest` | Sep 25, 2026 | [`1294279472`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-mail/1294279472) |
+| 🔹 | `27968b8` | Sep 24, 2026 | [`1291799741`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-mail/1291799741) |
+| 🔹 | `467f516` | Sep 16, 2026 | [`1255211273`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-mail/1255211273) |
 | 🔹 | `1ac4da7` | Sep 9, 2026 | [`1226597301`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-mail/1226597301) |
-| 🔹 | `15833b1` | Sep 8, 2026 | [`1220982099`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-mail/1220982099) |
-| 🔹 | `c365f95` | Sep 6, 2026 | [`1215585260`](https://github.com/users/diegonmarcos/packages/container/nixhm-sudo-oci-mail/1215585260) |
-| | *… +155 more SHA builds* | | |
+| | *… +157 more SHA builds* | | |
 | ⚪ | *48 untagged image layers* | | |
 
 </details>
@@ -4363,7 +4387,7 @@ docker pull ghcr.io/diegonmarcos/ntfy:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `db934497d410` `96e362760498` `065a48c22de7` `ff6ef3164a21` `9ced09227078` `latest` | Aug 31, 2026 | [`1190719988`](https://github.com/users/diegonmarcos/packages/container/ntfy/1190719988) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `db934497d410` `96e362760498` `065a48c22de7` `ff6ef3164a21` `9ced09227078` `latest` | Aug 31, 2026 | [`1190719988`](https://github.com/users/diegonmarcos/packages/container/ntfy/1190719988) |
 | ⚪ | *44 untagged image layers* | | |
 
 </details>
@@ -4377,7 +4401,7 @@ docker pull ghcr.io/diegonmarcos/ntfy-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `db934497d410` `96e362760498` `065a48c22de7` `ff6ef3164a21` `9ced09227078` `latest` | Aug 31, 2026 | [`1190720261`](https://github.com/users/diegonmarcos/packages/container/ntfy-binaries/1190720261) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `db934497d410` `96e362760498` `065a48c22de7` `ff6ef3164a21` `9ced09227078` `latest` | Aug 31, 2026 | [`1190720261`](https://github.com/users/diegonmarcos/packages/container/ntfy-binaries/1190720261) |
 
 </details>
 
@@ -4390,8 +4414,8 @@ docker pull ghcr.io/diegonmarcos/ntfy-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289308119`](https://github.com/users/diegonmarcos/packages/container/ntfy-configs/1289308119) |
-| ⚪ | *71 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290589180`](https://github.com/users/diegonmarcos/packages/container/ntfy-configs/1290589180) |
+| ⚪ | *74 untagged image layers* | | |
 
 </details>
 
@@ -4507,7 +4531,7 @@ docker pull ghcr.io/diegonmarcos/ollama-hai:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/ollama-hai-binaries"><b>ollama-hai-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published 2 months ago · 1 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/ollama-hai-binaries"><b>ollama-hai-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published 3 months ago · 1 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/ollama-hai-binaries:latest
@@ -4521,7 +4545,7 @@ docker pull ghcr.io/diegonmarcos/ollama-hai-binaries:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/ollama-hai-configs"><b>ollama-hai-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 2 months ago · 1 tags · linux/arm64 · 1.9 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/ollama-hai-configs"><b>ollama-hai-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 3 months ago · 1 tags · linux/arm64 · 1.9 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/ollama-hai-configs:latest
@@ -4543,7 +4567,7 @@ docker pull ghcr.io/diegonmarcos/openobserve:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `01cd9268fa54` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 18, 2026 | [`1146248867`](https://github.com/users/diegonmarcos/packages/container/openobserve/1146248867) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `01cd9268fa54` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 18, 2026 | [`1146248867`](https://github.com/users/diegonmarcos/packages/container/openobserve/1146248867) |
 | ⚪ | *1 untagged image layer* | | |
 
 </details>
@@ -4557,7 +4581,7 @@ docker pull ghcr.io/diegonmarcos/openobserve-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `01cd9268fa54` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 18, 2026 | [`1146249059`](https://github.com/users/diegonmarcos/packages/container/openobserve-binaries/1146249059) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `01cd9268fa54` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 18, 2026 | [`1146249059`](https://github.com/users/diegonmarcos/packages/container/openobserve-binaries/1146249059) |
 | ⚪ | *1 untagged image layer* | | |
 
 </details>
@@ -4571,8 +4595,8 @@ docker pull ghcr.io/diegonmarcos/openobserve-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289312641`](https://github.com/users/diegonmarcos/packages/container/openobserve-configs/1289312641) |
-| ⚪ | *11 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290589535`](https://github.com/users/diegonmarcos/packages/container/openobserve-configs/1290589535) |
+| ⚪ | *14 untagged image layers* | | |
 
 </details>
 
@@ -4585,8 +4609,8 @@ docker pull ghcr.io/diegonmarcos/paca-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289367838`](https://github.com/users/diegonmarcos/packages/container/paca-configs/1289367838) |
-| ⚪ | *22 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290644941`](https://github.com/users/diegonmarcos/packages/container/paca-configs/1290644941) |
+| ⚪ | *25 untagged image layers* | | |
 
 </details>
 
@@ -4599,7 +4623,7 @@ docker pull ghcr.io/diegonmarcos/photoprism:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `latest` | Sep 20, 2026 | [`1271999131`](https://github.com/users/diegonmarcos/packages/container/photoprism/1271999131) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `latest` | Sep 20, 2026 | [`1271999131`](https://github.com/users/diegonmarcos/packages/container/photoprism/1271999131) |
 | 🔹 | `2db48c263f48` | Sep 3, 2026 | [`1206387150`](https://github.com/users/diegonmarcos/packages/container/photoprism/1206387150) |
 | ⚪ | *78 untagged image layers* | | |
 
@@ -4614,7 +4638,7 @@ docker pull ghcr.io/diegonmarcos/photoprism-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `latest` | Sep 20, 2026 | [`1271999331`](https://github.com/users/diegonmarcos/packages/container/photoprism-binaries/1271999331) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `latest` | Sep 20, 2026 | [`1271999331`](https://github.com/users/diegonmarcos/packages/container/photoprism-binaries/1271999331) |
 | 🔹 | `2db48c263f48` | Sep 3, 2026 | [`1206387407`](https://github.com/users/diegonmarcos/packages/container/photoprism-binaries/1206387407) |
 
 </details>
@@ -4628,8 +4652,8 @@ docker pull ghcr.io/diegonmarcos/photoprism-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289354750`](https://github.com/users/diegonmarcos/packages/container/photoprism-configs/1289354750) |
-| ⚪ | *53 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290634156`](https://github.com/users/diegonmarcos/packages/container/photoprism-configs/1290634156) |
+| ⚪ | *56 untagged image layers* | | |
 
 </details>
 
@@ -4709,7 +4733,7 @@ docker pull ghcr.io/diegonmarcos/photos-webhook-db:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/postlite"><b>postlite</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 26 days ago · 12 tags · linux/amd64 · 37.4 MB · port 5432</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/postlite"><b>postlite</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 27 days ago · 12 tags · linux/amd64 · 37.4 MB · port 5432</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/postlite:latest
@@ -4728,7 +4752,7 @@ docker pull ghcr.io/diegonmarcos/postlite:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/postlite-binaries"><b>postlite-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 26 days ago · 1 tags · linux/amd64 · 37.4 MB · port 5432</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/postlite-binaries"><b>postlite-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 27 days ago · 1 tags · linux/amd64 · 37.4 MB · port 5432</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/postlite-binaries:latest
@@ -4741,7 +4765,7 @@ docker pull ghcr.io/diegonmarcos/postlite-binaries:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/postlite-configs"><b>postlite-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 26 days ago · 1 tags · linux/amd64 · 2.2 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/postlite-configs"><b>postlite-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 27 days ago · 1 tags · linux/amd64 · 2.2 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/postlite-configs:latest
@@ -4861,7 +4885,7 @@ docker pull ghcr.io/diegonmarcos/redis:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289286391`](https://github.com/users/diegonmarcos/packages/container/redis/1289286391) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289286391`](https://github.com/users/diegonmarcos/packages/container/redis/1289286391) |
 | 🔹 | `a1783250e0af` | Sep 18, 2026 | [`1266135001`](https://github.com/users/diegonmarcos/packages/container/redis/1266135001) |
 | 🔹 | `96e362760498` | Sep 3, 2026 | [`1206338587`](https://github.com/users/diegonmarcos/packages/container/redis/1206338587) |
 | 🔹 | `18dd3e4bc135` | Jun 24, 2026 | [`973396533`](https://github.com/users/diegonmarcos/packages/container/redis/973396533) |
@@ -4879,7 +4903,7 @@ docker pull ghcr.io/diegonmarcos/redis-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289286556`](https://github.com/users/diegonmarcos/packages/container/redis-binaries/1289286556) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289286556`](https://github.com/users/diegonmarcos/packages/container/redis-binaries/1289286556) |
 | 🔹 | `a1783250e0af` | Sep 18, 2026 | [`1266135273`](https://github.com/users/diegonmarcos/packages/container/redis-binaries/1266135273) |
 | 🔹 | `96e362760498` | Sep 3, 2026 | [`1206338802`](https://github.com/users/diegonmarcos/packages/container/redis-binaries/1206338802) |
 | ⚪ | *4 untagged image layers* | | |
@@ -4895,8 +4919,8 @@ docker pull ghcr.io/diegonmarcos/redis-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289284968`](https://github.com/users/diegonmarcos/packages/container/redis-configs/1289284968) |
-| ⚪ | *96 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290543692`](https://github.com/users/diegonmarcos/packages/container/redis-configs/1290543692) |
+| ⚪ | *99 untagged image layers* | | |
 
 </details>
 
@@ -4909,7 +4933,7 @@ docker pull ghcr.io/diegonmarcos/revealmd:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 27, 2026 | [`1180062866`](https://github.com/users/diegonmarcos/packages/container/revealmd/1180062866) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 27, 2026 | [`1180062866`](https://github.com/users/diegonmarcos/packages/container/revealmd/1180062866) |
 | ⚪ | *65 untagged image layers* | | |
 
 </details>
@@ -4923,7 +4947,7 @@ docker pull ghcr.io/diegonmarcos/revealmd-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 27, 2026 | [`1180062964`](https://github.com/users/diegonmarcos/packages/container/revealmd-binaries/1180062964) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `f49afcba7052` `9084c444678f` `13481275a224` `4e3fe743f839` `latest` | Aug 27, 2026 | [`1180062964`](https://github.com/users/diegonmarcos/packages/container/revealmd-binaries/1180062964) |
 
 </details>
 
@@ -4936,8 +4960,8 @@ docker pull ghcr.io/diegonmarcos/revealmd-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289367898`](https://github.com/users/diegonmarcos/packages/container/revealmd-configs/1289367898) |
-| ⚪ | *38 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290644938`](https://github.com/users/diegonmarcos/packages/container/revealmd-configs/1290644938) |
+| ⚪ | *41 untagged image layers* | | |
 
 </details>
 
@@ -4961,7 +4985,7 @@ docker pull ghcr.io/diegonmarcos/rig-agentic-hai:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/rig-agentic-hai-1.5bq4-configs"><b>rig-agentic-hai-1.5bq4-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 2 months ago · 1 tags · linux/arm64 · 1.9 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/rig-agentic-hai-1.5bq4-configs"><b>rig-agentic-hai-1.5bq4-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 3 months ago · 1 tags · linux/arm64 · 1.9 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/rig-agentic-hai-1.5bq4-configs:latest
@@ -5093,7 +5117,7 @@ docker pull ghcr.io/diegonmarcos/sauron-syslog:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/scrappers-api"><b>scrappers-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 14 tags · linux/arm64 · 115.6 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/scrappers-api"><b>scrappers-api</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 16 tags · linux/arm64 · 115.6 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/scrappers-api:latest
@@ -5101,17 +5125,17 @@ docker pull ghcr.io/diegonmarcos/scrappers-api:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289353785`](https://github.com/users/diegonmarcos/packages/container/scrappers-api/1289353785) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290641657`](https://github.com/users/diegonmarcos/packages/container/scrappers-api/1290641657) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290185052`](https://github.com/users/diegonmarcos/packages/container/scrappers-api/1290185052) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289353785`](https://github.com/users/diegonmarcos/packages/container/scrappers-api/1289353785) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1276449041`](https://github.com/users/diegonmarcos/packages/container/scrappers-api/1276449041) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272237881`](https://github.com/users/diegonmarcos/packages/container/scrappers-api/1272237881) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272081879`](https://github.com/users/diegonmarcos/packages/container/scrappers-api/1272081879) |
-| | *… +10 more SHA builds* | | |
-| ⚪ | *5 untagged image layers* | | |
+| | *… +12 more SHA builds* | | |
+| ⚪ | *6 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/scrappers-api-binaries"><b>scrappers-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 13 tags · linux/arm64 · 115.6 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/scrappers-api-binaries"><b>scrappers-api-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 15 tags · linux/arm64 · 115.6 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/scrappers-api-binaries:latest
@@ -5119,12 +5143,12 @@ docker pull ghcr.io/diegonmarcos/scrappers-api-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289354054`](https://github.com/users/diegonmarcos/packages/container/scrappers-api-binaries/1289354054) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290641876`](https://github.com/users/diegonmarcos/packages/container/scrappers-api-binaries/1290641876) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290185300`](https://github.com/users/diegonmarcos/packages/container/scrappers-api-binaries/1290185300) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289354054`](https://github.com/users/diegonmarcos/packages/container/scrappers-api-binaries/1289354054) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1276449583`](https://github.com/users/diegonmarcos/packages/container/scrappers-api-binaries/1276449583) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272237979`](https://github.com/users/diegonmarcos/packages/container/scrappers-api-binaries/1272237979) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272081982`](https://github.com/users/diegonmarcos/packages/container/scrappers-api-binaries/1272081982) |
-| | *… +9 more SHA builds* | | |
-| ⚪ | *6 untagged image layers* | | |
+| | *… +11 more SHA builds* | | |
+| ⚪ | *7 untagged image layers* | | |
 
 </details>
 
@@ -5137,8 +5161,8 @@ docker pull ghcr.io/diegonmarcos/scrappers-api-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289349422`](https://github.com/users/diegonmarcos/packages/container/scrappers-api-configs/1289349422) |
-| ⚪ | *21 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290629566`](https://github.com/users/diegonmarcos/packages/container/scrappers-api-configs/1290629566) |
+| ⚪ | *24 untagged image layers* | | |
 
 </details>
 
@@ -5151,7 +5175,7 @@ docker pull ghcr.io/diegonmarcos/send:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `latest` | Sep 3, 2026 | [`1206405501`](https://github.com/users/diegonmarcos/packages/container/send/1206405501) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `latest` | Sep 3, 2026 | [`1206405501`](https://github.com/users/diegonmarcos/packages/container/send/1206405501) |
 | 🔹 | `521907efb2f0` | Jul 11, 2026 | [`1021482795`](https://github.com/users/diegonmarcos/packages/container/send/1021482795) |
 
 </details>
@@ -5165,13 +5189,13 @@ docker pull ghcr.io/diegonmarcos/send-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `latest` | Sep 3, 2026 | [`1206405663`](https://github.com/users/diegonmarcos/packages/container/send-binaries/1206405663) |
+| 🟢 | `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `e94823b65121` `96e362760498` `065a48c22de7` `ff6ef3164a21` `latest` | Sep 3, 2026 | [`1206405663`](https://github.com/users/diegonmarcos/packages/container/send-binaries/1206405663) |
 | ⚪ | *1 untagged image layer* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/session-memory"><b>session-memory</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published today · 17 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/session-memory"><b>session-memory</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published today · 19 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/session-memory:latest
@@ -5179,17 +5203,17 @@ docker pull ghcr.io/diegonmarcos/session-memory:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289336865`](https://github.com/users/diegonmarcos/packages/container/session-memory/1289336865) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290609574`](https://github.com/users/diegonmarcos/packages/container/session-memory/1290609574) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290160726`](https://github.com/users/diegonmarcos/packages/container/session-memory/1290160726) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289336865`](https://github.com/users/diegonmarcos/packages/container/session-memory/1289336865) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1276449624`](https://github.com/users/diegonmarcos/packages/container/session-memory/1276449624) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272228648`](https://github.com/users/diegonmarcos/packages/container/session-memory/1272228648) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272069859`](https://github.com/users/diegonmarcos/packages/container/session-memory/1272069859) |
-| | *… +13 more SHA builds* | | |
-| ⚪ | *12 untagged image layers* | | |
+| | *… +15 more SHA builds* | | |
+| ⚪ | *13 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/session-memory-binaries"><b>session-memory-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published today · 17 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/session-memory-binaries"><b>session-memory-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published today · 19 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/session-memory-binaries:latest
@@ -5197,12 +5221,12 @@ docker pull ghcr.io/diegonmarcos/session-memory-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289337164`](https://github.com/users/diegonmarcos/packages/container/session-memory-binaries/1289337164) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290609892`](https://github.com/users/diegonmarcos/packages/container/session-memory-binaries/1290609892) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290161145`](https://github.com/users/diegonmarcos/packages/container/session-memory-binaries/1290161145) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289337164`](https://github.com/users/diegonmarcos/packages/container/session-memory-binaries/1289337164) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1276449915`](https://github.com/users/diegonmarcos/packages/container/session-memory-binaries/1276449915) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272228758`](https://github.com/users/diegonmarcos/packages/container/session-memory-binaries/1272228758) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272070032`](https://github.com/users/diegonmarcos/packages/container/session-memory-binaries/1272070032) |
-| | *… +13 more SHA builds* | | |
-| ⚪ | *11 untagged image layers* | | |
+| | *… +15 more SHA builds* | | |
+| ⚪ | *12 untagged image layers* | | |
 
 </details>
 
@@ -5215,8 +5239,8 @@ docker pull ghcr.io/diegonmarcos/session-memory-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289324332`](https://github.com/users/diegonmarcos/packages/container/session-memory-configs/1289324332) |
-| ⚪ | *37 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290605935`](https://github.com/users/diegonmarcos/packages/container/session-memory-configs/1290605935) |
+| ⚪ | *40 untagged image layers* | | |
 
 </details>
 
@@ -5261,7 +5285,7 @@ docker pull ghcr.io/diegonmarcos/snappymail-binaries-binaries:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/snappymail-configs"><b>snappymail-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 25 days ago · 1 tags · linux/amd64 · 2.2 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/snappymail-configs"><b>snappymail-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 26 days ago · 1 tags · linux/amd64 · 2.2 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/snappymail-configs:latest
@@ -5306,7 +5330,7 @@ docker pull ghcr.io/diegonmarcos/stalwart-binaries:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/stalwart-sorter-binaries"><b>stalwart-sorter-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 40 tags · linux/amd64 · 33.6 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/stalwart-sorter-binaries"><b>stalwart-sorter-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 42 tags · linux/amd64 · 33.6 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/stalwart-sorter-binaries:latest
@@ -5314,17 +5338,17 @@ docker pull ghcr.io/diegonmarcos/stalwart-sorter-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289291795`](https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries/1289291795) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290565347`](https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries/1290565347) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290122377`](https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries/1290122377) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289291795`](https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries/1289291795) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1276452690`](https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries/1276452690) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272215210`](https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries/1272215210) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272055888`](https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries/1272055888) |
-| | *… +36 more SHA builds* | | |
-| ⚪ | *16 untagged image layers* | | |
+| | *… +38 more SHA builds* | | |
+| ⚪ | *17 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/stalwart-sorter-binaries-binaries"><b>stalwart-sorter-binaries-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 40 tags · linux/amd64 · 33.6 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/stalwart-sorter-binaries-binaries"><b>stalwart-sorter-binaries-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 42 tags · linux/amd64 · 33.6 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/stalwart-sorter-binaries-binaries:latest
@@ -5332,12 +5356,12 @@ docker pull ghcr.io/diegonmarcos/stalwart-sorter-binaries-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289292036`](https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries-binaries/1289292036) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290565563`](https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries-binaries/1290565563) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290122701`](https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries-binaries/1290122701) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289292036`](https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries-binaries/1289292036) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1276452857`](https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries-binaries/1276452857) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272215290`](https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries-binaries/1272215290) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272055973`](https://github.com/users/diegonmarcos/packages/container/stalwart-sorter-binaries-binaries/1272055973) |
-| | *… +36 more SHA builds* | | |
-| ⚪ | *16 untagged image layers* | | |
+| | *… +38 more SHA builds* | | |
+| ⚪ | *17 untagged image layers* | | |
 
 </details>
 
@@ -5370,7 +5394,7 @@ docker pull ghcr.io/diegonmarcos/syslog-forwarder-configs:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/tools-cf-worker-http-to-wg-public-bridge-configs"><b>tools-cf-worker-http-to-wg-public-bridge-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 2 months ago · 1 tags · linux/amd64 · 2.2 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/tools-cf-worker-http-to-wg-public-bridge-configs"><b>tools-cf-worker-http-to-wg-public-bridge-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 3 months ago · 1 tags · linux/amd64 · 2.2 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/tools-cf-worker-http-to-wg-public-bridge-configs:latest
@@ -5420,8 +5444,8 @@ docker pull ghcr.io/diegonmarcos/tools-stalwart-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289279976`](https://github.com/users/diegonmarcos/packages/container/tools-stalwart-configs/1289279976) |
-| ⚪ | *210 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290548165`](https://github.com/users/diegonmarcos/packages/container/tools-stalwart-configs/1290548165) |
+| ⚪ | *213 untagged image layers* | | |
 
 </details>
 
@@ -5434,14 +5458,14 @@ docker pull ghcr.io/diegonmarcos/umami-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `1c3bcdec143c` `e94823b65121` `latest` | Sep 18, 2026 | [`1266138585`](https://github.com/users/diegonmarcos/packages/container/umami-binaries/1266138585) |
+| 🟢 | `6e870a194a2b` `1551c61db597` `5d2ec007c0ff` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `1c3bcdec143c` `e94823b65121` `latest` | Sep 18, 2026 | [`1266138585`](https://github.com/users/diegonmarcos/packages/container/umami-binaries/1266138585) |
 | 🔹 | `65368eee6431` | Sep 5, 2026 | [`1213155752`](https://github.com/users/diegonmarcos/packages/container/umami-binaries/1213155752) |
 | 🔹 | `065a48c22de7` | Sep 3, 2026 | [`1206345816`](https://github.com/users/diegonmarcos/packages/container/umami-binaries/1206345816) |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/umami-configs"><b>umami-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 3 days ago · 1 tags · linux/amd64 · 2.2 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/umami-configs"><b>umami-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 1 tags · linux/amd64 · 2.2 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/umami-configs:latest
@@ -5449,8 +5473,8 @@ docker pull ghcr.io/diegonmarcos/umami-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 20, 2026 | [`1272212847`](https://github.com/users/diegonmarcos/packages/container/umami-configs/1272212847) |
-| ⚪ | *81 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290725710`](https://github.com/users/diegonmarcos/packages/container/umami-configs/1290725710) |
+| ⚪ | *87 untagged image layers* | | |
 
 </details>
 
@@ -5463,7 +5487,7 @@ docker pull ghcr.io/diegonmarcos/unbound-dns64:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `latest` | Sep 19, 2026 | [`1269216911`](https://github.com/users/diegonmarcos/packages/container/unbound-dns64/1269216911) |
+| 🟢 | `008cf6bca385` `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `latest` | Sep 19, 2026 | [`1269216911`](https://github.com/users/diegonmarcos/packages/container/unbound-dns64/1269216911) |
 | 🔹 | `e94823b65121` | Aug 18, 2026 | [`1146000561`](https://github.com/users/diegonmarcos/packages/container/unbound-dns64/1146000561) |
 | ⚪ | *2 untagged image layers* | | |
 
@@ -5478,14 +5502,14 @@ docker pull ghcr.io/diegonmarcos/unbound-dns64-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `latest` | Sep 19, 2026 | [`1269217189`](https://github.com/users/diegonmarcos/packages/container/unbound-dns64-binaries/1269217189) |
+| 🟢 | `008cf6bca385` `1551c61db597` `a9b60730bd4b` `2bde46f5ac60` `a1783250e0af` `e6ca8d95d3cf` `5ca58963a78a` `2db48c263f48` `latest` | Sep 19, 2026 | [`1269217189`](https://github.com/users/diegonmarcos/packages/container/unbound-dns64-binaries/1269217189) |
 | 🔹 | `e94823b65121` | Aug 18, 2026 | [`1146000747`](https://github.com/users/diegonmarcos/packages/container/unbound-dns64-binaries/1146000747) |
 | ⚪ | *2 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/unbound-dns64-configs"><b>unbound-dns64-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 3 days ago · 1 tags · linux/amd64 · 2.2 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/unbound-dns64-configs"><b>unbound-dns64-configs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 1 tags · linux/amd64 · 2.2 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/unbound-dns64-configs:latest
@@ -5493,13 +5517,13 @@ docker pull ghcr.io/diegonmarcos/unbound-dns64-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 20, 2026 | [`1272212854`](https://github.com/users/diegonmarcos/packages/container/unbound-dns64-configs/1272212854) |
-| ⚪ | *67 untagged image layers* | | |
+| 🟢 | `latest` | Sep 25, 2026 | [`1293032120`](https://github.com/users/diegonmarcos/packages/container/unbound-dns64-configs/1293032120) |
+| ⚪ | *71 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/vaultwarden"><b>vaultwarden</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 14 tags · linux/arm64 · 88.7 MB · port 80</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/vaultwarden"><b>vaultwarden</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 16 tags · linux/arm64 · 88.7 MB · port 80</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/vaultwarden:latest
@@ -5507,17 +5531,17 @@ docker pull ghcr.io/diegonmarcos/vaultwarden:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289371325`](https://github.com/users/diegonmarcos/packages/container/vaultwarden/1289371325) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290646214`](https://github.com/users/diegonmarcos/packages/container/vaultwarden/1290646214) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290198795`](https://github.com/users/diegonmarcos/packages/container/vaultwarden/1290198795) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289371325`](https://github.com/users/diegonmarcos/packages/container/vaultwarden/1289371325) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1276970421`](https://github.com/users/diegonmarcos/packages/container/vaultwarden/1276970421) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272241793`](https://github.com/users/diegonmarcos/packages/container/vaultwarden/1272241793) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272087861`](https://github.com/users/diegonmarcos/packages/container/vaultwarden/1272087861) |
-| | *… +10 more SHA builds* | | |
-| ⚪ | *41 untagged image layers* | | |
+| | *… +12 more SHA builds* | | |
+| ⚪ | *42 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/vaultwarden-binaries"><b>vaultwarden-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 14 tags · linux/arm64 · 88.7 MB · port 80</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/vaultwarden-binaries"><b>vaultwarden-binaries</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 16 tags · linux/arm64 · 88.7 MB · port 80</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/vaultwarden-binaries:latest
@@ -5525,12 +5549,12 @@ docker pull ghcr.io/diegonmarcos/vaultwarden-binaries:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `2bde46f5ac60` `latest` | Sep 24, 2026 | [`1289371476`](https://github.com/users/diegonmarcos/packages/container/vaultwarden-binaries/1289371476) |
+| 🟢 | `1551c61db597` `latest` | Sep 24, 2026 | [`1290646351`](https://github.com/users/diegonmarcos/packages/container/vaultwarden-binaries/1290646351) |
+| 🔹 | `a9b60730bd4b` | Sep 24, 2026 | [`1290199160`](https://github.com/users/diegonmarcos/packages/container/vaultwarden-binaries/1290199160) |
+| 🔹 | `2bde46f5ac60` | Sep 24, 2026 | [`1289371476`](https://github.com/users/diegonmarcos/packages/container/vaultwarden-binaries/1289371476) |
 | 🔹 | `f6dea770456b` | Sep 21, 2026 | [`1276970584`](https://github.com/users/diegonmarcos/packages/container/vaultwarden-binaries/1276970584) |
-| 🔹 | `a1783250e0af` | Sep 20, 2026 | [`1272241844`](https://github.com/users/diegonmarcos/packages/container/vaultwarden-binaries/1272241844) |
-| 🔹 | `e6ca8d95d3cf` | Sep 20, 2026 | [`1272087948`](https://github.com/users/diegonmarcos/packages/container/vaultwarden-binaries/1272087948) |
-| | *… +10 more SHA builds* | | |
-| ⚪ | *4 untagged image layers* | | |
+| | *… +12 more SHA builds* | | |
+| ⚪ | *5 untagged image layers* | | |
 
 </details>
 
@@ -5543,8 +5567,8 @@ docker pull ghcr.io/diegonmarcos/vaultwarden-configs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1289369267`](https://github.com/users/diegonmarcos/packages/container/vaultwarden-configs/1289369267) |
-| ⚪ | *42 untagged image layers* | | |
+| 🟢 | `latest` | Sep 24, 2026 | [`1290645435`](https://github.com/users/diegonmarcos/packages/container/vaultwarden-configs/1290645435) |
+| ⚪ | *45 untagged image layers* | | |
 
 </details>
 
@@ -5805,7 +5829,7 @@ docker pull ghcr.io/diegonmarcos/cloud-comms-hub:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-appstore"><b>cloud-lib-appstore</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 194 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-appstore"><b>cloud-lib-appstore</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 202 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-appstore:latest
@@ -5813,8 +5837,16 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-appstore:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292337105`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-appstore/1292337105) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292337067`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-appstore/1292337067) |
+| 🏷️ | `sha-bf7a83a5` | Sep 24, 2026 | [`1292249252`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-appstore/1292249252) |
+| 🏷️ | `sha-9b21af46` | Sep 24, 2026 | [`1292228813`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-appstore/1292228813) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292178085`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-appstore/1292178085) |
+| 🏷️ | `sha-b5ebc561` | Sep 24, 2026 | [`1292097903`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-appstore/1292097903) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292033924`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-appstore/1292033924) |
+| 🏷️ | `sha-8be80867` | Sep 24, 2026 | [`1291989985`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-appstore/1291989985) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291780687`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-appstore/1291780687) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269065170`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-appstore/1269065170) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269065156`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-appstore/1269065156) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268694910`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-appstore/1268694910) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265927793`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-appstore/1265927793) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263882700`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-appstore/1263882700) |
@@ -6007,7 +6039,7 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-appstore:latest
 | 🏷️ | `sha-ebb7e84f` | Aug 22, 2026 | [`1160884193`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-appstore/1160884193) |
 | 🏷️ | `sha-4b8c657a` | Aug 22, 2026 | [`1160723209`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-appstore/1160723209) |
 | 🏷️ | `sha-847b0cbb` | Aug 22, 2026 | [`1160209591`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-appstore/1160209591) |
-| ⚪ | *200 untagged image layers* | | |
+| ⚪ | *208 untagged image layers* | | |
 
 </details>
 
@@ -6045,7 +6077,7 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-apptabs:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-battery"><b>cloud-lib-battery</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 198 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-battery"><b>cloud-lib-battery</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 202 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-battery:latest
@@ -6053,8 +6085,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-battery:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292337205`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-battery/1292337205) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292337166`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-battery/1292337166) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292178227`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-battery/1292178227) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292034048`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-battery/1292034048) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291780785`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-battery/1291780785) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269065281`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-battery/1269065281) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269065260`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-battery/1269065260) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268694931`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-battery/1268694931) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265928042`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-battery/1265928042) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263882735`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-battery/1263882735) |
@@ -6251,12 +6287,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-battery:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154838324`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-battery/1154838324) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154386694`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-battery/1154386694) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153400368`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-battery/1153400368) |
-| ⚪ | *142 untagged image layers* | | |
+| ⚪ | *145 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-browser"><b>cloud-lib-browser</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 199 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-browser"><b>cloud-lib-browser</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 203 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-browser:latest
@@ -6264,8 +6300,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-browser:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292337386`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-browser/1292337386) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292337367`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-browser/1292337367) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292178459`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-browser/1292178459) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292034156`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-browser/1292034156) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291781053`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-browser/1291781053) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269065971`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-browser/1269065971) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269065948`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-browser/1269065948) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695002`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-browser/1268695002) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265928368`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-browser/1265928368) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263882792`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-browser/1263882792) |
@@ -6463,12 +6503,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-browser:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154838388`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-browser/1154838388) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154386788`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-browser/1154386788) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153400566`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-browser/1153400566) |
-| ⚪ | *126 untagged image layers* | | |
+| ⚪ | *129 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-cal"><b>cloud-lib-cal</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 194 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-cal"><b>cloud-lib-cal</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 197 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-cal:latest
@@ -6476,8 +6516,11 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-cal:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🟢 | `sha-8885605c` `latest` | Sep 25, 2026 | [`1292337444`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-cal/1292337444) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292178577`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-cal/1292178577) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292034298`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-cal/1292034298) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291781160`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-cal/1291781160) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269066082`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-cal/1269066082) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269066050`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-cal/1269066050) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695054`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-cal/1268695054) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265928600`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-cal/1265928600) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263882833`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-cal/1263882833) |
@@ -6670,12 +6713,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-cal:latest
 | 🏷️ | `sha-6a738bd5` | Aug 21, 2026 | [`1157656996`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-cal/1157656996) |
 | 🏷️ | `sha-ea99d4e3` | Aug 21, 2026 | [`1157496179`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-cal/1157496179) |
 | 🏷️ | `sha-5406d0f4` | Aug 21, 2026 | [`1157220288`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-cal/1157220288) |
-| ⚪ | *134 untagged image layers* | | |
+| ⚪ | *137 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-chat"><b>cloud-lib-chat</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 198 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-chat"><b>cloud-lib-chat</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 202 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-chat:latest
@@ -6683,8 +6726,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-chat:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292337554`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-chat/1292337554) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292337529`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-chat/1292337529) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292178703`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-chat/1292178703) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292034428`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-chat/1292034428) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291781262`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-chat/1291781262) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269066272`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-chat/1269066272) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269066240`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-chat/1269066240) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695105`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-chat/1268695105) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265928823`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-chat/1265928823) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263882883`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-chat/1263882883) |
@@ -6881,12 +6928,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-chat:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154838456`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-chat/1154838456) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154386885`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-chat/1154386885) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153400881`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-chat/1153400881) |
-| ⚪ | *123 untagged image layers* | | |
+| ⚪ | *126 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-contacts"><b>cloud-lib-contacts</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 192 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-contacts"><b>cloud-lib-contacts</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 196 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-contacts:latest
@@ -6894,8 +6941,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-contacts:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292337657`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-contacts/1292337657) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292337629`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-contacts/1292337629) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292178806`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-contacts/1292178806) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292034562`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-contacts/1292034562) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291781394`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-contacts/1291781394) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269066398`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-contacts/1269066398) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269066362`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-contacts/1269066362) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695162`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-contacts/1268695162) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265929044`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-contacts/1265929044) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263882930`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-contacts/1263882930) |
@@ -7086,12 +7137,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-contacts:latest
 | 🏷️ | `sha-6a738bd5` | Aug 21, 2026 | [`1157657132`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-contacts/1157657132) |
 | 🏷️ | `sha-ea99d4e3` | Aug 21, 2026 | [`1157496557`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-contacts/1157496557) |
 | 🏷️ | `sha-5406d0f4` | Aug 21, 2026 | [`1157220511`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-contacts/1157220511) |
-| ⚪ | *127 untagged image layers* | | |
+| ⚪ | *131 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-core"><b>cloud-lib-core</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 198 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-core"><b>cloud-lib-core</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 202 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-core:latest
@@ -7099,8 +7150,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-core:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292337757`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-core/1292337757) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292337719`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-core/1292337719) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292178912`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-core/1292178912) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292034698`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-core/1292034698) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291781459`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-core/1291781459) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269066529`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-core/1269066529) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269066507`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-core/1269066507) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695192`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-core/1268695192) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265929237`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-core/1265929237) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263882987`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-core/1263882987) |
@@ -7297,12 +7352,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-core:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154838558`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-core/1154838558) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154386969`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-core/1154386969) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153401548`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-core/1153401548) |
-| ⚪ | *128 untagged image layers* | | |
+| ⚪ | *131 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-datamanager"><b>cloud-lib-datamanager</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 198 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-datamanager"><b>cloud-lib-datamanager</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 201 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-datamanager:latest
@@ -7310,8 +7365,11 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-datamanager:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🟢 | `sha-8885605c` `latest` | Sep 25, 2026 | [`1292337818`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-datamanager/1292337818) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292179010`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-datamanager/1292179010) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292034840`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-datamanager/1292034840) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291781563`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-datamanager/1291781563) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269066668`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-datamanager/1269066668) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269066632`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-datamanager/1269066632) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695241`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-datamanager/1268695241) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265929431`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-datamanager/1265929431) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263883040`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-datamanager/1263883040) |
@@ -7508,12 +7566,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-datamanager:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154838669`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-datamanager/1154838669) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154387023`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-datamanager/1154387023) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153401960`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-datamanager/1153401960) |
-| ⚪ | *138 untagged image layers* | | |
+| ⚪ | *142 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-devtools"><b>cloud-lib-devtools</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 196 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-devtools"><b>cloud-lib-devtools</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 200 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-devtools:latest
@@ -7521,7 +7579,11 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-devtools:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `sha-7d06b95c` `latest` | Sep 19, 2026 | [`1268695263`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-devtools/1268695263) |
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292337946`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-devtools/1292337946) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292337919`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-devtools/1292337919) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292179153`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-devtools/1292179153) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291781615`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-devtools/1291781615) |
+| 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695263`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-devtools/1268695263) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265929620`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-devtools/1265929620) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263883094`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-devtools/1263883094) |
 | 🏷️ | `sha-8360d1c8` | Sep 17, 2026 | [`1259728299`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-devtools/1259728299) |
@@ -7717,12 +7779,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-devtools:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154838770`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-devtools/1154838770) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154387097`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-devtools/1154387097) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153402224`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-devtools/1153402224) |
-| ⚪ | *127 untagged image layers* | | |
+| ⚪ | *128 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-feed"><b>cloud-lib-feed</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 198 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-feed"><b>cloud-lib-feed</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 202 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-feed:latest
@@ -7730,8 +7792,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-feed:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292338034`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-feed/1292338034) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292338008`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-feed/1292338008) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292179276`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-feed/1292179276) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292035001`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-feed/1292035001) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291781704`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-feed/1291781704) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269066804`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-feed/1269066804) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269066793`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-feed/1269066793) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695305`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-feed/1268695305) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265929782`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-feed/1265929782) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263883147`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-feed/1263883147) |
@@ -7928,12 +7994,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-feed:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154838848`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-feed/1154838848) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154387173`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-feed/1154387173) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153402764`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-feed/1153402764) |
-| ⚪ | *126 untagged image layers* | | |
+| ⚪ | *130 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-fin"><b>cloud-lib-fin</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 197 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-fin"><b>cloud-lib-fin</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 200 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-fin:latest
@@ -7941,8 +8007,11 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-fin:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🟢 | `sha-8885605c` `latest` | Sep 25, 2026 | [`1292338204`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-fin/1292338204) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292179562`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-fin/1292179562) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292035132`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-fin/1292035132) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291781792`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-fin/1291781792) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269066881`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-fin/1269066881) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269066869`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-fin/1269066869) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695350`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-fin/1268695350) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265929968`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-fin/1265929968) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263883227`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-fin/1263883227) |
@@ -8138,12 +8207,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-fin:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154838920`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-fin/1154838920) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154387229`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-fin/1154387229) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153402925`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-fin/1153402925) |
-| ⚪ | *138 untagged image layers* | | |
+| ⚪ | *141 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-firewall"><b>cloud-lib-firewall</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 198 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-firewall"><b>cloud-lib-firewall</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 202 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-firewall:latest
@@ -8151,8 +8220,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-firewall:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292338323`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-firewall/1292338323) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292338294`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-firewall/1292338294) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292179689`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-firewall/1292179689) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292035261`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-firewall/1292035261) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291781898`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-firewall/1291781898) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269066945`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-firewall/1269066945) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269066939`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-firewall/1269066939) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695376`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-firewall/1268695376) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265930190`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-firewall/1265930190) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263883277`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-firewall/1263883277) |
@@ -8349,12 +8422,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-firewall:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154838969`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-firewall/1154838969) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154387276`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-firewall/1154387276) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153403204`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-firewall/1153403204) |
-| ⚪ | *167 untagged image layers* | | |
+| ⚪ | *171 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-health"><b>cloud-lib-health</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 198 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-health"><b>cloud-lib-health</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 202 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-health:latest
@@ -8362,8 +8435,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-health:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292338488`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-health/1292338488) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292338453`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-health/1292338453) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292180037`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-health/1292180037) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292035372`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-health/1292035372) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291781968`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-health/1291781968) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269067042`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-health/1269067042) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269067023`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-health/1269067023) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695416`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-health/1268695416) |
 | 🏷️ | `sha-6739dfdd` | Sep 18, 2026 | [`1266635646`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-health/1266635646) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265930310`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-health/1265930310) |
@@ -8560,12 +8637,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-health:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154839045`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-health/1154839045) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154387361`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-health/1154387361) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153403440`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-health/1153403440) |
-| ⚪ | *139 untagged image layers* | | |
+| ⚪ | *141 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-kde-connect"><b>cloud-lib-kde-connect</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 198 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-kde-connect"><b>cloud-lib-kde-connect</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 201 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-kde-connect:latest
@@ -8573,8 +8650,11 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-kde-connect:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🟢 | `sha-8885605c` `latest` | Sep 25, 2026 | [`1292338546`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-kde-connect/1292338546) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292180249`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-kde-connect/1292180249) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292035501`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-kde-connect/1292035501) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291782059`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-kde-connect/1291782059) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269067097`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-kde-connect/1269067097) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269067083`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-kde-connect/1269067083) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695489`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-kde-connect/1268695489) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265930582`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-kde-connect/1265930582) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263883412`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-kde-connect/1263883412) |
@@ -8771,12 +8851,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-kde-connect:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154839104`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-kde-connect/1154839104) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154387443`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-kde-connect/1154387443) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153403864`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-kde-connect/1153403864) |
-| ⚪ | *130 untagged image layers* | | |
+| ⚪ | *133 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-launcher-apptabs"><b>cloud-lib-launcher-apptabs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 179 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-launcher-apptabs"><b>cloud-lib-launcher-apptabs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 183 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-launcher-apptabs:latest
@@ -8784,8 +8864,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-launcher-apptabs:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292338660`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-apptabs/1292338660) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292338632`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-apptabs/1292338632) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292180420`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-apptabs/1292180420) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292035615`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-apptabs/1292035615) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291782177`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-apptabs/1291782177) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269067172`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-apptabs/1269067172) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269067153`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-apptabs/1269067153) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695557`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-apptabs/1268695557) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265930733`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-apptabs/1265930733) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263883469`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-apptabs/1263883469) |
@@ -8963,12 +9047,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-launcher-apptabs:latest
 | 🏷️ | `sha-ebb7e84f` | Aug 22, 2026 | [`1160884606`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-apptabs/1160884606) |
 | 🏷️ | `sha-4b8c657a` | Aug 22, 2026 | [`1160723770`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-apptabs/1160723770) |
 | 🏷️ | `sha-847b0cbb` | Aug 22, 2026 | [`1160210032`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-apptabs/1160210032) |
-| ⚪ | *113 untagged image layers* | | |
+| ⚪ | *116 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-launcher-onehand"><b>cloud-lib-launcher-onehand</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 186 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-launcher-onehand"><b>cloud-lib-launcher-onehand</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 194 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-launcher-onehand:latest
@@ -8976,8 +9060,16 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-launcher-onehand:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🟢 | `sha-8885605c` `latest` | Sep 25, 2026 | [`1292338746`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-onehand/1292338746) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292180550`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-onehand/1292180550) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292035781`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-onehand/1292035781) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291782266`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-onehand/1291782266) |
+| 🏷️ | `sha-9a983427` | Sep 24, 2026 | [`1291263603`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-onehand/1291263603) |
+| 🏷️ | `sha-e40541b8` | Sep 24, 2026 | [`1291245492`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-onehand/1291245492) |
+| 🏷️ | `sha-93ee4476` | Sep 24, 2026 | [`1291217124`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-onehand/1291217124) |
+| 🏷️ | `sha-12a590c8` | Sep 24, 2026 | [`1291170859`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-onehand/1291170859) |
+| 🏷️ | `sha-54fd4573` | Sep 24, 2026 | [`1291127572`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-onehand/1291127572) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269067271`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-onehand/1269067271) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269067256`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-onehand/1269067256) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695610`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-onehand/1268695610) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265930896`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-onehand/1265930896) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263883519`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-onehand/1263883519) |
@@ -9162,12 +9254,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-launcher-onehand:latest
 | 🏷️ | `sha-ebb7e84f` | Aug 22, 2026 | [`1160884612`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-onehand/1160884612) |
 | 🏷️ | `sha-4b8c657a` | Aug 22, 2026 | [`1160723838`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-onehand/1160723838) |
 | 🏷️ | `sha-847b0cbb` | Aug 22, 2026 | [`1160210082`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-onehand/1160210082) |
-| ⚪ | *133 untagged image layers* | | |
+| ⚪ | *140 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-launcher-zoomies"><b>cloud-lib-launcher-zoomies</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 176 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-launcher-zoomies"><b>cloud-lib-launcher-zoomies</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 180 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-launcher-zoomies:latest
@@ -9175,7 +9267,11 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-launcher-zoomies:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `sha-7d06b95c` `latest` | Sep 19, 2026 | [`1268695650`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-zoomies/1268695650) |
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292338887`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-zoomies/1292338887) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292338855`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-zoomies/1292338855) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292180768`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-zoomies/1292180768) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291782382`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-zoomies/1291782382) |
+| 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695650`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-zoomies/1268695650) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265931091`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-zoomies/1265931091) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263883587`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-zoomies/1263883587) |
 | 🏷️ | `sha-fb24e306` | Sep 17, 2026 | [`1259778379`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-zoomies/1259778379) |
@@ -9351,12 +9447,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-launcher-zoomies:latest
 | 🏷️ | `sha-ebb7e84f` | Aug 22, 2026 | [`1160884630`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-zoomies/1160884630) |
 | 🏷️ | `sha-4b8c657a` | Aug 22, 2026 | [`1160723879`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-zoomies/1160723879) |
 | 🏷️ | `sha-847b0cbb` | Aug 22, 2026 | [`1160210145`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-launcher-zoomies/1160210145) |
-| ⚪ | *105 untagged image layers* | | |
+| ⚪ | *107 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-mail"><b>cloud-lib-mail</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 198 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-mail"><b>cloud-lib-mail</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 201 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-mail:latest
@@ -9364,8 +9460,11 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-mail:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🟢 | `sha-8885605c` `latest` | Sep 25, 2026 | [`1292338952`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mail/1292338952) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292180921`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mail/1292180921) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292035888`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mail/1292035888) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291782436`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mail/1291782436) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269067376`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mail/1269067376) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269067350`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mail/1269067350) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695700`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mail/1268695700) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265931320`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mail/1265931320) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263883661`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mail/1263883661) |
@@ -9562,12 +9661,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-mail:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154839147`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mail/1154839147) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154387516`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mail/1154387516) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153404056`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mail/1153404056) |
-| ⚪ | *134 untagged image layers* | | |
+| ⚪ | *137 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-maps"><b>cloud-lib-maps</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 192 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-maps"><b>cloud-lib-maps</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 196 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-maps:latest
@@ -9575,8 +9674,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-maps:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292339094`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-maps/1292339094) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292339069`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-maps/1292339069) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292181027`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-maps/1292181027) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292036053`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-maps/1292036053) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291782522`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-maps/1291782522) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269067483`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-maps/1269067483) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269067467`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-maps/1269067467) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695752`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-maps/1268695752) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265931507`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-maps/1265931507) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263883729`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-maps/1263883729) |
@@ -9767,12 +9870,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-maps:latest
 | 🏷️ | `sha-6a738bd5` | Aug 21, 2026 | [`1157658063`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-maps/1157658063) |
 | 🏷️ | `sha-ea99d4e3` | Aug 21, 2026 | [`1157498438`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-maps/1157498438) |
 | 🏷️ | `sha-5406d0f4` | Aug 21, 2026 | [`1157221184`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-maps/1157221184) |
-| ⚪ | *134 untagged image layers* | | |
+| ⚪ | *136 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-media"><b>cloud-lib-media</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 194 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-media"><b>cloud-lib-media</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 198 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-media:latest
@@ -9780,7 +9883,11 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-media:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `sha-7d06b95c` `latest` | Sep 19, 2026 | [`1268695794`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-media/1268695794) |
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292339196`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-media/1292339196) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292339166`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-media/1292339166) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292181222`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-media/1292181222) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291782660`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-media/1291782660) |
+| 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695794`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-media/1268695794) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265931671`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-media/1265931671) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263883795`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-media/1263883795) |
 | 🏷️ | `sha-fb24e306` | Sep 17, 2026 | [`1259778832`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-media/1259778832) |
@@ -9974,12 +10081,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-media:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154839197`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-media/1154839197) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154387601`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-media/1154387601) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153404235`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-media/1153404235) |
-| ⚪ | *117 untagged image layers* | | |
+| ⚪ | *119 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-net"><b>cloud-lib-net</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 197 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-net"><b>cloud-lib-net</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 200 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-net:latest
@@ -9987,8 +10094,11 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-net:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🟢 | `sha-8885605c` `latest` | Sep 25, 2026 | [`1292339627`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net/1292339627) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292182077`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net/1292182077) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292036130`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net/1292036130) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291783091`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net/1291783091) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269067604`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net/1269067604) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269067582`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net/1269067582) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695934`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net/1268695934) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265932418`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net/1265932418) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263884003`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net/1263884003) |
@@ -10184,12 +10294,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-net:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154839307`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net/1154839307) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154387697`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net/1154387697) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153404350`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net/1153404350) |
-| ⚪ | *108 untagged image layers* | | |
+| ⚪ | *112 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-net-wg"><b>cloud-lib-net-wg</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 190 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-net-wg"><b>cloud-lib-net-wg</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 194 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-net-wg:latest
@@ -10197,8 +10307,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-net-wg:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292339750`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net-wg/1292339750) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292339728`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net-wg/1292339728) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292182238`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net-wg/1292182238) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292036238`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net-wg/1292036238) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291783229`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net-wg/1291783229) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269067681`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net-wg/1269067681) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269067669`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net-wg/1269067669) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695966`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net-wg/1268695966) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265932638`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net-wg/1265932638) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263884060`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net-wg/1263884060) |
@@ -10387,12 +10501,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-net-wg:latest
 | 🏷️ | `sha-ac3e2def` | Aug 21, 2026 | [`1157774675`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net-wg/1157774675) |
 | 🏷️ | `sha-6a738bd5` | Aug 21, 2026 | [`1157658260`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net-wg/1157658260) |
 | 🏷️ | `sha-ea99d4e3` | Aug 21, 2026 | [`1157498928`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-net-wg/1157498928) |
-| ⚪ | *127 untagged image layers* | | |
+| ⚪ | *131 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-news"><b>cloud-lib-news</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 193 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-news"><b>cloud-lib-news</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 197 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-news:latest
@@ -10400,8 +10514,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-news:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292339818`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-news/1292339818) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292339804`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-news/1292339804) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292182432`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-news/1292182432) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292036401`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-news/1292036401) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291783290`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-news/1291783290) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269067776`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-news/1269067776) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269067759`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-news/1269067759) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268696003`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-news/1268696003) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265932824`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-news/1265932824) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263884145`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-news/1263884145) |
@@ -10593,7 +10711,7 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-news:latest
 | 🏷️ | `sha-6a738bd5` | Aug 21, 2026 | [`1157658392`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-news/1157658392) |
 | 🏷️ | `sha-ea99d4e3` | Aug 21, 2026 | [`1157499126`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-news/1157499126) |
 | 🏷️ | `sha-5406d0f4` | Aug 21, 2026 | [`1157221448`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-news/1157221448) |
-| ⚪ | *129 untagged image layers* | | |
+| ⚪ | *132 untagged image layers* | | |
 
 </details>
 
@@ -10631,7 +10749,7 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-onehand:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ops"><b>cloud-lib-ops</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 197 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ops"><b>cloud-lib-ops</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 200 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-ops:latest
@@ -10639,8 +10757,11 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-ops:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🟢 | `sha-8885605c` `latest` | Sep 25, 2026 | [`1292339897`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ops/1292339897) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292182536`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ops/1292182536) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292036562`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ops/1292036562) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291783373`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ops/1291783373) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269067871`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ops/1269067871) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269067849`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ops/1269067849) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268696040`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ops/1268696040) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265933027`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ops/1265933027) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263884199`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ops/1263884199) |
@@ -10836,12 +10957,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-ops:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154839426`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ops/1154839426) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154387831`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ops/1154387831) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153404828`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ops/1153404828) |
-| ⚪ | *127 untagged image layers* | | |
+| ⚪ | *129 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-shizuku-adb-debug-tools"><b>cloud-lib-shizuku-adb-debug-tools</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 197 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-shizuku-adb-debug-tools"><b>cloud-lib-shizuku-adb-debug-tools</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 201 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-shizuku-adb-debug-tools:latest
@@ -10849,8 +10970,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-shizuku-adb-debug-tools:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292340207`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-shizuku-adb-debug-tools/1292340207) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292340174`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-shizuku-adb-debug-tools/1292340174) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292183034`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-shizuku-adb-debug-tools/1292183034) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292036715`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-shizuku-adb-debug-tools/1292036715) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291783626`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-shizuku-adb-debug-tools/1291783626) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269067992`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-shizuku-adb-debug-tools/1269067992) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269067973`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-shizuku-adb-debug-tools/1269067973) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268696124`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-shizuku-adb-debug-tools/1268696124) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265933448`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-shizuku-adb-debug-tools/1265933448) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263884312`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-shizuku-adb-debug-tools/1263884312) |
@@ -11046,12 +11171,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-shizuku-adb-debug-tools:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154839473`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-shizuku-adb-debug-tools/1154839473) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154387932`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-shizuku-adb-debug-tools/1154387932) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153405259`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-shizuku-adb-debug-tools/1153405259) |
-| ⚪ | *129 untagged image layers* | | |
+| ⚪ | *133 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-translate"><b>cloud-lib-translate</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 195 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-translate"><b>cloud-lib-translate</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 199 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-translate:latest
@@ -11059,7 +11184,11 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-translate:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `sha-7d06b95c` `latest` | Sep 19, 2026 | [`1268696194`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-translate/1268696194) |
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292340408`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-translate/1292340408) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292340378`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-translate/1292340378) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292183291`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-translate/1292183291) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291783831`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-translate/1291783831) |
+| 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268696194`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-translate/1268696194) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265933854`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-translate/1265933854) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263884418`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-translate/1263884418) |
 | 🏷️ | `sha-fb24e306` | Sep 17, 2026 | [`1259780197`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-translate/1259780197) |
@@ -11254,12 +11383,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-translate:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154839517`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-translate/1154839517) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154388021`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-translate/1154388021) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153405461`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-translate/1153405461) |
-| ⚪ | *120 untagged image layers* | | |
+| ⚪ | *121 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-translate-mlkit"><b>cloud-lib-translate-mlkit</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 8 days ago · 189 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-translate-mlkit"><b>cloud-lib-translate-mlkit</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 9 days ago · 189 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-translate-mlkit:latest
@@ -11461,7 +11590,7 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-translate-mlkit:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-updater"><b>cloud-lib-updater</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 207 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-updater"><b>cloud-lib-updater</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 212 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-updater:latest
@@ -11469,8 +11598,13 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-updater:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292340658`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-updater/1292340658) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292340621`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-updater/1292340621) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292183515`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-updater/1292183515) |
+| 🏷️ | `sha-b5ebc561` | Sep 24, 2026 | [`1292098124`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-updater/1292098124) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292036876`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-updater/1292036876) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291784058`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-updater/1291784058) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269068125`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-updater/1269068125) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269068099`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-updater/1269068099) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268696289`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-updater/1268696289) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265934229`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-updater/1265934229) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263884505`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-updater/1263884505) |
@@ -11676,12 +11810,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-updater:latest
 | 🏷️ | `sha-0e7cc1db` | Aug 20, 2026 | [`1154839673`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-updater/1154839673) |
 | 🏷️ | `sha-44005593` | Aug 20, 2026 | [`1154388171`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-updater/1154388171) |
 | 🏷️ | `sha-1dfb1800` | Aug 20, 2026 | [`1153405879`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-updater/1153405879) |
-| ⚪ | *213 untagged image layers* | | |
+| ⚪ | *218 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-voice"><b>cloud-lib-voice</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 194 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-voice"><b>cloud-lib-voice</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 198 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-voice:latest
@@ -11689,7 +11823,11 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-voice:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `sha-7d06b95c` `latest` | Sep 19, 2026 | [`1268696314`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-voice/1268696314) |
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292340728`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-voice/1292340728) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292340708`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-voice/1292340708) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292183617`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-voice/1292183617) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291784146`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-voice/1291784146) |
+| 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268696314`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-voice/1268696314) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265934457`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-voice/1265934457) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263884564`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-voice/1263884564) |
 | 🏷️ | `sha-fb24e306` | Sep 17, 2026 | [`1259780669`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-voice/1259780669) |
@@ -11888,7 +12026,7 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-voice:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-voice-vosk"><b>cloud-lib-voice-vosk</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 8 days ago · 188 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-voice-vosk"><b>cloud-lib-voice-vosk</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 9 days ago · 188 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-voice-vosk:latest
@@ -12089,7 +12227,7 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-voice-vosk:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-wallet"><b>cloud-lib-wallet</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 189 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-wallet"><b>cloud-lib-wallet</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 203 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-wallet:latest
@@ -12097,8 +12235,22 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-wallet:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-64772ce3` | Sep 25, 2026 | [`1294222992`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1294222992) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1294222936`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1294222936) |
+| 🏷️ | `sha-1a206b5c` | Sep 25, 2026 | [`1294193278`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1294193278) |
+| 🏷️ | `sha-556bd040` | Sep 25, 2026 | [`1294165419`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1294165419) |
+| 🏷️ | `sha-619850f8` | Sep 25, 2026 | [`1294138490`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1294138490) |
+| 🏷️ | `sha-594f72f8` | Sep 25, 2026 | [`1294121318`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1294121318) |
+| 🏷️ | `sha-2f891650` | Sep 25, 2026 | [`1294100627`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1294100627) |
+| 🏷️ | `sha-bcd53ee6` | Sep 25, 2026 | [`1294059828`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1294059828) |
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292340825`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1292340825) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292183787`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1292183787) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292037007`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1292037007) |
+| 🏷️ | `sha-0a32a0dc` | Sep 24, 2026 | [`1291962744`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1291962744) |
+| 🏷️ | `sha-3d8156e0` | Sep 24, 2026 | [`1291944024`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1291944024) |
+| 🏷️ | `sha-5fda7555` | Sep 24, 2026 | [`1291895035`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1291895035) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291784269`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1291784269) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269068285`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1269068285) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269068246`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1269068246) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268696372`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1268696372) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265934725`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1265934725) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263884602`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1263884602) |
@@ -12286,7 +12438,7 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-wallet:latest
 | 🏷️ | `sha-6a738bd5` | Aug 21, 2026 | [`1157659134`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1157659134) |
 | 🏷️ | `sha-ea99d4e3` | Aug 21, 2026 | [`1157503535`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1157503535) |
 | 🏷️ | `sha-5406d0f4` | Aug 21, 2026 | [`1157222518`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-wallet/1157222518) |
-| ⚪ | *125 untagged image layers* | | |
+| ⚪ | *139 untagged image layers* | | |
 
 </details>
 
@@ -12324,7 +12476,7 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-zoomies:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/kali-data"><b>kali-data</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 27 days ago · 1 tags · linux/amd64 · 814.6 MB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/kali-data"><b>kali-data</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 28 days ago · 1 tags · linux/amd64 · 814.6 MB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/kali-data:latest
@@ -12365,7 +12517,7 @@ docker pull ghcr.io/diegonmarcos/kali-linux:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/kali-os"><b>kali-os</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 27 days ago · 1 tags · linux/amd64 · 13.79 GB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/kali-os"><b>kali-os</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 28 days ago · 1 tags · linux/amd64 · 13.79 GB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/kali-os:latest
@@ -12393,7 +12545,7 @@ docker pull ghcr.io/diegonmarcos/lance-db-octocode-semantic-graph-repo-cloud-fro
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/my-browser-rust-chromium"><b>my-browser-rust-chromium</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 25 days ago · 1 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/my-browser-rust-chromium"><b>my-browser-rust-chromium</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 26 days ago · 1 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/my-browser-rust-chromium:latest
@@ -12407,7 +12559,7 @@ docker pull ghcr.io/diegonmarcos/my-browser-rust-chromium:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/qutebrowser-standalone"><b>qutebrowser-standalone</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 26 days ago · 1 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/qutebrowser-standalone"><b>qutebrowser-standalone</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 27 days ago · 1 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/qutebrowser-standalone:latest
@@ -12462,7 +12614,7 @@ docker pull ghcr.io/diegonmarcos/superapp:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache"><b>unix-boot-cache</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 25 days ago · 5 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache"><b>unix-boot-cache</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 26 days ago · 5 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/unix-boot-cache:latest
@@ -12480,7 +12632,7 @@ docker pull ghcr.io/diegonmarcos/unix-boot-cache:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/unix-dev-store-cache"><b>unix-dev-store-cache</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 3 days ago · 1 tags · linux/amd64 · 7.93 GB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/unix-dev-store-cache"><b>unix-dev-store-cache</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 1 tags · linux/amd64 · 7.93 GB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/unix-dev-store-cache:latest
@@ -12494,7 +12646,7 @@ docker pull ghcr.io/diegonmarcos/unix-dev-store-cache:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/unix-hm-cache"><b>unix-hm-cache</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 3 days ago · 2 tags · linux/amd64 · 8.93 GB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/unix-hm-cache"><b>unix-hm-cache</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 2 tags · linux/amd64 · 8.93 GB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/unix-hm-cache:latest
@@ -12551,7 +12703,7 @@ docker pull ghcr.io/diegonmarcos/unix-termux-cache:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/unix-termux-nixcache"><b>unix-termux-nixcache</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 3 days ago · 1 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/unix-termux-nixcache"><b>unix-termux-nixcache</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 1 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/unix-termux-nixcache:latest
@@ -12605,7 +12757,7 @@ docker pull ghcr.io/diegonmarcos/user-dev-x86-nixos-nix-hm:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/waydroid-container"><b>waydroid-container</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 22 days ago · 1 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/waydroid-container"><b>waydroid-container</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 23 days ago · 1 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/waydroid-container:latest
@@ -12620,10 +12772,10 @@ docker pull ghcr.io/diegonmarcos/waydroid-container:latest
 
 ---
 
-### 📁 <a href="https://github.com/diegonmarcos/cloud-u-android">cloud-u-android</a> &nbsp;<sup>39 packages · —</sup>
+### 📁 <a href="https://github.com/diegonmarcos/cloud-u-android">cloud-u-android</a> &nbsp;<sup>46 packages · —</sup>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-morpheus"><b>c3-morpheus</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 6 days ago · 19 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-morpheus"><b>c3-morpheus</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 7 days ago · 19 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/c3-morpheus:latest
@@ -12655,7 +12807,7 @@ docker pull ghcr.io/diegonmarcos/c3-morpheus:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-watchtower"><b>c3-watchtower</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 6 days ago · 12 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-watchtower"><b>c3-watchtower</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 7 days ago · 12 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/c3-watchtower:latest
@@ -12680,7 +12832,7 @@ docker pull ghcr.io/diegonmarcos/c3-watchtower:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-affine"><b>cloud-affine</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 0 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-affine"><b>cloud-affine</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 6 days ago · 0 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-affine:latest
@@ -12693,7 +12845,7 @@ docker pull ghcr.io/diegonmarcos/cloud-affine:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-agenda"><b>cloud-agenda</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 43 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-agenda"><b>cloud-agenda</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 47 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-agenda:latest
@@ -12701,11 +12853,15 @@ docker pull ghcr.io/diegonmarcos/cloud-agenda:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🏷️ | `sha-aa6da90d-x86_64` `v0.3.0-dev-x86_64` | Sep 19, 2026 | [`1269062713`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1269062713) |
-| 🏷️ | `latest-x86_64` | Sep 19, 2026 | [`1269062695`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1269062695) |
-| 🏷️ | `v0.3.0-dev` | Sep 19, 2026 | [`1269062010`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1269062010) |
+| 🏷️ | `v0.3.0-dev` | Sep 24, 2026 | [`1292078623`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1292078623) |
+| 🏷️ | `sha-c866529e` | Sep 24, 2026 | [`1292078590`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1292078590) |
+| 🏷️ | `sha-c866529e-x86_64` `v0.3.0-dev-x86_64` | Sep 24, 2026 | [`1292078559`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1292078559) |
+| 🟢 | `latest` | Sep 24, 2026 | [`1292078555`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1292078555) |
+| 🏷️ | `latest-x86_64` | Sep 24, 2026 | [`1292078523`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1292078523) |
+| 🏷️ | `sha-5fda7be1-x86_64` | Sep 24, 2026 | [`1292022021`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1292022021) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292020070`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1292020070) |
+| 🏷️ | `sha-aa6da90d-x86_64` | Sep 19, 2026 | [`1269062713`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1269062713) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269062002`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1269062002) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269061991`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1269061991) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265902754`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1265902754) |
 | 🏷️ | `sha-5bb68492-x86_64` | Sep 18, 2026 | [`1265900307`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1265900307) |
 | 🏷️ | `sha-6943c86b-x86_64` | Sep 18, 2026 | [`1263876649`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1263876649) |
@@ -12744,12 +12900,12 @@ docker pull ghcr.io/diegonmarcos/cloud-agenda:latest
 | 🏷️ | `sha-a7252620-x86_64` | Sep 13, 2026 | [`1242864247`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1242864247) |
 | 🏷️ | `sha-55aac9c5-x86_64` | Sep 13, 2026 | [`1242762355`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1242762355) |
 | 🏷️ | `sha-55aac9c5` | Sep 13, 2026 | [`1242761591`](https://github.com/users/diegonmarcos/packages/container/cloud-agenda/1242761591) |
-| ⚪ | *62 untagged image layers* | | |
+| ⚪ | *68 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-browser"><b>cloud-browser</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 207 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-browser"><b>cloud-browser</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 212 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-browser:latest
@@ -12757,11 +12913,16 @@ docker pull ghcr.io/diegonmarcos/cloud-browser:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🏷️ | `v0.1.0-dev-x86_64` | Sep 19, 2026 | [`1269062709`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1269062709) |
+| 🏷️ | `v0.1.0-dev-x86_64` | Sep 24, 2026 | [`1292082240`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1292082240) |
+| 🏷️ | `sha-c866529e-x86_64` | Sep 24, 2026 | [`1292082216`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1292082216) |
+| 🏷️ | `latest-x86_64` | Sep 24, 2026 | [`1292082192`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1292082192) |
+| 🏷️ | `v0.1.0-dev` | Sep 24, 2026 | [`1292078727`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1292078727) |
+| 🏷️ | `sha-c866529e` | Sep 24, 2026 | [`1292078709`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1292078709) |
+| 🟢 | `latest` | Sep 24, 2026 | [`1292078665`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1292078665) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292021486`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1292021486) |
+| 🏷️ | `sha-5fda7be1-x86_64` | Sep 24, 2026 | [`1292021217`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1292021217) |
 | 🏷️ | `sha-aa6da90d-x86_64` | Sep 19, 2026 | [`1269062691`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1269062691) |
-| 🏷️ | `latest-x86_64` | Sep 19, 2026 | [`1269062673`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1269062673) |
-| 🏷️ | `sha-aa6da90d` `v0.1.0-dev` | Sep 19, 2026 | [`1269062342`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1269062342) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269062325`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1269062325) |
+| 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269062342`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1269062342) |
 | 🏷️ | `sha-5bb68492-x86_64` | Sep 18, 2026 | [`1265901098`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1265901098) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265900098`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1265900098) |
 | 🏷️ | `sha-6943c86b-x86_64` | Sep 18, 2026 | [`1263878916`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1263878916) |
@@ -12964,12 +13125,12 @@ docker pull ghcr.io/diegonmarcos/cloud-browser:latest
 | 🏷️ | `sha-af6767fd` | Aug 28, 2026 | [`1181914513`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1181914513) |
 | 🏷️ | `sha-fab52ec0-x86_64` | Aug 28, 2026 | [`1181826138`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1181826138) |
 | 🏷️ | `sha-fab52ec0` | Aug 28, 2026 | [`1181825471`](https://github.com/users/diegonmarcos/packages/container/cloud-browser/1181825471) |
-| ⚪ | *328 untagged image layers* | | |
+| ⚪ | *334 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-calendar"><b>cloud-calendar</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 12 days ago · 182 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-calendar"><b>cloud-calendar</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 13 days ago · 182 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-calendar:latest
@@ -13164,7 +13325,7 @@ docker pull ghcr.io/diegonmarcos/cloud-calendar:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-camera"><b>cloud-camera</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 17 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-camera"><b>cloud-camera</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 6 days ago · 17 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-camera:latest
@@ -13194,7 +13355,20 @@ docker pull ghcr.io/diegonmarcos/cloud-camera:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-chat"><b>cloud-comms-chat</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 6 days ago · 23 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-code"><b>cloud-code</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 0 tags</sub></summary>
+
+```bash
+docker pull ghcr.io/diegonmarcos/cloud-code:latest
+```
+
+| | Tag | Published | Digest |
+|:---|:---|:---|:---|
+| ⚪ | *3 untagged image layers* | | |
+
+</details>
+
+<details>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-chat"><b>cloud-comms-chat</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 7 days ago · 23 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-comms-chat:latest
@@ -13230,7 +13404,7 @@ docker pull ghcr.io/diegonmarcos/cloud-comms-chat:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-dialer"><b>cloud-comms-dialer</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 6 days ago · 25 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-dialer"><b>cloud-comms-dialer</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 7 days ago · 25 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-comms-dialer:latest
@@ -13268,7 +13442,7 @@ docker pull ghcr.io/diegonmarcos/cloud-comms-dialer:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-mail"><b>cloud-comms-mail</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 133 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-mail"><b>cloud-comms-mail</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 141 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-comms-mail:latest
@@ -13276,8 +13450,16 @@ docker pull ghcr.io/diegonmarcos/cloud-comms-mail:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-64772ce3` | Sep 25, 2026 | [`1294253080`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1294253080) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1294253038`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1294253038) |
+| 🏷️ | `sha-25a846d7` | Sep 25, 2026 | [`1294018992`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1294018992) |
+| 🏷️ | `sha-c866529e` | Sep 24, 2026 | [`1292098339`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1292098339) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292041452`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1292041452) |
+| 🏷️ | `sha-554a3d23` | Sep 24, 2026 | [`1291860016`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1291860016) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291780352`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1291780352) |
+| 🏷️ | `sha-04e614ec` | Sep 24, 2026 | [`1290663752`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1290663752) |
+| 🏷️ | `sha-4db508b6` | Sep 24, 2026 | [`1290545817`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1290545817) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269070387`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1269070387) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269070365`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1269070365) |
 | 🏷️ | `sha-15eb8089` | Sep 19, 2026 | [`1268633414`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1268633414) |
 | 🏷️ | `sha-76533593` | Sep 18, 2026 | [`1267498736`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1267498736) |
 | 🏷️ | `sha-ede15879` | Sep 18, 2026 | [`1266200586`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1266200586) |
@@ -13409,12 +13591,12 @@ docker pull ghcr.io/diegonmarcos/cloud-comms-mail:latest
 | 🏷️ | `sha-76327e0c` | Aug 28, 2026 | [`1183262786`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1183262786) |
 | 🏷️ | `sha-af6767fd` | Aug 28, 2026 | [`1181931588`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1181931588) |
 | 🏷️ | `sha-fab52ec0` | Aug 28, 2026 | [`1181889536`](https://github.com/users/diegonmarcos/packages/container/cloud-comms-mail/1181889536) |
-| ⚪ | *133 untagged image layers* | | |
+| ⚪ | *141 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-matrix"><b>cloud-comms-matrix</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 6 days ago · 23 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-matrix"><b>cloud-comms-matrix</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 7 days ago · 23 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-comms-matrix:latest
@@ -13450,7 +13632,7 @@ docker pull ghcr.io/diegonmarcos/cloud-comms-matrix:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-contacts"><b>cloud-contacts</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 217 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-contacts"><b>cloud-contacts</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 220 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-contacts:latest
@@ -13458,12 +13640,15 @@ docker pull ghcr.io/diegonmarcos/cloud-contacts:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🏷️ | `v0.1.0-dev` | Sep 19, 2026 | [`1269063875`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1269063875) |
+| 🏷️ | `v0.1.0-dev-x86_64` | Sep 24, 2026 | [`1292085202`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1292085202) |
+| 🏷️ | `sha-c866529e-x86_64` | Sep 24, 2026 | [`1292085168`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1292085168) |
+| 🏷️ | `latest-x86_64` | Sep 24, 2026 | [`1292085142`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1292085142) |
+| 🏷️ | `sha-c866529e` `v0.1.0-dev` | Sep 24, 2026 | [`1292078023`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1292078023) |
+| 🟢 | `latest` | Sep 24, 2026 | [`1292077997`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1292077997) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292021315`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1292021315) |
+| 🏷️ | `sha-5fda7be1-x86_64` | Sep 24, 2026 | [`1292019002`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1292019002) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269063864`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1269063864) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269063851`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1269063851) |
-| 🏷️ | `v0.1.0-dev-x86_64` | Sep 19, 2026 | [`1269062184`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1269062184) |
 | 🏷️ | `sha-aa6da90d-x86_64` | Sep 19, 2026 | [`1269062173`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1269062173) |
-| 🏷️ | `latest-x86_64` | Sep 19, 2026 | [`1269062161`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1269062161) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265900910`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1265900910) |
 | 🏷️ | `sha-5bb68492-x86_64` | Sep 18, 2026 | [`1265898088`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1265898088) |
 | 🏷️ | `sha-6943c86b-x86_64` | Sep 18, 2026 | [`1263876653`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1263876653) |
@@ -13675,12 +13860,12 @@ docker pull ghcr.io/diegonmarcos/cloud-contacts:latest
 | 🏷️ | `sha-af6767fd-x86_64` | Aug 28, 2026 | [`1181914651`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1181914651) |
 | 🏷️ | `sha-fab52ec0` | Aug 28, 2026 | [`1181826522`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1181826522) |
 | 🏷️ | `sha-fab52ec0-x86_64` | Aug 28, 2026 | [`1181826167`](https://github.com/users/diegonmarcos/packages/container/cloud-contacts/1181826167) |
-| ⚪ | *333 untagged image layers* | | |
+| ⚪ | *341 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-drive"><b>cloud-drive</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 57 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-drive"><b>cloud-drive</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 69 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-drive:latest
@@ -13688,12 +13873,24 @@ docker pull ghcr.io/diegonmarcos/cloud-drive:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🏷️ | `v0.5.0-dev-x86_64` | Sep 19, 2026 | [`1269064331`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1269064331) |
+| 🏷️ | `v0.5.0-dev-x86_64` | Sep 25, 2026 | [`1292353806`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1292353806) |
+| 🏷️ | `sha-ad10f266-x86_64` | Sep 25, 2026 | [`1292353783`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1292353783) |
+| 🏷️ | `latest-x86_64` | Sep 25, 2026 | [`1292353756`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1292353756) |
+| 🏷️ | `v0.5.0-dev` | Sep 25, 2026 | [`1292352414`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1292352414) |
+| 🏷️ | `sha-ad10f266` | Sep 25, 2026 | [`1292352384`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1292352384) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292352355`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1292352355) |
+| 🏷️ | `sha-8885605c` | Sep 24, 2026 | [`1292320563`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1292320563) |
+| 🏷️ | `sha-8885605c-x86_64` | Sep 24, 2026 | [`1292319997`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1292319997) |
+| 🏷️ | `sha-9b21af46` | Sep 24, 2026 | [`1292222182`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1292222182) |
+| 🏷️ | `sha-9b21af46-x86_64` | Sep 24, 2026 | [`1292221622`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1292221622) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292158527`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1292158527) |
+| 🏷️ | `sha-3bf01f3a-x86_64` | Sep 24, 2026 | [`1292158481`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1292158481) |
+| 🏷️ | `sha-c866529e-x86_64` | Sep 24, 2026 | [`1292085357`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1292085357) |
+| 🏷️ | `sha-c866529e` | Sep 24, 2026 | [`1292084229`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1292084229) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292023769`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1292023769) |
+| 🏷️ | `sha-5fda7be1-x86_64` | Sep 24, 2026 | [`1292023535`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1292023535) |
 | 🏷️ | `sha-aa6da90d-x86_64` | Sep 19, 2026 | [`1269064302`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1269064302) |
-| 🏷️ | `latest-x86_64` | Sep 19, 2026 | [`1269064278`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1269064278) |
-| 🏷️ | `v0.5.0-dev` | Sep 19, 2026 | [`1269063706`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1269063706) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269063690`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1269063690) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269063673`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1269063673) |
 | 🏷️ | `sha-76ba6234` | Sep 18, 2026 | [`1263962115`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1263962115) |
 | 🏷️ | `sha-76ba6234-x86_64` | Sep 18, 2026 | [`1263960371`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1263960371) |
 | 🏷️ | `sha-6943c86b-x86_64` | Sep 18, 2026 | [`1263872652`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1263872652) |
@@ -13745,12 +13942,12 @@ docker pull ghcr.io/diegonmarcos/cloud-drive:latest
 | 🏷️ | `sha-22b4e9bc` | Sep 13, 2026 | [`1243389523`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1243389523) |
 | 🏷️ | `sha-3bb8f64e-x86_64` | Sep 13, 2026 | [`1243139641`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1243139641) |
 | 🏷️ | `sha-3bb8f64e` | Sep 13, 2026 | [`1243139094`](https://github.com/users/diegonmarcos/packages/container/cloud-drive/1243139094) |
-| ⚪ | *74 untagged image layers* | | |
+| ⚪ | *96 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-ide-hub"><b>cloud-ide-hub</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 6 days ago · 69 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-ide-hub"><b>cloud-ide-hub</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 7 days ago · 69 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-ide-hub:latest
@@ -13832,7 +14029,7 @@ docker pull ghcr.io/diegonmarcos/cloud-ide-hub:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard"><b>cloud-keyboard</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 73 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard"><b>cloud-keyboard</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 74 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-keyboard:latest
@@ -13840,8 +14037,9 @@ docker pull ghcr.io/diegonmarcos/cloud-keyboard:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292025477`](https://github.com/users/diegonmarcos/packages/container/cloud-keyboard/1292025477) |
+| 🟢 | `latest` | Sep 24, 2026 | [`1292025433`](https://github.com/users/diegonmarcos/packages/container/cloud-keyboard/1292025433) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269065052`](https://github.com/users/diegonmarcos/packages/container/cloud-keyboard/1269065052) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269065039`](https://github.com/users/diegonmarcos/packages/container/cloud-keyboard/1269065039) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263876708`](https://github.com/users/diegonmarcos/packages/container/cloud-keyboard/1263876708) |
 | 🏷️ | `sha-0574ea1e` | Sep 16, 2026 | [`1255341423`](https://github.com/users/diegonmarcos/packages/container/cloud-keyboard/1255341423) |
 | 🏷️ | `sha-4c3ccb69` | Sep 16, 2026 | [`1254806008`](https://github.com/users/diegonmarcos/packages/container/cloud-keyboard/1254806008) |
@@ -13913,12 +14111,12 @@ docker pull ghcr.io/diegonmarcos/cloud-keyboard:latest
 | 🏷️ | `sha-2ce55851` | Aug 28, 2026 | [`1183382605`](https://github.com/users/diegonmarcos/packages/container/cloud-keyboard/1183382605) |
 | 🏷️ | `sha-af6767fd` | Aug 28, 2026 | [`1181922137`](https://github.com/users/diegonmarcos/packages/container/cloud-keyboard/1181922137) |
 | 🏷️ | `sha-fab52ec0` | Aug 28, 2026 | [`1181834571`](https://github.com/users/diegonmarcos/packages/container/cloud-keyboard/1181834571) |
-| ⚪ | *64 untagged image layers* | | |
+| ⚪ | *65 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard-libs"><b>cloud-keyboard-libs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 6 days ago · 41 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard-libs"><b>cloud-keyboard-libs</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 7 days ago · 41 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-keyboard-libs:latest
@@ -13972,7 +14170,7 @@ docker pull ghcr.io/diegonmarcos/cloud-keyboard-libs:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-analytics"><b>cloud-lib-analytics</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 160 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-analytics"><b>cloud-lib-analytics</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 162 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-analytics:latest
@@ -13980,8 +14178,10 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-analytics:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🟢 | `sha-8885605c` `latest` | Sep 25, 2026 | [`1292336894`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-analytics/1292336894) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292177836`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-analytics/1292177836) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291780480`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-analytics/1291780480) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268694836`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-analytics/1268694836) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1268694828`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-analytics/1268694828) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265927397`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-analytics/1265927397) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263882551`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-analytics/1263882551) |
 | 🏷️ | `sha-8360d1c8` | Sep 17, 2026 | [`1259727118`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-analytics/1259727118) |
@@ -14140,12 +14340,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-analytics:latest
 | 🏷️ | `sha-2ce55851` | Aug 28, 2026 | [`1183392494`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-analytics/1183392494) |
 | 🏷️ | `sha-af6767fd` | Aug 28, 2026 | [`1181931491`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-analytics/1181931491) |
 | 🏷️ | `sha-fab52ec0` | Aug 28, 2026 | [`1181887781`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-analytics/1181887781) |
-| ⚪ | *101 untagged image layers* | | |
+| ⚪ | *102 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-bottomnav"><b>cloud-lib-bottomnav</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 4 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-bottomnav"><b>cloud-lib-bottomnav</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 19 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-bottomnav:latest
@@ -14153,16 +14353,67 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-bottomnav:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🟢 | `sha-64772ce3` `latest` | Sep 25, 2026 | [`1294222736`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1294222736) |
+| 🏷️ | `sha-1a206b5c` | Sep 25, 2026 | [`1294193079`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1294193079) |
+| 🏷️ | `sha-556bd040` | Sep 25, 2026 | [`1294165251`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1294165251) |
+| 🏷️ | `sha-619850f8` | Sep 25, 2026 | [`1294138294`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1294138294) |
+| 🏷️ | `sha-594f72f8` | Sep 25, 2026 | [`1294121027`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1294121027) |
+| 🏷️ | `sha-2f891650` | Sep 25, 2026 | [`1294100272`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1294100272) |
+| 🏷️ | `sha-bcd53ee6` | Sep 25, 2026 | [`1294059443`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1294059443) |
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292337292`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1292337292) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292178346`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1292178346) |
+| 🏷️ | `sha-554a3d23` | Sep 24, 2026 | [`1291847140`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1291847140) |
+| 🏷️ | `sha-7687b032` | Sep 24, 2026 | [`1291807680`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1291807680) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291780984`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1291780984) |
+| 🏷️ | `sha-04e614ec` | Sep 24, 2026 | [`1290648196`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1290648196) |
+| 🏷️ | `sha-f0f450bc` | Sep 24, 2026 | [`1290627095`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1290627095) |
+| 🏷️ | `sha-e5f1e211` | Sep 24, 2026 | [`1290603849`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1290603849) |
+| 🏷️ | `sha-99c5042e` | Sep 24, 2026 | [`1290574154`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1290574154) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268694971`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1268694971) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1268694958`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1268694958) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265928246`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1265928246) |
 | 🏷️ | `sha-2b5d39e6` | Sep 18, 2026 | [`1264923773`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-bottomnav/1264923773) |
-| ⚪ | *2 untagged image layers* | | |
+| ⚪ | *16 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ml-l-image-mlkit"><b>cloud-lib-ml-l-image-mlkit</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 6 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-file-editor"><b>cloud-lib-file-editor</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 5 tags</sub></summary>
+
+```bash
+docker pull ghcr.io/diegonmarcos/cloud-lib-file-editor:latest
+```
+
+| | Tag | Published | Digest |
+|:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292338123`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-file-editor/1292338123) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292338103`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-file-editor/1292338103) |
+| 🏷️ | `sha-9b21af46` | Sep 24, 2026 | [`1292229000`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-file-editor/1292229000) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292179418`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-file-editor/1292179418) |
+| 🏷️ | `sha-9c6989df` | Sep 24, 2026 | [`1292056038`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-file-editor/1292056038) |
+| ⚪ | *3 untagged image layers* | | |
+
+</details>
+
+<details>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-git-sync"><b>cloud-lib-git-sync</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 5 tags</sub></summary>
+
+```bash
+docker pull ghcr.io/diegonmarcos/cloud-lib-git-sync:latest
+```
+
+| | Tag | Published | Digest |
+|:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292338406`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-git-sync/1292338406) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292338376`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-git-sync/1292338376) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292179900`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-git-sync/1292179900) |
+| 🏷️ | `sha-f524a8c3` | Sep 24, 2026 | [`1292146257`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-git-sync/1292146257) |
+| 🏷️ | `sha-9c6989df` | Sep 24, 2026 | [`1292056296`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-git-sync/1292056296) |
+| ⚪ | *3 untagged image layers* | | |
+
+</details>
+
+<details>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ml-l-image-mlkit"><b>cloud-lib-ml-l-image-mlkit</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 8 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-ml-l-image-mlkit:latest
@@ -14170,18 +14421,20 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-ml-l-image-mlkit:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🟢 | `sha-8885605c` `latest` | Sep 25, 2026 | [`1292339262`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-image-mlkit/1292339262) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292181410`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-image-mlkit/1292181410) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291782737`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-image-mlkit/1291782737) |
 | 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695836`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-image-mlkit/1268695836) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1268695830`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-image-mlkit/1268695830) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265931843`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-image-mlkit/1265931843) |
 | 🏷️ | `sha-76ba6234` | Sep 18, 2026 | [`1263958653`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-image-mlkit/1263958653) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263883858`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-image-mlkit/1263883858) |
 | 🏷️ | `sha-934381f0` | Sep 17, 2026 | [`1261117611`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-image-mlkit/1261117611) |
-| ⚪ | *4 untagged image layers* | | |
+| ⚪ | *6 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ml-l-text-mlkit"><b>cloud-lib-ml-l-text-mlkit</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 6 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ml-l-text-mlkit"><b>cloud-lib-ml-l-text-mlkit</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 10 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-ml-l-text-mlkit:latest
@@ -14189,18 +14442,22 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-ml-l-text-mlkit:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `sha-7d06b95c` `latest` | Sep 19, 2026 | [`1268695856`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-text-mlkit/1268695856) |
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292339371`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-text-mlkit/1292339371) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292339353`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-text-mlkit/1292339353) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292181532`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-text-mlkit/1292181532) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291782847`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-text-mlkit/1291782847) |
+| 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695856`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-text-mlkit/1268695856) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265932069`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-text-mlkit/1265932069) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263883905`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-text-mlkit/1263883905) |
 | 🏷️ | `sha-fb24e306` | Sep 17, 2026 | [`1259778986`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-text-mlkit/1259778986) |
 | 🏷️ | `sha-8360d1c8` | Sep 17, 2026 | [`1259729702`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-text-mlkit/1259729702) |
 | 🏷️ | `sha-0574ea1e` | Sep 16, 2026 | [`1255358402`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-text-mlkit/1255358402) |
-| ⚪ | *5 untagged image layers* | | |
+| ⚪ | *6 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ml-l-voice-vosk"><b>cloud-lib-ml-l-voice-vosk</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 6 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ml-l-voice-vosk"><b>cloud-lib-ml-l-voice-vosk</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 9 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-ml-l-voice-vosk:latest
@@ -14208,18 +14465,60 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-ml-l-voice-vosk:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `sha-7d06b95c` `latest` | Sep 19, 2026 | [`1268695888`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-voice-vosk/1268695888) |
+| 🟢 | `sha-8885605c` `latest` | Sep 25, 2026 | [`1292339436`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-voice-vosk/1292339436) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292181711`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-voice-vosk/1292181711) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291782906`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-voice-vosk/1291782906) |
+| 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268695888`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-voice-vosk/1268695888) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265932237`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-voice-vosk/1265932237) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263883956`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-voice-vosk/1263883956) |
 | 🏷️ | `sha-fb24e306` | Sep 17, 2026 | [`1259779110`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-voice-vosk/1259779110) |
 | 🏷️ | `sha-8360d1c8` | Sep 17, 2026 | [`1259729844`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-voice-vosk/1259729844) |
 | 🏷️ | `sha-0574ea1e` | Sep 16, 2026 | [`1255358573`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-ml-l-voice-vosk/1255358573) |
-| ⚪ | *5 untagged image layers* | | |
+| ⚪ | *6 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-search"><b>cloud-lib-search</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 104 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-mounts"><b>cloud-lib-mounts</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 6 tags</sub></summary>
+
+```bash
+docker pull ghcr.io/diegonmarcos/cloud-lib-mounts:latest
+```
+
+| | Tag | Published | Digest |
+|:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292339532`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mounts/1292339532) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292339507`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mounts/1292339507) |
+| 🏷️ | `sha-42d06db4` | Sep 24, 2026 | [`1292309735`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mounts/1292309735) |
+| 🏷️ | `sha-bf7a83a5` | Sep 24, 2026 | [`1292249384`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mounts/1292249384) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292181895`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mounts/1292181895) |
+| 🏷️ | `sha-9c6989df` | Sep 24, 2026 | [`1292056463`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-mounts/1292056463) |
+| ⚪ | *4 untagged image layers* | | |
+
+</details>
+
+<details>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-rclone"><b>cloud-lib-rclone</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 7 tags</sub></summary>
+
+```bash
+docker pull ghcr.io/diegonmarcos/cloud-lib-rclone:latest
+```
+
+| | Tag | Published | Digest |
+|:---|:---|:---|:---|
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292339986`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-rclone/1292339986) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292339961`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-rclone/1292339961) |
+| 🏷️ | `sha-920aa2cc` | Sep 24, 2026 | [`1292295252`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-rclone/1292295252) |
+| 🏷️ | `sha-c2553147` | Sep 24, 2026 | [`1292267623`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-rclone/1292267623) |
+| 🏷️ | `sha-bf7a83a5` | Sep 24, 2026 | [`1292249588`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-rclone/1292249588) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292182744`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-rclone/1292182744) |
+| 🏷️ | `sha-9c6989df` | Sep 24, 2026 | [`1292056688`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-rclone/1292056688) |
+| ⚪ | *4 untagged image layers* | | |
+
+</details>
+
+<details>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-search"><b>cloud-lib-search</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 108 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-search:latest
@@ -14227,7 +14526,11 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-search:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `sha-7d06b95c` `latest` | Sep 19, 2026 | [`1268696082`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-search/1268696082) |
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292340085`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-search/1292340085) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292340059`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-search/1292340059) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292182881`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-search/1292182881) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291783460`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-search/1291783460) |
+| 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268696082`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-search/1268696082) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265933249`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-search/1265933249) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263884254`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-search/1263884254) |
 | 🏷️ | `sha-fb24e306` | Sep 17, 2026 | [`1259779834`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-search/1259779834) |
@@ -14331,12 +14634,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-search:latest
 | 🏷️ | `sha-6ffaef0c` | Aug 30, 2026 | [`1187960119`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-search/1187960119) |
 | 🏷️ | `sha-02f29595` | Aug 30, 2026 | [`1187957632`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-search/1187957632) |
 | 🏷️ | `sha-03a98787` | Aug 30, 2026 | [`1187949919`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-search/1187949919) |
-| ⚪ | *58 untagged image layers* | | |
+| ⚪ | *59 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-text-tools"><b>cloud-lib-text-tools</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 22 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-text-tools"><b>cloud-lib-text-tools</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 26 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-text-tools:latest
@@ -14344,7 +14647,11 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-text-tools:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `sha-7d06b95c` `latest` | Sep 19, 2026 | [`1268696158`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-text-tools/1268696158) |
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292340306`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-text-tools/1292340306) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292340270`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-text-tools/1292340270) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292183137`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-text-tools/1292183137) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291783699`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-text-tools/1291783699) |
+| 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268696158`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-text-tools/1268696158) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265933659`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-text-tools/1265933659) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263884366`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-text-tools/1263884366) |
 | 🏷️ | `sha-fb24e306` | Sep 17, 2026 | [`1259780100`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-text-tools/1259780100) |
@@ -14366,12 +14673,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-text-tools:latest
 | 🏷️ | `sha-b8985391` | Sep 9, 2026 | [`1228936910`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-text-tools/1228936910) |
 | 🏷️ | `sha-09823c55` | Sep 9, 2026 | [`1228738637`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-text-tools/1228738637) |
 | 🏷️ | `sha-89b3431f` | Sep 9, 2026 | [`1228701922`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-text-tools/1228701922) |
-| ⚪ | *14 untagged image layers* | | |
+| ⚪ | *15 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-watchdog"><b>cloud-lib-watchdog</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 103 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-watchdog"><b>cloud-lib-watchdog</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 107 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-watchdog:latest
@@ -14379,7 +14686,11 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-watchdog:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `sha-7d06b95c` `latest` | Sep 19, 2026 | [`1268696409`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-watchdog/1268696409) |
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292340886`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-watchdog/1292340886) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292340866`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-watchdog/1292340866) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292183900`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-watchdog/1292183900) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291784330`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-watchdog/1291784330) |
+| 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268696409`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-watchdog/1268696409) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265934929`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-watchdog/1265934929) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263884636`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-watchdog/1263884636) |
 | 🏷️ | `sha-fb24e306` | Sep 17, 2026 | [`1259780940`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-watchdog/1259780940) |
@@ -14482,12 +14793,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-watchdog:latest
 | 🏷️ | `sha-6ffaef0c` | Aug 30, 2026 | [`1187960494`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-watchdog/1187960494) |
 | 🏷️ | `sha-02f29595` | Aug 30, 2026 | [`1187957982`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-watchdog/1187957982) |
 | 🏷️ | `sha-03a98787` | Aug 30, 2026 | [`1187950321`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-watchdog/1187950321) |
-| ⚪ | *66 untagged image layers* | | |
+| ⚪ | *67 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-webserver"><b>cloud-lib-webserver</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 9 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-webserver"><b>cloud-lib-webserver</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 13 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-lib-webserver:latest
@@ -14495,7 +14806,11 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-webserver:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `sha-7d06b95c` `latest` | Sep 19, 2026 | [`1268696453`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-webserver/1268696453) |
+| 🏷️ | `sha-8885605c` | Sep 25, 2026 | [`1292340957`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-webserver/1292340957) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292340931`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-webserver/1292340931) |
+| 🏷️ | `sha-3bf01f3a` | Sep 24, 2026 | [`1292184099`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-webserver/1292184099) |
+| 🏷️ | `sha-f42e1f9c` | Sep 24, 2026 | [`1291784439`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-webserver/1291784439) |
+| 🏷️ | `sha-7d06b95c` | Sep 19, 2026 | [`1268696453`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-webserver/1268696453) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265935056`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-webserver/1265935056) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263884709`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-webserver/1263884709) |
 | 🏷️ | `sha-fb24e306` | Sep 17, 2026 | [`1259781078`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-webserver/1259781078) |
@@ -14504,12 +14819,12 @@ docker pull ghcr.io/diegonmarcos/cloud-lib-webserver:latest
 | 🏷️ | `sha-bd6993e9` | Sep 16, 2026 | [`1254740945`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-webserver/1254740945) |
 | 🏷️ | `sha-62b93209` | Sep 15, 2026 | [`1253541014`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-webserver/1253541014) |
 | 🏷️ | `sha-b605dab4` | Sep 14, 2026 | [`1245622447`](https://github.com/users/diegonmarcos/packages/container/cloud-lib-webserver/1245622447) |
-| ⚪ | *5 untagged image layers* | | |
+| ⚪ | *7 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-me"><b>cloud-me</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 161 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-me"><b>cloud-me</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 172 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-me:latest
@@ -14517,10 +14832,21 @@ docker pull ghcr.io/diegonmarcos/cloud-me:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🏷️ | `sha-aa6da90d` `v0.1.0-dev` | Sep 19, 2026 | [`1269063670`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1269063670) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269063643`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1269063643) |
-| 🏷️ | `sha-aa6da90d-x86_64` `v0.1.0-dev-x86_64` | Sep 19, 2026 | [`1269063557`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1269063557) |
-| 🏷️ | `latest-x86_64` | Sep 19, 2026 | [`1269063544`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1269063544) |
+| 🏷️ | `v0.1.0-dev` | Sep 25, 2026 | [`1294067065`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1294067065) |
+| 🏷️ | `sha-bcd53ee6` | Sep 25, 2026 | [`1294067011`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1294067011) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1294066947`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1294066947) |
+| 🏷️ | `sha-bcd53ee6-x86_64` `v0.1.0-dev-x86_64` | Sep 25, 2026 | [`1294063746`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1294063746) |
+| 🏷️ | `latest-x86_64` | Sep 25, 2026 | [`1294063689`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1294063689) |
+| 🏷️ | `sha-c866529e` | Sep 24, 2026 | [`1292088672`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1292088672) |
+| 🏷️ | `sha-c866529e-x86_64` | Sep 24, 2026 | [`1292082015`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1292082015) |
+| 🏷️ | `sha-5fda7be1-x86_64` | Sep 24, 2026 | [`1292018391`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1292018391) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292016933`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1292016933) |
+| 🏷️ | `sha-ae5c7a52` | Sep 24, 2026 | [`1291915657`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1291915657) |
+| 🏷️ | `sha-ae5c7a52-x86_64` | Sep 24, 2026 | [`1291913925`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1291913925) |
+| 🏷️ | `sha-f450f7e6` | Sep 24, 2026 | [`1291686699`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1291686699) |
+| 🏷️ | `sha-f450f7e6-x86_64` | Sep 24, 2026 | [`1291684171`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1291684171) |
+| 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269063670`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1269063670) |
+| 🏷️ | `sha-aa6da90d-x86_64` | Sep 19, 2026 | [`1269063557`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1269063557) |
 | 🏷️ | `sha-6739dfdd-x86_64` | Sep 18, 2026 | [`1266641582`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1266641582) |
 | 🏷️ | `sha-6739dfdd` | Sep 18, 2026 | [`1266637507`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1266637507) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265899327`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1265899327) |
@@ -14678,12 +15004,12 @@ docker pull ghcr.io/diegonmarcos/cloud-me:latest
 | 🏷️ | `sha-a083a907` | Sep 1, 2026 | [`1197345443`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1197345443) |
 | 🏷️ | `sha-ca16b14c` | Sep 1, 2026 | [`1197036374`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1197036374) |
 | 🏷️ | `sha-ca16b14c-x86_64` | Sep 1, 2026 | [`1197035334`](https://github.com/users/diegonmarcos/packages/container/cloud-me/1197035334) |
-| ⚪ | *258 untagged image layers* | | |
+| ⚪ | *270 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-media-center"><b>cloud-media-center</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 80 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-media-center"><b>cloud-media-center</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 82 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-media-center:latest
@@ -14691,10 +15017,12 @@ docker pull ghcr.io/diegonmarcos/cloud-media-center:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-5fda7be1-x86_64` | Sep 24, 2026 | [`1292063240`](https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1292063240) |
+| 🏷️ | `latest-x86_64` | Sep 24, 2026 | [`1292063202`](https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1292063202) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292059057`](https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1292059057) |
+| 🟢 | `latest` | Sep 24, 2026 | [`1292059002`](https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1292059002) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269089737`](https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1269089737) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269089709`](https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1269089709) |
 | 🏷️ | `sha-aa6da90d-x86_64` | Sep 19, 2026 | [`1269089430`](https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1269089430) |
-| 🏷️ | `latest-x86_64` | Sep 19, 2026 | [`1269089402`](https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1269089402) |
 | 🏷️ | `sha-76ba6234-x86_64` | Sep 18, 2026 | [`1263977872`](https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1263977872) |
 | 🏷️ | `sha-76ba6234` | Sep 18, 2026 | [`1263977617`](https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1263977617) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263911394`](https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1263911394) |
@@ -14771,12 +15099,29 @@ docker pull ghcr.io/diegonmarcos/cloud-media-center:latest
 | 🏷️ | `sha-af6767fd` | Aug 28, 2026 | [`1181944602`](https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1181944602) |
 | 🏷️ | `sha-fab52ec0` | Aug 28, 2026 | [`1181908943`](https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1181908943) |
 | 🏷️ | `sha-fab52ec0-x86_64` | Aug 28, 2026 | [`1181904911`](https://github.com/users/diegonmarcos/packages/container/cloud-media-center/1181904911) |
-| ⚪ | *74 untagged image layers* | | |
+| ⚪ | *76 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-nav"><b>cloud-nav</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 203 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-myterminal"><b>cloud-myterminal</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 5 tags</sub></summary>
+
+```bash
+docker pull ghcr.io/diegonmarcos/cloud-myterminal:latest
+```
+
+| | Tag | Published | Digest |
+|:---|:---|:---|:---|
+| 🏷️ | `v0.1.0-dev` | Sep 24, 2026 | [`1291683488`](https://github.com/users/diegonmarcos/packages/container/cloud-myterminal/1291683488) |
+| 🏷️ | `sha-f450f7e6` | Sep 24, 2026 | [`1291683436`](https://github.com/users/diegonmarcos/packages/container/cloud-myterminal/1291683436) |
+| 🏷️ | `v0.1.0-dev-x86_64` `sha-f450f7e6-x86_64` | Sep 24, 2026 | [`1291683381`](https://github.com/users/diegonmarcos/packages/container/cloud-myterminal/1291683381) |
+| 🟢 | `latest` | Sep 24, 2026 | [`1291683374`](https://github.com/users/diegonmarcos/packages/container/cloud-myterminal/1291683374) |
+| 🏷️ | `latest-x86_64` | Sep 24, 2026 | [`1291683322`](https://github.com/users/diegonmarcos/packages/container/cloud-myterminal/1291683322) |
+
+</details>
+
+<details>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-nav"><b>cloud-nav</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 209 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-nav:latest
@@ -14784,10 +15129,16 @@ docker pull ghcr.io/diegonmarcos/cloud-nav:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🏷️ | `sha-aa6da90d-x86_64` `v0.1.0-dev-x86_64` | Sep 19, 2026 | [`1269064061`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1269064061) |
-| 🏷️ | `latest-x86_64` | Sep 19, 2026 | [`1269064050`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1269064050) |
-| 🏷️ | `sha-aa6da90d` `v0.1.0-dev` | Sep 19, 2026 | [`1269063246`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1269063246) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269063235`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1269063235) |
+| 🏷️ | `v0.1.0-dev-x86_64` | Sep 24, 2026 | [`1292080428`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1292080428) |
+| 🏷️ | `sha-c866529e-x86_64` | Sep 24, 2026 | [`1292080379`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1292080379) |
+| 🏷️ | `latest-x86_64` | Sep 24, 2026 | [`1292080340`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1292080340) |
+| 🏷️ | `v0.1.0-dev` | Sep 24, 2026 | [`1292080237`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1292080237) |
+| 🏷️ | `sha-c866529e` | Sep 24, 2026 | [`1292080204`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1292080204) |
+| 🟢 | `latest` | Sep 24, 2026 | [`1292080169`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1292080169) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292022068`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1292022068) |
+| 🏷️ | `sha-5fda7be1-x86_64` | Sep 24, 2026 | [`1292020909`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1292020909) |
+| 🏷️ | `sha-aa6da90d-x86_64` | Sep 19, 2026 | [`1269064061`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1269064061) |
+| 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269063246`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1269063246) |
 | 🏷️ | `sha-5bb68492-x86_64` | Sep 18, 2026 | [`1265904324`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1265904324) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265904293`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1265904293) |
 | 🏷️ | `sha-6943c86b-x86_64` | Sep 18, 2026 | [`1263881654`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1263881654) |
@@ -14987,12 +15338,12 @@ docker pull ghcr.io/diegonmarcos/cloud-nav:latest
 | 🏷️ | `sha-af6767fd` | Aug 28, 2026 | [`1181916669`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1181916669) |
 | 🏷️ | `sha-fab52ec0-x86_64` | Aug 28, 2026 | [`1181829992`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1181829992) |
 | 🏷️ | `sha-fab52ec0` | Aug 28, 2026 | [`1181829440`](https://github.com/users/diegonmarcos/packages/container/cloud-nav/1181829440) |
-| ⚪ | *343 untagged image layers* | | |
+| ⚪ | *349 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-news"><b>cloud-news</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 220 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-news"><b>cloud-news</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 224 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-news:latest
@@ -15000,11 +15351,15 @@ docker pull ghcr.io/diegonmarcos/cloud-news:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🏷️ | `sha-aa6da90d-x86_64` `v0.4.1-dev-x86_64` | Sep 19, 2026 | [`1269062824`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1269062824) |
-| 🏷️ | `latest-x86_64` | Sep 19, 2026 | [`1269062810`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1269062810) |
-| 🏷️ | `v0.4.1-dev` | Sep 19, 2026 | [`1269062055`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1269062055) |
+| 🏷️ | `v0.4.1-dev-x86_64` | Sep 24, 2026 | [`1292078209`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1292078209) |
+| 🏷️ | `sha-c866529e-x86_64` | Sep 24, 2026 | [`1292078157`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1292078157) |
+| 🏷️ | `latest-x86_64` | Sep 24, 2026 | [`1292078107`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1292078107) |
+| 🏷️ | `sha-c866529e` `v0.4.1-dev` | Sep 24, 2026 | [`1292077506`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1292077506) |
+| 🟢 | `latest` | Sep 24, 2026 | [`1292077466`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1292077466) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292019398`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1292019398) |
+| 🏷️ | `sha-5fda7be1-x86_64` | Sep 24, 2026 | [`1292018574`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1292018574) |
+| 🏷️ | `sha-aa6da90d-x86_64` | Sep 19, 2026 | [`1269062824`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1269062824) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269062044`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1269062044) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269062026`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1269062026) |
 | 🏷️ | `sha-5bb68492-x86_64` | Sep 18, 2026 | [`1265902124`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1265902124) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265901087`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1265901087) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263881065`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1263881065) |
@@ -15220,12 +15575,12 @@ docker pull ghcr.io/diegonmarcos/cloud-news:latest
 | 🏷️ | `sha-af6767fd-x86_64` | Aug 28, 2026 | [`1181915498`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1181915498) |
 | 🏷️ | `sha-fab52ec0` | Aug 28, 2026 | [`1181826736`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1181826736) |
 | 🏷️ | `sha-fab52ec0-x86_64` | Aug 28, 2026 | [`1181826569`](https://github.com/users/diegonmarcos/packages/container/cloud-news/1181826569) |
-| ⚪ | *346 untagged image layers* | | |
+| ⚪ | *351 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-notes"><b>cloud-notes</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 6 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-notes"><b>cloud-notes</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 6 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-notes:latest
@@ -15239,12 +15594,12 @@ docker pull ghcr.io/diegonmarcos/cloud-notes:latest
 | 🏷️ | `sha-81cf279e` | Sep 15, 2026 | [`1253590646`](https://github.com/users/diegonmarcos/packages/container/cloud-notes/1253590646) |
 | 🏷️ | `sha-719afba4` | Sep 12, 2026 | [`1241276098`](https://github.com/users/diegonmarcos/packages/container/cloud-notes/1241276098) |
 | 🏷️ | `sha-9b018fb6` | Sep 11, 2026 | [`1237259887`](https://github.com/users/diegonmarcos/packages/container/cloud-notes/1237259887) |
-| ⚪ | *6 untagged image layers* | | |
+| ⚪ | *9 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-office"><b>cloud-office</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 5 days ago · 1 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-office"><b>cloud-office</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 6 days ago · 1 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-office:latest
@@ -15258,7 +15613,7 @@ docker pull ghcr.io/diegonmarcos/cloud-office:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-sheets"><b>cloud-sheets</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 14 days ago · 1 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-sheets"><b>cloud-sheets</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 15 days ago · 1 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-sheets:latest
@@ -15272,7 +15627,7 @@ docker pull ghcr.io/diegonmarcos/cloud-sheets:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp"><b>cloud-superapp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 555 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp"><b>cloud-superapp</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 577 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-superapp:latest
@@ -15280,11 +15635,33 @@ docker pull ghcr.io/diegonmarcos/cloud-superapp:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🏷️ | `v0.1.1-dev` | Sep 19, 2026 | [`1269221403`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1269221403) |
+| 🏷️ | `v0.1.1-dev-x86_64` | Sep 25, 2026 | [`1294175896`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1294175896) |
+| 🏷️ | `sha-556bd040-x86_64` | Sep 25, 2026 | [`1294175866`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1294175866) |
+| 🏷️ | `latest-x86_64` | Sep 25, 2026 | [`1294175844`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1294175844) |
+| 🏷️ | `sha-556bd040` `v0.1.1-dev` | Sep 25, 2026 | [`1294175298`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1294175298) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1294175274`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1294175274) |
+| 🏷️ | `sha-dcf4f898-x86_64` | Sep 25, 2026 | [`1293913201`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1293913201) |
+| 🏷️ | `sha-dcf4f898` | Sep 25, 2026 | [`1293907913`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1293907913) |
+| 🏷️ | `sha-b6eeed3b` | Sep 25, 2026 | [`1293826346`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1293826346) |
+| 🏷️ | `sha-b6eeed3b-x86_64` | Sep 25, 2026 | [`1293824156`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1293824156) |
+| 🏷️ | `sha-7af6b3a3` | Sep 24, 2026 | [`1292265435`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1292265435) |
+| 🏷️ | `sha-7af6b3a3-x86_64` | Sep 24, 2026 | [`1292265027`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1292265027) |
+| 🏷️ | `sha-663c5c71-x86_64` | Sep 24, 2026 | [`1292244923`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1292244923) |
+| 🏷️ | `sha-663c5c71` | Sep 24, 2026 | [`1292244419`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1292244419) |
+| 🏷️ | `sha-b5ebc561` | Sep 24, 2026 | [`1292101374`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1292101374) |
+| 🏷️ | `sha-b5ebc561-x86_64` | Sep 24, 2026 | [`1292098405`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1292098405) |
+| 🏷️ | `sha-9e80dda0` | Sep 24, 2026 | [`1291873792`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1291873792) |
+| 🏷️ | `sha-9e80dda0-x86_64` | Sep 24, 2026 | [`1291873390`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1291873390) |
+| 🏷️ | `sha-142cd173-x86_64` | Sep 24, 2026 | [`1291768624`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1291768624) |
+| 🏷️ | `sha-142cd173` | Sep 24, 2026 | [`1291766002`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1291766002) |
+| 🏷️ | `sha-e45c3ca1` | Sep 24, 2026 | [`1291718150`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1291718150) |
+| 🏷️ | `sha-e45c3ca1-x86_64` | Sep 24, 2026 | [`1291714813`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1291714813) |
+| 🏷️ | `sha-aa685550-x86_64` | Sep 24, 2026 | [`1291639186`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1291639186) |
+| 🏷️ | `sha-aa685550` | Sep 24, 2026 | [`1291637477`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1291637477) |
+| 🏷️ | `sha-54fd4573-x86_64` | Sep 24, 2026 | [`1291145831`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1291145831) |
+| 🏷️ | `sha-54fd4573` | Sep 24, 2026 | [`1291140577`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1291140577) |
 | 🏷️ | `sha-02c3bd95` | Sep 19, 2026 | [`1269221387`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1269221387) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269221368`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1269221368) |
-| 🏷️ | `sha-02c3bd95-x86_64` `v0.1.1-dev-x86_64` | Sep 19, 2026 | [`1269220608`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1269220608) |
-| 🏷️ | `latest-x86_64` | Sep 19, 2026 | [`1269220603`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1269220603) |
+| 🏷️ | `sha-02c3bd95-x86_64` | Sep 19, 2026 | [`1269220608`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1269220608) |
 | 🏷️ | `sha-aa6da90d-x86_64` | Sep 19, 2026 | [`1269069679`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1269069679) |
 | 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269068451`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1269068451) |
 | 🏷️ | `sha-29ec4eba` | Sep 19, 2026 | [`1269056134`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1269056134) |
@@ -15835,12 +16212,12 @@ docker pull ghcr.io/diegonmarcos/cloud-superapp:latest
 | 🏷️ | `sha-af6767fd` | Aug 28, 2026 | [`1181926570`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1181926570) |
 | 🏷️ | `sha-fab52ec0` | Aug 28, 2026 | [`1181841859`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1181841859) |
 | 🏷️ | `sha-fab52ec0-x86_64` | Aug 28, 2026 | [`1181840224`](https://github.com/users/diegonmarcos/packages/container/cloud-superapp/1181840224) |
-| ⚪ | *913 untagged image layers* | | |
+| ⚪ | *949 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-terminal"><b>cloud-terminal</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 6 days ago · 8 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-terminal"><b>cloud-terminal</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 9 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-terminal:latest
@@ -15848,20 +16225,21 @@ docker pull ghcr.io/diegonmarcos/cloud-terminal:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
+| 🏷️ | `sha-65b60cba` | Sep 24, 2026 | [`1291311519`](https://github.com/users/diegonmarcos/packages/container/cloud-terminal/1291311519) |
+| 🟢 | `latest` | Sep 24, 2026 | [`1291311448`](https://github.com/users/diegonmarcos/packages/container/cloud-terminal/1291311448) |
 | 🏷️ | `sha-6943c86b` | Sep 18, 2026 | [`1263876019`](https://github.com/users/diegonmarcos/packages/container/cloud-terminal/1263876019) |
-| 🟢 | `latest` | Sep 18, 2026 | [`1263876004`](https://github.com/users/diegonmarcos/packages/container/cloud-terminal/1263876004) |
 | 🏷️ | `sha-bd6993e9` | Sep 16, 2026 | [`1254723333`](https://github.com/users/diegonmarcos/packages/container/cloud-terminal/1254723333) |
 | 🏷️ | `sha-f6258016` | Sep 15, 2026 | [`1253671943`](https://github.com/users/diegonmarcos/packages/container/cloud-terminal/1253671943) |
 | 🏷️ | `sha-a2d069a7` | Sep 10, 2026 | [`1234705909`](https://github.com/users/diegonmarcos/packages/container/cloud-terminal/1234705909) |
 | 🏷️ | `sha-a430dd0c` | Sep 10, 2026 | [`1232716840`](https://github.com/users/diegonmarcos/packages/container/cloud-terminal/1232716840) |
 | 🏷️ | `sha-dca13ded` | Sep 5, 2026 | [`1213350205`](https://github.com/users/diegonmarcos/packages/container/cloud-terminal/1213350205) |
 | 🏷️ | `sha-b2171d69` | Sep 2, 2026 | [`1199777364`](https://github.com/users/diegonmarcos/packages/container/cloud-terminal/1199777364) |
-| ⚪ | *5 untagged image layers* | | |
+| ⚪ | *6 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-unix-termux-boot"><b>cloud-unix-termux-boot</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 6 days ago · 15 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-unix-termux-boot"><b>cloud-unix-termux-boot</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 7 days ago · 15 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-unix-termux-boot:latest
@@ -15889,7 +16267,7 @@ docker pull ghcr.io/diegonmarcos/cloud-unix-termux-boot:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-vault"><b>cloud-vault</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 202 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-vault"><b>cloud-vault</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 206 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-vault:latest
@@ -15897,10 +16275,14 @@ docker pull ghcr.io/diegonmarcos/cloud-vault:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🏷️ | `sha-aa6da90d-x86_64` `v0.1.0-dev-x86_64` | Sep 19, 2026 | [`1269076456`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1269076456) |
-| 🏷️ | `latest-x86_64` | Sep 19, 2026 | [`1269076452`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1269076452) |
-| 🏷️ | `sha-aa6da90d` `v0.1.0-dev` | Sep 19, 2026 | [`1269076445`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1269076445) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269076442`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1269076442) |
+| 🏷️ | `v0.1.0-dev-x86_64` | Sep 24, 2026 | [`1292106260`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1292106260) |
+| 🏷️ | `sha-c866529e-x86_64` `latest-x86_64` | Sep 24, 2026 | [`1292106190`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1292106190) |
+| 🏷️ | `sha-c866529e` `v0.1.0-dev` | Sep 24, 2026 | [`1292106083`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1292106083) |
+| 🟢 | `latest` | Sep 24, 2026 | [`1292106045`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1292106045) |
+| 🏷️ | `sha-5fda7be1-x86_64` | Sep 24, 2026 | [`1292062759`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1292062759) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292062563`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1292062563) |
+| 🏷️ | `sha-aa6da90d-x86_64` | Sep 19, 2026 | [`1269076456`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1269076456) |
+| 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269076445`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1269076445) |
 | 🏷️ | `sha-5bb68492-x86_64` | Sep 18, 2026 | [`1265936396`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1265936396) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265936242`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1265936242) |
 | 🏷️ | `sha-6943c86b-x86_64` | Sep 18, 2026 | [`1263899891`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1263899891) |
@@ -16099,12 +16481,12 @@ docker pull ghcr.io/diegonmarcos/cloud-vault:latest
 | 🏷️ | `sha-af6767fd` | Aug 28, 2026 | [`1181941475`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1181941475) |
 | 🏷️ | `sha-fab52ec0-x86_64` | Aug 28, 2026 | [`1181854013`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1181854013) |
 | 🏷️ | `sha-fab52ec0` | Aug 28, 2026 | [`1181853935`](https://github.com/users/diegonmarcos/packages/container/cloud-vault/1181853935) |
-| ⚪ | *264 untagged image layers* | | |
+| ⚪ | *270 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-wallet"><b>cloud-wallet</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 4 days ago · 229 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-wallet"><b>cloud-wallet</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 237 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-wallet:latest
@@ -16112,11 +16494,19 @@ docker pull ghcr.io/diegonmarcos/cloud-wallet:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🏷️ | `sha-aa6da90d` `v0.1.0-dev` | Sep 19, 2026 | [`1269064250`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1269064250) |
-| 🟢 | `latest` | Sep 19, 2026 | [`1269064242`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1269064242) |
-| 🏷️ | `v0.1.0-dev-x86_64` | Sep 19, 2026 | [`1269063667`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1269063667) |
+| 🏷️ | `v0.1.0-dev-x86_64` | Sep 25, 2026 | [`1294064768`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1294064768) |
+| 🏷️ | `sha-bcd53ee6-x86_64` | Sep 25, 2026 | [`1294064726`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1294064726) |
+| 🏷️ | `latest-x86_64` | Sep 25, 2026 | [`1294064687`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1294064687) |
+| 🏷️ | `sha-bcd53ee6` `v0.1.0-dev` | Sep 25, 2026 | [`1294064132`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1294064132) |
+| 🟢 | `latest` | Sep 25, 2026 | [`1294064107`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1294064107) |
+| 🏷️ | `sha-c866529e` | Sep 24, 2026 | [`1292086202`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1292086202) |
+| 🏷️ | `sha-c866529e-x86_64` | Sep 24, 2026 | [`1292085723`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1292085723) |
+| 🏷️ | `sha-5fda7be1-x86_64` | Sep 24, 2026 | [`1292017179`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1292017179) |
+| 🏷️ | `sha-5fda7be1` | Sep 24, 2026 | [`1292016579`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1292016579) |
+| 🏷️ | `sha-ae5c7a52` | Sep 24, 2026 | [`1291923085`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1291923085) |
+| 🏷️ | `sha-ae5c7a52-x86_64` | Sep 24, 2026 | [`1291918590`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1291918590) |
+| 🏷️ | `sha-aa6da90d` | Sep 19, 2026 | [`1269064250`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1269064250) |
 | 🏷️ | `sha-aa6da90d-x86_64` | Sep 19, 2026 | [`1269063653`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1269063653) |
-| 🏷️ | `latest-x86_64` | Sep 19, 2026 | [`1269063634`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1269063634) |
 | 🏷️ | `sha-5bb68492-x86_64` | Sep 18, 2026 | [`1265900185`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1265900185) |
 | 🏷️ | `sha-5bb68492` | Sep 18, 2026 | [`1265899834`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1265899834) |
 | 🏷️ | `sha-6943c86b-x86_64` | Sep 18, 2026 | [`1263877542`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1263877542) |
@@ -16341,12 +16731,12 @@ docker pull ghcr.io/diegonmarcos/cloud-wallet:latest
 | 🏷️ | `sha-af6767fd` | Aug 28, 2026 | [`1181916048`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1181916048) |
 | 🏷️ | `sha-fab52ec0-x86_64` | Aug 28, 2026 | [`1181830751`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1181830751) |
 | 🏷️ | `sha-fab52ec0` | Aug 28, 2026 | [`1181830292`](https://github.com/users/diegonmarcos/packages/container/cloud-wallet/1181830292) |
-| ⚪ | *358 untagged image layers* | | |
+| ⚪ | *371 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-watchdog"><b>cloud-watchdog</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 18 days ago · 41 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-watchdog"><b>cloud-watchdog</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 19 days ago · 41 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-watchdog:latest
@@ -16400,7 +16790,26 @@ docker pull ghcr.io/diegonmarcos/cloud-watchdog:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-writer"><b>cloud-writer</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 6 days ago · 30 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-webserver"><b>cloud-webserver</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published today · 6 tags</sub></summary>
+
+```bash
+docker pull ghcr.io/diegonmarcos/cloud-webserver:latest
+```
+
+| | Tag | Published | Digest |
+|:---|:---|:---|:---|
+| 🏷️ | `sha-ae6afce0` `v0.1.0-dev` | Sep 24, 2026 | [`1292060913`](https://github.com/users/diegonmarcos/packages/container/cloud-webserver/1292060913) |
+| 🟢 | `latest` | Sep 24, 2026 | [`1292060893`](https://github.com/users/diegonmarcos/packages/container/cloud-webserver/1292060893) |
+| 🏷️ | `sha-ae6afce0-x86_64` `v0.1.0-dev-x86_64` | Sep 24, 2026 | [`1292060878`](https://github.com/users/diegonmarcos/packages/container/cloud-webserver/1292060878) |
+| 🏷️ | `latest-x86_64` | Sep 24, 2026 | [`1292060855`](https://github.com/users/diegonmarcos/packages/container/cloud-webserver/1292060855) |
+| 🏷️ | `sha-2f601003-x86_64` | Sep 24, 2026 | [`1291712759`](https://github.com/users/diegonmarcos/packages/container/cloud-webserver/1291712759) |
+| 🏷️ | `sha-2f601003` | Sep 24, 2026 | [`1291712231`](https://github.com/users/diegonmarcos/packages/container/cloud-webserver/1291712231) |
+| ⚪ | *4 untagged image layers* | | |
+
+</details>
+
+<details>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/cloud-writer"><b>cloud-writer</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 7 days ago · 30 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/cloud-writer:latest
@@ -16447,7 +16856,7 @@ docker pull ghcr.io/diegonmarcos/cloud-writer:latest
 ### 📁 <a href="https://github.com/diegonmarcos/cloud-u-linux">cloud-u-linux</a> &nbsp;<sup>3 packages · 835 KB</sup>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-watchdog"><b>c3-watchdog</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 6 days ago · 16 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-watchdog"><b>c3-watchdog</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 7 days ago · 16 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/c3-watchdog:latest
@@ -16476,7 +16885,7 @@ docker pull ghcr.io/diegonmarcos/c3-watchdog:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-watchdog-server"><b>c3-watchdog-server</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 18 days ago · 2 tags · linux/amd64, linux/arm64 · 417 KB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/c3-watchdog-server"><b>c3-watchdog-server</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 19 days ago · 2 tags · linux/amd64, linux/arm64 · 417 KB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/c3-watchdog-server:latest
@@ -16491,7 +16900,7 @@ docker pull ghcr.io/diegonmarcos/c3-watchdog-server:latest
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/my-watchdog"><b>my-watchdog</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 20 days ago · 38 tags · linux/amd64, linux/arm64 · 418 KB</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/my-watchdog"><b>my-watchdog</b></a> &nbsp;<img src="https://img.shields.io/badge/Public-gray?style=flat-square" alt="Public" height="18"> &nbsp;<sub>Published 21 days ago · 38 tags · linux/amd64, linux/arm64 · 418 KB</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/my-watchdog:latest
@@ -16521,8 +16930,8 @@ docker pull ghcr.io/diegonmarcos/cgc-db-cloud-data:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1287481092`](https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-data/1287481092) |
-| ⚪ | *82 untagged image layers* | | |
+| 🟢 | `latest` | Sep 25, 2026 | [`1292368599`](https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-data/1292368599) |
+| ⚪ | *83 untagged image layers* | | |
 
 </details>
 
@@ -16535,13 +16944,13 @@ docker pull ghcr.io/diegonmarcos/cgc-db-cloud-data-my-ai-memory:latest
 
 | | Tag | Published | Digest |
 |:---|:---|:---|:---|
-| 🟢 | `latest` | Sep 24, 2026 | [`1288751658`](https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-data-my-ai-memory/1288751658) |
-| ⚪ | *63 untagged image layers* | | |
+| 🟢 | `latest` | Sep 25, 2026 | [`1293281548`](https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-data-my-ai-memory/1293281548) |
+| ⚪ | *65 untagged image layers* | | |
 
 </details>
 
 <details>
-<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/vault-db-backup"><b>vault-db-backup</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published 2 days ago · 3 tags</sub></summary>
+<summary>📦 <a href="https://github.com/users/diegonmarcos/packages/container/package/vault-db-backup"><b>vault-db-backup</b></a> &nbsp;<img src="https://img.shields.io/badge/Private-gray?style=flat-square" alt="Private" height="18"> &nbsp;<sub>Published 3 days ago · 3 tags</sub></summary>
 
 ```bash
 docker pull ghcr.io/diegonmarcos/vault-db-backup:latest
@@ -16557,4 +16966,4 @@ docker pull ghcr.io/diegonmarcos/vault-db-backup:latest
 
 ---
 
-<sub>Auto-generated from GHCR API · <code>ghrc/src/fetch.ts</code> + <code>ghrc/src/generate-md.ts</code> · Sep 24, 2026</sub>
+<sub>Auto-generated from GHCR API · <code>ghrc/src/fetch.ts</code> + <code>ghrc/src/generate-md.ts</code> · Sep 25, 2026</sub>
