@@ -1,0 +1,749 @@
+{
+  "total_all_repos": {
+    "header": {
+      "cloc_url": "github.com/AlDanial/cloc",
+      "cloc_version": "2.00",
+      "elapsed_seconds": 43.0978519916534,
+      "n_files": 3395,
+      "n_lines": 1004905,
+      "files_per_second": 78.7742275568048,
+      "lines_per_second": 23316.8233116262
+    },
+    "JSON": {
+      "nFiles": 334,
+      "blank": 453,
+      "comment": 0,
+      "code": 165961
+    },
+    "Markdown": {
+      "nFiles": 468,
+      "blank": 31297,
+      "comment": 59,
+      "code": 142864
+    },
+    "JavaScript": {
+      "nFiles": 350,
+      "blank": 11164,
+      "comment": 17330,
+      "code": 104814
+    },
+    "HTML": {
+      "nFiles": 135,
+      "blank": 9016,
+      "comment": 2123,
+      "code": 76288
+    },
+    "TypeScript": {
+      "nFiles": 247,
+      "blank": 4530,
+      "comment": 4180,
+      "code": 37885
+    },
+    "PHP": {
+      "nFiles": 313,
+      "blank": 10317,
+      "comment": 21011,
+      "code": 36938
+    },
+    "SCSS": {
+      "nFiles": 312,
+      "blank": 6530,
+      "comment": 3398,
+      "code": 36027
+    },
+    "Bourne Shell": {
+      "nFiles": 193,
+      "blank": 6235,
+      "comment": 4939,
+      "code": 30414
+    },
+    "Text": {
+      "nFiles": 50,
+      "blank": 6859,
+      "comment": 0,
+      "code": 29480
+    },
+    "Assembly": {
+      "nFiles": 4,
+      "blank": 2920,
+      "comment": 11081,
+      "code": 23043
+    },
+    "PO File": {
+      "nFiles": 224,
+      "blank": 5792,
+      "comment": 6951,
+      "code": 22848
+    },
+    "Vuejs Component": {
+      "nFiles": 72,
+      "blank": 2086,
+      "comment": 965,
+      "code": 16014
+    },
+    "Python": {
+      "nFiles": 79,
+      "blank": 4036,
+      "comment": 5051,
+      "code": 14805
+    },
+    "Nix": {
+      "nFiles": 110,
+      "blank": 2123,
+      "comment": 2049,
+      "code": 12966
+    },
+    "Svelte": {
+      "nFiles": 60,
+      "blank": 1756,
+      "comment": 169,
+      "code": 12195
+    },
+    "C++": {
+      "nFiles": 12,
+      "blank": 1580,
+      "comment": 573,
+      "code": 8240
+    },
+    "CSS": {
+      "nFiles": 49,
+      "blank": 1380,
+      "comment": 237,
+      "code": 7490
+    },
+    "Rust": {
+      "nFiles": 45,
+      "blank": 1116,
+      "comment": 589,
+      "code": 6616
+    },
+    "C": {
+      "nFiles": 1,
+      "blank": 1020,
+      "comment": 736,
+      "code": 4511
+    },
+    "YAML": {
+      "nFiles": 104,
+      "blank": 615,
+      "comment": 700,
+      "code": 4389
+    },
+    "XML": {
+      "nFiles": 4,
+      "blank": 0,
+      "comment": 10,
+      "code": 2296
+    },
+    "GLSL": {
+      "nFiles": 68,
+      "blank": 57,
+      "comment": 139,
+      "code": 1707
+    },
+    "C/C++ Header": {
+      "nFiles": 5,
+      "blank": 291,
+      "comment": 623,
+      "code": 1540
+    },
+    "SQL": {
+      "nFiles": 32,
+      "blank": 218,
+      "comment": 294,
+      "code": 1280
+    },
+    "Fish Shell": {
+      "nFiles": 30,
+      "blank": 341,
+      "comment": 457,
+      "code": 1165
+    },
+    "zsh": {
+      "nFiles": 7,
+      "blank": 292,
+      "comment": 1309,
+      "code": 1011
+    },
+    "Dockerfile": {
+      "nFiles": 23,
+      "blank": 246,
+      "comment": 252,
+      "code": 753
+    },
+    "Bourne Again Shell": {
+      "nFiles": 6,
+      "blank": 101,
+      "comment": 205,
+      "code": 442
+    },
+    "TOML": {
+      "nFiles": 9,
+      "blank": 104,
+      "comment": 88,
+      "code": 393
+    },
+    "JSX": {
+      "nFiles": 2,
+      "blank": 58,
+      "comment": 28,
+      "code": 355
+    },
+    "reStructuredText": {
+      "nFiles": 7,
+      "blank": 182,
+      "comment": 104,
+      "code": 261
+    },
+    "CSV": {
+      "nFiles": 22,
+      "blank": 0,
+      "comment": 0,
+      "code": 250
+    },
+    "Containerfile": {
+      "nFiles": 6,
+      "blank": 80,
+      "comment": 206,
+      "code": 236
+    },
+    "Jinja Template": {
+      "nFiles": 3,
+      "blank": 88,
+      "comment": 3,
+      "code": 191
+    },
+    "AnsProlog": {
+      "nFiles": 2,
+      "blank": 58,
+      "comment": 89,
+      "code": 159
+    },
+    "Windows Resource File": {
+      "nFiles": 1,
+      "blank": 4,
+      "comment": 10,
+      "code": 48
+    },
+    "INI": {
+      "nFiles": 2,
+      "blank": 7,
+      "comment": 0,
+      "code": 43
+    },
+    "Snakemake": {
+      "nFiles": 4,
+      "blank": 6,
+      "comment": 63,
+      "code": 8
+    },
+    "SUM": {
+      "blank": 112958,
+      "comment": 86021,
+      "code": 805926,
+      "nFiles": 3395
+    }
+  },
+  "per_repo": {
+    "front": {
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc",
+        "cloc_version": "2.00",
+        "elapsed_seconds": 12.3881161212921,
+        "n_files": 1688,
+        "n_lines": 546669,
+        "files_per_second": 136.259620387215,
+        "lines_per_second": 44128.5014321436
+      },
+      "JSON": {
+        "nFiles": 162,
+        "blank": 131,
+        "comment": 0,
+        "code": 117548
+      },
+      "JavaScript": {
+        "nFiles": 332,
+        "blank": 8836,
+        "comment": 16046,
+        "code": 91590
+      },
+      "HTML": {
+        "nFiles": 112,
+        "blank": 7308,
+        "comment": 2000,
+        "code": 66128
+      },
+      "TypeScript": {
+        "nFiles": 232,
+        "blank": 4383,
+        "comment": 4158,
+        "code": 36622
+      },
+      "SCSS": {
+        "nFiles": 312,
+        "blank": 6530,
+        "comment": 3398,
+        "code": 36027
+      },
+      "Markdown": {
+        "nFiles": 192,
+        "blank": 6130,
+        "comment": 14,
+        "code": 24177
+      },
+      "Assembly": {
+        "nFiles": 4,
+        "blank": 2920,
+        "comment": 11081,
+        "code": 23043
+      },
+      "Vuejs Component": {
+        "nFiles": 72,
+        "blank": 2086,
+        "comment": 965,
+        "code": 16014
+      },
+      "Svelte": {
+        "nFiles": 60,
+        "blank": 1756,
+        "comment": 169,
+        "code": 12195
+      },
+      "Bourne Shell": {
+        "nFiles": 47,
+        "blank": 1727,
+        "comment": 1351,
+        "code": 9346
+      },
+      "C++": {
+        "nFiles": 12,
+        "blank": 1580,
+        "comment": 573,
+        "code": 8240
+      },
+      "C": {
+        "nFiles": 1,
+        "blank": 1020,
+        "comment": 736,
+        "code": 4511
+      },
+      "CSS": {
+        "nFiles": 36,
+        "blank": 345,
+        "comment": 103,
+        "code": 2843
+      },
+      "XML": {
+        "nFiles": 1,
+        "blank": 0,
+        "comment": 0,
+        "code": 2177
+      },
+      "Python": {
+        "nFiles": 17,
+        "blank": 585,
+        "comment": 1100,
+        "code": 2054
+      },
+      "GLSL": {
+        "nFiles": 68,
+        "blank": 57,
+        "comment": 139,
+        "code": 1707
+      },
+      "C/C++ Header": {
+        "nFiles": 5,
+        "blank": 291,
+        "comment": 623,
+        "code": 1540
+      },
+      "YAML": {
+        "nFiles": 4,
+        "blank": 124,
+        "comment": 65,
+        "code": 871
+      },
+      "Text": {
+        "nFiles": 11,
+        "blank": 143,
+        "comment": 0,
+        "code": 655
+      },
+      "JSX": {
+        "nFiles": 2,
+        "blank": 58,
+        "comment": 28,
+        "code": 355
+      },
+      "AnsProlog": {
+        "nFiles": 2,
+        "blank": 58,
+        "comment": 89,
+        "code": 159
+      },
+      "CSV": {
+        "nFiles": 2,
+        "blank": 0,
+        "comment": 0,
+        "code": 87
+      },
+      "Windows Resource File": {
+        "nFiles": 1,
+        "blank": 4,
+        "comment": 10,
+        "code": 48
+      },
+      "INI": {
+        "nFiles": 1,
+        "blank": 2,
+        "comment": 0,
+        "code": 10
+      },
+      "SUM": {
+        "blank": 46074,
+        "comment": 42648,
+        "code": 457947,
+        "nFiles": 1688
+      }
+    },
+    "cloud": {
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc",
+        "cloc_version": "2.00",
+        "elapsed_seconds": 11.0228779315948,
+        "n_files": 1433,
+        "n_lines": 320452,
+        "files_per_second": 130.002346836537,
+        "lines_per_second": 29071.5366702455
+      },
+      "Markdown": {
+        "nFiles": 204,
+        "blank": 11198,
+        "comment": 43,
+        "code": 47536
+      },
+      "PHP": {
+        "nFiles": 313,
+        "blank": 10317,
+        "comment": 21011,
+        "code": 36938
+      },
+      "JSON": {
+        "nFiles": 144,
+        "blank": 297,
+        "comment": 0,
+        "code": 25715
+      },
+      "Text": {
+        "nFiles": 10,
+        "blank": 6715,
+        "comment": 0,
+        "code": 25698
+      },
+      "PO File": {
+        "nFiles": 224,
+        "blank": 5792,
+        "comment": 6951,
+        "code": 22848
+      },
+      "JavaScript": {
+        "nFiles": 26,
+        "blank": 2453,
+        "comment": 1421,
+        "code": 13540
+      },
+      "HTML": {
+        "nFiles": 24,
+        "blank": 2073,
+        "comment": 208,
+        "code": 12554
+      },
+      "Python": {
+        "nFiles": 60,
+        "blank": 3343,
+        "comment": 3886,
+        "code": 12284
+      },
+      "Bourne Shell": {
+        "nFiles": 106,
+        "blank": 2435,
+        "comment": 1835,
+        "code": 11357
+      },
+      "Rust": {
+        "nFiles": 45,
+        "blank": 1116,
+        "comment": 589,
+        "code": 6616
+      },
+      "Nix": {
+        "nFiles": 56,
+        "blank": 805,
+        "comment": 382,
+        "code": 5597
+      },
+      "CSS": {
+        "nFiles": 13,
+        "blank": 1035,
+        "comment": 134,
+        "code": 4647
+      },
+      "YAML": {
+        "nFiles": 92,
+        "blank": 438,
+        "comment": 534,
+        "code": 3348
+      },
+      "SQL": {
+        "nFiles": 32,
+        "blank": 218,
+        "comment": 294,
+        "code": 1280
+      },
+      "TypeScript": {
+        "nFiles": 15,
+        "blank": 147,
+        "comment": 22,
+        "code": 1263
+      },
+      "Dockerfile": {
+        "nFiles": 23,
+        "blank": 246,
+        "comment": 252,
+        "code": 753
+      },
+      "Fish Shell": {
+        "nFiles": 2,
+        "blank": 126,
+        "comment": 155,
+        "code": 346
+      },
+      "TOML": {
+        "nFiles": 7,
+        "blank": 85,
+        "comment": 72,
+        "code": 295
+      },
+      "reStructuredText": {
+        "nFiles": 7,
+        "blank": 182,
+        "comment": 104,
+        "code": 261
+      },
+      "Jinja Template": {
+        "nFiles": 3,
+        "blank": 88,
+        "comment": 3,
+        "code": 191
+      },
+      "CSV": {
+        "nFiles": 20,
+        "blank": 0,
+        "comment": 0,
+        "code": 163
+      },
+      "Bourne Again Shell": {
+        "nFiles": 1,
+        "blank": 18,
+        "comment": 36,
+        "code": 66
+      },
+      "XML": {
+        "nFiles": 2,
+        "blank": 0,
+        "comment": 0,
+        "code": 20
+      },
+      "Snakemake": {
+        "nFiles": 4,
+        "blank": 6,
+        "comment": 63,
+        "code": 8
+      },
+      "SUM": {
+        "blank": 49133,
+        "comment": 37995,
+        "code": 233324,
+        "nFiles": 1433
+      }
+    },
+    "unix": {
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc",
+        "cloc_version": "2.00",
+        "elapsed_seconds": 1.75783705711365,
+        "n_files": 227,
+        "n_lines": 122565,
+        "files_per_second": 129.135973713475,
+        "lines_per_second": 69724.8925911544
+      },
+      "Markdown": {
+        "nFiles": 57,
+        "blank": 13187,
+        "comment": 2,
+        "code": 68537
+      },
+      "JSON": {
+        "nFiles": 15,
+        "blank": 10,
+        "comment": 0,
+        "code": 11337
+      },
+      "Bourne Shell": {
+        "nFiles": 38,
+        "blank": 2000,
+        "comment": 1706,
+        "code": 9246
+      },
+      "Nix": {
+        "nFiles": 54,
+        "blank": 1318,
+        "comment": 1667,
+        "code": 7369
+      },
+      "zsh": {
+        "nFiles": 7,
+        "blank": 292,
+        "comment": 1309,
+        "code": 1011
+      },
+      "Fish Shell": {
+        "nFiles": 28,
+        "blank": 215,
+        "comment": 302,
+        "code": 819
+      },
+      "Text": {
+        "nFiles": 7,
+        "blank": 0,
+        "comment": 0,
+        "code": 523
+      },
+      "Bourne Again Shell": {
+        "nFiles": 5,
+        "blank": 83,
+        "comment": 169,
+        "code": 376
+      },
+      "Containerfile": {
+        "nFiles": 6,
+        "blank": 80,
+        "comment": 206,
+        "code": 236
+      },
+      "YAML": {
+        "nFiles": 6,
+        "blank": 51,
+        "comment": 82,
+        "code": 152
+      },
+      "XML": {
+        "nFiles": 1,
+        "blank": 0,
+        "comment": 10,
+        "code": 99
+      },
+      "TOML": {
+        "nFiles": 2,
+        "blank": 19,
+        "comment": 16,
+        "code": 98
+      },
+      "INI": {
+        "nFiles": 1,
+        "blank": 5,
+        "comment": 0,
+        "code": 33
+      },
+      "SUM": {
+        "blank": 17260,
+        "comment": 5469,
+        "code": 99836,
+        "nFiles": 227
+      }
+    },
+    "vault": {
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc",
+        "cloc_version": "2.00",
+        "elapsed_seconds": 0.498111009597778,
+        "n_files": 58,
+        "n_lines": 18837,
+        "files_per_second": 116.439907736299,
+        "lines_per_second": 37816.8714142873
+      },
+      "JSON": {
+        "nFiles": 13,
+        "blank": 15,
+        "comment": 0,
+        "code": 11361
+      },
+      "Markdown": {
+        "nFiles": 17,
+        "blank": 840,
+        "comment": 0,
+        "code": 2752
+      },
+      "Text": {
+        "nFiles": 22,
+        "blank": 1,
+        "comment": 0,
+        "code": 2604
+      },
+      "Python": {
+        "nFiles": 2,
+        "blank": 108,
+        "comment": 65,
+        "code": 467
+      },
+      "Bourne Shell": {
+        "nFiles": 2,
+        "blank": 73,
+        "comment": 47,
+        "code": 465
+      },
+      "YAML": {
+        "nFiles": 2,
+        "blank": 2,
+        "comment": 19,
+        "code": 18
+      },
+      "SUM": {
+        "blank": 1039,
+        "comment": 131,
+        "code": 17667,
+        "nFiles": 58
+      }
+    }
+  },
+  "databases": {
+    "front": {
+      "sqlite": 0,
+      "sql": 0,
+      "csv": 7,
+      "json_data": 3138,
+      "yaml_data": 181
+    },
+    "cloud": {
+      "sqlite": 0,
+      "sql": 39,
+      "csv": 20,
+      "json_data": 466,
+      "yaml_data": 185
+    },
+    "unix": {
+      "sqlite": 0,
+      "sql": 0,
+      "csv": 0,
+      "json_data": 16,
+      "yaml_data": 6
+    },
+    "vault": {
+      "sqlite": 4,
+      "sql": 0,
+      "csv": 0,
+      "json_data": 29,
+      "yaml_data": 4
+    }
+  }
+}
