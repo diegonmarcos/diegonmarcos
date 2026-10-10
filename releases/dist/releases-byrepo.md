@@ -3,13 +3,13 @@
   <img src="https://img.shields.io/badge/%F0%9F%93%81%20By%20Repo-2f81f7?style=for-the-badge" alt="By Repo" height="28">
 </p>
 
-<p align="center"><sub><b>388</b> releases · <b>25,415</b> downloads</sub></p>
+<p align="center"><sub><b>398</b> releases · <b>15,430</b> downloads</sub></p>
 
 # 🚀 Releases — By Repository
 
 ---
 
-### 📁 [cloud-infra-desktop](https://github.com/diegonmarcos/cloud-infra-desktop/releases) <sup>13 · 972 downloads</sup>
+### 📁 [cloud-infra-desktop](https://github.com/diegonmarcos/cloud-infra-desktop/releases) <sup>13 · 981 downloads</sup>
 
 | Release | Tag | State | Assets | Downloads | Published |
 |:---|:---|:---|:---|:---|:---|
@@ -19,215 +19,225 @@
 | [httpd-web-server-json-md-eruda (rolling)](https://github.com/diegonmarcos/cloud-infra-desktop/releases/tag/httpd-web-server-json-md-eruda-latest) | `httpd-web-server-json-md-eruda-latest` | latest | 2 | 3 | 2 months ago |
 | [my-browser-rust-chromium (rolling)](https://github.com/diegonmarcos/cloud-infra-desktop/releases/tag/my-browser-rust-chromium-latest) | `my-browser-rust-chromium-latest` | latest | 1 | 0 | 2 months ago |
 | [my-ai (rolling)](https://github.com/diegonmarcos/cloud-infra-desktop/releases/tag/my-ai-latest) | `my-ai-latest` | latest | 9 | 24 | 2 months ago |
-| [HM incremental nix cache](https://github.com/diegonmarcos/cloud-infra-desktop/releases/tag/hm-nixcache) | `hm-nixcache` | latest | 0 | 0 | 2 months ago |
+| [HM incremental nix cache](https://github.com/diegonmarcos/cloud-infra-desktop/releases/tag/hm-nixcache) | `hm-nixcache` | latest | 0 | 0 | 3 months ago |
 | [my-browser (qute)](https://github.com/diegonmarcos/cloud-infra-desktop/releases/tag/my-browser-latest) | `my-browser-latest` | latest | 2 | 1 | 3 months ago |
 | [my-konsole (rolling)](https://github.com/diegonmarcos/cloud-infra-desktop/releases/tag/my-konsole-latest) | `my-konsole-latest` | latest | 5 | 9 | 3 months ago |
 | [qute-standalone-latest](https://github.com/diegonmarcos/cloud-infra-desktop/releases/tag/qute-standalone-latest) | `qute-standalone-latest` | latest | 1 | 0 | 3 months ago |
 | [Cloud Terminal (rolling)](https://github.com/diegonmarcos/cloud-infra-desktop/releases/tag/cloud-terminal-latest) | `cloud-terminal-latest` | latest | 2 | 0 | 3 months ago |
 | [latest](https://github.com/diegonmarcos/cloud-infra-desktop/releases/tag/latest) | `latest` | latest | 2 | 0 | 4 months ago |
-| [octocode 0.12.2 with HuggingFace](https://github.com/diegonmarcos/cloud-infra-desktop/releases/tag/octocode-0.12.2-hf) | `octocode-0.12.2-hf` | latest | 1 | 918 | 6 months ago |
+| [octocode 0.12.2 with HuggingFace](https://github.com/diegonmarcos/cloud-infra-desktop/releases/tag/octocode-0.12.2-hf) | `octocode-0.12.2-hf` | latest | 1 | 927 | 6 months ago |
 
 ---
 
-### 📁 [cloud-u-android](https://github.com/diegonmarcos/cloud-u-android/releases) <sup>361 · 23,465 downloads</sup>
+### 📁 [cloud-u-android](https://github.com/diegonmarcos/cloud-u-android/releases) <sup>371 · 13,438 downloads</sup>
 
 | Release | Tag | State | Assets | Downloads | Published |
 |:---|:---|:---|:---|:---|:---|
-| [Cloud-Lib-Calc native engine lib-calc-native-20261008.120826](https://github.com/diegonmarcos/cloud-u-android/releases/tag/lib-calc-native-20261008.120826) | `lib-calc-native-20261008.120826` | latest | 2 | 0 | yesterday |
-| [Cloud Matrix · 20261008.233316](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261008.233316) | `cloud-comms-matrix-20261008.233316` | latest | 1 | 1 | today |
-| [Cloud Matrix · 20261008.135859](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261008.135859) | `cloud-comms-matrix-20261008.135859` | latest | 1 | 1 | today |
-| [Cloud Matrix · 20261008.063703](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261008.063703) | `cloud-comms-matrix-20261008.063703` | latest | 1 | 1 | yesterday |
-| [Cloud Mail · 20261008.213718](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.213718) | `cloud-comms-mail-20261008.213718` | latest | 1 | 1 | today |
-| [Cloud Mail · 20261008.211335](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.211335) | `cloud-comms-mail-20261008.211335` | latest | 1 | 1 | today |
-| [Cloud Mail · 20261008.205612](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.205612) | `cloud-comms-mail-20261008.205612` | latest | 1 | 1 | today |
-| [Cloud Mail · 20261008.164909](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.164909) | `cloud-comms-mail-20261008.164909` | latest | 1 | 1 | today |
-| [Cloud Mail · 20261008.133654](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.133654) | `cloud-comms-mail-20261008.133654` | latest | 1 | 1 | today |
+| [Cloud Matrix · 20261009.225257](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261009.225257) | `cloud-comms-matrix-20261009.225257` | latest | 1 | 4 | today |
+| [Cloud Matrix · 20261009.134735](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261009.134735) | `cloud-comms-matrix-20261009.134735` | latest | 1 | 2 | today |
+| [Cloud Mail · 20261009.233905](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261009.233905) | `cloud-comms-mail-20261009.233905` | latest | 1 | 0 | today |
+| [Cloud Mail · 20261009.215147](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261009.215147) | `cloud-comms-mail-20261009.215147` | latest | 1 | 0 | today |
+| [Cloud Mail · 20261009.142427](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261009.142427) | `cloud-comms-mail-20261009.142427` | latest | 1 | 0 | today |
+| [Cloud Mail · 20261009.140308](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261009.140308) | `cloud-comms-mail-20261009.140308` | latest | 1 | 0 | today |
+| [Cloud Dialer · 20261009.225314](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261009.225314) | `cloud-comms-dialer-20261009.225314` | latest | 1 | 0 | today |
+| [Cloud Dialer · 20261009.134335](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261009.134335) | `cloud-comms-dialer-20261009.134335` | latest | 1 | 0 | today |
+| [Cloud Chat · 20261009.225302](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261009.225302) | `cloud-comms-chat-20261009.225302` | latest | 1 | 0 | today |
+| [Cloud Chat · 20261009.134356](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261009.134356) | `cloud-comms-chat-20261009.134356` | latest | 1 | 0 | today |
+| [Cloud-Lib-Calc native engine lib-calc-native-20261008.120826](https://github.com/diegonmarcos/cloud-u-android/releases/tag/lib-calc-native-20261008.120826) | `lib-calc-native-20261008.120826` | latest | 2 | 0 | 2 days ago |
+| [Cloud Matrix · 20261008.233316](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261008.233316) | `cloud-comms-matrix-20261008.233316` | latest | 1 | 1 | yesterday |
+| [Cloud Matrix · 20261008.135859](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261008.135859) | `cloud-comms-matrix-20261008.135859` | latest | 1 | 1 | yesterday |
+| [Cloud Matrix · 20261008.063703](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261008.063703) | `cloud-comms-matrix-20261008.063703` | latest | 1 | 1 | 2 days ago |
+| [Cloud Mail · 20261008.213718](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.213718) | `cloud-comms-mail-20261008.213718` | latest | 1 | 1 | yesterday |
+| [Cloud Mail · 20261008.211335](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.211335) | `cloud-comms-mail-20261008.211335` | latest | 1 | 1 | yesterday |
+| [Cloud Mail · 20261008.205612](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.205612) | `cloud-comms-mail-20261008.205612` | latest | 1 | 1 | yesterday |
+| [Cloud Mail · 20261008.164909](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.164909) | `cloud-comms-mail-20261008.164909` | latest | 1 | 1 | yesterday |
+| [Cloud Mail · 20261008.133654](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.133654) | `cloud-comms-mail-20261008.133654` | latest | 1 | 1 | yesterday |
 | [Cloud Mail · 20261008.130905](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.130905) | `cloud-comms-mail-20261008.130905` | latest | 1 | 2 | yesterday |
-| [Cloud Mail · 20261008.102408](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.102408) | `cloud-comms-mail-20261008.102408` | latest | 1 | 1 | yesterday |
-| [Cloud Mail · 20261008.063711](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.063711) | `cloud-comms-mail-20261008.063711` | latest | 1 | 1 | yesterday |
-| [Cloud Dialer · 20261008.233317](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261008.233317) | `cloud-comms-dialer-20261008.233317` | latest | 1 | 1 | today |
-| [Cloud Dialer · 20261008.135852](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261008.135852) | `cloud-comms-dialer-20261008.135852` | latest | 1 | 1 | today |
-| [Cloud Dialer · 20261008.063656](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261008.063656) | `cloud-comms-dialer-20261008.063656` | latest | 1 | 1 | yesterday |
-| [Cloud Chat · 20261008.233319](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261008.233319) | `cloud-comms-chat-20261008.233319` | latest | 1 | 1 | today |
-| [Cloud Chat · 20261008.135933](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261008.135933) | `cloud-comms-chat-20261008.135933` | latest | 1 | 1 | today |
-| [Cloud Chat · 20261008.063712](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261008.063712) | `cloud-comms-chat-20261008.063712` | latest | 1 | 1 | yesterday |
-| [Cloud Matrix · 20261007.231818](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261007.231818) | `cloud-comms-matrix-20261007.231818` | latest | 1 | 3 | yesterday |
-| [Cloud Matrix · 20261007.135105](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261007.135105) | `cloud-comms-matrix-20261007.135105` | latest | 1 | 3 | yesterday |
-| [Cloud Mail · 20261007.222313](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261007.222313) | `cloud-comms-mail-20261007.222313` | latest | 1 | 2 | yesterday |
-| [Cloud Mail · 20261007.135121](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261007.135121) | `cloud-comms-mail-20261007.135121` | latest | 1 | 1 | yesterday |
-| [Cloud Dialer · 20261007.231759](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261007.231759) | `cloud-comms-dialer-20261007.231759` | latest | 1 | 1 | yesterday |
-| [Cloud Dialer · 20261007.135102](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261007.135102) | `cloud-comms-dialer-20261007.135102` | latest | 1 | 1 | yesterday |
-| [Cloud Chat · 20261007.231853](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261007.231853) | `cloud-comms-chat-20261007.231853` | latest | 1 | 1 | yesterday |
-| [Cloud Chat · 20261007.135111](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261007.135111) | `cloud-comms-chat-20261007.135111` | latest | 1 | 1 | yesterday |
-| [Cloud Matrix · 20261007.062441](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261007.062441) | `cloud-comms-matrix-20261007.062441` | latest | 1 | 3 | 2 days ago |
-| [Cloud Matrix · 20261006.163317](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261006.163317) | `cloud-comms-matrix-20261006.163317` | latest | 1 | 5 | 2 days ago |
-| [Cloud Mail · 20261007.062444](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261007.062444) | `cloud-comms-mail-20261007.062444` | latest | 1 | 1 | 2 days ago |
-| [Cloud Mail · 20261006.164812](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261006.164812) | `cloud-comms-mail-20261006.164812` | latest | 1 | 1 | 2 days ago |
-| [Cloud Mail · 20261006.135650](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261006.135650) | `cloud-comms-mail-20261006.135650` | latest | 1 | 1 | 2 days ago |
-| [Cloud Mail · 20261006.132106](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261006.132106) | `cloud-comms-mail-20261006.132106` | latest | 1 | 1 | 2 days ago |
-| [Cloud Mail · 20261006.043957](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261006.043957) | `cloud-comms-mail-20261006.043957` | latest | 1 | 3 | 3 days ago |
-| [Cloud Dialer · 20261007.062451](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261007.062451) | `cloud-comms-dialer-20261007.062451` | latest | 1 | 1 | 2 days ago |
-| [Cloud Dialer · 20261006.183620](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261006.183620) | `cloud-comms-dialer-20261006.183620` | latest | 1 | 1 | 2 days ago |
+| [Cloud Mail · 20261008.102408](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.102408) | `cloud-comms-mail-20261008.102408` | latest | 1 | 1 | 2 days ago |
+| [Cloud Mail · 20261008.063711](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.063711) | `cloud-comms-mail-20261008.063711` | latest | 1 | 1 | 2 days ago |
+| [Cloud Dialer · 20261008.233317](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261008.233317) | `cloud-comms-dialer-20261008.233317` | latest | 1 | 1 | yesterday |
+| [Cloud Dialer · 20261008.135852](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261008.135852) | `cloud-comms-dialer-20261008.135852` | latest | 1 | 1 | yesterday |
+| [Cloud Dialer · 20261008.063656](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261008.063656) | `cloud-comms-dialer-20261008.063656` | latest | 1 | 1 | 2 days ago |
+| [Cloud Chat · 20261008.233319](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261008.233319) | `cloud-comms-chat-20261008.233319` | latest | 1 | 2 | yesterday |
+| [Cloud Chat · 20261008.135933](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261008.135933) | `cloud-comms-chat-20261008.135933` | latest | 1 | 1 | yesterday |
+| [Cloud Chat · 20261008.063712](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261008.063712) | `cloud-comms-chat-20261008.063712` | latest | 1 | 1 | 2 days ago |
+| [Cloud Matrix · 20261007.231818](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261007.231818) | `cloud-comms-matrix-20261007.231818` | latest | 1 | 3 | 2 days ago |
+| [Cloud Matrix · 20261007.135105](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261007.135105) | `cloud-comms-matrix-20261007.135105` | latest | 1 | 3 | 2 days ago |
+| [Cloud Mail · 20261007.222313](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261007.222313) | `cloud-comms-mail-20261007.222313` | latest | 1 | 2 | 2 days ago |
+| [Cloud Mail · 20261007.135121](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261007.135121) | `cloud-comms-mail-20261007.135121` | latest | 1 | 1 | 2 days ago |
+| [Cloud Dialer · 20261007.231759](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261007.231759) | `cloud-comms-dialer-20261007.231759` | latest | 1 | 1 | 2 days ago |
+| [Cloud Dialer · 20261007.135102](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261007.135102) | `cloud-comms-dialer-20261007.135102` | latest | 1 | 1 | 2 days ago |
+| [Cloud Chat · 20261007.231853](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261007.231853) | `cloud-comms-chat-20261007.231853` | latest | 1 | 1 | 2 days ago |
+| [Cloud Chat · 20261007.135111](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261007.135111) | `cloud-comms-chat-20261007.135111` | latest | 1 | 1 | 2 days ago |
+| [Cloud Matrix · 20261007.062441](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261007.062441) | `cloud-comms-matrix-20261007.062441` | latest | 1 | 3 | 3 days ago |
+| [Cloud Matrix · 20261006.163317](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261006.163317) | `cloud-comms-matrix-20261006.163317` | latest | 1 | 5 | 3 days ago |
+| [Cloud Mail · 20261007.062444](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261007.062444) | `cloud-comms-mail-20261007.062444` | latest | 1 | 1 | 3 days ago |
+| [Cloud Mail · 20261006.164812](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261006.164812) | `cloud-comms-mail-20261006.164812` | latest | 1 | 1 | 3 days ago |
+| [Cloud Mail · 20261006.135650](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261006.135650) | `cloud-comms-mail-20261006.135650` | latest | 1 | 1 | 3 days ago |
+| [Cloud Mail · 20261006.132106](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261006.132106) | `cloud-comms-mail-20261006.132106` | latest | 1 | 1 | 3 days ago |
+| [Cloud Mail · 20261006.043957](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261006.043957) | `cloud-comms-mail-20261006.043957` | latest | 1 | 3 | 4 days ago |
+| [Cloud Dialer · 20261007.062451](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261007.062451) | `cloud-comms-dialer-20261007.062451` | latest | 1 | 1 | 3 days ago |
+| [Cloud Dialer · 20261006.183620](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261006.183620) | `cloud-comms-dialer-20261006.183620` | latest | 1 | 1 | 3 days ago |
 | [Cloud Dialer · 20261006.132057](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261006.132057) | `cloud-comms-dialer-20261006.132057` | latest | 1 | 1 | 3 days ago |
-| [Cloud Chat · 20261007.062439](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261007.062439) | `cloud-comms-chat-20261007.062439` | latest | 1 | 1 | 2 days ago |
-| [Cloud Chat · 20261006.183625](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261006.183625) | `cloud-comms-chat-20261006.183625` | latest | 1 | 1 | 2 days ago |
-| [Cloud Chat · 20261006.132124](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261006.132124) | `cloud-comms-chat-20261006.132124` | latest | 1 | 1 | 2 days ago |
-| [Cloud Matrix · 20261003.215130](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261003.215130) | `cloud-comms-matrix-20261003.215130` | latest | 1 | 18 | 5 days ago |
-| [Cloud Matrix · 20261003.154414](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261003.154414) | `cloud-comms-matrix-20261003.154414` | latest | 1 | 3 | 5 days ago |
-| [Cloud Matrix · 20261003.122449](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261003.122449) | `cloud-comms-matrix-20261003.122449` | latest | 1 | 3 | 6 days ago |
-| [Cloud Matrix · 20261003.102331](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261003.102331) | `cloud-comms-matrix-20261003.102331` | latest | 1 | 3 | 6 days ago |
-| [Cloud Mail · 20261003.214403](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.214403) | `cloud-comms-mail-20261003.214403` | latest | 1 | 1 | 5 days ago |
-| [Cloud Mail · 20261003.161431](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.161431) | `cloud-comms-mail-20261003.161431` | latest | 1 | 1 | 5 days ago |
-| [Cloud Mail · 20261003.154407](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.154407) | `cloud-comms-mail-20261003.154407` | latest | 1 | 1 | 5 days ago |
-| [Cloud Mail · 20261003.152005](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.152005) | `cloud-comms-mail-20261003.152005` | latest | 1 | 1 | 5 days ago |
-| [Cloud Mail · 20261003.150721](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.150721) | `cloud-comms-mail-20261003.150721` | latest | 1 | 1 | 5 days ago |
-| [Cloud Mail · 20261003.122149](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.122149) | `cloud-comms-mail-20261003.122149` | latest | 1 | 1 | 6 days ago |
-| [Cloud Mail · 20261003.120604](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.120604) | `cloud-comms-mail-20261003.120604` | latest | 1 | 1 | 6 days ago |
-| [Cloud Mail · 20261003.102753](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.102753) | `cloud-comms-mail-20261003.102753` | latest | 1 | 1 | 6 days ago |
-| [Cloud Dialer · 20261003.214357](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.214357) | `cloud-comms-dialer-20261003.214357` | latest | 1 | 1 | 5 days ago |
-| [Cloud Dialer · 20261003.154351](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.154351) | `cloud-comms-dialer-20261003.154351` | latest | 1 | 2 | 5 days ago |
-| [Cloud Dialer · 20261003.122446](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.122446) | `cloud-comms-dialer-20261003.122446` | latest | 1 | 1 | 6 days ago |
-| [Cloud Dialer · 20261003.120629](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.120629) | `cloud-comms-dialer-20261003.120629` | latest | 1 | 1 | 6 days ago |
-| [Cloud Dialer · 20261003.115611](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.115611) | `cloud-comms-dialer-20261003.115611` | latest | 1 | 3 | 6 days ago |
-| [Cloud Dialer · 20261003.114357](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.114357) | `cloud-comms-dialer-20261003.114357` | latest | 1 | 1 | 6 days ago |
-| [Cloud Dialer · 20261003.102304](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.102304) | `cloud-comms-dialer-20261003.102304` | latest | 1 | 1 | 6 days ago |
-| [Cloud Dialer · 20261003.101556](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.101556) | `cloud-comms-dialer-20261003.101556` | latest | 1 | 1 | 6 days ago |
-| [Cloud Chat · 20261003.214411](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261003.214411) | `cloud-comms-chat-20261003.214411` | latest | 1 | 1 | 5 days ago |
-| [Cloud Chat · 20261003.161237](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261003.161237) | `cloud-comms-chat-20261003.161237` | latest | 1 | 1 | 5 days ago |
-| [Cloud Chat · 20261003.122532](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261003.122532) | `cloud-comms-chat-20261003.122532` | latest | 1 | 1 | 6 days ago |
-| [Cloud Chat · 20261003.102352](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261003.102352) | `cloud-comms-chat-20261003.102352` | latest | 1 | 1 | 6 days ago |
-| [nixdroid-bootstrap-7fc927a68576](https://github.com/diegonmarcos/cloud-u-android/releases/tag/nixdroid-bootstrap-7fc927a68576) | `nixdroid-bootstrap-7fc927a68576` | prerelease | 4 | 37 | 5 days ago |
-| [Cloud-Lib-Calc native engine lib-calc-native-20261002.110512](https://github.com/diegonmarcos/cloud-u-android/releases/tag/lib-calc-native-20261002.110512) | `lib-calc-native-20261002.110512` | latest | 2 | 0 | 7 days ago |
-| [Cloud-Lib-Calc native engine lib-calc-native-20261002.105615](https://github.com/diegonmarcos/cloud-u-android/releases/tag/lib-calc-native-20261002.105615) | `lib-calc-native-20261002.105615` | latest | 2 | 68 | 7 days ago |
-| [Cloud Matrix · 20261002.170032](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261002.170032) | `cloud-comms-matrix-20261002.170032` | latest | 1 | 1 | 6 days ago |
-| [Cloud Matrix · 20261002.135841](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261002.135841) | `cloud-comms-matrix-20261002.135841` | latest | 1 | 1 | 6 days ago |
-| [Cloud Matrix · 20261002.081354](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261002.081354) | `cloud-comms-matrix-20261002.081354` | latest | 1 | 1 | 7 days ago |
-| [Cloud Matrix · 20261002.002041](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261002.002041) | `cloud-comms-matrix-20261002.002041` | latest | 1 | 2 | 7 days ago |
-| [Cloud Mail · 20261002.195241](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.195241) | `cloud-comms-mail-20261002.195241` | latest | 1 | 1 | 6 days ago |
-| [Cloud Mail · 20261002.165858](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.165858) | `cloud-comms-mail-20261002.165858` | latest | 1 | 1 | 6 days ago |
-| [Cloud Mail · 20261002.144916](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.144916) | `cloud-comms-mail-20261002.144916` | latest | 1 | 2 | 6 days ago |
-| [Cloud Mail · 20261002.135802](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.135802) | `cloud-comms-mail-20261002.135802` | latest | 1 | 1 | 6 days ago |
+| [Cloud Chat · 20261007.062439](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261007.062439) | `cloud-comms-chat-20261007.062439` | latest | 1 | 1 | 3 days ago |
+| [Cloud Chat · 20261006.183625](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261006.183625) | `cloud-comms-chat-20261006.183625` | latest | 1 | 1 | 3 days ago |
+| [Cloud Chat · 20261006.132124](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261006.132124) | `cloud-comms-chat-20261006.132124` | latest | 1 | 1 | 3 days ago |
+| [Cloud Matrix · 20261003.215130](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261003.215130) | `cloud-comms-matrix-20261003.215130` | latest | 1 | 18 | 6 days ago |
+| [Cloud Matrix · 20261003.154414](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261003.154414) | `cloud-comms-matrix-20261003.154414` | latest | 1 | 3 | 6 days ago |
+| [Cloud Matrix · 20261003.122449](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261003.122449) | `cloud-comms-matrix-20261003.122449` | latest | 1 | 3 | 7 days ago |
+| [Cloud Matrix · 20261003.102331](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261003.102331) | `cloud-comms-matrix-20261003.102331` | latest | 1 | 3 | 7 days ago |
+| [Cloud Mail · 20261003.214403](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.214403) | `cloud-comms-mail-20261003.214403` | latest | 1 | 1 | 6 days ago |
+| [Cloud Mail · 20261003.161431](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.161431) | `cloud-comms-mail-20261003.161431` | latest | 1 | 1 | 6 days ago |
+| [Cloud Mail · 20261003.154407](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.154407) | `cloud-comms-mail-20261003.154407` | latest | 1 | 1 | 6 days ago |
+| [Cloud Mail · 20261003.152005](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.152005) | `cloud-comms-mail-20261003.152005` | latest | 1 | 1 | 6 days ago |
+| [Cloud Mail · 20261003.150721](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.150721) | `cloud-comms-mail-20261003.150721` | latest | 1 | 1 | 6 days ago |
+| [Cloud Mail · 20261003.122149](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.122149) | `cloud-comms-mail-20261003.122149` | latest | 1 | 1 | 7 days ago |
+| [Cloud Mail · 20261003.120604](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.120604) | `cloud-comms-mail-20261003.120604` | latest | 1 | 1 | 7 days ago |
+| [Cloud Mail · 20261003.102753](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.102753) | `cloud-comms-mail-20261003.102753` | latest | 1 | 1 | 7 days ago |
+| [Cloud Dialer · 20261003.214357](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.214357) | `cloud-comms-dialer-20261003.214357` | latest | 1 | 1 | 6 days ago |
+| [Cloud Dialer · 20261003.154351](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.154351) | `cloud-comms-dialer-20261003.154351` | latest | 1 | 2 | 6 days ago |
+| [Cloud Dialer · 20261003.122446](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.122446) | `cloud-comms-dialer-20261003.122446` | latest | 1 | 1 | 7 days ago |
+| [Cloud Dialer · 20261003.120629](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.120629) | `cloud-comms-dialer-20261003.120629` | latest | 1 | 1 | 7 days ago |
+| [Cloud Dialer · 20261003.115611](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.115611) | `cloud-comms-dialer-20261003.115611` | latest | 1 | 3 | 7 days ago |
+| [Cloud Dialer · 20261003.114357](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.114357) | `cloud-comms-dialer-20261003.114357` | latest | 1 | 1 | 7 days ago |
+| [Cloud Dialer · 20261003.102304](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.102304) | `cloud-comms-dialer-20261003.102304` | latest | 1 | 1 | 7 days ago |
+| [Cloud Dialer · 20261003.101556](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.101556) | `cloud-comms-dialer-20261003.101556` | latest | 1 | 1 | 7 days ago |
+| [Cloud Chat · 20261003.214411](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261003.214411) | `cloud-comms-chat-20261003.214411` | latest | 1 | 1 | 6 days ago |
+| [Cloud Chat · 20261003.161237](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261003.161237) | `cloud-comms-chat-20261003.161237` | latest | 1 | 1 | 6 days ago |
+| [Cloud Chat · 20261003.122532](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261003.122532) | `cloud-comms-chat-20261003.122532` | latest | 1 | 1 | 7 days ago |
+| [Cloud Chat · 20261003.102352](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261003.102352) | `cloud-comms-chat-20261003.102352` | latest | 1 | 1 | 7 days ago |
+| [nixdroid-bootstrap-7fc927a68576](https://github.com/diegonmarcos/cloud-u-android/releases/tag/nixdroid-bootstrap-7fc927a68576) | `nixdroid-bootstrap-7fc927a68576` | prerelease | 4 | 45 | 6 days ago |
+| [Cloud-Lib-Calc native engine lib-calc-native-20261002.110512](https://github.com/diegonmarcos/cloud-u-android/releases/tag/lib-calc-native-20261002.110512) | `lib-calc-native-20261002.110512` | latest | 2 | 0 | 8 days ago |
+| [Cloud-Lib-Calc native engine lib-calc-native-20261002.105615](https://github.com/diegonmarcos/cloud-u-android/releases/tag/lib-calc-native-20261002.105615) | `lib-calc-native-20261002.105615` | latest | 2 | 76 | 8 days ago |
+| [Cloud Matrix · 20261002.170032](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261002.170032) | `cloud-comms-matrix-20261002.170032` | latest | 1 | 1 | 7 days ago |
+| [Cloud Matrix · 20261002.135841](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261002.135841) | `cloud-comms-matrix-20261002.135841` | latest | 1 | 1 | 7 days ago |
+| [Cloud Matrix · 20261002.081354](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261002.081354) | `cloud-comms-matrix-20261002.081354` | latest | 1 | 1 | 8 days ago |
+| [Cloud Matrix · 20261002.002041](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261002.002041) | `cloud-comms-matrix-20261002.002041` | latest | 1 | 2 | 8 days ago |
+| [Cloud Mail · 20261002.195241](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.195241) | `cloud-comms-mail-20261002.195241` | latest | 1 | 1 | 7 days ago |
+| [Cloud Mail · 20261002.165858](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.165858) | `cloud-comms-mail-20261002.165858` | latest | 1 | 1 | 7 days ago |
+| [Cloud Mail · 20261002.144916](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.144916) | `cloud-comms-mail-20261002.144916` | latest | 1 | 2 | 7 days ago |
+| [Cloud Mail · 20261002.135802](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.135802) | `cloud-comms-mail-20261002.135802` | latest | 1 | 1 | 7 days ago |
 | [Cloud Mail · 20261002.124939](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.124939) | `cloud-comms-mail-20261002.124939` | latest | 1 | 1 | 7 days ago |
-| [Cloud Mail · 20261002.122640](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.122640) | `cloud-comms-mail-20261002.122640` | latest | 1 | 1 | 7 days ago |
-| [Cloud Mail · 20261002.085403](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.085403) | `cloud-comms-mail-20261002.085403` | latest | 1 | 1 | 7 days ago |
-| [Cloud Mail · 20261002.081351](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.081351) | `cloud-comms-mail-20261002.081351` | latest | 1 | 1 | 7 days ago |
-| [Cloud Mail · 20261002.001530](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.001530) | `cloud-comms-mail-20261002.001530` | latest | 1 | 1 | 7 days ago |
-| [Cloud Mail · 20261001.235808](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.235808) | `cloud-comms-mail-20261001.235808` | latest | 1 | 1 | 7 days ago |
-| [Cloud Dialer · 20261002.171150](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.171150) | `cloud-comms-dialer-20261002.171150` | latest | 1 | 1 | 6 days ago |
-| [Cloud Dialer · 20261002.140343](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.140343) | `cloud-comms-dialer-20261002.140343` | latest | 1 | 1 | 6 days ago |
-| [Cloud Dialer · 20261002.135824](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.135824) | `cloud-comms-dialer-20261002.135824` | latest | 1 | 1 | 6 days ago |
-| [Cloud Dialer · 20261002.081352](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.081352) | `cloud-comms-dialer-20261002.081352` | latest | 1 | 1 | 7 days ago |
-| [Cloud Dialer · 20261002.001524](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.001524) | `cloud-comms-dialer-20261002.001524` | latest | 1 | 1 | 7 days ago |
-| [Cloud Dialer · 20261001.235801](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261001.235801) | `cloud-comms-dialer-20261001.235801` | latest | 1 | 1 | 7 days ago |
-| [Cloud Chat · 20261002.170208](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261002.170208) | `cloud-comms-chat-20261002.170208` | latest | 1 | 1 | 6 days ago |
-| [Cloud Chat · 20261002.140315](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261002.140315) | `cloud-comms-chat-20261002.140315` | latest | 1 | 1 | 6 days ago |
-| [Cloud Chat · 20261002.081704](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261002.081704) | `cloud-comms-chat-20261002.081704` | latest | 1 | 1 | 7 days ago |
-| [Cloud Chat · 20261002.001615](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261002.001615) | `cloud-comms-chat-20261002.001615` | latest | 1 | 1 | 7 days ago |
-| [Cloud Matrix · 20261001.162805](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261001.162805) | `cloud-comms-matrix-20261001.162805` | latest | 1 | 2 | 7 days ago |
-| [Cloud Mail · 20261001.162756](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.162756) | `cloud-comms-mail-20261001.162756` | latest | 1 | 1 | 7 days ago |
-| [Cloud Mail · 20261001.112944](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.112944) | `cloud-comms-mail-20261001.112944` | latest | 1 | 3 | 8 days ago |
-| [Cloud Mail · 20261001.101149](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.101149) | `cloud-comms-mail-20261001.101149` | latest | 1 | 1 | 8 days ago |
-| [Cloud Mail · 20261001.091547](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.091547) | `cloud-comms-mail-20261001.091547` | latest | 1 | 1 | 8 days ago |
-| [Cloud Dialer · 20261001.162616](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261001.162616) | `cloud-comms-dialer-20261001.162616` | latest | 1 | 1 | 7 days ago |
-| [Cloud Dialer · 20261001.162007](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261001.162007) | `cloud-comms-dialer-20261001.162007` | latest | 1 | 1 | 7 days ago |
-| [Cloud Chat · 20261001.162736](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261001.162736) | `cloud-comms-chat-20261001.162736` | latest | 1 | 1 | 7 days ago |
-| [Cloud Mail · 20260930.233945](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260930.233945) | `cloud-comms-mail-20260930.233945` | latest | 1 | 2 | 8 days ago |
-| [Cloud Mail · 20260930.111712](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260930.111712) | `cloud-comms-mail-20260930.111712` | latest | 1 | 4 | 9 days ago |
-| [Cloud Mail · 20260930.090019](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260930.090019) | `cloud-comms-mail-20260930.090019` | latest | 1 | 3 | 9 days ago |
-| [Cloud Matrix · 20260928.180648](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260928.180648) | `cloud-comms-matrix-20260928.180648` | latest | 1 | 3 | 10 days ago |
-| [Cloud Matrix · 20260928.174710](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260928.174710) | `cloud-comms-matrix-20260928.174710` | latest | 1 | 2 | 10 days ago |
-| [Cloud Matrix · 20260928.172353](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260928.172353) | `cloud-comms-matrix-20260928.172353` | latest | 1 | 2 | 10 days ago |
-| [Cloud Mail · 20260928.180645](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260928.180645) | `cloud-comms-mail-20260928.180645` | latest | 1 | 2 | 10 days ago |
-| [Cloud Mail · 20260928.152256](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260928.152256) | `cloud-comms-mail-20260928.152256` | latest | 1 | 2 | 10 days ago |
-| [Cloud Mail · 20260928.132649](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260928.132649) | `cloud-comms-mail-20260928.132649` | latest | 1 | 2 | 10 days ago |
+| [Cloud Mail · 20261002.122640](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.122640) | `cloud-comms-mail-20261002.122640` | latest | 1 | 1 | 8 days ago |
+| [Cloud Mail · 20261002.085403](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.085403) | `cloud-comms-mail-20261002.085403` | latest | 1 | 1 | 8 days ago |
+| [Cloud Mail · 20261002.081351](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.081351) | `cloud-comms-mail-20261002.081351` | latest | 1 | 1 | 8 days ago |
+| [Cloud Mail · 20261002.001530](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.001530) | `cloud-comms-mail-20261002.001530` | latest | 1 | 1 | 8 days ago |
+| [Cloud Mail · 20261001.235808](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.235808) | `cloud-comms-mail-20261001.235808` | latest | 1 | 1 | 8 days ago |
+| [Cloud Dialer · 20261002.171150](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.171150) | `cloud-comms-dialer-20261002.171150` | latest | 1 | 1 | 7 days ago |
+| [Cloud Dialer · 20261002.140343](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.140343) | `cloud-comms-dialer-20261002.140343` | latest | 1 | 1 | 7 days ago |
+| [Cloud Dialer · 20261002.135824](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.135824) | `cloud-comms-dialer-20261002.135824` | latest | 1 | 1 | 7 days ago |
+| [Cloud Dialer · 20261002.081352](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.081352) | `cloud-comms-dialer-20261002.081352` | latest | 1 | 1 | 8 days ago |
+| [Cloud Dialer · 20261002.001524](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.001524) | `cloud-comms-dialer-20261002.001524` | latest | 1 | 1 | 8 days ago |
+| [Cloud Dialer · 20261001.235801](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261001.235801) | `cloud-comms-dialer-20261001.235801` | latest | 1 | 1 | 8 days ago |
+| [Cloud Chat · 20261002.170208](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261002.170208) | `cloud-comms-chat-20261002.170208` | latest | 1 | 1 | 7 days ago |
+| [Cloud Chat · 20261002.140315](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261002.140315) | `cloud-comms-chat-20261002.140315` | latest | 1 | 1 | 7 days ago |
+| [Cloud Chat · 20261002.081704](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261002.081704) | `cloud-comms-chat-20261002.081704` | latest | 1 | 1 | 8 days ago |
+| [Cloud Chat · 20261002.001615](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261002.001615) | `cloud-comms-chat-20261002.001615` | latest | 1 | 1 | 8 days ago |
+| [Cloud Matrix · 20261001.162805](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261001.162805) | `cloud-comms-matrix-20261001.162805` | latest | 1 | 2 | 8 days ago |
+| [Cloud Mail · 20261001.162756](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.162756) | `cloud-comms-mail-20261001.162756` | latest | 1 | 1 | 8 days ago |
+| [Cloud Mail · 20261001.112944](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.112944) | `cloud-comms-mail-20261001.112944` | latest | 1 | 3 | 9 days ago |
+| [Cloud Mail · 20261001.101149](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.101149) | `cloud-comms-mail-20261001.101149` | latest | 1 | 1 | 9 days ago |
+| [Cloud Mail · 20261001.091547](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.091547) | `cloud-comms-mail-20261001.091547` | latest | 1 | 1 | 9 days ago |
+| [Cloud Dialer · 20261001.162616](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261001.162616) | `cloud-comms-dialer-20261001.162616` | latest | 1 | 1 | 8 days ago |
+| [Cloud Dialer · 20261001.162007](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261001.162007) | `cloud-comms-dialer-20261001.162007` | latest | 1 | 1 | 8 days ago |
+| [Cloud Chat · 20261001.162736](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261001.162736) | `cloud-comms-chat-20261001.162736` | latest | 1 | 1 | 8 days ago |
+| [Cloud Mail · 20260930.233945](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260930.233945) | `cloud-comms-mail-20260930.233945` | latest | 1 | 2 | 9 days ago |
+| [Cloud Mail · 20260930.111712](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260930.111712) | `cloud-comms-mail-20260930.111712` | latest | 1 | 4 | 10 days ago |
+| [Cloud Mail · 20260930.090019](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260930.090019) | `cloud-comms-mail-20260930.090019` | latest | 1 | 3 | 10 days ago |
+| [Cloud Matrix · 20260928.180648](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260928.180648) | `cloud-comms-matrix-20260928.180648` | latest | 1 | 3 | 11 days ago |
+| [Cloud Matrix · 20260928.174710](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260928.174710) | `cloud-comms-matrix-20260928.174710` | latest | 1 | 2 | 11 days ago |
+| [Cloud Matrix · 20260928.172353](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260928.172353) | `cloud-comms-matrix-20260928.172353` | latest | 1 | 2 | 11 days ago |
+| [Cloud Mail · 20260928.180645](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260928.180645) | `cloud-comms-mail-20260928.180645` | latest | 1 | 2 | 11 days ago |
+| [Cloud Mail · 20260928.152256](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260928.152256) | `cloud-comms-mail-20260928.152256` | latest | 1 | 2 | 11 days ago |
+| [Cloud Mail · 20260928.132649](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260928.132649) | `cloud-comms-mail-20260928.132649` | latest | 1 | 2 | 11 days ago |
 | [Cloud Mail · 20260928.125953](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260928.125953) | `cloud-comms-mail-20260928.125953` | latest | 1 | 2 | 11 days ago |
-| [Cloud Dialer · 20260928.180650](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260928.180650) | `cloud-comms-dialer-20260928.180650` | latest | 1 | 2 | 10 days ago |
-| [Cloud Dialer · 20260928.174715](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260928.174715) | `cloud-comms-dialer-20260928.174715` | latest | 1 | 2 | 10 days ago |
-| [Cloud Dialer · 20260928.172355](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260928.172355) | `cloud-comms-dialer-20260928.172355` | latest | 1 | 2 | 10 days ago |
-| [Cloud Chat · 20260928.181421](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260928.181421) | `cloud-comms-chat-20260928.181421` | latest | 1 | 2 | 10 days ago |
-| [Cloud Chat · 20260928.174727](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260928.174727) | `cloud-comms-chat-20260928.174727` | latest | 1 | 2 | 10 days ago |
-| [Cloud Chat · 20260928.172413](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260928.172413) | `cloud-comms-chat-20260928.172413` | latest | 1 | 2 | 10 days ago |
-| [Cloud Matrix · 20260926.132453](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260926.132453) | `cloud-comms-matrix-20260926.132453` | latest | 1 | 2 | 12 days ago |
+| [Cloud Dialer · 20260928.180650](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260928.180650) | `cloud-comms-dialer-20260928.180650` | latest | 1 | 2 | 11 days ago |
+| [Cloud Dialer · 20260928.174715](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260928.174715) | `cloud-comms-dialer-20260928.174715` | latest | 1 | 2 | 11 days ago |
+| [Cloud Dialer · 20260928.172355](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260928.172355) | `cloud-comms-dialer-20260928.172355` | latest | 1 | 2 | 11 days ago |
+| [Cloud Chat · 20260928.181421](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260928.181421) | `cloud-comms-chat-20260928.181421` | latest | 1 | 2 | 11 days ago |
+| [Cloud Chat · 20260928.174727](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260928.174727) | `cloud-comms-chat-20260928.174727` | latest | 1 | 2 | 11 days ago |
+| [Cloud Chat · 20260928.172413](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260928.172413) | `cloud-comms-chat-20260928.172413` | latest | 1 | 2 | 11 days ago |
+| [Cloud Matrix · 20260926.132453](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260926.132453) | `cloud-comms-matrix-20260926.132453` | latest | 1 | 2 | 13 days ago |
 | [Cloud Matrix · 20260926.123754](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260926.123754) | `cloud-comms-matrix-20260926.123754` | latest | 1 | 2 | 13 days ago |
-| [Cloud Mail · 20260926.132247](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260926.132247) | `cloud-comms-mail-20260926.132247` | latest | 1 | 2 | 12 days ago |
+| [Cloud Mail · 20260926.132247](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260926.132247) | `cloud-comms-mail-20260926.132247` | latest | 1 | 2 | 13 days ago |
 | [Cloud Mail · 20260926.123804](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260926.123804) | `cloud-comms-mail-20260926.123804` | latest | 1 | 2 | 13 days ago |
 | [Cloud Dialer · 20260926.132312](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260926.132312) | `cloud-comms-dialer-20260926.132312` | latest | 1 | 2 | 13 days ago |
-| [Cloud Dialer · 20260926.123802](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260926.123802) | `cloud-comms-dialer-20260926.123802` | latest | 1 | 2 | 13 days ago |
-| [Cloud Chat · 20260926.132249](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260926.132249) | `cloud-comms-chat-20260926.132249` | latest | 1 | 2 | 12 days ago |
+| [Cloud Dialer · 20260926.123802](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260926.123802) | `cloud-comms-dialer-20260926.123802` | latest | 1 | 2 | 14 days ago |
+| [Cloud Chat · 20260926.132249](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260926.132249) | `cloud-comms-chat-20260926.132249` | latest | 1 | 2 | 13 days ago |
 | [Cloud Chat · 20260926.123827](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260926.123827) | `cloud-comms-chat-20260926.123827` | latest | 1 | 2 | 13 days ago |
-| [Cloud Mail · 20260925.151002](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260925.151002) | `cloud-comms-mail-20260925.151002` | latest | 1 | 2 | 13 days ago |
-| [Cloud Mail · 20260925.105852](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260925.105852) | `cloud-comms-mail-20260925.105852` | latest | 1 | 2 | 14 days ago |
-| [Cloud Mail · 20260925.100511](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260925.100511) | `cloud-comms-mail-20260925.100511` | latest | 1 | 2 | 14 days ago |
-| [Cloud Mail · 20260924.222410](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.222410) | `cloud-comms-mail-20260924.222410` | latest | 1 | 2 | 14 days ago |
-| [Cloud Mail · 20260924.220313](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.220313) | `cloud-comms-mail-20260924.220313` | latest | 1 | 2 | 14 days ago |
-| [Cloud Mail · 20260924.210757](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.210757) | `cloud-comms-mail-20260924.210757` | latest | 1 | 2 | 14 days ago |
-| [Cloud Mail · 20260924.204551](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.204551) | `cloud-comms-mail-20260924.204551` | latest | 1 | 2 | 14 days ago |
-| [Cloud Mail · 20260924.160931](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.160931) | `cloud-comms-mail-20260924.160931` | latest | 1 | 3 | 14 days ago |
-| [Cloud Mail · 20260924.154021](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.154021) | `cloud-comms-mail-20260924.154021` | latest | 1 | 2 | 14 days ago |
-| [Cloud Mail · 20260919.144424](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260919.144424) | `cloud-comms-mail-20260919.144424` | latest | 1 | 5 | 19 days ago |
-| [Cloud Mail · 20260919.102857](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260919.102857) | `cloud-comms-mail-20260919.102857` | latest | 1 | 4 | 20 days ago |
-| [Cloud Matrix · 20260918.040441](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260918.040441) | `cloud-comms-matrix-20260918.040441` | latest | 1 | 2 | 21 days ago |
-| [Cloud Mail · 20260918.224327](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.224327) | `cloud-comms-mail-20260918.224327` | latest | 1 | 2 | 20 days ago |
-| [Cloud Mail · 20260918.152617](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.152617) | `cloud-comms-mail-20260918.152617` | latest | 1 | 2 | 20 days ago |
-| [Cloud Mail · 20260918.144808](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.144808) | `cloud-comms-mail-20260918.144808` | latest | 1 | 2 | 20 days ago |
-| [Cloud Mail · 20260918.101533](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.101533) | `cloud-comms-mail-20260918.101533` | latest | 1 | 2 | 21 days ago |
-| [Cloud Mail · 20260918.040649](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.040649) | `cloud-comms-mail-20260918.040649` | latest | 1 | 3 | 21 days ago |
-| [Cloud Dialer · 20260918.040442](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260918.040442) | `cloud-comms-dialer-20260918.040442` | latest | 1 | 3 | 21 days ago |
-| [Cloud Chat · 20260918.040513](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260918.040513) | `cloud-comms-chat-20260918.040513` | latest | 1 | 3 | 21 days ago |
-| [Cloud Mail · 20260917.232802](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.232802) | `cloud-comms-mail-20260917.232802` | latest | 1 | 2 | 21 days ago |
-| [Cloud Mail · 20260917.192059](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.192059) | `cloud-comms-mail-20260917.192059` | latest | 1 | 6 | 21 days ago |
-| [Cloud Mail · 20260917.110453](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.110453) | `cloud-comms-mail-20260917.110453` | latest | 1 | 3 | 22 days ago |
-| [Cloud Mail · 20260917.100735](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.100735) | `cloud-comms-mail-20260917.100735` | latest | 1 | 6 | 22 days ago |
-| [Cloud Mail · 20260917.081844](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.081844) | `cloud-comms-mail-20260917.081844` | latest | 1 | 2 | 22 days ago |
-| [Cloud Mail · 20260917.081054](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.081054) | `cloud-comms-mail-20260917.081054` | latest | 1 | 2 | 22 days ago |
-| [Cloud Mail · 20260917.073929](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.073929) | `cloud-comms-mail-20260917.073929` | latest | 1 | 2 | 22 days ago |
-| [Cloud Matrix · 20260916.062844](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260916.062844) | `cloud-comms-matrix-20260916.062844` | latest | 1 | 3 | 23 days ago |
-| [Cloud Mail · 20260916.230124](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260916.230124) | `cloud-comms-mail-20260916.230124` | latest | 1 | 2 | 22 days ago |
-| [Cloud Mail · 20260916.095213](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260916.095213) | `cloud-comms-mail-20260916.095213` | latest | 1 | 2 | 23 days ago |
-| [Cloud Mail · 20260916.065518](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260916.065518) | `cloud-comms-mail-20260916.065518` | latest | 1 | 8 | 23 days ago |
-| [Cloud Mail · 20260916.063138](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260916.063138) | `cloud-comms-mail-20260916.063138` | latest | 1 | 3 | 23 days ago |
-| [Cloud Mail · 20260916.043716](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260916.043716) | `cloud-comms-mail-20260916.043716` | latest | 1 | 5 | 23 days ago |
-| [Cloud Mail · 20260916.011829](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260916.011829) | `cloud-comms-mail-20260916.011829` | latest | 1 | 3 | 23 days ago |
-| [Cloud Dialer · 20260916.062846](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260916.062846) | `cloud-comms-dialer-20260916.062846` | latest | 1 | 2 | 23 days ago |
-| [Cloud Chat · 20260916.062849](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260916.062849) | `cloud-comms-chat-20260916.062849` | latest | 1 | 2 | 23 days ago |
-| [Cloud Matrix · 20260915.222211](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260915.222211) | `cloud-comms-matrix-20260915.222211` | latest | 1 | 4 | 23 days ago |
-| [Cloud Mail · 20260915.222834](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260915.222834) | `cloud-comms-mail-20260915.222834` | latest | 1 | 3 | 23 days ago |
-| [Cloud Mail · 20260915.213152](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260915.213152) | `cloud-comms-mail-20260915.213152` | latest | 1 | 4 | 23 days ago |
-| [Cloud Mail · 20260915.211036](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260915.211036) | `cloud-comms-mail-20260915.211036` | latest | 1 | 3 | 23 days ago |
-| [Cloud Dialer · 20260915.222207](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260915.222207) | `cloud-comms-dialer-20260915.222207` | latest | 1 | 4 | 23 days ago |
-| [Cloud Chat · 20260915.222229](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260915.222229) | `cloud-comms-chat-20260915.222229` | latest | 1 | 3 | 23 days ago |
-| [Cloud Chat · 20260915.215306](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260915.215306) | `cloud-comms-chat-20260915.215306` | latest | 1 | 2 | 23 days ago |
-| [Cloud Mail · 20260914.092206](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260914.092206) | `cloud-comms-mail-20260914.092206` | latest | 1 | 5 | 25 days ago |
-| [Cloud Mail · 20260913.121712](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260913.121712) | `cloud-comms-mail-20260913.121712` | latest | 1 | 3 | 26 days ago |
-| [Cloud Matrix · 20260912.175150](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260912.175150) | `cloud-comms-matrix-20260912.175150` | latest | 1 | 2 | 26 days ago |
-| [Cloud Mail · 20260912.175155](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260912.175155) | `cloud-comms-mail-20260912.175155` | latest | 1 | 5 | 26 days ago |
-| [Cloud Mail · 20260912.165447](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260912.165447) | `cloud-comms-mail-20260912.165447` | latest | 1 | 3 | 26 days ago |
-| [Cloud Mail · 20260912.140354](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260912.140354) | `cloud-comms-mail-20260912.140354` | latest | 1 | 3 | 26 days ago |
+| [Cloud Mail · 20260925.151002](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260925.151002) | `cloud-comms-mail-20260925.151002` | latest | 1 | 2 | 14 days ago |
+| [Cloud Mail · 20260925.105852](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260925.105852) | `cloud-comms-mail-20260925.105852` | latest | 1 | 2 | 15 days ago |
+| [Cloud Mail · 20260925.100511](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260925.100511) | `cloud-comms-mail-20260925.100511` | latest | 1 | 2 | 15 days ago |
+| [Cloud Mail · 20260924.222410](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.222410) | `cloud-comms-mail-20260924.222410` | latest | 1 | 2 | 15 days ago |
+| [Cloud Mail · 20260924.220313](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.220313) | `cloud-comms-mail-20260924.220313` | latest | 1 | 2 | 15 days ago |
+| [Cloud Mail · 20260924.210757](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.210757) | `cloud-comms-mail-20260924.210757` | latest | 1 | 2 | 15 days ago |
+| [Cloud Mail · 20260924.204551](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.204551) | `cloud-comms-mail-20260924.204551` | latest | 1 | 2 | 15 days ago |
+| [Cloud Mail · 20260924.160931](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.160931) | `cloud-comms-mail-20260924.160931` | latest | 1 | 3 | 15 days ago |
+| [Cloud Mail · 20260924.154021](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.154021) | `cloud-comms-mail-20260924.154021` | latest | 1 | 2 | 15 days ago |
+| [Cloud Mail · 20260919.144424](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260919.144424) | `cloud-comms-mail-20260919.144424` | latest | 1 | 5 | 20 days ago |
+| [Cloud Mail · 20260919.102857](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260919.102857) | `cloud-comms-mail-20260919.102857` | latest | 1 | 4 | 21 days ago |
+| [Cloud Matrix · 20260918.040441](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260918.040441) | `cloud-comms-matrix-20260918.040441` | latest | 1 | 2 | 22 days ago |
+| [Cloud Mail · 20260918.224327](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.224327) | `cloud-comms-mail-20260918.224327` | latest | 1 | 2 | 21 days ago |
+| [Cloud Mail · 20260918.152617](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.152617) | `cloud-comms-mail-20260918.152617` | latest | 1 | 2 | 21 days ago |
+| [Cloud Mail · 20260918.144808](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.144808) | `cloud-comms-mail-20260918.144808` | latest | 1 | 2 | 21 days ago |
+| [Cloud Mail · 20260918.101533](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.101533) | `cloud-comms-mail-20260918.101533` | latest | 1 | 2 | 22 days ago |
+| [Cloud Mail · 20260918.040649](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.040649) | `cloud-comms-mail-20260918.040649` | latest | 1 | 3 | 22 days ago |
+| [Cloud Dialer · 20260918.040442](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260918.040442) | `cloud-comms-dialer-20260918.040442` | latest | 1 | 3 | 22 days ago |
+| [Cloud Chat · 20260918.040513](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260918.040513) | `cloud-comms-chat-20260918.040513` | latest | 1 | 3 | 22 days ago |
+| [Cloud Mail · 20260917.232802](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.232802) | `cloud-comms-mail-20260917.232802` | latest | 1 | 2 | 22 days ago |
+| [Cloud Mail · 20260917.192059](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.192059) | `cloud-comms-mail-20260917.192059` | latest | 1 | 6 | 22 days ago |
+| [Cloud Mail · 20260917.110453](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.110453) | `cloud-comms-mail-20260917.110453` | latest | 1 | 3 | 23 days ago |
+| [Cloud Mail · 20260917.100735](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.100735) | `cloud-comms-mail-20260917.100735` | latest | 1 | 6 | 23 days ago |
+| [Cloud Mail · 20260917.081844](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.081844) | `cloud-comms-mail-20260917.081844` | latest | 1 | 2 | 23 days ago |
+| [Cloud Mail · 20260917.081054](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.081054) | `cloud-comms-mail-20260917.081054` | latest | 1 | 2 | 23 days ago |
+| [Cloud Mail · 20260917.073929](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.073929) | `cloud-comms-mail-20260917.073929` | latest | 1 | 2 | 23 days ago |
+| [Cloud Matrix · 20260916.062844](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260916.062844) | `cloud-comms-matrix-20260916.062844` | latest | 1 | 3 | 24 days ago |
+| [Cloud Mail · 20260916.230124](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260916.230124) | `cloud-comms-mail-20260916.230124` | latest | 1 | 2 | 23 days ago |
+| [Cloud Mail · 20260916.095213](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260916.095213) | `cloud-comms-mail-20260916.095213` | latest | 1 | 2 | 24 days ago |
+| [Cloud Mail · 20260916.065518](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260916.065518) | `cloud-comms-mail-20260916.065518` | latest | 1 | 8 | 24 days ago |
+| [Cloud Mail · 20260916.063138](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260916.063138) | `cloud-comms-mail-20260916.063138` | latest | 1 | 3 | 24 days ago |
+| [Cloud Mail · 20260916.043716](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260916.043716) | `cloud-comms-mail-20260916.043716` | latest | 1 | 5 | 24 days ago |
+| [Cloud Mail · 20260916.011829](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260916.011829) | `cloud-comms-mail-20260916.011829` | latest | 1 | 3 | 24 days ago |
+| [Cloud Dialer · 20260916.062846](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260916.062846) | `cloud-comms-dialer-20260916.062846` | latest | 1 | 2 | 24 days ago |
+| [Cloud Chat · 20260916.062849](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260916.062849) | `cloud-comms-chat-20260916.062849` | latest | 1 | 2 | 24 days ago |
+| [Cloud Matrix · 20260915.222211](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260915.222211) | `cloud-comms-matrix-20260915.222211` | latest | 1 | 4 | 24 days ago |
+| [Cloud Mail · 20260915.222834](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260915.222834) | `cloud-comms-mail-20260915.222834` | latest | 1 | 3 | 24 days ago |
+| [Cloud Mail · 20260915.213152](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260915.213152) | `cloud-comms-mail-20260915.213152` | latest | 1 | 4 | 24 days ago |
+| [Cloud Mail · 20260915.211036](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260915.211036) | `cloud-comms-mail-20260915.211036` | latest | 1 | 3 | 24 days ago |
+| [Cloud Dialer · 20260915.222207](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260915.222207) | `cloud-comms-dialer-20260915.222207` | latest | 1 | 4 | 24 days ago |
+| [Cloud Chat · 20260915.222229](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260915.222229) | `cloud-comms-chat-20260915.222229` | latest | 1 | 3 | 24 days ago |
+| [Cloud Chat · 20260915.215306](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260915.215306) | `cloud-comms-chat-20260915.215306` | latest | 1 | 2 | 24 days ago |
+| [Cloud Mail · 20260914.092206](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260914.092206) | `cloud-comms-mail-20260914.092206` | latest | 1 | 5 | 26 days ago |
+| [Cloud Mail · 20260913.121712](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260913.121712) | `cloud-comms-mail-20260913.121712` | latest | 1 | 3 | 27 days ago |
+| [Cloud Matrix · 20260912.175150](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260912.175150) | `cloud-comms-matrix-20260912.175150` | latest | 1 | 2 | 27 days ago |
+| [Cloud Mail · 20260912.175155](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260912.175155) | `cloud-comms-mail-20260912.175155` | latest | 1 | 5 | 27 days ago |
+| [Cloud Mail · 20260912.165447](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260912.165447) | `cloud-comms-mail-20260912.165447` | latest | 1 | 3 | 27 days ago |
+| [Cloud Mail · 20260912.140354](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260912.140354) | `cloud-comms-mail-20260912.140354` | latest | 1 | 3 | 27 days ago |
 | [Cloud Mail · 20260912.124718](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260912.124718) | `cloud-comms-mail-20260912.124718` | latest | 1 | 3 | 27 days ago |
-| [Cloud Mail · 20260912.122529](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260912.122529) | `cloud-comms-mail-20260912.122529` | latest | 1 | 3 | 27 days ago |
-| [Cloud Mail · 20260912.114516](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260912.114516) | `cloud-comms-mail-20260912.114516` | latest | 1 | 4 | 27 days ago |
-| [Cloud Dialer · 20260912.175150](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260912.175150) | `cloud-comms-dialer-20260912.175150` | latest | 1 | 3 | 26 days ago |
+| [Cloud Mail · 20260912.122529](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260912.122529) | `cloud-comms-mail-20260912.122529` | latest | 1 | 3 | 28 days ago |
+| [Cloud Mail · 20260912.114516](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260912.114516) | `cloud-comms-mail-20260912.114516` | latest | 1 | 4 | 28 days ago |
+| [Cloud Dialer · 20260912.175150](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260912.175150) | `cloud-comms-dialer-20260912.175150` | latest | 1 | 3 | 27 days ago |
 | [Cloud Mail · 20260911.125535](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260911.125535) | `cloud-comms-mail-20260911.125535` | latest | 1 | 2 | 28 days ago |
-| [Cloud Mail · 20260911.114124](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260911.114124) | `cloud-comms-mail-20260911.114124` | latest | 1 | 3 | 28 days ago |
-| [Cloud Mail · 20260911.112039](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260911.112039) | `cloud-comms-mail-20260911.112039` | latest | 1 | 2 | 28 days ago |
-| [Cloud Mail · 20260911.105126](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260911.105126) | `cloud-comms-mail-20260911.105126` | latest | 1 | 5 | 28 days ago |
-| [Cloud Mail · 20260911.095833](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260911.095833) | `cloud-comms-mail-20260911.095833` | latest | 1 | 5 | 28 days ago |
-| [firestack netstack aar firestack-aar-20260910.155452](https://github.com/diegonmarcos/cloud-u-android/releases/tag/firestack-aar-20260910.155452) | `firestack-aar-20260910.155452` | latest | 2 | 0 | 28 days ago |
-| [firestack netstack aar firestack-aar-20260910.121543](https://github.com/diegonmarcos/cloud-u-android/releases/tag/firestack-aar-20260910.121543) | `firestack-aar-20260910.121543` | latest | 2 | 0 | 29 days ago |
-| [firestack netstack aar firestack-aar-20260910.114222](https://github.com/diegonmarcos/cloud-u-android/releases/tag/firestack-aar-20260910.114222) | `firestack-aar-20260910.114222` | latest | 2 | 1,195 | 29 days ago |
-| [Cloud Matrix · 20260910.205416](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260910.205416) | `cloud-comms-matrix-20260910.205416` | latest | 1 | 3 | 28 days ago |
+| [Cloud Mail · 20260911.114124](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260911.114124) | `cloud-comms-mail-20260911.114124` | latest | 1 | 3 | 29 days ago |
+| [Cloud Mail · 20260911.112039](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260911.112039) | `cloud-comms-mail-20260911.112039` | latest | 1 | 2 | 29 days ago |
+| [Cloud Mail · 20260911.105126](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260911.105126) | `cloud-comms-mail-20260911.105126` | latest | 1 | 5 | 29 days ago |
+| [Cloud Mail · 20260911.095833](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260911.095833) | `cloud-comms-mail-20260911.095833` | latest | 1 | 5 | 29 days ago |
+| [firestack netstack aar firestack-aar-20260910.155452](https://github.com/diegonmarcos/cloud-u-android/releases/tag/firestack-aar-20260910.155452) | `firestack-aar-20260910.155452` | latest | 2 | 0 | 29 days ago |
+| [firestack netstack aar firestack-aar-20260910.121543](https://github.com/diegonmarcos/cloud-u-android/releases/tag/firestack-aar-20260910.121543) | `firestack-aar-20260910.121543` | latest | 2 | 0 | 1 month ago |
+| [firestack netstack aar firestack-aar-20260910.114222](https://github.com/diegonmarcos/cloud-u-android/releases/tag/firestack-aar-20260910.114222) | `firestack-aar-20260910.114222` | latest | 2 | 1,263 | 1 month ago |
+| [Cloud Matrix · 20260910.205416](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260910.205416) | `cloud-comms-matrix-20260910.205416` | latest | 1 | 3 | 29 days ago |
 | [Cloud Matrix · 20260910.123407](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260910.123407) | `cloud-comms-matrix-20260910.123407` | latest | 1 | 3 | 29 days ago |
-| [Cloud Mail · 20260910.205425](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260910.205425) | `cloud-comms-mail-20260910.205425` | latest | 1 | 5 | 28 days ago |
-| [Cloud Mail · 20260910.201614](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260910.201614) | `cloud-comms-mail-20260910.201614` | latest | 1 | 3 | 28 days ago |
-| [Cloud Mail · 20260910.171918](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260910.171918) | `cloud-comms-mail-20260910.171918` | latest | 1 | 2 | 28 days ago |
-| [Cloud Dialer · 20260910.205410](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260910.205410) | `cloud-comms-dialer-20260910.205410` | latest | 1 | 2 | 28 days ago |
-| [Cloud Dialer · 20260910.123358](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260910.123358) | `cloud-comms-dialer-20260910.123358` | latest | 1 | 3 | 29 days ago |
-| [Cloud Chat · 20260910.205451](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260910.205451) | `cloud-comms-chat-20260910.205451` | latest | 1 | 2 | 28 days ago |
+| [Cloud Mail · 20260910.205425](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260910.205425) | `cloud-comms-mail-20260910.205425` | latest | 1 | 5 | 29 days ago |
+| [Cloud Mail · 20260910.201614](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260910.201614) | `cloud-comms-mail-20260910.201614` | latest | 1 | 3 | 29 days ago |
+| [Cloud Mail · 20260910.171918](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260910.171918) | `cloud-comms-mail-20260910.171918` | latest | 1 | 2 | 29 days ago |
+| [Cloud Dialer · 20260910.205410](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260910.205410) | `cloud-comms-dialer-20260910.205410` | latest | 1 | 2 | 29 days ago |
+| [Cloud Dialer · 20260910.123358](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260910.123358) | `cloud-comms-dialer-20260910.123358` | latest | 1 | 3 | 1 month ago |
+| [Cloud Chat · 20260910.205451](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260910.205451) | `cloud-comms-chat-20260910.205451` | latest | 1 | 2 | 29 days ago |
 | [Cloud Chat · 20260910.123421](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260910.123421) | `cloud-comms-chat-20260910.123421` | latest | 1 | 3 | 29 days ago |
-| [Cloud Mail · 20260909.224530](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260909.224530) | `cloud-comms-mail-20260909.224530` | latest | 1 | 2 | 29 days ago |
-| [Cloud Mail · 20260909.222730](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260909.222730) | `cloud-comms-mail-20260909.222730` | latest | 1 | 3 | 29 days ago |
-| [Cloud Mail · 20260909.171401](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260909.171401) | `cloud-comms-mail-20260909.171401` | latest | 1 | 3 | 29 days ago |
-| [Cloud Mail · 20260909.150348](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260909.150348) | `cloud-comms-mail-20260909.150348` | latest | 1 | 3 | 29 days ago |
+| [Cloud Mail · 20260909.224530](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260909.224530) | `cloud-comms-mail-20260909.224530` | latest | 1 | 2 | 1 month ago |
+| [Cloud Mail · 20260909.222730](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260909.222730) | `cloud-comms-mail-20260909.222730` | latest | 1 | 3 | 1 month ago |
+| [Cloud Mail · 20260909.171401](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260909.171401) | `cloud-comms-mail-20260909.171401` | latest | 1 | 3 | 1 month ago |
+| [Cloud Mail · 20260909.150348](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260909.150348) | `cloud-comms-mail-20260909.150348` | latest | 1 | 3 | 1 month ago |
 | [Cloud Mail · 20260909.083044](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260909.083044) | `cloud-comms-mail-20260909.083044` | latest | 1 | 2 | 1 month ago |
 | [Cloud Mail · 20260909.075703](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260909.075703) | `cloud-comms-mail-20260909.075703` | latest | 1 | 5 | 1 month ago |
 | [Cloud Dialer · 20260909.081421](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260909.081421) | `cloud-comms-dialer-20260909.081421` | latest | 1 | 2 | 1 month ago |
@@ -382,7 +392,7 @@
 | [Cloud Dialer · 20260827.123949](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260827.123949) | `cloud-comms-dialer-20260827.123949` | latest | 1 | 0 | 1 month ago |
 | [Cloud Chat · 20260827.222026](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260827.222026) | `cloud-comms-chat-20260827.222026` | latest | 1 | 0 | 1 month ago |
 | [Cloud Chat · 20260827.124026](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260827.124026) | `cloud-comms-chat-20260827.124026` | latest | 1 | 0 | 1 month ago |
-| [latest](https://github.com/diegonmarcos/cloud-u-android/releases/tag/latest) | `latest` | latest | 378 | 21,448 | 1 month ago |
+| [latest](https://github.com/diegonmarcos/cloud-u-android/releases/tag/latest) | `latest` | latest | 376 | 11,330 | 1 month ago |
 | [Cloud Matrix · 20260826.110920](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260826.110920) | `cloud-comms-matrix-20260826.110920` | latest | 1 | 0 | 1 month ago |
 | [Cloud Mail · 20260826.163031](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260826.163031) | `cloud-comms-mail-20260826.163031` | latest | 1 | 4 | 1 month ago |
 | [Cloud Mail · 20260826.161443](https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260826.161443) | `cloud-comms-mail-20260826.161443` | latest | 1 | 0 | 1 month ago |
@@ -397,23 +407,23 @@
 
 ---
 
-### 📁 [cloud-u-linux](https://github.com/diegonmarcos/cloud-u-linux/releases) <sup>13 · 976 downloads</sup>
+### 📁 [cloud-u-linux](https://github.com/diegonmarcos/cloud-u-linux/releases) <sup>13 · 1,009 downloads</sup>
 
 | Release | Tag | State | Assets | Downloads | Published |
 |:---|:---|:---|:---|:---|:---|
-| [my-webserver f795a4e4](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-webserver-f795a4e4) | `my-webserver-f795a4e4` | latest | 2 | 2 | 5 days ago |
-| [my-webserver e3577a70](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-webserver-e3577a70) | `my-webserver-e3577a70` | latest | 2 | 82 | 23 days ago |
-| [my-webserver 4303420f](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-webserver-4303420f) | `my-webserver-4303420f` | latest | 2 | 2 | 23 days ago |
-| [my-webserver 721ed987](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-webserver-721ed987) | `my-webserver-721ed987` | latest | 2 | 12 | 29 days ago |
-| [c3-watchdog (rolling)](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/c3-watchdog-latest) | `c3-watchdog-latest` | latest | 10 | 116 | 1 month ago |
+| [my-webserver f795a4e4](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-webserver-f795a4e4) | `my-webserver-f795a4e4` | latest | 2 | 2 | 6 days ago |
+| [my-webserver e3577a70](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-webserver-e3577a70) | `my-webserver-e3577a70` | latest | 2 | 85 | 24 days ago |
+| [my-webserver 4303420f](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-webserver-4303420f) | `my-webserver-4303420f` | latest | 2 | 2 | 24 days ago |
+| [my-webserver 721ed987](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-webserver-721ed987) | `my-webserver-721ed987` | latest | 2 | 12 | 1 month ago |
+| [c3-watchdog (rolling)](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/c3-watchdog-latest) | `c3-watchdog-latest` | latest | 10 | 128 | 1 month ago |
 | [c3-morpheus (rolling)](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/c3-morpheus-latest) | `c3-morpheus-latest` | latest | 2 | 0 | 1 month ago |
 | [qute-standalone-latest](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/qute-standalone-latest) | `qute-standalone-latest` | latest | 1 | 0 | 1 month ago |
 | [my-webserver (rolling)](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-webserver-latest) | `my-webserver-latest` | latest | 2 | 39 | 1 month ago |
-| [my-watchdog (rolling)](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-watchdog-latest) | `my-watchdog-latest` | latest | 10 | 719 | 1 month ago |
+| [my-watchdog (rolling)](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-watchdog-latest) | `my-watchdog-latest` | latest | 10 | 731 | 1 month ago |
 | [my-konsole (rolling)](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-konsole-latest) | `my-konsole-latest` | latest | 5 | 0 | 1 month ago |
 | [my-browser-rust-chromium (rolling)](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-browser-rust-chromium-latest) | `my-browser-rust-chromium-latest` | latest | 1 | 0 | 1 month ago |
 | [my-browser-qute](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-browser-latest) | `my-browser-latest` | latest | 1 | 0 | 1 month ago |
-| [my-ai (rolling)](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-ai-latest) | `my-ai-latest` | latest | 6 | 4 | 1 month ago |
+| [my-ai (rolling)](https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-ai-latest) | `my-ai-latest` | latest | 6 | 10 | 1 month ago |
 
 ---
 
@@ -425,4 +435,4 @@
 
 ---
 
-<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Oct 9, 2026</sub>
+<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Oct 10, 2026</sub>
