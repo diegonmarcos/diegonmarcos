@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-11T13:01:44.429Z",
+  "fetched_at": "2026-10-12T15:36:23.678Z",
   "owner": "diegonmarcos",
   "total_packages": 487,
   "repos": {
@@ -51319,13 +51319,118 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-u-android",
           "created_at": "2026-09-03T09:46:01Z",
-          "updated_at": "2026-10-11T12:22:21Z",
+          "updated_at": "2026-10-12T14:59:41Z",
           "versions": [
             {
-              "id": 1368964237,
+              "id": 1374097378,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-10-12T14:59:41Z",
+              "updated_at": "2026-10-12T14:59:41Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-android/1374097378"
+            },
+            {
+              "id": 1373755622,
+              "tags": [],
+              "created_at": "2026-10-12T13:56:49Z",
+              "updated_at": "2026-10-12T13:56:49Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-android/1373755622"
+            },
+            {
+              "id": 1373431594,
+              "tags": [],
+              "created_at": "2026-10-12T12:53:41Z",
+              "updated_at": "2026-10-12T12:53:41Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-android/1373431594"
+            },
+            {
+              "id": 1373125532,
+              "tags": [],
+              "created_at": "2026-10-12T11:53:33Z",
+              "updated_at": "2026-10-12T11:53:33Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-android/1373125532"
+            },
+            {
+              "id": 1370854449,
+              "tags": [],
+              "created_at": "2026-10-12T00:46:15Z",
+              "updated_at": "2026-10-12T00:46:15Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-android/1370854449"
+            },
+            {
+              "id": 1370759128,
+              "tags": [],
+              "created_at": "2026-10-11T23:57:36Z",
+              "updated_at": "2026-10-11T23:57:36Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-android/1370759128"
+            },
+            {
+              "id": 1370633923,
+              "tags": [],
+              "created_at": "2026-10-11T22:53:46Z",
+              "updated_at": "2026-10-11T22:53:46Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-android/1370633923"
+            },
+            {
+              "id": 1370599968,
+              "tags": [],
+              "created_at": "2026-10-11T22:38:00Z",
+              "updated_at": "2026-10-11T22:38:00Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-android/1370599968"
+            },
+            {
+              "id": 1370547093,
+              "tags": [],
+              "created_at": "2026-10-11T22:13:55Z",
+              "updated_at": "2026-10-11T22:13:55Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-android/1370547093"
+            },
+            {
+              "id": 1370492346,
+              "tags": [],
+              "created_at": "2026-10-11T21:50:20Z",
+              "updated_at": "2026-10-11T21:50:20Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-android/1370492346"
+            },
+            {
+              "id": 1370318770,
+              "tags": [],
+              "created_at": "2026-10-11T20:44:37Z",
+              "updated_at": "2026-10-11T20:44:37Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-android/1370318770"
+            },
+            {
+              "id": 1370205655,
+              "tags": [],
+              "created_at": "2026-10-11T20:02:08Z",
+              "updated_at": "2026-10-11T20:02:08Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-android/1370205655"
+            },
+            {
+              "id": 1369444313,
+              "tags": [],
+              "created_at": "2026-10-11T15:20:47Z",
+              "updated_at": "2026-10-11T15:20:47Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-android/1369444313"
+            },
+            {
+              "id": 1369300785,
+              "tags": [],
+              "created_at": "2026-10-11T14:27:40Z",
+              "updated_at": "2026-10-11T14:27:40Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-android/1369300785"
+            },
+            {
+              "id": 1369141717,
+              "tags": [],
+              "created_at": "2026-10-11T13:28:49Z",
+              "updated_at": "2026-10-11T13:28:49Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-android/1369141717"
+            },
+            {
+              "id": 1368964237,
+              "tags": [],
               "created_at": "2026-10-11T12:22:21Z",
               "updated_at": "2026-10-11T12:22:21Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-u-android/1368964237"
@@ -51748,7 +51853,7 @@
             {
               "os": "linux",
               "architecture": "amd64",
-              "size_bytes": 4066368283,
+              "size_bytes": 5248764565,
               "entrypoint": null,
               "exposed_ports": [],
               "working_dir": "",
@@ -51760,7 +51865,7 @@
                 "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-u-android"
               },
               "layers_count": 2,
-              "created": "2026-10-11T12:19:44.528120773Z"
+              "created": "2026-10-12T14:53:43.5985626Z"
             }
           ]
         },
@@ -126905,13 +127010,35 @@
           "visibility": "public",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/hermes-agent",
           "created_at": "2026-07-25T18:11:22Z",
-          "updated_at": "2026-10-10T22:06:42Z",
+          "updated_at": "2026-10-12T11:22:35Z",
           "versions": [
+            {
+              "id": 1372974718,
+              "tags": [
+                "latest"
+              ],
+              "created_at": "2026-10-12T11:22:35Z",
+              "updated_at": "2026-10-12T11:22:35Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/hermes-agent/1372974718"
+            },
+            {
+              "id": 1372974677,
+              "tags": [],
+              "created_at": "2026-10-12T11:22:34Z",
+              "updated_at": "2026-10-12T11:22:34Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/hermes-agent/1372974677"
+            },
+            {
+              "id": 1372974655,
+              "tags": [],
+              "created_at": "2026-10-12T11:22:34Z",
+              "updated_at": "2026-10-12T11:22:34Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/hermes-agent/1372974655"
+            },
             {
               "id": 1367192706,
               "tags": [
-                "7d4c507bd8f4",
-                "latest"
+                "7d4c507bd8f4"
               ],
               "created_at": "2026-10-10T22:06:38Z",
               "updated_at": "2026-10-10T22:06:38Z",
@@ -127702,8 +127829,8 @@
           "platforms": [
             {
               "os": "linux",
-              "architecture": "arm64",
-              "size_bytes": 1130950933,
+              "architecture": "amd64",
+              "size_bytes": 1121434943,
               "entrypoint": [
                 "/opt/hermes/docker/entrypoint-dispatch.sh"
               ],
@@ -127713,23 +127840,48 @@
                 "PATH=/opt/hermes/bin:/opt/hermes/.venv/bin:/opt/data/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
                 "PYTHONUNBUFFERED=1",
                 "PYTHONDONTWRITEBYTECODE=1",
-                "PLAYWRIGHT_BROWSERS_PATH=/opt/hermes/.playwright",
-                "npm_config_install_links=false",
+                "PLAYWRIGHT_BROWSERS_PATH=/opt/hermes/tools",
+                "HERMES_RUNTIME_DIR=/opt/hermes/tools",
+                "HERMES_PYTHON=/opt/hermes/.venv/bin/python",
+                "CC=gcc",
+                "CXX=g++",
                 "HERMES_WEB_DIST=/opt/hermes/hermes_cli/web_dist",
                 "HERMES_TUI_DIR=/opt/hermes/ui-tui",
                 "HERMES_HOME=/opt/data",
                 "HERMES_WRITE_SAFE_ROOT=/opt/data",
-                "HERMES_DISABLE_LAZY_INSTALLS=1",
-                "HERMES_LAZY_INSTALL_TARGET=/opt/data/lazy-packages",
                 "XDG_RUNTIME_DIR=/tmp/hermes-runtime"
               ],
-              "labels": {
-                "cloud.diegonmarcos.from-image": "ghcr.io/diegonmarcos/hermes-agent:latest",
-                "org.opencontainers.image.revision": "749220ef0007f8d87bd1531f1c24b0fe93816385",
-                "org.opencontainers.image.source": "https://github.com/diegonmarcos/cloud-infra"
-              },
-              "layers_count": 60,
-              "created": "2026-10-10T22:06:26.596864352Z"
+              "labels": {},
+              "layers_count": 37,
+              "created": "2026-10-12T03:22:10.956560515Z"
+            },
+            {
+              "os": "linux",
+              "architecture": "arm64",
+              "size_bytes": 1095896975,
+              "entrypoint": [
+                "/opt/hermes/docker/entrypoint-dispatch.sh"
+              ],
+              "exposed_ports": [],
+              "working_dir": "/opt/hermes",
+              "env": [
+                "PATH=/opt/hermes/bin:/opt/hermes/.venv/bin:/opt/data/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "PYTHONUNBUFFERED=1",
+                "PYTHONDONTWRITEBYTECODE=1",
+                "PLAYWRIGHT_BROWSERS_PATH=/opt/hermes/tools",
+                "HERMES_RUNTIME_DIR=/opt/hermes/tools",
+                "HERMES_PYTHON=/opt/hermes/.venv/bin/python",
+                "CC=gcc",
+                "CXX=g++",
+                "HERMES_WEB_DIST=/opt/hermes/hermes_cli/web_dist",
+                "HERMES_TUI_DIR=/opt/hermes/ui-tui",
+                "HERMES_HOME=/opt/data",
+                "HERMES_WRITE_SAFE_ROOT=/opt/data",
+                "XDG_RUNTIME_DIR=/tmp/hermes-runtime"
+              ],
+              "labels": {},
+              "layers_count": 37,
+              "created": "2026-10-12T03:23:21.240848005Z"
             }
           ]
         },
@@ -460294,13 +460446,27 @@
           "visibility": "private",
           "html_url": "https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-data",
           "created_at": "2026-08-30T18:21:24Z",
-          "updated_at": "2026-10-11T10:36:25Z",
+          "updated_at": "2026-10-11T19:57:29Z",
           "versions": [
             {
-              "id": 1368659480,
+              "id": 1370192587,
               "tags": [
                 "latest"
               ],
+              "created_at": "2026-10-11T19:57:29Z",
+              "updated_at": "2026-10-11T19:57:29Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-data/1370192587"
+            },
+            {
+              "id": 1370183654,
+              "tags": [],
+              "created_at": "2026-10-11T19:54:10Z",
+              "updated_at": "2026-10-11T19:54:10Z",
+              "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-data/1370183654"
+            },
+            {
+              "id": 1368659480,
+              "tags": [],
               "created_at": "2026-10-11T10:36:25Z",
               "updated_at": "2026-10-11T10:36:25Z",
               "html_url": "https://github.com/users/diegonmarcos/packages/container/cgc-db-cloud-data/1368659480"
