@@ -3,7 +3,7 @@
   <a href="releases-byrepo.md"><img src="https://img.shields.io/badge/%F0%9F%93%81%20By%20Repo-30363d?style=for-the-badge" alt="By Repo" height="28"></a>
 </p>
 
-<p align="center"><sub><b>442</b> releases · <b>13,989</b> downloads</sub></p>
+<p align="center"><sub><b>474</b> releases · <b>14,318</b> downloads</sub></p>
 
 ```
         ╔══════════════════════════════════════════════════╗
@@ -25,7 +25,7 @@
 
 ---
 
-### 📁 <a href="https://github.com/diegonmarcos/cloud-infra-desktop/releases">cloud-infra-desktop</a> &nbsp;<sup>13 releases · 1,018 downloads</sup>
+### 📁 <a href="https://github.com/diegonmarcos/cloud-infra-desktop/releases">cloud-infra-desktop</a> &nbsp;<sup>13 releases · 1,033 downloads</sup>
 
 <details>
 <summary>🟢 <a href="https://github.com/diegonmarcos/cloud-infra-desktop/releases/tag/my-watchdog-latest"><b>my-watchdog (rolling)</b></a> &nbsp;<code>my-watchdog-latest</code> &nbsp;<sub>Published 1 month ago · 3 assets · 1 downloads</sub></summary>
@@ -179,11 +179,11 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-infra-desktop/releases/tag/octocode-0.12.2-hf"><b>octocode 0.12.2 with HuggingFace</b></a> &nbsp;<code>octocode-0.12.2-hf</code> &nbsp;<sub>Published 6 months ago · 1 asset · 964 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-infra-desktop/releases/tag/octocode-0.12.2-hf"><b>octocode 0.12.2 with HuggingFace</b></a> &nbsp;<code>octocode-0.12.2-hf</code> &nbsp;<sub>Published 6 months ago · 1 asset · 979 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz`](https://github.com/diegonmarcos/cloud-infra-desktop/releases/download/octocode-0.12.2-hf/octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz) | 25.8 MB | 964 | Mar 24, 2026 |
+| [`octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz`](https://github.com/diegonmarcos/cloud-infra-desktop/releases/download/octocode-0.12.2-hf/octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz) | 25.8 MB | 979 | Mar 24, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/cloud-infra-desktop/archive/refs/tags/octocode-0.12.2-hf.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-infra-desktop/archive/refs/tags/octocode-0.12.2-hf.tar.gz)</sub>
 
@@ -191,21 +191,131 @@
 
 ---
 
-### 📁 <a href="https://github.com/diegonmarcos/cloud-u-android/releases">cloud-u-android</a> &nbsp;<sup>415 releases · 11,872 downloads</sup>
+### 📁 <a href="https://github.com/diegonmarcos/cloud-u-android/releases">cloud-u-android</a> &nbsp;<sup>447 releases · 12,108 downloads</sup>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261016.110105"><b>Cloud Matrix · 20261016.110105</b></a> &nbsp;<code>cloud-comms-matrix-20261016.110105</code> &nbsp;<sub>Published today · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261017.014740"><b>Cloud Matrix · 20261017.014740</b></a> &nbsp;<code>cloud-comms-matrix-20261017.014740</code> &nbsp;<sub>Published today · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`cloud-comms-matrix.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-matrix-20261016.110105/cloud-comms-matrix.apk) | 105.4 MB | 0 | Oct 16, 2026 |
+| [`cloud-comms-matrix.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-matrix-20261017.014740/cloud-comms-matrix.apk) | 105.4 MB | 3 | Oct 17, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-matrix-20261017.014740.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-matrix-20261017.014740.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261017.014800"><b>Cloud Mail · 20261017.014800</b></a> &nbsp;<code>cloud-comms-mail-20261017.014800</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261017.014800/cloud-comms-mail.apk) | 4.1 MB | 1 | Oct 17, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261017.014800.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261017.014800.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261017.020003"><b>Cloud Dialer · 20261017.020003</b></a> &nbsp;<code>cloud-comms-dialer-20261017.020003</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261017.020003/cloud-comms-dialer.apk) | 6.4 MB | 1 | Oct 17, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261017.020003.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261017.020003.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261017.015153"><b>Cloud Chat · 20261017.015153</b></a> &nbsp;<code>cloud-comms-chat-20261017.015153</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-chat.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-chat-20261017.015153/cloud-comms-chat.apk) | 179.5 MB | 1 | Oct 17, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-chat-20261017.015153.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-chat-20261017.015153.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261016.224506"><b>Cloud Matrix · 20261016.224506</b></a> &nbsp;<code>cloud-comms-matrix-20261016.224506</code> &nbsp;<sub>Published today · 1 asset · 2 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-matrix.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-matrix-20261016.224506/cloud-comms-matrix.apk) | 105.4 MB | 2 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-matrix-20261016.224506.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-matrix-20261016.224506.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261016.202813"><b>Cloud Matrix · 20261016.202813</b></a> &nbsp;<code>cloud-comms-matrix-20261016.202813</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-matrix.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-matrix-20261016.202813/cloud-comms-matrix.apk) | 105.4 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-matrix-20261016.202813.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-matrix-20261016.202813.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261016.194914"><b>Cloud Matrix · 20261016.194914</b></a> &nbsp;<code>cloud-comms-matrix-20261016.194914</code> &nbsp;<sub>Published today · 1 asset · 3 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-matrix.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-matrix-20261016.194914/cloud-comms-matrix.apk) | 105.4 MB | 3 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-matrix-20261016.194914.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-matrix-20261016.194914.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261016.171930"><b>Cloud Matrix · 20261016.171930</b></a> &nbsp;<code>cloud-comms-matrix-20261016.171930</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-matrix.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-matrix-20261016.171930/cloud-comms-matrix.apk) | 105.4 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-matrix-20261016.171930.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-matrix-20261016.171930.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261016.133352"><b>Cloud Matrix · 20261016.133352</b></a> &nbsp;<code>cloud-comms-matrix-20261016.133352</code> &nbsp;<sub>Published today · 1 asset · 3 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-matrix.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-matrix-20261016.133352/cloud-comms-matrix.apk) | 105.4 MB | 3 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-matrix-20261016.133352.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-matrix-20261016.133352.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261016.120202"><b>Cloud Matrix · 20261016.120202</b></a> &nbsp;<code>cloud-comms-matrix-20261016.120202</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-matrix.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-matrix-20261016.120202/cloud-comms-matrix.apk) | 105.4 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-matrix-20261016.120202.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-matrix-20261016.120202.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261016.110105"><b>Cloud Matrix · 20261016.110105</b></a> &nbsp;<code>cloud-comms-matrix-20261016.110105</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-matrix.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-matrix-20261016.110105/cloud-comms-matrix.apk) | 105.4 MB | 1 | Oct 16, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-matrix-20261016.110105.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-matrix-20261016.110105.tar.gz)</sub>
 
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261016.045619"><b>Cloud Matrix · 20261016.045619</b></a> &nbsp;<code>cloud-comms-matrix-20261016.045619</code> &nbsp;<sub>Published today · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261016.045619"><b>Cloud Matrix · 20261016.045619</b></a> &nbsp;<code>cloud-comms-matrix-20261016.045619</code> &nbsp;<sub>Published yesterday · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -216,40 +326,117 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261016.105522"><b>Cloud Mail · 20261016.105522</b></a> &nbsp;<code>cloud-comms-mail-20261016.105522</code> &nbsp;<sub>Published today · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261016.224443"><b>Cloud Mail · 20261016.224443</b></a> &nbsp;<code>cloud-comms-mail-20261016.224443</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261016.105522/cloud-comms-mail.apk) | 4.1 MB | 0 | Oct 16, 2026 |
+| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261016.224443/cloud-comms-mail.apk) | 4.1 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.224443.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.224443.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261016.202813"><b>Cloud Mail · 20261016.202813</b></a> &nbsp;<code>cloud-comms-mail-20261016.202813</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261016.202813/cloud-comms-mail.apk) | 4.1 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.202813.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.202813.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261016.195640"><b>Cloud Mail · 20261016.195640</b></a> &nbsp;<code>cloud-comms-mail-20261016.195640</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261016.195640/cloud-comms-mail.apk) | 4.1 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.195640.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.195640.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261016.163454"><b>Cloud Mail · 20261016.163454</b></a> &nbsp;<code>cloud-comms-mail-20261016.163454</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261016.163454/cloud-comms-mail.apk) | 4.1 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.163454.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.163454.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261016.143730"><b>Cloud Mail · 20261016.143730</b></a> &nbsp;<code>cloud-comms-mail-20261016.143730</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261016.143730/cloud-comms-mail.apk) | 4.1 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.143730.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.143730.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261016.133825"><b>Cloud Mail · 20261016.133825</b></a> &nbsp;<code>cloud-comms-mail-20261016.133825</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261016.133825/cloud-comms-mail.apk) | 4.1 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.133825.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.133825.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261016.120314"><b>Cloud Mail · 20261016.120314</b></a> &nbsp;<code>cloud-comms-mail-20261016.120314</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261016.120314/cloud-comms-mail.apk) | 4.1 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.120314.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.120314.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261016.105522"><b>Cloud Mail · 20261016.105522</b></a> &nbsp;<code>cloud-comms-mail-20261016.105522</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261016.105522/cloud-comms-mail.apk) | 4.1 MB | 1 | Oct 16, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.105522.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.105522.tar.gz)</sub>
 
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261016.094434"><b>Cloud Mail · 20261016.094434</b></a> &nbsp;<code>cloud-comms-mail-20261016.094434</code> &nbsp;<sub>Published today · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261016.094434"><b>Cloud Mail · 20261016.094434</b></a> &nbsp;<code>cloud-comms-mail-20261016.094434</code> &nbsp;<sub>Published yesterday · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261016.094434/cloud-comms-mail.apk) | 4.1 MB | 0 | Oct 16, 2026 |
+| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261016.094434/cloud-comms-mail.apk) | 4.1 MB | 1 | Oct 16, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.094434.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.094434.tar.gz)</sub>
 
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261016.090433"><b>Cloud Mail · 20261016.090433</b></a> &nbsp;<code>cloud-comms-mail-20261016.090433</code> &nbsp;<sub>Published today · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261016.090433"><b>Cloud Mail · 20261016.090433</b></a> &nbsp;<code>cloud-comms-mail-20261016.090433</code> &nbsp;<sub>Published yesterday · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261016.090433/cloud-comms-mail.apk) | 4.1 MB | 0 | Oct 16, 2026 |
+| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261016.090433/cloud-comms-mail.apk) | 4.1 MB | 1 | Oct 16, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.090433.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-mail-20261016.090433.tar.gz)</sub>
 
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261016.045621"><b>Cloud Mail · 20261016.045621</b></a> &nbsp;<code>cloud-comms-mail-20261016.045621</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261016.045621"><b>Cloud Mail · 20261016.045621</b></a> &nbsp;<code>cloud-comms-mail-20261016.045621</code> &nbsp;<sub>Published yesterday · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -260,29 +447,128 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261016.110848"><b>Cloud Dialer · 20261016.110848</b></a> &nbsp;<code>cloud-comms-dialer-20261016.110848</code> &nbsp;<sub>Published today · 1 asset</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261016.224822"><b>Cloud Dialer · 20261016.224822</b></a> &nbsp;<code>cloud-comms-dialer-20261016.224822</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261016.110848/cloud-comms-dialer.apk) | 6.5 MB | 0 | Oct 16, 2026 |
+| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261016.224822/cloud-comms-dialer.apk) | 6.4 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.224822.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.224822.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261016.202318"><b>Cloud Dialer · 20261016.202318</b></a> &nbsp;<code>cloud-comms-dialer-20261016.202318</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261016.202318/cloud-comms-dialer.apk) | 6.4 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.202318.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.202318.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261016.195820"><b>Cloud Dialer · 20261016.195820</b></a> &nbsp;<code>cloud-comms-dialer-20261016.195820</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261016.195820/cloud-comms-dialer.apk) | 6.4 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.195820.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.195820.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261016.192224"><b>Cloud Dialer · 20261016.192224</b></a> &nbsp;<code>cloud-comms-dialer-20261016.192224</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261016.192224/cloud-comms-dialer.apk) | 6.4 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.192224.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.192224.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261016.172313"><b>Cloud Dialer · 20261016.172313</b></a> &nbsp;<code>cloud-comms-dialer-20261016.172313</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261016.172313/cloud-comms-dialer.apk) | 6.4 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.172313.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.172313.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261016.151300"><b>Cloud Dialer · 20261016.151300</b></a> &nbsp;<code>cloud-comms-dialer-20261016.151300</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261016.151300/cloud-comms-dialer.apk) | 6.4 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.151300.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.151300.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261016.134229"><b>Cloud Dialer · 20261016.134229</b></a> &nbsp;<code>cloud-comms-dialer-20261016.134229</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261016.134229/cloud-comms-dialer.apk) | 6.4 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.134229.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.134229.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261016.131904"><b>Cloud Dialer · 20261016.131904</b></a> &nbsp;<code>cloud-comms-dialer-20261016.131904</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261016.131904/cloud-comms-dialer.apk) | 6.4 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.131904.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.131904.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261016.115224"><b>Cloud Dialer · 20261016.115224</b></a> &nbsp;<code>cloud-comms-dialer-20261016.115224</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261016.115224/cloud-comms-dialer.apk) | 6.5 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.115224.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.115224.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261016.110848"><b>Cloud Dialer · 20261016.110848</b></a> &nbsp;<code>cloud-comms-dialer-20261016.110848</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261016.110848/cloud-comms-dialer.apk) | 6.5 MB | 1 | Oct 16, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.110848.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.110848.tar.gz)</sub>
 
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261016.060745"><b>Cloud Dialer · 20261016.060745</b></a> &nbsp;<code>cloud-comms-dialer-20261016.060745</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261016.060745"><b>Cloud Dialer · 20261016.060745</b></a> &nbsp;<code>cloud-comms-dialer-20261016.060745</code> &nbsp;<sub>Published yesterday · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261016.060745/cloud-comms-dialer.apk) | 6.5 MB | 1 | Oct 16, 2026 |
+| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261016.060745/cloud-comms-dialer.apk) | 6.5 MB | 2 | Oct 16, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.060745.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261016.060745.tar.gz)</sub>
 
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261016.045611"><b>Cloud Dialer · 20261016.045611</b></a> &nbsp;<code>cloud-comms-dialer-20261016.045611</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261016.045611"><b>Cloud Dialer · 20261016.045611</b></a> &nbsp;<code>cloud-comms-dialer-20261016.045611</code> &nbsp;<sub>Published yesterday · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -293,7 +579,73 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261016.045640"><b>Cloud Chat · 20261016.045640</b></a> &nbsp;<code>cloud-comms-chat-20261016.045640</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261016.224710"><b>Cloud Chat · 20261016.224710</b></a> &nbsp;<code>cloud-comms-chat-20261016.224710</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-chat.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-chat-20261016.224710/cloud-comms-chat.apk) | 179.5 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-chat-20261016.224710.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-chat-20261016.224710.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261016.202037"><b>Cloud Chat · 20261016.202037</b></a> &nbsp;<code>cloud-comms-chat-20261016.202037</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-chat.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-chat-20261016.202037/cloud-comms-chat.apk) | 179.5 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-chat-20261016.202037.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-chat-20261016.202037.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261016.195302"><b>Cloud Chat · 20261016.195302</b></a> &nbsp;<code>cloud-comms-chat-20261016.195302</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-chat.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-chat-20261016.195302/cloud-comms-chat.apk) | 179.5 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-chat-20261016.195302.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-chat-20261016.195302.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261016.172705"><b>Cloud Chat · 20261016.172705</b></a> &nbsp;<code>cloud-comms-chat-20261016.172705</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-chat.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-chat-20261016.172705/cloud-comms-chat.apk) | 179.5 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-chat-20261016.172705.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-chat-20261016.172705.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261016.133340"><b>Cloud Chat · 20261016.133340</b></a> &nbsp;<code>cloud-comms-chat-20261016.133340</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-chat.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-chat-20261016.133340/cloud-comms-chat.apk) | 179.5 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-chat-20261016.133340.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-chat-20261016.133340.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261016.115230"><b>Cloud Chat · 20261016.115230</b></a> &nbsp;<code>cloud-comms-chat-20261016.115230</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+
+| Asset | Size | Downloads | Updated |
+|:---|:---|:---|:---|
+| [`cloud-comms-chat.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-chat-20261016.115230/cloud-comms-chat.apk) | 179.5 MB | 1 | Oct 16, 2026 |
+
+<sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-chat-20261016.115230.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-chat-20261016.115230.tar.gz)</sub>
+
+</details>
+
+<details>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261016.045640"><b>Cloud Chat · 20261016.045640</b></a> &nbsp;<code>cloud-comms-chat-20261016.045640</code> &nbsp;<sub>Published yesterday · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -304,7 +656,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261015.214718"><b>Cloud Matrix · 20261015.214718</b></a> &nbsp;<code>cloud-comms-matrix-20261015.214718</code> &nbsp;<sub>Published today · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261015.214718"><b>Cloud Matrix · 20261015.214718</b></a> &nbsp;<code>cloud-comms-matrix-20261015.214718</code> &nbsp;<sub>Published yesterday · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -315,7 +667,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261015.171958"><b>Cloud Matrix · 20261015.171958</b></a> &nbsp;<code>cloud-comms-matrix-20261015.171958</code> &nbsp;<sub>Published today · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261015.171958"><b>Cloud Matrix · 20261015.171958</b></a> &nbsp;<code>cloud-comms-matrix-20261015.171958</code> &nbsp;<sub>Published yesterday · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -326,7 +678,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261015.120153"><b>Cloud Matrix · 20261015.120153</b></a> &nbsp;<code>cloud-comms-matrix-20261015.120153</code> &nbsp;<sub>Published today · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261015.120153"><b>Cloud Matrix · 20261015.120153</b></a> &nbsp;<code>cloud-comms-matrix-20261015.120153</code> &nbsp;<sub>Published yesterday · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -337,7 +689,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261015.214358"><b>Cloud Mail · 20261015.214358</b></a> &nbsp;<code>cloud-comms-mail-20261015.214358</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261015.214358"><b>Cloud Mail · 20261015.214358</b></a> &nbsp;<code>cloud-comms-mail-20261015.214358</code> &nbsp;<sub>Published yesterday · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -348,7 +700,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261015.172029"><b>Cloud Mail · 20261015.172029</b></a> &nbsp;<code>cloud-comms-mail-20261015.172029</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261015.172029"><b>Cloud Mail · 20261015.172029</b></a> &nbsp;<code>cloud-comms-mail-20261015.172029</code> &nbsp;<sub>Published yesterday · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -359,7 +711,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261015.103430"><b>Cloud Mail · 20261015.103430</b></a> &nbsp;<code>cloud-comms-mail-20261015.103430</code> &nbsp;<sub>Published yesterday · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261015.103430"><b>Cloud Mail · 20261015.103430</b></a> &nbsp;<code>cloud-comms-mail-20261015.103430</code> &nbsp;<sub>Published 2 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -370,7 +722,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261015.214344"><b>Cloud Dialer · 20261015.214344</b></a> &nbsp;<code>cloud-comms-dialer-20261015.214344</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261015.214344"><b>Cloud Dialer · 20261015.214344</b></a> &nbsp;<code>cloud-comms-dialer-20261015.214344</code> &nbsp;<sub>Published yesterday · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -381,7 +733,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261015.172016"><b>Cloud Dialer · 20261015.172016</b></a> &nbsp;<code>cloud-comms-dialer-20261015.172016</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261015.172016"><b>Cloud Dialer · 20261015.172016</b></a> &nbsp;<code>cloud-comms-dialer-20261015.172016</code> &nbsp;<sub>Published yesterday · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -392,7 +744,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261015.120202"><b>Cloud Dialer · 20261015.120202</b></a> &nbsp;<code>cloud-comms-dialer-20261015.120202</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261015.120202"><b>Cloud Dialer · 20261015.120202</b></a> &nbsp;<code>cloud-comms-dialer-20261015.120202</code> &nbsp;<sub>Published yesterday · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -403,7 +755,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261015.214356"><b>Cloud Chat · 20261015.214356</b></a> &nbsp;<code>cloud-comms-chat-20261015.214356</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261015.214356"><b>Cloud Chat · 20261015.214356</b></a> &nbsp;<code>cloud-comms-chat-20261015.214356</code> &nbsp;<sub>Published yesterday · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -414,7 +766,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261015.172019"><b>Cloud Chat · 20261015.172019</b></a> &nbsp;<code>cloud-comms-chat-20261015.172019</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261015.172019"><b>Cloud Chat · 20261015.172019</b></a> &nbsp;<code>cloud-comms-chat-20261015.172019</code> &nbsp;<sub>Published yesterday · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -425,7 +777,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261015.120221"><b>Cloud Chat · 20261015.120221</b></a> &nbsp;<code>cloud-comms-chat-20261015.120221</code> &nbsp;<sub>Published today · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261015.120221"><b>Cloud Chat · 20261015.120221</b></a> &nbsp;<code>cloud-comms-chat-20261015.120221</code> &nbsp;<sub>Published yesterday · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -436,7 +788,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261014.200647"><b>Cloud Matrix · 20261014.200647</b></a> &nbsp;<code>cloud-comms-matrix-20261014.200647</code> &nbsp;<sub>Published yesterday · 1 asset · 9 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261014.200647"><b>Cloud Matrix · 20261014.200647</b></a> &nbsp;<code>cloud-comms-matrix-20261014.200647</code> &nbsp;<sub>Published 2 days ago · 1 asset · 9 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -447,7 +799,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261014.203640"><b>Cloud Mail · 20261014.203640</b></a> &nbsp;<code>cloud-comms-mail-20261014.203640</code> &nbsp;<sub>Published yesterday · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261014.203640"><b>Cloud Mail · 20261014.203640</b></a> &nbsp;<code>cloud-comms-mail-20261014.203640</code> &nbsp;<sub>Published 2 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -458,7 +810,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261014.200700"><b>Cloud Mail · 20261014.200700</b></a> &nbsp;<code>cloud-comms-mail-20261014.200700</code> &nbsp;<sub>Published yesterday · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261014.200700"><b>Cloud Mail · 20261014.200700</b></a> &nbsp;<code>cloud-comms-mail-20261014.200700</code> &nbsp;<sub>Published 2 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -480,7 +832,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261014.100930"><b>Cloud Mail · 20261014.100930</b></a> &nbsp;<code>cloud-comms-mail-20261014.100930</code> &nbsp;<sub>Published 2 days ago · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261014.100930"><b>Cloud Mail · 20261014.100930</b></a> &nbsp;<code>cloud-comms-mail-20261014.100930</code> &nbsp;<sub>Published 3 days ago · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -491,7 +843,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261014.085343"><b>Cloud Mail · 20261014.085343</b></a> &nbsp;<code>cloud-comms-mail-20261014.085343</code> &nbsp;<sub>Published 2 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261014.085343"><b>Cloud Mail · 20261014.085343</b></a> &nbsp;<code>cloud-comms-mail-20261014.085343</code> &nbsp;<sub>Published 3 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -502,7 +854,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261014.081734"><b>Cloud Mail · 20261014.081734</b></a> &nbsp;<code>cloud-comms-mail-20261014.081734</code> &nbsp;<sub>Published 2 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261014.081734"><b>Cloud Mail · 20261014.081734</b></a> &nbsp;<code>cloud-comms-mail-20261014.081734</code> &nbsp;<sub>Published 3 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -524,7 +876,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261014.200704"><b>Cloud Chat · 20261014.200704</b></a> &nbsp;<code>cloud-comms-chat-20261014.200704</code> &nbsp;<sub>Published yesterday · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261014.200704"><b>Cloud Chat · 20261014.200704</b></a> &nbsp;<code>cloud-comms-chat-20261014.200704</code> &nbsp;<sub>Published 2 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -546,7 +898,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261014.075908"><b>Cloud Chat · 20261014.075908</b></a> &nbsp;<code>cloud-comms-chat-20261014.075908</code> &nbsp;<sub>Published 2 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261014.075908"><b>Cloud Chat · 20261014.075908</b></a> &nbsp;<code>cloud-comms-chat-20261014.075908</code> &nbsp;<sub>Published 3 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -557,7 +909,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261013.213848"><b>Cloud Mail · 20261013.213848</b></a> &nbsp;<code>cloud-comms-mail-20261013.213848</code> &nbsp;<sub>Published 2 days ago · 1 asset · 5 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261013.213848"><b>Cloud Mail · 20261013.213848</b></a> &nbsp;<code>cloud-comms-mail-20261013.213848</code> &nbsp;<sub>Published 3 days ago · 1 asset · 5 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -568,7 +920,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261013.191939"><b>Cloud Mail · 20261013.191939</b></a> &nbsp;<code>cloud-comms-mail-20261013.191939</code> &nbsp;<sub>Published 2 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261013.191939"><b>Cloud Mail · 20261013.191939</b></a> &nbsp;<code>cloud-comms-mail-20261013.191939</code> &nbsp;<sub>Published 3 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -579,7 +931,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261013.184640"><b>Cloud Mail · 20261013.184640</b></a> &nbsp;<code>cloud-comms-mail-20261013.184640</code> &nbsp;<sub>Published 2 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261013.184640"><b>Cloud Mail · 20261013.184640</b></a> &nbsp;<code>cloud-comms-mail-20261013.184640</code> &nbsp;<sub>Published 3 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -590,7 +942,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261013.213840"><b>Cloud Dialer · 20261013.213840</b></a> &nbsp;<code>cloud-comms-dialer-20261013.213840</code> &nbsp;<sub>Published 2 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261013.213840"><b>Cloud Dialer · 20261013.213840</b></a> &nbsp;<code>cloud-comms-dialer-20261013.213840</code> &nbsp;<sub>Published 3 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -601,7 +953,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261013.213906"><b>Cloud Chat · 20261013.213906</b></a> &nbsp;<code>cloud-comms-chat-20261013.213906</code> &nbsp;<sub>Published 2 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261013.213906"><b>Cloud Chat · 20261013.213906</b></a> &nbsp;<code>cloud-comms-chat-20261013.213906</code> &nbsp;<sub>Published 3 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -612,7 +964,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261010.212413"><b>Cloud Mail · 20261010.212413</b></a> &nbsp;<code>cloud-comms-mail-20261010.212413</code> &nbsp;<sub>Published 5 days ago · 1 asset · 19 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261010.212413"><b>Cloud Mail · 20261010.212413</b></a> &nbsp;<code>cloud-comms-mail-20261010.212413</code> &nbsp;<sub>Published 6 days ago · 1 asset · 19 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -623,7 +975,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261010.130051"><b>Cloud Mail · 20261010.130051</b></a> &nbsp;<code>cloud-comms-mail-20261010.130051</code> &nbsp;<sub>Published 5 days ago · 1 asset · 5 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261010.130051"><b>Cloud Mail · 20261010.130051</b></a> &nbsp;<code>cloud-comms-mail-20261010.130051</code> &nbsp;<sub>Published 6 days ago · 1 asset · 5 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -634,7 +986,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261010.215900"><b>Cloud Dialer · 20261010.215900</b></a> &nbsp;<code>cloud-comms-dialer-20261010.215900</code> &nbsp;<sub>Published 5 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261010.215900"><b>Cloud Dialer · 20261010.215900</b></a> &nbsp;<code>cloud-comms-dialer-20261010.215900</code> &nbsp;<sub>Published 6 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -645,7 +997,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261010.130039"><b>Cloud Dialer · 20261010.130039</b></a> &nbsp;<code>cloud-comms-dialer-20261010.130039</code> &nbsp;<sub>Published 5 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261010.130039"><b>Cloud Dialer · 20261010.130039</b></a> &nbsp;<code>cloud-comms-dialer-20261010.130039</code> &nbsp;<sub>Published 6 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -656,7 +1008,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261010.215915"><b>Cloud Chat · 20261010.215915</b></a> &nbsp;<code>cloud-comms-chat-20261010.215915</code> &nbsp;<sub>Published 5 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261010.215915"><b>Cloud Chat · 20261010.215915</b></a> &nbsp;<code>cloud-comms-chat-20261010.215915</code> &nbsp;<sub>Published 6 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -667,7 +1019,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261010.130102"><b>Cloud Chat · 20261010.130102</b></a> &nbsp;<code>cloud-comms-chat-20261010.130102</code> &nbsp;<sub>Published 5 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261010.130102"><b>Cloud Chat · 20261010.130102</b></a> &nbsp;<code>cloud-comms-chat-20261010.130102</code> &nbsp;<sub>Published 6 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -678,7 +1030,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261009.225257"><b>Cloud Matrix · 20261009.225257</b></a> &nbsp;<code>cloud-comms-matrix-20261009.225257</code> &nbsp;<sub>Published 6 days ago · 1 asset · 5 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261009.225257"><b>Cloud Matrix · 20261009.225257</b></a> &nbsp;<code>cloud-comms-matrix-20261009.225257</code> &nbsp;<sub>Published 7 days ago · 1 asset · 5 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -689,7 +1041,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261009.134735"><b>Cloud Matrix · 20261009.134735</b></a> &nbsp;<code>cloud-comms-matrix-20261009.134735</code> &nbsp;<sub>Published 6 days ago · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261009.134735"><b>Cloud Matrix · 20261009.134735</b></a> &nbsp;<code>cloud-comms-matrix-20261009.134735</code> &nbsp;<sub>Published 7 days ago · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -700,7 +1052,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261009.233905"><b>Cloud Mail · 20261009.233905</b></a> &nbsp;<code>cloud-comms-mail-20261009.233905</code> &nbsp;<sub>Published 6 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261009.233905"><b>Cloud Mail · 20261009.233905</b></a> &nbsp;<code>cloud-comms-mail-20261009.233905</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -711,7 +1063,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261009.215147"><b>Cloud Mail · 20261009.215147</b></a> &nbsp;<code>cloud-comms-mail-20261009.215147</code> &nbsp;<sub>Published 6 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261009.215147"><b>Cloud Mail · 20261009.215147</b></a> &nbsp;<code>cloud-comms-mail-20261009.215147</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -722,7 +1074,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261009.142427"><b>Cloud Mail · 20261009.142427</b></a> &nbsp;<code>cloud-comms-mail-20261009.142427</code> &nbsp;<sub>Published 6 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261009.142427"><b>Cloud Mail · 20261009.142427</b></a> &nbsp;<code>cloud-comms-mail-20261009.142427</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -733,7 +1085,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261009.140308"><b>Cloud Mail · 20261009.140308</b></a> &nbsp;<code>cloud-comms-mail-20261009.140308</code> &nbsp;<sub>Published 6 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261009.140308"><b>Cloud Mail · 20261009.140308</b></a> &nbsp;<code>cloud-comms-mail-20261009.140308</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -744,7 +1096,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261009.225314"><b>Cloud Dialer · 20261009.225314</b></a> &nbsp;<code>cloud-comms-dialer-20261009.225314</code> &nbsp;<sub>Published 6 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261009.225314"><b>Cloud Dialer · 20261009.225314</b></a> &nbsp;<code>cloud-comms-dialer-20261009.225314</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -755,7 +1107,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261009.134335"><b>Cloud Dialer · 20261009.134335</b></a> &nbsp;<code>cloud-comms-dialer-20261009.134335</code> &nbsp;<sub>Published 6 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261009.134335"><b>Cloud Dialer · 20261009.134335</b></a> &nbsp;<code>cloud-comms-dialer-20261009.134335</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -766,7 +1118,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261009.225302"><b>Cloud Chat · 20261009.225302</b></a> &nbsp;<code>cloud-comms-chat-20261009.225302</code> &nbsp;<sub>Published 6 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261009.225302"><b>Cloud Chat · 20261009.225302</b></a> &nbsp;<code>cloud-comms-chat-20261009.225302</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -777,7 +1129,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261009.134356"><b>Cloud Chat · 20261009.134356</b></a> &nbsp;<code>cloud-comms-chat-20261009.134356</code> &nbsp;<sub>Published 6 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261009.134356"><b>Cloud Chat · 20261009.134356</b></a> &nbsp;<code>cloud-comms-chat-20261009.134356</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -788,7 +1140,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/lib-calc-native-20261008.120826"><b>Cloud-Lib-Calc native engine lib-calc-native-20261008.120826</b></a> &nbsp;<code>lib-calc-native-20261008.120826</code> &nbsp;<sub>Published 7 days ago · 2 assets</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/lib-calc-native-20261008.120826"><b>Cloud-Lib-Calc native engine lib-calc-native-20261008.120826</b></a> &nbsp;<code>lib-calc-native-20261008.120826</code> &nbsp;<sub>Published 8 days ago · 2 assets</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -800,7 +1152,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261008.233316"><b>Cloud Matrix · 20261008.233316</b></a> &nbsp;<code>cloud-comms-matrix-20261008.233316</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261008.233316"><b>Cloud Matrix · 20261008.233316</b></a> &nbsp;<code>cloud-comms-matrix-20261008.233316</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -811,7 +1163,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261008.135859"><b>Cloud Matrix · 20261008.135859</b></a> &nbsp;<code>cloud-comms-matrix-20261008.135859</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261008.135859"><b>Cloud Matrix · 20261008.135859</b></a> &nbsp;<code>cloud-comms-matrix-20261008.135859</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -822,7 +1174,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261008.063703"><b>Cloud Matrix · 20261008.063703</b></a> &nbsp;<code>cloud-comms-matrix-20261008.063703</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261008.063703"><b>Cloud Matrix · 20261008.063703</b></a> &nbsp;<code>cloud-comms-matrix-20261008.063703</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -833,7 +1185,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.213718"><b>Cloud Mail · 20261008.213718</b></a> &nbsp;<code>cloud-comms-mail-20261008.213718</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.213718"><b>Cloud Mail · 20261008.213718</b></a> &nbsp;<code>cloud-comms-mail-20261008.213718</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -844,7 +1196,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.211335"><b>Cloud Mail · 20261008.211335</b></a> &nbsp;<code>cloud-comms-mail-20261008.211335</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.211335"><b>Cloud Mail · 20261008.211335</b></a> &nbsp;<code>cloud-comms-mail-20261008.211335</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -855,7 +1207,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.205612"><b>Cloud Mail · 20261008.205612</b></a> &nbsp;<code>cloud-comms-mail-20261008.205612</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.205612"><b>Cloud Mail · 20261008.205612</b></a> &nbsp;<code>cloud-comms-mail-20261008.205612</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -866,7 +1218,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.164909"><b>Cloud Mail · 20261008.164909</b></a> &nbsp;<code>cloud-comms-mail-20261008.164909</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.164909"><b>Cloud Mail · 20261008.164909</b></a> &nbsp;<code>cloud-comms-mail-20261008.164909</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -877,7 +1229,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.133654"><b>Cloud Mail · 20261008.133654</b></a> &nbsp;<code>cloud-comms-mail-20261008.133654</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.133654"><b>Cloud Mail · 20261008.133654</b></a> &nbsp;<code>cloud-comms-mail-20261008.133654</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -888,7 +1240,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.130905"><b>Cloud Mail · 20261008.130905</b></a> &nbsp;<code>cloud-comms-mail-20261008.130905</code> &nbsp;<sub>Published 7 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.130905"><b>Cloud Mail · 20261008.130905</b></a> &nbsp;<code>cloud-comms-mail-20261008.130905</code> &nbsp;<sub>Published 8 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -899,7 +1251,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.102408"><b>Cloud Mail · 20261008.102408</b></a> &nbsp;<code>cloud-comms-mail-20261008.102408</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.102408"><b>Cloud Mail · 20261008.102408</b></a> &nbsp;<code>cloud-comms-mail-20261008.102408</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -910,7 +1262,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.063711"><b>Cloud Mail · 20261008.063711</b></a> &nbsp;<code>cloud-comms-mail-20261008.063711</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261008.063711"><b>Cloud Mail · 20261008.063711</b></a> &nbsp;<code>cloud-comms-mail-20261008.063711</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -921,7 +1273,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261008.233317"><b>Cloud Dialer · 20261008.233317</b></a> &nbsp;<code>cloud-comms-dialer-20261008.233317</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261008.233317"><b>Cloud Dialer · 20261008.233317</b></a> &nbsp;<code>cloud-comms-dialer-20261008.233317</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -932,7 +1284,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261008.135852"><b>Cloud Dialer · 20261008.135852</b></a> &nbsp;<code>cloud-comms-dialer-20261008.135852</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261008.135852"><b>Cloud Dialer · 20261008.135852</b></a> &nbsp;<code>cloud-comms-dialer-20261008.135852</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -943,7 +1295,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261008.063656"><b>Cloud Dialer · 20261008.063656</b></a> &nbsp;<code>cloud-comms-dialer-20261008.063656</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261008.063656"><b>Cloud Dialer · 20261008.063656</b></a> &nbsp;<code>cloud-comms-dialer-20261008.063656</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -954,7 +1306,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261008.233319"><b>Cloud Chat · 20261008.233319</b></a> &nbsp;<code>cloud-comms-chat-20261008.233319</code> &nbsp;<sub>Published 7 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261008.233319"><b>Cloud Chat · 20261008.233319</b></a> &nbsp;<code>cloud-comms-chat-20261008.233319</code> &nbsp;<sub>Published 8 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -965,7 +1317,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261008.135933"><b>Cloud Chat · 20261008.135933</b></a> &nbsp;<code>cloud-comms-chat-20261008.135933</code> &nbsp;<sub>Published 7 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261008.135933"><b>Cloud Chat · 20261008.135933</b></a> &nbsp;<code>cloud-comms-chat-20261008.135933</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -976,7 +1328,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261008.063712"><b>Cloud Chat · 20261008.063712</b></a> &nbsp;<code>cloud-comms-chat-20261008.063712</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261008.063712"><b>Cloud Chat · 20261008.063712</b></a> &nbsp;<code>cloud-comms-chat-20261008.063712</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -987,7 +1339,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261007.231818"><b>Cloud Matrix · 20261007.231818</b></a> &nbsp;<code>cloud-comms-matrix-20261007.231818</code> &nbsp;<sub>Published 8 days ago · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261007.231818"><b>Cloud Matrix · 20261007.231818</b></a> &nbsp;<code>cloud-comms-matrix-20261007.231818</code> &nbsp;<sub>Published 9 days ago · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -998,7 +1350,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261007.135105"><b>Cloud Matrix · 20261007.135105</b></a> &nbsp;<code>cloud-comms-matrix-20261007.135105</code> &nbsp;<sub>Published 8 days ago · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261007.135105"><b>Cloud Matrix · 20261007.135105</b></a> &nbsp;<code>cloud-comms-matrix-20261007.135105</code> &nbsp;<sub>Published 9 days ago · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1009,7 +1361,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261007.222313"><b>Cloud Mail · 20261007.222313</b></a> &nbsp;<code>cloud-comms-mail-20261007.222313</code> &nbsp;<sub>Published 8 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261007.222313"><b>Cloud Mail · 20261007.222313</b></a> &nbsp;<code>cloud-comms-mail-20261007.222313</code> &nbsp;<sub>Published 9 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1020,7 +1372,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261007.135121"><b>Cloud Mail · 20261007.135121</b></a> &nbsp;<code>cloud-comms-mail-20261007.135121</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261007.135121"><b>Cloud Mail · 20261007.135121</b></a> &nbsp;<code>cloud-comms-mail-20261007.135121</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1031,7 +1383,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261007.231759"><b>Cloud Dialer · 20261007.231759</b></a> &nbsp;<code>cloud-comms-dialer-20261007.231759</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261007.231759"><b>Cloud Dialer · 20261007.231759</b></a> &nbsp;<code>cloud-comms-dialer-20261007.231759</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1042,7 +1394,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261007.135102"><b>Cloud Dialer · 20261007.135102</b></a> &nbsp;<code>cloud-comms-dialer-20261007.135102</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261007.135102"><b>Cloud Dialer · 20261007.135102</b></a> &nbsp;<code>cloud-comms-dialer-20261007.135102</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1053,7 +1405,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261007.231853"><b>Cloud Chat · 20261007.231853</b></a> &nbsp;<code>cloud-comms-chat-20261007.231853</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261007.231853"><b>Cloud Chat · 20261007.231853</b></a> &nbsp;<code>cloud-comms-chat-20261007.231853</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1064,7 +1416,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261007.135111"><b>Cloud Chat · 20261007.135111</b></a> &nbsp;<code>cloud-comms-chat-20261007.135111</code> &nbsp;<sub>Published 8 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261007.135111"><b>Cloud Chat · 20261007.135111</b></a> &nbsp;<code>cloud-comms-chat-20261007.135111</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1075,7 +1427,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261007.062441"><b>Cloud Matrix · 20261007.062441</b></a> &nbsp;<code>cloud-comms-matrix-20261007.062441</code> &nbsp;<sub>Published 9 days ago · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261007.062441"><b>Cloud Matrix · 20261007.062441</b></a> &nbsp;<code>cloud-comms-matrix-20261007.062441</code> &nbsp;<sub>Published 10 days ago · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1086,7 +1438,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261006.163317"><b>Cloud Matrix · 20261006.163317</b></a> &nbsp;<code>cloud-comms-matrix-20261006.163317</code> &nbsp;<sub>Published 9 days ago · 1 asset · 5 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261006.163317"><b>Cloud Matrix · 20261006.163317</b></a> &nbsp;<code>cloud-comms-matrix-20261006.163317</code> &nbsp;<sub>Published 10 days ago · 1 asset · 5 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1097,7 +1449,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261007.062444"><b>Cloud Mail · 20261007.062444</b></a> &nbsp;<code>cloud-comms-mail-20261007.062444</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261007.062444"><b>Cloud Mail · 20261007.062444</b></a> &nbsp;<code>cloud-comms-mail-20261007.062444</code> &nbsp;<sub>Published 10 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1108,7 +1460,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261006.164812"><b>Cloud Mail · 20261006.164812</b></a> &nbsp;<code>cloud-comms-mail-20261006.164812</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261006.164812"><b>Cloud Mail · 20261006.164812</b></a> &nbsp;<code>cloud-comms-mail-20261006.164812</code> &nbsp;<sub>Published 10 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1119,7 +1471,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261006.135650"><b>Cloud Mail · 20261006.135650</b></a> &nbsp;<code>cloud-comms-mail-20261006.135650</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261006.135650"><b>Cloud Mail · 20261006.135650</b></a> &nbsp;<code>cloud-comms-mail-20261006.135650</code> &nbsp;<sub>Published 10 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1130,7 +1482,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261006.132106"><b>Cloud Mail · 20261006.132106</b></a> &nbsp;<code>cloud-comms-mail-20261006.132106</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261006.132106"><b>Cloud Mail · 20261006.132106</b></a> &nbsp;<code>cloud-comms-mail-20261006.132106</code> &nbsp;<sub>Published 10 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1141,7 +1493,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261006.043957"><b>Cloud Mail · 20261006.043957</b></a> &nbsp;<code>cloud-comms-mail-20261006.043957</code> &nbsp;<sub>Published 10 days ago · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261006.043957"><b>Cloud Mail · 20261006.043957</b></a> &nbsp;<code>cloud-comms-mail-20261006.043957</code> &nbsp;<sub>Published 11 days ago · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1152,7 +1504,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261007.062451"><b>Cloud Dialer · 20261007.062451</b></a> &nbsp;<code>cloud-comms-dialer-20261007.062451</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261007.062451"><b>Cloud Dialer · 20261007.062451</b></a> &nbsp;<code>cloud-comms-dialer-20261007.062451</code> &nbsp;<sub>Published 10 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1163,7 +1515,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261006.183620"><b>Cloud Dialer · 20261006.183620</b></a> &nbsp;<code>cloud-comms-dialer-20261006.183620</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261006.183620"><b>Cloud Dialer · 20261006.183620</b></a> &nbsp;<code>cloud-comms-dialer-20261006.183620</code> &nbsp;<sub>Published 10 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1174,7 +1526,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261006.132057"><b>Cloud Dialer · 20261006.132057</b></a> &nbsp;<code>cloud-comms-dialer-20261006.132057</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261006.132057"><b>Cloud Dialer · 20261006.132057</b></a> &nbsp;<code>cloud-comms-dialer-20261006.132057</code> &nbsp;<sub>Published 10 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1185,7 +1537,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261007.062439"><b>Cloud Chat · 20261007.062439</b></a> &nbsp;<code>cloud-comms-chat-20261007.062439</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261007.062439"><b>Cloud Chat · 20261007.062439</b></a> &nbsp;<code>cloud-comms-chat-20261007.062439</code> &nbsp;<sub>Published 10 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1196,7 +1548,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261006.183625"><b>Cloud Chat · 20261006.183625</b></a> &nbsp;<code>cloud-comms-chat-20261006.183625</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261006.183625"><b>Cloud Chat · 20261006.183625</b></a> &nbsp;<code>cloud-comms-chat-20261006.183625</code> &nbsp;<sub>Published 10 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1207,7 +1559,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261006.132124"><b>Cloud Chat · 20261006.132124</b></a> &nbsp;<code>cloud-comms-chat-20261006.132124</code> &nbsp;<sub>Published 9 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261006.132124"><b>Cloud Chat · 20261006.132124</b></a> &nbsp;<code>cloud-comms-chat-20261006.132124</code> &nbsp;<sub>Published 10 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1218,7 +1570,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261003.215130"><b>Cloud Matrix · 20261003.215130</b></a> &nbsp;<code>cloud-comms-matrix-20261003.215130</code> &nbsp;<sub>Published 12 days ago · 1 asset · 18 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261003.215130"><b>Cloud Matrix · 20261003.215130</b></a> &nbsp;<code>cloud-comms-matrix-20261003.215130</code> &nbsp;<sub>Published 13 days ago · 1 asset · 18 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1229,7 +1581,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261003.154414"><b>Cloud Matrix · 20261003.154414</b></a> &nbsp;<code>cloud-comms-matrix-20261003.154414</code> &nbsp;<sub>Published 12 days ago · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261003.154414"><b>Cloud Matrix · 20261003.154414</b></a> &nbsp;<code>cloud-comms-matrix-20261003.154414</code> &nbsp;<sub>Published 13 days ago · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1240,7 +1592,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261003.122449"><b>Cloud Matrix · 20261003.122449</b></a> &nbsp;<code>cloud-comms-matrix-20261003.122449</code> &nbsp;<sub>Published 12 days ago · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261003.122449"><b>Cloud Matrix · 20261003.122449</b></a> &nbsp;<code>cloud-comms-matrix-20261003.122449</code> &nbsp;<sub>Published 13 days ago · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1251,7 +1603,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261003.102331"><b>Cloud Matrix · 20261003.102331</b></a> &nbsp;<code>cloud-comms-matrix-20261003.102331</code> &nbsp;<sub>Published 13 days ago · 1 asset · 4 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261003.102331"><b>Cloud Matrix · 20261003.102331</b></a> &nbsp;<code>cloud-comms-matrix-20261003.102331</code> &nbsp;<sub>Published 14 days ago · 1 asset · 4 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1262,7 +1614,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.214403"><b>Cloud Mail · 20261003.214403</b></a> &nbsp;<code>cloud-comms-mail-20261003.214403</code> &nbsp;<sub>Published 12 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.214403"><b>Cloud Mail · 20261003.214403</b></a> &nbsp;<code>cloud-comms-mail-20261003.214403</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1273,7 +1625,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.161431"><b>Cloud Mail · 20261003.161431</b></a> &nbsp;<code>cloud-comms-mail-20261003.161431</code> &nbsp;<sub>Published 12 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.161431"><b>Cloud Mail · 20261003.161431</b></a> &nbsp;<code>cloud-comms-mail-20261003.161431</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1284,7 +1636,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.154407"><b>Cloud Mail · 20261003.154407</b></a> &nbsp;<code>cloud-comms-mail-20261003.154407</code> &nbsp;<sub>Published 12 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.154407"><b>Cloud Mail · 20261003.154407</b></a> &nbsp;<code>cloud-comms-mail-20261003.154407</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1295,7 +1647,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.152005"><b>Cloud Mail · 20261003.152005</b></a> &nbsp;<code>cloud-comms-mail-20261003.152005</code> &nbsp;<sub>Published 12 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.152005"><b>Cloud Mail · 20261003.152005</b></a> &nbsp;<code>cloud-comms-mail-20261003.152005</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1306,7 +1658,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.150721"><b>Cloud Mail · 20261003.150721</b></a> &nbsp;<code>cloud-comms-mail-20261003.150721</code> &nbsp;<sub>Published 12 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.150721"><b>Cloud Mail · 20261003.150721</b></a> &nbsp;<code>cloud-comms-mail-20261003.150721</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1317,7 +1669,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.122149"><b>Cloud Mail · 20261003.122149</b></a> &nbsp;<code>cloud-comms-mail-20261003.122149</code> &nbsp;<sub>Published 12 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.122149"><b>Cloud Mail · 20261003.122149</b></a> &nbsp;<code>cloud-comms-mail-20261003.122149</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1328,7 +1680,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.120604"><b>Cloud Mail · 20261003.120604</b></a> &nbsp;<code>cloud-comms-mail-20261003.120604</code> &nbsp;<sub>Published 12 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.120604"><b>Cloud Mail · 20261003.120604</b></a> &nbsp;<code>cloud-comms-mail-20261003.120604</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1339,7 +1691,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.102753"><b>Cloud Mail · 20261003.102753</b></a> &nbsp;<code>cloud-comms-mail-20261003.102753</code> &nbsp;<sub>Published 13 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261003.102753"><b>Cloud Mail · 20261003.102753</b></a> &nbsp;<code>cloud-comms-mail-20261003.102753</code> &nbsp;<sub>Published 14 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1350,7 +1702,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.214357"><b>Cloud Dialer · 20261003.214357</b></a> &nbsp;<code>cloud-comms-dialer-20261003.214357</code> &nbsp;<sub>Published 12 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.214357"><b>Cloud Dialer · 20261003.214357</b></a> &nbsp;<code>cloud-comms-dialer-20261003.214357</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1361,7 +1713,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.154351"><b>Cloud Dialer · 20261003.154351</b></a> &nbsp;<code>cloud-comms-dialer-20261003.154351</code> &nbsp;<sub>Published 12 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.154351"><b>Cloud Dialer · 20261003.154351</b></a> &nbsp;<code>cloud-comms-dialer-20261003.154351</code> &nbsp;<sub>Published 13 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1372,7 +1724,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.122446"><b>Cloud Dialer · 20261003.122446</b></a> &nbsp;<code>cloud-comms-dialer-20261003.122446</code> &nbsp;<sub>Published 12 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.122446"><b>Cloud Dialer · 20261003.122446</b></a> &nbsp;<code>cloud-comms-dialer-20261003.122446</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1383,7 +1735,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.120629"><b>Cloud Dialer · 20261003.120629</b></a> &nbsp;<code>cloud-comms-dialer-20261003.120629</code> &nbsp;<sub>Published 12 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.120629"><b>Cloud Dialer · 20261003.120629</b></a> &nbsp;<code>cloud-comms-dialer-20261003.120629</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1394,18 +1746,18 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.115611"><b>Cloud Dialer · 20261003.115611</b></a> &nbsp;<code>cloud-comms-dialer-20261003.115611</code> &nbsp;<sub>Published 12 days ago · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.115611"><b>Cloud Dialer · 20261003.115611</b></a> &nbsp;<code>cloud-comms-dialer-20261003.115611</code> &nbsp;<sub>Published 13 days ago · 1 asset · 4 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261003.115611/cloud-comms-dialer.apk) | 6.4 MB | 3 | Oct 3, 2026 |
+| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261003.115611/cloud-comms-dialer.apk) | 6.4 MB | 4 | Oct 3, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261003.115611.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/cloud-comms-dialer-20261003.115611.tar.gz)</sub>
 
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.114357"><b>Cloud Dialer · 20261003.114357</b></a> &nbsp;<code>cloud-comms-dialer-20261003.114357</code> &nbsp;<sub>Published 12 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.114357"><b>Cloud Dialer · 20261003.114357</b></a> &nbsp;<code>cloud-comms-dialer-20261003.114357</code> &nbsp;<sub>Published 13 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1416,7 +1768,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.102304"><b>Cloud Dialer · 20261003.102304</b></a> &nbsp;<code>cloud-comms-dialer-20261003.102304</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.102304"><b>Cloud Dialer · 20261003.102304</b></a> &nbsp;<code>cloud-comms-dialer-20261003.102304</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1427,7 +1779,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.101556"><b>Cloud Dialer · 20261003.101556</b></a> &nbsp;<code>cloud-comms-dialer-20261003.101556</code> &nbsp;<sub>Published 13 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261003.101556"><b>Cloud Dialer · 20261003.101556</b></a> &nbsp;<code>cloud-comms-dialer-20261003.101556</code> &nbsp;<sub>Published 14 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1438,7 +1790,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261003.214411"><b>Cloud Chat · 20261003.214411</b></a> &nbsp;<code>cloud-comms-chat-20261003.214411</code> &nbsp;<sub>Published 12 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261003.214411"><b>Cloud Chat · 20261003.214411</b></a> &nbsp;<code>cloud-comms-chat-20261003.214411</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1449,7 +1801,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261003.161237"><b>Cloud Chat · 20261003.161237</b></a> &nbsp;<code>cloud-comms-chat-20261003.161237</code> &nbsp;<sub>Published 12 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261003.161237"><b>Cloud Chat · 20261003.161237</b></a> &nbsp;<code>cloud-comms-chat-20261003.161237</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1460,7 +1812,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261003.122532"><b>Cloud Chat · 20261003.122532</b></a> &nbsp;<code>cloud-comms-chat-20261003.122532</code> &nbsp;<sub>Published 12 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261003.122532"><b>Cloud Chat · 20261003.122532</b></a> &nbsp;<code>cloud-comms-chat-20261003.122532</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1471,7 +1823,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261003.102352"><b>Cloud Chat · 20261003.102352</b></a> &nbsp;<code>cloud-comms-chat-20261003.102352</code> &nbsp;<sub>Published 13 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261003.102352"><b>Cloud Chat · 20261003.102352</b></a> &nbsp;<code>cloud-comms-chat-20261003.102352</code> &nbsp;<sub>Published 14 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1482,12 +1834,12 @@
 </details>
 
 <details>
-<summary>🧪 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/nixdroid-bootstrap-7fc927a68576"><b>nixdroid-bootstrap-7fc927a68576</b></a> &nbsp;<code>nixdroid-bootstrap-7fc927a68576</code> &nbsp;<sub>Published 12 days ago · 4 assets · 61 downloads · prerelease</sub></summary>
+<summary>🧪 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/nixdroid-bootstrap-7fc927a68576"><b>nixdroid-bootstrap-7fc927a68576</b></a> &nbsp;<code>nixdroid-bootstrap-7fc927a68576</code> &nbsp;<sub>Published 13 days ago · 4 assets · 79 downloads · prerelease</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`bootstrap-x86_64.zip`](https://github.com/diegonmarcos/cloud-u-android/releases/download/nixdroid-bootstrap-7fc927a68576/bootstrap-x86_64.zip) | 66.4 MB | 30 | Oct 3, 2026 |
-| [`bootstrap-aarch64.zip`](https://github.com/diegonmarcos/cloud-u-android/releases/download/nixdroid-bootstrap-7fc927a68576/bootstrap-aarch64.zip) | 64.9 MB | 29 | Oct 3, 2026 |
+| [`bootstrap-x86_64.zip`](https://github.com/diegonmarcos/cloud-u-android/releases/download/nixdroid-bootstrap-7fc927a68576/bootstrap-x86_64.zip) | 66.4 MB | 39 | Oct 3, 2026 |
+| [`bootstrap-aarch64.zip`](https://github.com/diegonmarcos/cloud-u-android/releases/download/nixdroid-bootstrap-7fc927a68576/bootstrap-aarch64.zip) | 64.9 MB | 38 | Oct 3, 2026 |
 | [`bootstrap-aarch64.zip.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/nixdroid-bootstrap-7fc927a68576/bootstrap-aarch64.zip.sha256) | 0 KB | 1 | Oct 3, 2026 |
 | [`bootstrap-x86_64.zip.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/nixdroid-bootstrap-7fc927a68576/bootstrap-x86_64.zip.sha256) | 0 KB | 1 | Oct 3, 2026 |
 
@@ -1508,19 +1860,19 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/lib-calc-native-20261002.105615"><b>Cloud-Lib-Calc native engine lib-calc-native-20261002.105615</b></a> &nbsp;<code>lib-calc-native-20261002.105615</code> &nbsp;<sub>Published 14 days ago · 2 assets · 92 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/lib-calc-native-20261002.105615"><b>Cloud-Lib-Calc native engine lib-calc-native-20261002.105615</b></a> &nbsp;<code>lib-calc-native-20261002.105615</code> &nbsp;<sub>Published 14 days ago · 2 assets · 96 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`libqalc-arm64-v8a.so`](https://github.com/diegonmarcos/cloud-u-android/releases/download/lib-calc-native-20261002.105615/libqalc-arm64-v8a.so) | 7.6 MB | 46 | Oct 2, 2026 |
-| [`libqalc-x86_64.so`](https://github.com/diegonmarcos/cloud-u-android/releases/download/lib-calc-native-20261002.105615/libqalc-x86_64.so) | 8.3 MB | 46 | Oct 2, 2026 |
+| [`libqalc-arm64-v8a.so`](https://github.com/diegonmarcos/cloud-u-android/releases/download/lib-calc-native-20261002.105615/libqalc-arm64-v8a.so) | 7.6 MB | 48 | Oct 2, 2026 |
+| [`libqalc-x86_64.so`](https://github.com/diegonmarcos/cloud-u-android/releases/download/lib-calc-native-20261002.105615/libqalc-x86_64.so) | 8.3 MB | 48 | Oct 2, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/lib-calc-native-20261002.105615.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/lib-calc-native-20261002.105615.tar.gz)</sub>
 
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261002.170032"><b>Cloud Matrix · 20261002.170032</b></a> &nbsp;<code>cloud-comms-matrix-20261002.170032</code> &nbsp;<sub>Published 13 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261002.170032"><b>Cloud Matrix · 20261002.170032</b></a> &nbsp;<code>cloud-comms-matrix-20261002.170032</code> &nbsp;<sub>Published 14 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1531,7 +1883,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261002.135841"><b>Cloud Matrix · 20261002.135841</b></a> &nbsp;<code>cloud-comms-matrix-20261002.135841</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261002.135841"><b>Cloud Matrix · 20261002.135841</b></a> &nbsp;<code>cloud-comms-matrix-20261002.135841</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1542,7 +1894,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261002.081354"><b>Cloud Matrix · 20261002.081354</b></a> &nbsp;<code>cloud-comms-matrix-20261002.081354</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261002.081354"><b>Cloud Matrix · 20261002.081354</b></a> &nbsp;<code>cloud-comms-matrix-20261002.081354</code> &nbsp;<sub>Published 15 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1553,7 +1905,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261002.002041"><b>Cloud Matrix · 20261002.002041</b></a> &nbsp;<code>cloud-comms-matrix-20261002.002041</code> &nbsp;<sub>Published 14 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261002.002041"><b>Cloud Matrix · 20261002.002041</b></a> &nbsp;<code>cloud-comms-matrix-20261002.002041</code> &nbsp;<sub>Published 15 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1564,7 +1916,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.195241"><b>Cloud Mail · 20261002.195241</b></a> &nbsp;<code>cloud-comms-mail-20261002.195241</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.195241"><b>Cloud Mail · 20261002.195241</b></a> &nbsp;<code>cloud-comms-mail-20261002.195241</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1575,7 +1927,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.165858"><b>Cloud Mail · 20261002.165858</b></a> &nbsp;<code>cloud-comms-mail-20261002.165858</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.165858"><b>Cloud Mail · 20261002.165858</b></a> &nbsp;<code>cloud-comms-mail-20261002.165858</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1586,7 +1938,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.144916"><b>Cloud Mail · 20261002.144916</b></a> &nbsp;<code>cloud-comms-mail-20261002.144916</code> &nbsp;<sub>Published 13 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.144916"><b>Cloud Mail · 20261002.144916</b></a> &nbsp;<code>cloud-comms-mail-20261002.144916</code> &nbsp;<sub>Published 14 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1597,7 +1949,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.135802"><b>Cloud Mail · 20261002.135802</b></a> &nbsp;<code>cloud-comms-mail-20261002.135802</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.135802"><b>Cloud Mail · 20261002.135802</b></a> &nbsp;<code>cloud-comms-mail-20261002.135802</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1608,7 +1960,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.124939"><b>Cloud Mail · 20261002.124939</b></a> &nbsp;<code>cloud-comms-mail-20261002.124939</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.124939"><b>Cloud Mail · 20261002.124939</b></a> &nbsp;<code>cloud-comms-mail-20261002.124939</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1619,7 +1971,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.122640"><b>Cloud Mail · 20261002.122640</b></a> &nbsp;<code>cloud-comms-mail-20261002.122640</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.122640"><b>Cloud Mail · 20261002.122640</b></a> &nbsp;<code>cloud-comms-mail-20261002.122640</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1630,7 +1982,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.085403"><b>Cloud Mail · 20261002.085403</b></a> &nbsp;<code>cloud-comms-mail-20261002.085403</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.085403"><b>Cloud Mail · 20261002.085403</b></a> &nbsp;<code>cloud-comms-mail-20261002.085403</code> &nbsp;<sub>Published 15 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1641,7 +1993,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.081351"><b>Cloud Mail · 20261002.081351</b></a> &nbsp;<code>cloud-comms-mail-20261002.081351</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.081351"><b>Cloud Mail · 20261002.081351</b></a> &nbsp;<code>cloud-comms-mail-20261002.081351</code> &nbsp;<sub>Published 15 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1652,7 +2004,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.001530"><b>Cloud Mail · 20261002.001530</b></a> &nbsp;<code>cloud-comms-mail-20261002.001530</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261002.001530"><b>Cloud Mail · 20261002.001530</b></a> &nbsp;<code>cloud-comms-mail-20261002.001530</code> &nbsp;<sub>Published 15 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1663,7 +2015,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.235808"><b>Cloud Mail · 20261001.235808</b></a> &nbsp;<code>cloud-comms-mail-20261001.235808</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.235808"><b>Cloud Mail · 20261001.235808</b></a> &nbsp;<code>cloud-comms-mail-20261001.235808</code> &nbsp;<sub>Published 15 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1674,7 +2026,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.171150"><b>Cloud Dialer · 20261002.171150</b></a> &nbsp;<code>cloud-comms-dialer-20261002.171150</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.171150"><b>Cloud Dialer · 20261002.171150</b></a> &nbsp;<code>cloud-comms-dialer-20261002.171150</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1685,7 +2037,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.140343"><b>Cloud Dialer · 20261002.140343</b></a> &nbsp;<code>cloud-comms-dialer-20261002.140343</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.140343"><b>Cloud Dialer · 20261002.140343</b></a> &nbsp;<code>cloud-comms-dialer-20261002.140343</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1696,7 +2048,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.135824"><b>Cloud Dialer · 20261002.135824</b></a> &nbsp;<code>cloud-comms-dialer-20261002.135824</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.135824"><b>Cloud Dialer · 20261002.135824</b></a> &nbsp;<code>cloud-comms-dialer-20261002.135824</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1707,7 +2059,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.081352"><b>Cloud Dialer · 20261002.081352</b></a> &nbsp;<code>cloud-comms-dialer-20261002.081352</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.081352"><b>Cloud Dialer · 20261002.081352</b></a> &nbsp;<code>cloud-comms-dialer-20261002.081352</code> &nbsp;<sub>Published 15 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1718,7 +2070,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.001524"><b>Cloud Dialer · 20261002.001524</b></a> &nbsp;<code>cloud-comms-dialer-20261002.001524</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261002.001524"><b>Cloud Dialer · 20261002.001524</b></a> &nbsp;<code>cloud-comms-dialer-20261002.001524</code> &nbsp;<sub>Published 15 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1729,7 +2081,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261001.235801"><b>Cloud Dialer · 20261001.235801</b></a> &nbsp;<code>cloud-comms-dialer-20261001.235801</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261001.235801"><b>Cloud Dialer · 20261001.235801</b></a> &nbsp;<code>cloud-comms-dialer-20261001.235801</code> &nbsp;<sub>Published 15 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1740,7 +2092,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261002.170208"><b>Cloud Chat · 20261002.170208</b></a> &nbsp;<code>cloud-comms-chat-20261002.170208</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261002.170208"><b>Cloud Chat · 20261002.170208</b></a> &nbsp;<code>cloud-comms-chat-20261002.170208</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1751,7 +2103,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261002.140315"><b>Cloud Chat · 20261002.140315</b></a> &nbsp;<code>cloud-comms-chat-20261002.140315</code> &nbsp;<sub>Published 13 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261002.140315"><b>Cloud Chat · 20261002.140315</b></a> &nbsp;<code>cloud-comms-chat-20261002.140315</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1762,7 +2114,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261002.081704"><b>Cloud Chat · 20261002.081704</b></a> &nbsp;<code>cloud-comms-chat-20261002.081704</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261002.081704"><b>Cloud Chat · 20261002.081704</b></a> &nbsp;<code>cloud-comms-chat-20261002.081704</code> &nbsp;<sub>Published 15 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1773,7 +2125,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261002.001615"><b>Cloud Chat · 20261002.001615</b></a> &nbsp;<code>cloud-comms-chat-20261002.001615</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261002.001615"><b>Cloud Chat · 20261002.001615</b></a> &nbsp;<code>cloud-comms-chat-20261002.001615</code> &nbsp;<sub>Published 15 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1784,7 +2136,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261001.162805"><b>Cloud Matrix · 20261001.162805</b></a> &nbsp;<code>cloud-comms-matrix-20261001.162805</code> &nbsp;<sub>Published 14 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261001.162805"><b>Cloud Matrix · 20261001.162805</b></a> &nbsp;<code>cloud-comms-matrix-20261001.162805</code> &nbsp;<sub>Published 15 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1795,7 +2147,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.162756"><b>Cloud Mail · 20261001.162756</b></a> &nbsp;<code>cloud-comms-mail-20261001.162756</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.162756"><b>Cloud Mail · 20261001.162756</b></a> &nbsp;<code>cloud-comms-mail-20261001.162756</code> &nbsp;<sub>Published 15 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1817,7 +2169,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.101149"><b>Cloud Mail · 20261001.101149</b></a> &nbsp;<code>cloud-comms-mail-20261001.101149</code> &nbsp;<sub>Published 15 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.101149"><b>Cloud Mail · 20261001.101149</b></a> &nbsp;<code>cloud-comms-mail-20261001.101149</code> &nbsp;<sub>Published 16 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1828,7 +2180,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.091547"><b>Cloud Mail · 20261001.091547</b></a> &nbsp;<code>cloud-comms-mail-20261001.091547</code> &nbsp;<sub>Published 15 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261001.091547"><b>Cloud Mail · 20261001.091547</b></a> &nbsp;<code>cloud-comms-mail-20261001.091547</code> &nbsp;<sub>Published 16 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1839,7 +2191,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261001.162616"><b>Cloud Dialer · 20261001.162616</b></a> &nbsp;<code>cloud-comms-dialer-20261001.162616</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261001.162616"><b>Cloud Dialer · 20261001.162616</b></a> &nbsp;<code>cloud-comms-dialer-20261001.162616</code> &nbsp;<sub>Published 15 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1850,7 +2202,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261001.162007"><b>Cloud Dialer · 20261001.162007</b></a> &nbsp;<code>cloud-comms-dialer-20261001.162007</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261001.162007"><b>Cloud Dialer · 20261001.162007</b></a> &nbsp;<code>cloud-comms-dialer-20261001.162007</code> &nbsp;<sub>Published 15 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1861,7 +2213,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261001.162736"><b>Cloud Chat · 20261001.162736</b></a> &nbsp;<code>cloud-comms-chat-20261001.162736</code> &nbsp;<sub>Published 14 days ago · 1 asset · 1 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261001.162736"><b>Cloud Chat · 20261001.162736</b></a> &nbsp;<code>cloud-comms-chat-20261001.162736</code> &nbsp;<sub>Published 15 days ago · 1 asset · 1 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1872,7 +2224,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260930.233945"><b>Cloud Mail · 20260930.233945</b></a> &nbsp;<code>cloud-comms-mail-20260930.233945</code> &nbsp;<sub>Published 15 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260930.233945"><b>Cloud Mail · 20260930.233945</b></a> &nbsp;<code>cloud-comms-mail-20260930.233945</code> &nbsp;<sub>Published 16 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1894,7 +2246,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260930.090019"><b>Cloud Mail · 20260930.090019</b></a> &nbsp;<code>cloud-comms-mail-20260930.090019</code> &nbsp;<sub>Published 16 days ago · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260930.090019"><b>Cloud Mail · 20260930.090019</b></a> &nbsp;<code>cloud-comms-mail-20260930.090019</code> &nbsp;<sub>Published 17 days ago · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1905,7 +2257,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260928.180648"><b>Cloud Matrix · 20260928.180648</b></a> &nbsp;<code>cloud-comms-matrix-20260928.180648</code> &nbsp;<sub>Published 17 days ago · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260928.180648"><b>Cloud Matrix · 20260928.180648</b></a> &nbsp;<code>cloud-comms-matrix-20260928.180648</code> &nbsp;<sub>Published 18 days ago · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1916,7 +2268,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260928.174710"><b>Cloud Matrix · 20260928.174710</b></a> &nbsp;<code>cloud-comms-matrix-20260928.174710</code> &nbsp;<sub>Published 17 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260928.174710"><b>Cloud Matrix · 20260928.174710</b></a> &nbsp;<code>cloud-comms-matrix-20260928.174710</code> &nbsp;<sub>Published 18 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1927,7 +2279,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260928.172353"><b>Cloud Matrix · 20260928.172353</b></a> &nbsp;<code>cloud-comms-matrix-20260928.172353</code> &nbsp;<sub>Published 17 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260928.172353"><b>Cloud Matrix · 20260928.172353</b></a> &nbsp;<code>cloud-comms-matrix-20260928.172353</code> &nbsp;<sub>Published 18 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1938,7 +2290,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260928.180645"><b>Cloud Mail · 20260928.180645</b></a> &nbsp;<code>cloud-comms-mail-20260928.180645</code> &nbsp;<sub>Published 17 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260928.180645"><b>Cloud Mail · 20260928.180645</b></a> &nbsp;<code>cloud-comms-mail-20260928.180645</code> &nbsp;<sub>Published 18 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1949,7 +2301,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260928.152256"><b>Cloud Mail · 20260928.152256</b></a> &nbsp;<code>cloud-comms-mail-20260928.152256</code> &nbsp;<sub>Published 17 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260928.152256"><b>Cloud Mail · 20260928.152256</b></a> &nbsp;<code>cloud-comms-mail-20260928.152256</code> &nbsp;<sub>Published 18 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1960,7 +2312,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260928.132649"><b>Cloud Mail · 20260928.132649</b></a> &nbsp;<code>cloud-comms-mail-20260928.132649</code> &nbsp;<sub>Published 17 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260928.132649"><b>Cloud Mail · 20260928.132649</b></a> &nbsp;<code>cloud-comms-mail-20260928.132649</code> &nbsp;<sub>Published 18 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1971,7 +2323,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260928.125953"><b>Cloud Mail · 20260928.125953</b></a> &nbsp;<code>cloud-comms-mail-20260928.125953</code> &nbsp;<sub>Published 17 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260928.125953"><b>Cloud Mail · 20260928.125953</b></a> &nbsp;<code>cloud-comms-mail-20260928.125953</code> &nbsp;<sub>Published 18 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1982,7 +2334,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260928.180650"><b>Cloud Dialer · 20260928.180650</b></a> &nbsp;<code>cloud-comms-dialer-20260928.180650</code> &nbsp;<sub>Published 17 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260928.180650"><b>Cloud Dialer · 20260928.180650</b></a> &nbsp;<code>cloud-comms-dialer-20260928.180650</code> &nbsp;<sub>Published 18 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -1993,7 +2345,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260928.174715"><b>Cloud Dialer · 20260928.174715</b></a> &nbsp;<code>cloud-comms-dialer-20260928.174715</code> &nbsp;<sub>Published 17 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260928.174715"><b>Cloud Dialer · 20260928.174715</b></a> &nbsp;<code>cloud-comms-dialer-20260928.174715</code> &nbsp;<sub>Published 18 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2004,7 +2356,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260928.172355"><b>Cloud Dialer · 20260928.172355</b></a> &nbsp;<code>cloud-comms-dialer-20260928.172355</code> &nbsp;<sub>Published 17 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260928.172355"><b>Cloud Dialer · 20260928.172355</b></a> &nbsp;<code>cloud-comms-dialer-20260928.172355</code> &nbsp;<sub>Published 18 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2015,7 +2367,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260928.181421"><b>Cloud Chat · 20260928.181421</b></a> &nbsp;<code>cloud-comms-chat-20260928.181421</code> &nbsp;<sub>Published 17 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260928.181421"><b>Cloud Chat · 20260928.181421</b></a> &nbsp;<code>cloud-comms-chat-20260928.181421</code> &nbsp;<sub>Published 18 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2026,7 +2378,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260928.174727"><b>Cloud Chat · 20260928.174727</b></a> &nbsp;<code>cloud-comms-chat-20260928.174727</code> &nbsp;<sub>Published 17 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260928.174727"><b>Cloud Chat · 20260928.174727</b></a> &nbsp;<code>cloud-comms-chat-20260928.174727</code> &nbsp;<sub>Published 18 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2037,7 +2389,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260928.172413"><b>Cloud Chat · 20260928.172413</b></a> &nbsp;<code>cloud-comms-chat-20260928.172413</code> &nbsp;<sub>Published 17 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260928.172413"><b>Cloud Chat · 20260928.172413</b></a> &nbsp;<code>cloud-comms-chat-20260928.172413</code> &nbsp;<sub>Published 18 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2048,7 +2400,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260926.132453"><b>Cloud Matrix · 20260926.132453</b></a> &nbsp;<code>cloud-comms-matrix-20260926.132453</code> &nbsp;<sub>Published 19 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260926.132453"><b>Cloud Matrix · 20260926.132453</b></a> &nbsp;<code>cloud-comms-matrix-20260926.132453</code> &nbsp;<sub>Published 20 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2059,7 +2411,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260926.123754"><b>Cloud Matrix · 20260926.123754</b></a> &nbsp;<code>cloud-comms-matrix-20260926.123754</code> &nbsp;<sub>Published 19 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260926.123754"><b>Cloud Matrix · 20260926.123754</b></a> &nbsp;<code>cloud-comms-matrix-20260926.123754</code> &nbsp;<sub>Published 20 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2070,7 +2422,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260926.132247"><b>Cloud Mail · 20260926.132247</b></a> &nbsp;<code>cloud-comms-mail-20260926.132247</code> &nbsp;<sub>Published 19 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260926.132247"><b>Cloud Mail · 20260926.132247</b></a> &nbsp;<code>cloud-comms-mail-20260926.132247</code> &nbsp;<sub>Published 20 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2081,7 +2433,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260926.123804"><b>Cloud Mail · 20260926.123804</b></a> &nbsp;<code>cloud-comms-mail-20260926.123804</code> &nbsp;<sub>Published 19 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260926.123804"><b>Cloud Mail · 20260926.123804</b></a> &nbsp;<code>cloud-comms-mail-20260926.123804</code> &nbsp;<sub>Published 20 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2092,7 +2444,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260926.132312"><b>Cloud Dialer · 20260926.132312</b></a> &nbsp;<code>cloud-comms-dialer-20260926.132312</code> &nbsp;<sub>Published 19 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260926.132312"><b>Cloud Dialer · 20260926.132312</b></a> &nbsp;<code>cloud-comms-dialer-20260926.132312</code> &nbsp;<sub>Published 20 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2103,7 +2455,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260926.123802"><b>Cloud Dialer · 20260926.123802</b></a> &nbsp;<code>cloud-comms-dialer-20260926.123802</code> &nbsp;<sub>Published 19 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260926.123802"><b>Cloud Dialer · 20260926.123802</b></a> &nbsp;<code>cloud-comms-dialer-20260926.123802</code> &nbsp;<sub>Published 20 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2114,7 +2466,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260926.132249"><b>Cloud Chat · 20260926.132249</b></a> &nbsp;<code>cloud-comms-chat-20260926.132249</code> &nbsp;<sub>Published 19 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260926.132249"><b>Cloud Chat · 20260926.132249</b></a> &nbsp;<code>cloud-comms-chat-20260926.132249</code> &nbsp;<sub>Published 20 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2125,7 +2477,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260926.123827"><b>Cloud Chat · 20260926.123827</b></a> &nbsp;<code>cloud-comms-chat-20260926.123827</code> &nbsp;<sub>Published 19 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260926.123827"><b>Cloud Chat · 20260926.123827</b></a> &nbsp;<code>cloud-comms-chat-20260926.123827</code> &nbsp;<sub>Published 20 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2136,7 +2488,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260925.151002"><b>Cloud Mail · 20260925.151002</b></a> &nbsp;<code>cloud-comms-mail-20260925.151002</code> &nbsp;<sub>Published 20 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260925.151002"><b>Cloud Mail · 20260925.151002</b></a> &nbsp;<code>cloud-comms-mail-20260925.151002</code> &nbsp;<sub>Published 21 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2158,7 +2510,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260925.100511"><b>Cloud Mail · 20260925.100511</b></a> &nbsp;<code>cloud-comms-mail-20260925.100511</code> &nbsp;<sub>Published 21 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260925.100511"><b>Cloud Mail · 20260925.100511</b></a> &nbsp;<code>cloud-comms-mail-20260925.100511</code> &nbsp;<sub>Published 22 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2169,7 +2521,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.222410"><b>Cloud Mail · 20260924.222410</b></a> &nbsp;<code>cloud-comms-mail-20260924.222410</code> &nbsp;<sub>Published 21 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.222410"><b>Cloud Mail · 20260924.222410</b></a> &nbsp;<code>cloud-comms-mail-20260924.222410</code> &nbsp;<sub>Published 22 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2180,7 +2532,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.220313"><b>Cloud Mail · 20260924.220313</b></a> &nbsp;<code>cloud-comms-mail-20260924.220313</code> &nbsp;<sub>Published 21 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.220313"><b>Cloud Mail · 20260924.220313</b></a> &nbsp;<code>cloud-comms-mail-20260924.220313</code> &nbsp;<sub>Published 22 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2191,7 +2543,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.210757"><b>Cloud Mail · 20260924.210757</b></a> &nbsp;<code>cloud-comms-mail-20260924.210757</code> &nbsp;<sub>Published 21 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.210757"><b>Cloud Mail · 20260924.210757</b></a> &nbsp;<code>cloud-comms-mail-20260924.210757</code> &nbsp;<sub>Published 22 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2202,7 +2554,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.204551"><b>Cloud Mail · 20260924.204551</b></a> &nbsp;<code>cloud-comms-mail-20260924.204551</code> &nbsp;<sub>Published 21 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.204551"><b>Cloud Mail · 20260924.204551</b></a> &nbsp;<code>cloud-comms-mail-20260924.204551</code> &nbsp;<sub>Published 22 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2213,7 +2565,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.160931"><b>Cloud Mail · 20260924.160931</b></a> &nbsp;<code>cloud-comms-mail-20260924.160931</code> &nbsp;<sub>Published 21 days ago · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.160931"><b>Cloud Mail · 20260924.160931</b></a> &nbsp;<code>cloud-comms-mail-20260924.160931</code> &nbsp;<sub>Published 22 days ago · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2224,7 +2576,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.154021"><b>Cloud Mail · 20260924.154021</b></a> &nbsp;<code>cloud-comms-mail-20260924.154021</code> &nbsp;<sub>Published 21 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260924.154021"><b>Cloud Mail · 20260924.154021</b></a> &nbsp;<code>cloud-comms-mail-20260924.154021</code> &nbsp;<sub>Published 22 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2235,7 +2587,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260919.144424"><b>Cloud Mail · 20260919.144424</b></a> &nbsp;<code>cloud-comms-mail-20260919.144424</code> &nbsp;<sub>Published 26 days ago · 1 asset · 5 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260919.144424"><b>Cloud Mail · 20260919.144424</b></a> &nbsp;<code>cloud-comms-mail-20260919.144424</code> &nbsp;<sub>Published 27 days ago · 1 asset · 5 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2246,7 +2598,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260919.102857"><b>Cloud Mail · 20260919.102857</b></a> &nbsp;<code>cloud-comms-mail-20260919.102857</code> &nbsp;<sub>Published 27 days ago · 1 asset · 4 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260919.102857"><b>Cloud Mail · 20260919.102857</b></a> &nbsp;<code>cloud-comms-mail-20260919.102857</code> &nbsp;<sub>Published 28 days ago · 1 asset · 4 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2257,7 +2609,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260918.040441"><b>Cloud Matrix · 20260918.040441</b></a> &nbsp;<code>cloud-comms-matrix-20260918.040441</code> &nbsp;<sub>Published 28 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20260918.040441"><b>Cloud Matrix · 20260918.040441</b></a> &nbsp;<code>cloud-comms-matrix-20260918.040441</code> &nbsp;<sub>Published 29 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2268,7 +2620,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.224327"><b>Cloud Mail · 20260918.224327</b></a> &nbsp;<code>cloud-comms-mail-20260918.224327</code> &nbsp;<sub>Published 27 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.224327"><b>Cloud Mail · 20260918.224327</b></a> &nbsp;<code>cloud-comms-mail-20260918.224327</code> &nbsp;<sub>Published 28 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2279,7 +2631,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.152617"><b>Cloud Mail · 20260918.152617</b></a> &nbsp;<code>cloud-comms-mail-20260918.152617</code> &nbsp;<sub>Published 27 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.152617"><b>Cloud Mail · 20260918.152617</b></a> &nbsp;<code>cloud-comms-mail-20260918.152617</code> &nbsp;<sub>Published 28 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2290,7 +2642,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.144808"><b>Cloud Mail · 20260918.144808</b></a> &nbsp;<code>cloud-comms-mail-20260918.144808</code> &nbsp;<sub>Published 27 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.144808"><b>Cloud Mail · 20260918.144808</b></a> &nbsp;<code>cloud-comms-mail-20260918.144808</code> &nbsp;<sub>Published 28 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2301,7 +2653,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.101533"><b>Cloud Mail · 20260918.101533</b></a> &nbsp;<code>cloud-comms-mail-20260918.101533</code> &nbsp;<sub>Published 28 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.101533"><b>Cloud Mail · 20260918.101533</b></a> &nbsp;<code>cloud-comms-mail-20260918.101533</code> &nbsp;<sub>Published 29 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2312,7 +2664,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.040649"><b>Cloud Mail · 20260918.040649</b></a> &nbsp;<code>cloud-comms-mail-20260918.040649</code> &nbsp;<sub>Published 28 days ago · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260918.040649"><b>Cloud Mail · 20260918.040649</b></a> &nbsp;<code>cloud-comms-mail-20260918.040649</code> &nbsp;<sub>Published 29 days ago · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2323,7 +2675,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260918.040442"><b>Cloud Dialer · 20260918.040442</b></a> &nbsp;<code>cloud-comms-dialer-20260918.040442</code> &nbsp;<sub>Published 28 days ago · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20260918.040442"><b>Cloud Dialer · 20260918.040442</b></a> &nbsp;<code>cloud-comms-dialer-20260918.040442</code> &nbsp;<sub>Published 29 days ago · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2334,7 +2686,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260918.040513"><b>Cloud Chat · 20260918.040513</b></a> &nbsp;<code>cloud-comms-chat-20260918.040513</code> &nbsp;<sub>Published 28 days ago · 1 asset · 3 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20260918.040513"><b>Cloud Chat · 20260918.040513</b></a> &nbsp;<code>cloud-comms-chat-20260918.040513</code> &nbsp;<sub>Published 29 days ago · 1 asset · 3 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2345,7 +2697,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.232802"><b>Cloud Mail · 20260917.232802</b></a> &nbsp;<code>cloud-comms-mail-20260917.232802</code> &nbsp;<sub>Published 28 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.232802"><b>Cloud Mail · 20260917.232802</b></a> &nbsp;<code>cloud-comms-mail-20260917.232802</code> &nbsp;<sub>Published 29 days ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2356,7 +2708,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.192059"><b>Cloud Mail · 20260917.192059</b></a> &nbsp;<code>cloud-comms-mail-20260917.192059</code> &nbsp;<sub>Published 28 days ago · 1 asset · 7 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.192059"><b>Cloud Mail · 20260917.192059</b></a> &nbsp;<code>cloud-comms-mail-20260917.192059</code> &nbsp;<sub>Published 29 days ago · 1 asset · 7 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2378,7 +2730,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.100735"><b>Cloud Mail · 20260917.100735</b></a> &nbsp;<code>cloud-comms-mail-20260917.100735</code> &nbsp;<sub>Published 29 days ago · 1 asset · 7 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.100735"><b>Cloud Mail · 20260917.100735</b></a> &nbsp;<code>cloud-comms-mail-20260917.100735</code> &nbsp;<sub>Published 1 month ago · 1 asset · 7 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2389,7 +2741,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.081844"><b>Cloud Mail · 20260917.081844</b></a> &nbsp;<code>cloud-comms-mail-20260917.081844</code> &nbsp;<sub>Published 29 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.081844"><b>Cloud Mail · 20260917.081844</b></a> &nbsp;<code>cloud-comms-mail-20260917.081844</code> &nbsp;<sub>Published 1 month ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2400,7 +2752,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.081054"><b>Cloud Mail · 20260917.081054</b></a> &nbsp;<code>cloud-comms-mail-20260917.081054</code> &nbsp;<sub>Published 29 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.081054"><b>Cloud Mail · 20260917.081054</b></a> &nbsp;<code>cloud-comms-mail-20260917.081054</code> &nbsp;<sub>Published 1 month ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2411,7 +2763,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.073929"><b>Cloud Mail · 20260917.073929</b></a> &nbsp;<code>cloud-comms-mail-20260917.073929</code> &nbsp;<sub>Published 29 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260917.073929"><b>Cloud Mail · 20260917.073929</b></a> &nbsp;<code>cloud-comms-mail-20260917.073929</code> &nbsp;<sub>Published 1 month ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2433,7 +2785,7 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260916.230124"><b>Cloud Mail · 20260916.230124</b></a> &nbsp;<code>cloud-comms-mail-20260916.230124</code> &nbsp;<sub>Published 29 days ago · 1 asset · 2 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20260916.230124"><b>Cloud Mail · 20260916.230124</b></a> &nbsp;<code>cloud-comms-mail-20260916.230124</code> &nbsp;<sub>Published 1 month ago · 1 asset · 2 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
@@ -2787,12 +3139,12 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/firestack-aar-20260910.114222"><b>firestack netstack aar firestack-aar-20260910.114222</b></a> &nbsp;<code>firestack-aar-20260910.114222</code> &nbsp;<sub>Published 1 month ago · 2 assets · 1,462 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/firestack-aar-20260910.114222"><b>firestack netstack aar firestack-aar-20260910.114222</b></a> &nbsp;<code>firestack-aar-20260910.114222</code> &nbsp;<sub>Published 1 month ago · 2 assets · 1,691 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`firestack-arm64.aar`](https://github.com/diegonmarcos/cloud-u-android/releases/download/firestack-aar-20260910.114222/firestack-arm64.aar) | 6.8 MB | 1,116 | Sep 10, 2026 |
-| [`firestack-x86_64.aar`](https://github.com/diegonmarcos/cloud-u-android/releases/download/firestack-aar-20260910.114222/firestack-x86_64.aar) | 7.4 MB | 346 | Sep 10, 2026 |
+| [`firestack-arm64.aar`](https://github.com/diegonmarcos/cloud-u-android/releases/download/firestack-aar-20260910.114222/firestack-arm64.aar) | 6.8 MB | 1,283 | Sep 10, 2026 |
+| [`firestack-x86_64.aar`](https://github.com/diegonmarcos/cloud-u-android/releases/download/firestack-aar-20260910.114222/firestack-x86_64.aar) | 7.4 MB | 408 | Sep 10, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/firestack-aar-20260910.114222.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/firestack-aar-20260910.114222.tar.gz)</sub>
 
@@ -4636,253 +4988,253 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/latest"><b>latest</b></a> &nbsp;<code>latest</code> &nbsp;<sub>Published 1 month ago · 243 assets · 9,424 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-android/releases/tag/latest"><b>latest</b></a> &nbsp;<code>latest</code> &nbsp;<sub>Published 1 month ago · 243 assets · 9,363 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`Cloud-Unix-Termux-Boot.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Unix-Termux-Boot.apk) | 565 KB | 1,630 | Oct 1, 2026 |
-| [`Cloud-Unix-Termux-Boot.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Unix-Termux-Boot.apk.sha256) | 0 KB | 728 | Oct 1, 2026 |
-| [`Cloud-Lib-Rootfs-Termux.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Termux.apk) | 432.3 MB | 576 | Oct 9, 2026 |
-| [`Cloud-Lib-Rootfs-Nixdroid.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Nixdroid.apk) | 553.7 MB | 353 | Oct 10, 2026 |
-| [`Cloud-Lib-Ml-L-Image-Mlkit.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Image-Mlkit.apk) | 61.3 MB | 205 | Oct 15, 2026 |
-| [`Cloud-Lib-Ml-L-Sound-Yamnet.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Sound-Yamnet.apk) | 16.2 MB | 205 | Oct 15, 2026 |
-| [`Cloud-Lib-Rootfs-Termux.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Termux.apk.sha256) | 0 KB | 195 | Oct 9, 2026 |
+| [`Cloud-Unix-Termux-Boot.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Unix-Termux-Boot.apk) | 565 KB | 1,882 | Oct 1, 2026 |
+| [`Cloud-Lib-Rootfs-Termux.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Termux.apk) | 432.3 MB | 835 | Oct 9, 2026 |
+| [`Cloud-Unix-Termux-Boot.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Unix-Termux-Boot.apk.sha256) | 0 KB | 750 | Oct 1, 2026 |
+| [`Cloud-Lib-Rootfs-Nixdroid.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Nixdroid.apk) | 553.7 MB | 606 | Oct 10, 2026 |
+| [`Cloud-Lib-Ml-L-Image-Mlkit.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Image-Mlkit.apk) | 61.3 MB | 341 | Oct 16, 2026 |
+| [`Cloud-Lib-Ml-L-Sound-Yamnet.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Sound-Yamnet.apk) | 16.2 MB | 341 | Oct 16, 2026 |
+| [`Cloud-Lib-Fleetconfig.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Fleetconfig.apk) | 2.2 MB | 239 | Oct 16, 2026 |
+| [`Cloud-Lib-Analytics-Sink.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Analytics-Sink.apk) | 2.2 MB | 227 | Oct 16, 2026 |
+| [`Cloud-Lib-Cal.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Cal.apk) | 2.3 MB | 227 | Oct 16, 2026 |
+| [`Cloud-Lib-Calc.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Calc.apk) | 18.2 MB | 227 | Oct 16, 2026 |
+| [`Cloud-Lib-Decisions-Engine.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Decisions-Engine.apk) | 2.3 MB | 227 | Oct 16, 2026 |
+| [`Cloud-Lib-Feed.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Feed.apk) | 2.2 MB | 227 | Oct 16, 2026 |
+| [`Cloud-Lib-Gh.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Gh.apk) | 32.7 MB | 227 | Oct 16, 2026 |
+| [`Cloud-Lib-Net-Wg.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Net-Wg.apk) | 19.0 MB | 227 | Oct 16, 2026 |
+| [`Cloud-Lib-News.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-News.apk) | 2.3 MB | 227 | Oct 16, 2026 |
+| [`Cloud-Lib-Ops-Engine.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ops-Engine.apk) | 11.2 MB | 227 | Oct 16, 2026 |
+| [`Cloud-Lib-Rootfs-Termux.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Termux.apk.sha256) | 0 KB | 217 | Oct 9, 2026 |
 | [`Cloud-Sheets.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Sheets.apk) | 254.8 MB | 186 | Sep 9, 2026 |
-| [`Cloud-Vault.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Vault.apk) | 107.9 MB | 185 | Oct 15, 2026 |
-| [`Cloud-Office.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Office.apk) | 250.6 MB | 177 | Oct 15, 2026 |
-| [`Cloud-Lib-Fleetconfig.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Fleetconfig.apk) | 2.2 MB | 149 | Oct 15, 2026 |
-| [`Cloud-Lib-Rootfs-Nixdroid.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Nixdroid.apk.sha256) | 0 KB | 145 | Oct 10, 2026 |
-| [`Cloud-Lib-Cal.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Cal.apk) | 2.3 MB | 134 | Oct 15, 2026 |
-| [`Cloud-Lib-Decisions-Engine.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Decisions-Engine.apk) | 2.3 MB | 134 | Oct 15, 2026 |
-| [`Cloud-Lib-Net-Wg.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Net-Wg.apk) | 19.0 MB | 134 | Oct 15, 2026 |
-| [`Cloud-Lib-Calc.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Calc.apk) | 18.2 MB | 133 | Oct 15, 2026 |
-| [`Cloud-Lib-Feed.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Feed.apk) | 2.2 MB | 133 | Oct 15, 2026 |
-| [`Cloud-Lib-Gh.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Gh.apk) | 32.7 MB | 133 | Oct 15, 2026 |
-| [`Cloud-Lib-News.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-News.apk) | 2.3 MB | 133 | Oct 15, 2026 |
-| [`Cloud-Lib-Ops-Engine.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ops-Engine.apk) | 3.4 MB | 133 | Oct 15, 2026 |
-| [`Cloud-Lib-Analytics-Sink.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Analytics-Sink.apk) | 2.2 MB | 131 | Oct 15, 2026 |
-| [`Cloud-Account.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account.apk) | 32.2 MB | 96 | Oct 16, 2026 |
-| [`Cloud-C3-WebServer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer.apk) | 2.6 MB | 96 | Oct 16, 2026 |
-| [`Cloud-Camera.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Camera.apk) | 5.1 MB | 96 | Oct 16, 2026 |
-| [`cloud-comms-chat.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-chat.apk) | 179.5 MB | 96 | Oct 16, 2026 |
-| [`C3-Morpheus.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus.apk) | 11.1 MB | 95 | Oct 16, 2026 |
-| [`C3-Watchdog.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog.apk) | 13.3 MB | 95 | Oct 16, 2026 |
-| [`Cloud-Browser.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser.apk) | 24.1 MB | 95 | Oct 16, 2026 |
-| [`Cloud-Drive.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive.apk) | 62.4 MB | 95 | Oct 16, 2026 |
-| [`Cloud-Keyboard.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard.apk) | 22.9 MB | 95 | Oct 16, 2026 |
-| [`cloud-media-center.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center.apk) | 2.9 MB | 95 | Oct 16, 2026 |
-| [`Cloud-News.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News.apk) | 14.2 MB | 95 | Oct 16, 2026 |
-| [`cloud-nixdroid.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid.apk) | 10.5 MB | 95 | Oct 16, 2026 |
-| [`Cloud-Wallet.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet.apk) | 21.4 MB | 95 | Oct 16, 2026 |
-| [`C3-WatchTower.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower.apk) | 10.6 MB | 94 | Oct 16, 2026 |
-| [`Cloud-Search.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search.apk) | 20.4 MB | 94 | Oct 16, 2026 |
-| [`cloud-terminal.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal.apk) | 38.0 MB | 94 | Oct 16, 2026 |
-| [`Cloud-Writer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer.apk) | 18.7 MB | 93 | Oct 16, 2026 |
-| [`Cloud-Lib-Ml-L-Image-Mlkit.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Image-Mlkit.apk.sha256) | 0 KB | 92 | Oct 15, 2026 |
-| [`cloud-gallery.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery.apk) | 99.4 MB | 91 | Oct 16, 2026 |
-| [`Cloud-Tools-Small-LLMs.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs.apk) | 20.8 MB | 91 | Oct 16, 2026 |
-| [`Cloud-MyTerminal.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-MyTerminal.apk) | 16.9 MB | 76 | Oct 16, 2026 |
-| [`Cloud-Me.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me.apk) | 24.7 MB | 75 | Oct 16, 2026 |
+| [`Cloud-Lib-Rootfs-Nixdroid.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Nixdroid.apk.sha256) | 0 KB | 167 | Oct 10, 2026 |
+| [`Cloud-Lib-Ml-L-Image-Mlkit.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Image-Mlkit.apk.sha256) | 0 KB | 132 | Oct 16, 2026 |
 | [`Cloud-Sheets.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Sheets.apk.sha256) | 0 KB | 72 | Sep 9, 2026 |
-| [`Cloud-Keyboard-Libs.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard-Libs.apk) | 90.6 MB | 63 | Oct 16, 2026 |
-| [`Cloud-Lib-Analytics-Sink.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Analytics-Sink.apk.source) | 0 KB | 41 | Oct 15, 2026 |
-| [`Cloud-Lib-Cal.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Cal.apk.source) | 0 KB | 41 | Oct 15, 2026 |
-| [`Cloud-Lib-Calc.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Calc.apk.source) | 0 KB | 41 | Oct 15, 2026 |
-| [`Cloud-Lib-Decisions-Engine.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Decisions-Engine.apk.source) | 0 KB | 41 | Oct 15, 2026 |
-| [`Cloud-Lib-Feed.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Feed.apk.source) | 0 KB | 41 | Oct 15, 2026 |
-| [`Cloud-Lib-Fleetconfig.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Fleetconfig.apk.source) | 0 KB | 41 | Oct 15, 2026 |
-| [`Cloud-Lib-Gh.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Gh.apk.source) | 0 KB | 41 | Oct 15, 2026 |
-| [`Cloud-Lib-Ml-L-Image-Mlkit.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Image-Mlkit.apk.source) | 0 KB | 41 | Oct 15, 2026 |
-| [`Cloud-Lib-Ml-L-Sound-Yamnet.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Sound-Yamnet.apk.source) | 0 KB | 41 | Oct 15, 2026 |
-| [`Cloud-Lib-Net-Wg.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Net-Wg.apk.source) | 0 KB | 41 | Oct 15, 2026 |
-| [`Cloud-Lib-News.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-News.apk.source) | 0 KB | 41 | Oct 15, 2026 |
-| [`Cloud-Lib-Ops-Engine.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ops-Engine.apk.source) | 0 KB | 41 | Oct 15, 2026 |
-| [`Cloud-Lib-Rootfs-Termux-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Termux-x86_64.apk) | 449.4 MB | 31 | Oct 9, 2026 |
-| [`Cloud-Notes.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Notes.apk) | 120.3 MB | 25 | Oct 16, 2026 |
-| [`Cloud-SuperApp.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp.apk) | 37.2 MB | 24 | Oct 16, 2026 |
-| [`Cloud-Lib-Gh.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Gh.apk.sha256) | 0 KB | 23 | Oct 15, 2026 |
+| [`Cloud-Lib-Rootfs-Termux-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Termux-x86_64.apk) | 449.4 MB | 37 | Oct 9, 2026 |
+| [`C3-Morpheus.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus.apk) | 11.1 MB | 27 | Oct 17, 2026 |
+| [`Cloud-Wallet.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet.apk) | 21.5 MB | 27 | Oct 17, 2026 |
+| [`Cloud-Account.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account.apk) | 32.9 MB | 26 | Oct 17, 2026 |
+| [`Cloud-Me.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me.apk) | 24.7 MB | 26 | Oct 17, 2026 |
+| [`Cloud-News.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News.apk) | 14.2 MB | 26 | Oct 17, 2026 |
+| [`Cloud-C3.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3.apk) | 22.1 MB | 25 | Oct 17, 2026 |
+| [`Cloud-Camera.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Camera.apk) | 5.1 MB | 25 | Oct 17, 2026 |
+| [`Cloud-Code.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Code.apk) | 25.7 MB | 25 | Oct 17, 2026 |
+| [`Cloud-Tools-Small-LLMs.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs.apk) | 20.8 MB | 25 | Oct 17, 2026 |
+| [`C3-Watchdog.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog.apk) | 13.3 MB | 24 | Oct 17, 2026 |
+| [`C3-WatchTower.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower.apk) | 10.6 MB | 24 | Oct 17, 2026 |
+| [`Cloud-Contacts.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts.apk) | 14.2 MB | 24 | Oct 17, 2026 |
+| [`Cloud-Drive.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive.apk) | 62.4 MB | 24 | Oct 17, 2026 |
+| [`Cloud-MyTerminal.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-MyTerminal.apk) | 16.9 MB | 24 | Oct 17, 2026 |
+| [`Cloud-Writer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer.apk) | 18.7 MB | 24 | Oct 17, 2026 |
+| [`Cloud-Keyboard.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard.apk) | 23.0 MB | 23 | Oct 17, 2026 |
+| [`cloud-media-center.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center.apk) | 2.9 MB | 23 | Oct 17, 2026 |
 | [`Cloud-Agenda.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Agenda.apk) | 7.8 MB | 22 | Oct 13, 2026 |
-| [`Cloud-Lib-Net-Wg.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Net-Wg.apk.sha256) | 0 KB | 22 | Oct 15, 2026 |
-| [`Cloud-Contacts.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts.apk) | 14.2 MB | 21 | Oct 16, 2026 |
-| [`Cloud-Lib-Cal.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Cal.apk.sha256) | 0 KB | 21 | Oct 15, 2026 |
-| [`Cloud-Lib-Calc.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Calc.apk.sha256) | 0 KB | 21 | Oct 15, 2026 |
-| [`Cloud-Lib-Decisions-Engine.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Decisions-Engine.apk.sha256) | 0 KB | 21 | Oct 15, 2026 |
-| [`Cloud-Lib-Feed.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Feed.apk.sha256) | 0 KB | 21 | Oct 15, 2026 |
-| [`Cloud-Lib-News.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-News.apk.sha256) | 0 KB | 21 | Oct 15, 2026 |
-| [`Cloud-Lib-Ops-Engine.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ops-Engine.apk.sha256) | 0 KB | 21 | Oct 15, 2026 |
-| [`Cloud-Lib-Fleetconfig.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Fleetconfig.apk.sha256) | 0 KB | 20 | Oct 15, 2026 |
-| [`Cloud-Vault.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Vault.apk.sha256) | 0 KB | 19 | Oct 15, 2026 |
-| [`Cloud-Lib-Analytics-Sink.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Analytics-Sink.apk.sha256) | 0 KB | 18 | Oct 15, 2026 |
-| [`Cloud-Lib-Ml-L-Sound-Yamnet.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Sound-Yamnet.apk.sha256) | 0 KB | 18 | Oct 15, 2026 |
-| [`Cloud-Office.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Office.apk.sha256) | 0 KB | 16 | Oct 15, 2026 |
-| [`cloud-comms-chat.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-chat.apk.sha256) | 0 KB | 15 | Oct 16, 2026 |
-| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-mail.apk) | 4.1 MB | 15 | Oct 16, 2026 |
-| [`Cloud-Lib-Rootfs-Termux.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Termux.apk.source) | 0 KB | 15 | Oct 9, 2026 |
-| [`Cloud-Account.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account.apk.sha256) | 0 KB | 14 | Oct 16, 2026 |
+| [`Cloud-C3-WebServer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer.apk) | 2.6 MB | 22 | Oct 17, 2026 |
+| [`Cloud-Calc.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc.apk) | 23.5 MB | 22 | Oct 17, 2026 |
+| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-dialer.apk) | 6.4 MB | 22 | Oct 17, 2026 |
+| [`cloud-comms-mail.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-mail.apk) | 4.1 MB | 22 | Oct 17, 2026 |
+| [`cloud-comms-matrix.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-matrix.apk) | 105.4 MB | 22 | Oct 17, 2026 |
+| [`Cloud-Nav.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav.apk) | 45.6 MB | 22 | Oct 17, 2026 |
+| [`Cloud-Office.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Office.apk) | 250.6 MB | 22 | Oct 17, 2026 |
+| [`Cloud-Search.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search.apk) | 20.5 MB | 22 | Oct 17, 2026 |
+| [`Cloud-Tasks.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks.apk) | 22.7 MB | 22 | Oct 17, 2026 |
+| [`Cloud-Browser.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser.apk) | 24.6 MB | 21 | Oct 17, 2026 |
+| [`cloud-gallery.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery.apk) | 99.4 MB | 21 | Oct 17, 2026 |
+| [`Cloud-Lib-Rootfs-Nixdroid.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Nixdroid.apk.source) | 0 KB | 21 | Oct 10, 2026 |
+| [`Cloud-Lib-Rootfs-Termux.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Termux.apk.source) | 0 KB | 21 | Oct 9, 2026 |
+| [`Cloud-Vault.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Vault.apk) | 107.9 MB | 21 | Oct 17, 2026 |
+| [`Cloud-Lib-Analytics-Sink.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Analytics-Sink.apk.source) | 0 KB | 20 | Oct 16, 2026 |
+| [`Cloud-Lib-Cal.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Cal.apk.source) | 0 KB | 20 | Oct 16, 2026 |
+| [`Cloud-Lib-Calc.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Calc.apk.source) | 0 KB | 20 | Oct 16, 2026 |
+| [`Cloud-Lib-Decisions-Engine.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Decisions-Engine.apk.source) | 0 KB | 20 | Oct 16, 2026 |
+| [`Cloud-Lib-Feed.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Feed.apk.source) | 0 KB | 20 | Oct 16, 2026 |
+| [`Cloud-Lib-Fleetconfig.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Fleetconfig.apk.source) | 0 KB | 20 | Oct 16, 2026 |
+| [`Cloud-Lib-Gh.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Gh.apk.source) | 0 KB | 20 | Oct 16, 2026 |
+| [`Cloud-Lib-Ml-L-Image-Mlkit.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Image-Mlkit.apk.source) | 0 KB | 20 | Oct 16, 2026 |
+| [`Cloud-Lib-Ml-L-Sound-Yamnet.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Sound-Yamnet.apk.source) | 0 KB | 20 | Oct 16, 2026 |
+| [`Cloud-Lib-Net-Wg.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Net-Wg.apk.source) | 0 KB | 20 | Oct 16, 2026 |
+| [`Cloud-Lib-News.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-News.apk.source) | 0 KB | 20 | Oct 16, 2026 |
+| [`Cloud-Lib-Ops-Engine.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ops-Engine.apk.source) | 0 KB | 20 | Oct 16, 2026 |
+| [`Cloud-Lib-Rootfs-Termux-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Termux-x86_64.apk.source) | 0 KB | 20 | Oct 9, 2026 |
+| [`Cloud-Store.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.apk) | 29.3 MB | 20 | Oct 17, 2026 |
+| [`cloud-comms-chat.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-chat.apk) | 179.5 MB | 19 | Oct 17, 2026 |
+| [`Cloud-Lib-Rootfs-Nixdroid-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Nixdroid-x86_64.apk.source) | 0 KB | 19 | Oct 10, 2026 |
+| [`cloud-nixdroid.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid.apk) | 10.5 MB | 19 | Oct 17, 2026 |
+| [`cloud-terminal.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal.apk) | 38.0 MB | 19 | Oct 17, 2026 |
+| [`Cloud-Lib-Analytics-Sink.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Analytics-Sink.apk.sha256) | 0 KB | 18 | Oct 16, 2026 |
+| [`Cloud-Lib-Cal.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Cal.apk.sha256) | 0 KB | 18 | Oct 16, 2026 |
+| [`Cloud-Lib-Calc.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Calc.apk.sha256) | 0 KB | 18 | Oct 16, 2026 |
+| [`Cloud-Lib-Decisions-Engine.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Decisions-Engine.apk.sha256) | 0 KB | 18 | Oct 16, 2026 |
+| [`Cloud-Lib-Feed.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Feed.apk.sha256) | 0 KB | 18 | Oct 16, 2026 |
+| [`Cloud-Lib-Fleetconfig.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Fleetconfig.apk.sha256) | 0 KB | 18 | Oct 16, 2026 |
+| [`Cloud-Lib-Gh.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Gh.apk.sha256) | 0 KB | 18 | Oct 16, 2026 |
+| [`Cloud-Lib-Net-Wg.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Net-Wg.apk.sha256) | 0 KB | 18 | Oct 16, 2026 |
+| [`Cloud-Lib-News.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-News.apk.sha256) | 0 KB | 18 | Oct 16, 2026 |
+| [`Cloud-Lib-Ops-Engine.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ops-Engine.apk.sha256) | 0 KB | 18 | Oct 16, 2026 |
+| [`Cloud-Lib-Ml-L-Sound-Yamnet.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Sound-Yamnet.apk.sha256) | 0 KB | 17 | Oct 16, 2026 |
+| [`Cloud-Notes.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Notes.apk) | 120.7 MB | 17 | Oct 17, 2026 |
 | [`Cloud-Agenda.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Agenda.apk.sha256) | 0 KB | 14 | Oct 13, 2026 |
-| [`Cloud-Camera.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Camera.apk.sha256) | 0 KB | 14 | Oct 16, 2026 |
-| [`Cloud-Lib-Rootfs-Termux-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Termux-x86_64.apk.source) | 0 KB | 14 | Oct 9, 2026 |
-| [`C3-Morpheus.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus.apk.sha256) | 0 KB | 13 | Oct 16, 2026 |
-| [`C3-Watchdog.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog.apk.sha256) | 0 KB | 13 | Oct 16, 2026 |
-| [`Cloud-C3-WebServer.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer.apk.sha256) | 0 KB | 13 | Oct 16, 2026 |
-| [`cloud-terminal.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal.apk.sha256) | 0 KB | 13 | Oct 16, 2026 |
-| [`C3-WatchTower.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower.apk.sha256) | 0 KB | 12 | Oct 16, 2026 |
-| [`Cloud-Browser.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser.apk.sha256) | 0 KB | 12 | Oct 16, 2026 |
-| [`Cloud-Drive.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive.apk.sha256) | 0 KB | 12 | Oct 16, 2026 |
-| [`Cloud-Keyboard.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard.apk.sha256) | 0 KB | 12 | Oct 16, 2026 |
-| [`Cloud-Lib-Rootfs-Nixdroid.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Nixdroid.apk.source) | 0 KB | 12 | Oct 10, 2026 |
-| [`cloud-media-center.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center.apk.sha256) | 0 KB | 12 | Oct 16, 2026 |
-| [`Cloud-Nav.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav.apk) | 43.5 MB | 12 | Oct 16, 2026 |
-| [`Cloud-News.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News.apk.sha256) | 0 KB | 12 | Oct 16, 2026 |
-| [`cloud-nixdroid.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid.apk.sha256) | 0 KB | 12 | Oct 16, 2026 |
-| [`Cloud-MyTerminal.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-MyTerminal.apk.sha256) | 0 KB | 11 | Oct 16, 2026 |
-| [`Cloud-Search.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search.apk.sha256) | 0 KB | 11 | Oct 16, 2026 |
-| [`Cloud-Lib-Rootfs-Nixdroid-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Nixdroid-x86_64.apk.source) | 0 KB | 10 | Oct 10, 2026 |
-| [`Cloud-Me.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me.apk.sha256) | 0 KB | 10 | Oct 16, 2026 |
-| [`Cloud-SuperApp-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp-x86_64.apk.source) | 0 KB | 10 | Oct 16, 2026 |
-| [`Cloud-SuperApp.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp.apk.source) | 0 KB | 10 | Oct 16, 2026 |
-| [`Cloud-Wallet.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet.apk.sha256) | 0 KB | 10 | Oct 16, 2026 |
-| [`Cloud-Writer.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer.apk.sha256) | 0 KB | 10 | Oct 16, 2026 |
-| [`Cloud-Calc.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc.apk) | 23.4 MB | 9 | Oct 16, 2026 |
-| [`cloud-comms-dialer.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-dialer.apk) | 6.5 MB | 9 | Oct 16, 2026 |
-| [`Cloud-Keyboard-Libs.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard-Libs.apk.sha256) | 0 KB | 9 | Oct 16, 2026 |
-| [`cloud-gallery.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery.apk.sha256) | 0 KB | 8 | Oct 16, 2026 |
+| [`Cloud-Keyboard-Libs.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard-Libs.apk) | 90.6 MB | 13 | Oct 17, 2026 |
 | [`Cloud-Lib-Rootfs-Nixdroid-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Nixdroid-x86_64.apk) | 565.5 MB | 8 | Oct 10, 2026 |
-| [`Cloud-Tools-Small-LLMs.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs.apk.sha256) | 0 KB | 8 | Oct 16, 2026 |
-| [`cloud-comms-matrix.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-matrix.apk) | 105.4 MB | 6 | Oct 16, 2026 |
+| [`cloud-comms-chat.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-chat.apk.sha256) | 0 KB | 5 | Oct 17, 2026 |
+| [`cloud-comms-matrix.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-matrix.apk.sha256) | 0 KB | 5 | Oct 17, 2026 |
+| [`cloud-gallery.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery.apk.sha256) | 0 KB | 5 | Oct 17, 2026 |
+| [`Cloud-Notes.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Notes.apk.sha256) | 0 KB | 5 | Oct 17, 2026 |
+| [`Cloud-Office.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Office.apk.sha256) | 0 KB | 5 | Oct 17, 2026 |
 | [`Cloud-Sheets.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Sheets.apk.source) | 0 KB | 5 | Sep 9, 2026 |
-| [`Cloud-SuperApp.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp.apk.sha256) | 0 KB | 5 | Oct 16, 2026 |
+| [`Cloud-Tools-Small-LLMs.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs.apk.sha256) | 0 KB | 5 | Oct 17, 2026 |
+| [`Cloud-Vault.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Vault.apk.sha256) | 0 KB | 5 | Oct 17, 2026 |
+| [`C3-Morpheus.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`C3-Watchdog.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`C3-WatchTower.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-Account.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
 | [`Cloud-Agenda.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Agenda.apk.source) | 0 KB | 4 | Oct 13, 2026 |
-| [`Cloud-Store.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.apk.source) | 0 KB | 3 | Oct 16, 2026 |
-| [`Cloud-Store.wasm.zip`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.wasm.zip) | 4.3 MB | 3 | Oct 14, 2026 |
-| [`Cloud-Code.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Code.apk) | 25.7 MB | 2 | Oct 16, 2026 |
-| [`Cloud-Notes.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Notes.apk.sha256) | 0 KB | 2 | Oct 16, 2026 |
-| [`Cloud-Office.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Office.apk.source) | 0 KB | 2 | Oct 15, 2026 |
-| [`Cloud-Store-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store-x86_64.apk.source) | 0 KB | 2 | Oct 16, 2026 |
+| [`Cloud-C3-WebServer.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-C3.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-Calc.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-Camera.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Camera.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-Code.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Code.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`cloud-comms-dialer.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-dialer.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-Contacts.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-Drive.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-Keyboard-Libs.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard-Libs.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-Keyboard.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-Me.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`cloud-media-center.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-MyTerminal.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-MyTerminal.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-Nav.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-News.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`cloud-nixdroid.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-Search.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-Tasks.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`cloud-terminal.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-Wallet.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-Writer.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer.apk.sha256) | 0 KB | 4 | Oct 17, 2026 |
+| [`Cloud-Browser.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser.apk.sha256) | 0 KB | 3 | Oct 17, 2026 |
+| [`cloud-comms-mail.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-mail.apk.sha256) | 0 KB | 3 | Oct 17, 2026 |
+| [`Cloud-Store.wasm.zip`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.wasm.zip) | 4.3 MB | 3 | Oct 16, 2026 |
 | [`Cloud-Unix-Termux-Boot.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Unix-Termux-Boot.apk.source) | 0 KB | 2 | Oct 1, 2026 |
-| [`Cloud-Calc.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc.apk.sha256) | 0 KB | 1 | Oct 16, 2026 |
-| [`cloud-comms-dialer.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-dialer.apk.sha256) | 0 KB | 1 | Oct 16, 2026 |
-| [`cloud-comms-mail.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-mail.apk.sha256) | 0 KB | 1 | Oct 16, 2026 |
-| [`cloud-comms-matrix.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-matrix.apk.sha256) | 0 KB | 1 | Oct 16, 2026 |
-| [`Cloud-Contacts.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts.apk.sha256) | 0 KB | 1 | Oct 16, 2026 |
+| [`Cloud-Browser.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser.apk.source) | 0 KB | 1 | Oct 17, 2026 |
+| [`Cloud-Code.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Code.apk.source) | 0 KB | 1 | Oct 17, 2026 |
 | [`Cloud-Lib-Rootfs-Termux-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Termux-x86_64.apk.sha256) | 0 KB | 1 | Oct 9, 2026 |
-| [`Cloud-Nav.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav.apk.sha256) | 0 KB | 1 | Oct 16, 2026 |
-| [`Cloud-Search-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search-x86_64.apk.source) | 0 KB | 1 | Oct 16, 2026 |
-| [`Cloud-Search.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search.apk.source) | 0 KB | 1 | Oct 16, 2026 |
-| [`Cloud-SuperApp-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp-x86_64.apk.sha256) | 0 KB | 1 | Oct 16, 2026 |
-| [`Cloud-Wallet.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet.apk.source) | 0 KB | 1 | Oct 16, 2026 |
-| [`C3-Morpheus-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus-x86_64.apk) | 11.1 MB | 0 | Oct 16, 2026 |
-| [`C3-Morpheus-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`C3-Morpheus-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`C3-Morpheus.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`C3-Watchdog-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog-x86_64.apk) | 13.3 MB | 0 | Oct 16, 2026 |
-| [`C3-Watchdog-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`C3-Watchdog-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`C3-Watchdog.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`C3-WatchTower-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower-x86_64.apk) | 10.6 MB | 0 | Oct 16, 2026 |
-| [`C3-WatchTower-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`C3-WatchTower-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`C3-WatchTower.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Account-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account-x86_64.apk) | 32.5 MB | 0 | Oct 16, 2026 |
-| [`Cloud-Account-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Account-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Account.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account.apk.source) | 0 KB | 0 | Oct 16, 2026 |
+| [`Cloud-MyTerminal.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-MyTerminal.apk.source) | 0 KB | 1 | Oct 17, 2026 |
+| [`cloud-nixdroid.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid.apk.source) | 0 KB | 1 | Oct 17, 2026 |
+| [`Cloud-SuperApp-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp-x86_64.apk.sha256) | 0 KB | 1 | Oct 17, 2026 |
+| [`Cloud-SuperApp.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp.apk.sha256) | 0 KB | 1 | Oct 17, 2026 |
+| [`cloud-terminal.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal.apk.source) | 0 KB | 1 | Oct 17, 2026 |
+| [`C3-Morpheus-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus-x86_64.apk) | 11.1 MB | 0 | Oct 17, 2026 |
+| [`C3-Morpheus-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`C3-Morpheus-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`C3-Morpheus.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`C3-Watchdog-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog-x86_64.apk) | 13.3 MB | 0 | Oct 17, 2026 |
+| [`C3-Watchdog-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`C3-Watchdog-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`C3-Watchdog.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`C3-WatchTower-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower-x86_64.apk) | 10.6 MB | 0 | Oct 17, 2026 |
+| [`C3-WatchTower-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`C3-WatchTower-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`C3-WatchTower.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Account-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account-x86_64.apk) | 33.3 MB | 0 | Oct 17, 2026 |
+| [`Cloud-Account-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Account-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Account.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account.apk.source) | 0 KB | 0 | Oct 17, 2026 |
 | [`Cloud-Agenda-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Agenda-x86_64.apk) | 7.8 MB | 0 | Oct 13, 2026 |
 | [`Cloud-Agenda-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Agenda-x86_64.apk.sha256) | 0 KB | 0 | Oct 13, 2026 |
 | [`Cloud-Agenda-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Agenda-x86_64.apk.source) | 0 KB | 0 | Oct 13, 2026 |
-| [`Cloud-Browser-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser-x86_64.apk) | 24.1 MB | 0 | Oct 16, 2026 |
-| [`Cloud-Browser-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Browser-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Browser.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-C3-WebServer-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer-x86_64.apk) | 2.7 MB | 0 | Oct 16, 2026 |
-| [`Cloud-C3-WebServer-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-C3-WebServer-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-C3-WebServer.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-C3.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3.apk) | 21.7 MB | 0 | Oct 16, 2026 |
-| [`Cloud-C3.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-C3.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Calc-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc-x86_64.apk) | 23.4 MB | 0 | Oct 16, 2026 |
-| [`Cloud-Calc-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Calc-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Calc.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Camera.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Camera.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Code.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Code.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Code.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Code.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`cloud-comms-chat.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-chat.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`cloud-comms-dialer.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-dialer.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`cloud-comms-mail.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-mail.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`cloud-comms-matrix-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-matrix-x86_64.apk) | 105.4 MB | 0 | Oct 16, 2026 |
-| [`cloud-comms-matrix-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-matrix-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`cloud-comms-matrix.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-matrix.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Contacts-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts-x86_64.apk) | 14.2 MB | 0 | Oct 16, 2026 |
-| [`Cloud-Contacts-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Contacts-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Contacts.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Drive-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive-x86_64.apk) | 65.8 MB | 0 | Oct 16, 2026 |
-| [`Cloud-Drive-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Drive-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Drive.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`cloud-gallery-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery-x86_64.apk) | 116.3 MB | 0 | Oct 16, 2026 |
-| [`cloud-gallery-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`cloud-gallery-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`cloud-gallery.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Keyboard-Libs.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard-Libs.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Keyboard.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard.apk.source) | 0 KB | 0 | Oct 16, 2026 |
+| [`Cloud-Browser-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser-x86_64.apk) | 24.6 MB | 0 | Oct 17, 2026 |
+| [`Cloud-Browser-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Browser-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-C3-WebServer-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer-x86_64.apk) | 2.7 MB | 0 | Oct 17, 2026 |
+| [`Cloud-C3-WebServer-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-C3-WebServer-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-C3-WebServer.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-C3.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Calc-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc-x86_64.apk) | 23.5 MB | 0 | Oct 17, 2026 |
+| [`Cloud-Calc-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Calc-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Calc.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Camera.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Camera.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`cloud-comms-chat.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-chat.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`cloud-comms-dialer.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-dialer.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`cloud-comms-mail.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-mail.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`cloud-comms-matrix-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-matrix-x86_64.apk) | 105.4 MB | 0 | Oct 17, 2026 |
+| [`cloud-comms-matrix-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-matrix-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`cloud-comms-matrix.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-matrix.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Contacts-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts-x86_64.apk) | 14.2 MB | 0 | Oct 17, 2026 |
+| [`Cloud-Contacts-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Contacts-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Contacts.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Drive-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive-x86_64.apk) | 65.8 MB | 0 | Oct 17, 2026 |
+| [`Cloud-Drive-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Drive-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Drive.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`cloud-gallery-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery-x86_64.apk) | 116.4 MB | 0 | Oct 17, 2026 |
+| [`cloud-gallery-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`cloud-gallery-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`cloud-gallery.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Keyboard-Libs.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard-Libs.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Keyboard.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard.apk.source) | 0 KB | 0 | Oct 17, 2026 |
 | [`Cloud-Lib-Rootfs-Nixdroid-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Nixdroid-x86_64.apk.sha256) | 0 KB | 0 | Oct 10, 2026 |
-| [`Cloud-Me-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me-x86_64.apk) | 24.7 MB | 0 | Oct 16, 2026 |
-| [`Cloud-Me-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Me-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Me.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`cloud-media-center-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center-x86_64.apk) | 2.9 MB | 0 | Oct 16, 2026 |
-| [`cloud-media-center-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`cloud-media-center-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`cloud-media-center.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-MyTerminal.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-MyTerminal.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Nav-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav-x86_64.apk) | 43.7 MB | 0 | Oct 16, 2026 |
-| [`Cloud-Nav-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Nav-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Nav.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-News-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News-x86_64.apk) | 14.2 MB | 0 | Oct 16, 2026 |
-| [`Cloud-News-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-News-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-News.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`cloud-nixdroid-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid-x86_64.apk) | 10.5 MB | 0 | Oct 16, 2026 |
-| [`cloud-nixdroid-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`cloud-nixdroid-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`cloud-nixdroid.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Notes.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Notes.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Search-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search-x86_64.apk) | 20.4 MB | 0 | Oct 16, 2026 |
-| [`Cloud-Search-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Store-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store-x86_64.apk) | 29.6 MB | 0 | Oct 16, 2026 |
-| [`Cloud-Store-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Store.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.apk) | 29.2 MB | 0 | Oct 16, 2026 |
-| [`Cloud-Store.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Store.wasm.zip.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.wasm.zip.sha256) | 0 KB | 0 | Oct 14, 2026 |
-| [`Cloud-Store.wasm.zip.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.wasm.zip.source) | 0 KB | 0 | Oct 14, 2026 |
-| [`Cloud-SuperApp-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp-x86_64.apk) | 38.8 MB | 0 | Oct 16, 2026 |
-| [`Cloud-Tasks-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks-x86_64.apk) | 22.7 MB | 0 | Oct 16, 2026 |
-| [`Cloud-Tasks-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Tasks-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Tasks.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks.apk) | 22.7 MB | 0 | Oct 16, 2026 |
-| [`Cloud-Tasks.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Tasks.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`cloud-terminal-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal-x86_64.apk) | 38.4 MB | 0 | Oct 16, 2026 |
-| [`cloud-terminal-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`cloud-terminal-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`cloud-terminal.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Tools-Small-LLMs-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs-x86_64.apk) | 20.8 MB | 0 | Oct 16, 2026 |
-| [`Cloud-Tools-Small-LLMs-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Tools-Small-LLMs-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Tools-Small-LLMs.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Vault-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Vault-x86_64.apk) | 107.9 MB | 0 | Oct 15, 2026 |
-| [`Cloud-Vault-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Vault-x86_64.apk.sha256) | 0 KB | 0 | Oct 15, 2026 |
-| [`Cloud-Wallet-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet-x86_64.apk) | 21.4 MB | 0 | Oct 16, 2026 |
-| [`Cloud-Wallet-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Wallet-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Writer-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer-x86_64.apk) | 18.7 MB | 0 | Oct 16, 2026 |
-| [`Cloud-Writer-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer-x86_64.apk.sha256) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Writer-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer-x86_64.apk.source) | 0 KB | 0 | Oct 16, 2026 |
-| [`Cloud-Writer.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer.apk.source) | 0 KB | 0 | Oct 16, 2026 |
+| [`Cloud-Me-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me-x86_64.apk) | 24.7 MB | 0 | Oct 17, 2026 |
+| [`Cloud-Me-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Me-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Me.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`cloud-media-center-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center-x86_64.apk) | 2.9 MB | 0 | Oct 17, 2026 |
+| [`cloud-media-center-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`cloud-media-center-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`cloud-media-center.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Nav-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav-x86_64.apk) | 45.8 MB | 0 | Oct 17, 2026 |
+| [`Cloud-Nav-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Nav-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Nav.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-News-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News-x86_64.apk) | 14.2 MB | 0 | Oct 17, 2026 |
+| [`Cloud-News-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-News-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-News.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`cloud-nixdroid-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid-x86_64.apk) | 10.5 MB | 0 | Oct 17, 2026 |
+| [`cloud-nixdroid-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`cloud-nixdroid-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Notes.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Notes.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Office.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Office.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Search-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search-x86_64.apk) | 20.5 MB | 0 | Oct 17, 2026 |
+| [`Cloud-Search-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Search-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Search.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Store-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store-x86_64.apk) | 29.6 MB | 0 | Oct 17, 2026 |
+| [`Cloud-Store-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Store-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Store.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Store.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Store.wasm.zip.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.wasm.zip.sha256) | 0 KB | 0 | Oct 16, 2026 |
+| [`Cloud-Store.wasm.zip.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.wasm.zip.source) | 0 KB | 0 | Oct 16, 2026 |
+| [`Cloud-SuperApp-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp-x86_64.apk) | 39.6 MB | 0 | Oct 17, 2026 |
+| [`Cloud-SuperApp-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-SuperApp.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp.apk) | 37.9 MB | 0 | Oct 17, 2026 |
+| [`Cloud-SuperApp.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Tasks-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks-x86_64.apk) | 22.7 MB | 0 | Oct 17, 2026 |
+| [`Cloud-Tasks-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Tasks-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Tasks.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`cloud-terminal-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal-x86_64.apk) | 38.4 MB | 0 | Oct 17, 2026 |
+| [`cloud-terminal-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`cloud-terminal-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Tools-Small-LLMs-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs-x86_64.apk) | 20.8 MB | 0 | Oct 17, 2026 |
+| [`Cloud-Tools-Small-LLMs-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Tools-Small-LLMs-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Tools-Small-LLMs.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Vault-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Vault-x86_64.apk) | 107.9 MB | 0 | Oct 17, 2026 |
+| [`Cloud-Vault-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Vault-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Wallet-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet-x86_64.apk) | 21.5 MB | 0 | Oct 17, 2026 |
+| [`Cloud-Wallet-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Wallet-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Wallet.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Writer-x86_64.apk`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer-x86_64.apk) | 18.7 MB | 0 | Oct 17, 2026 |
+| [`Cloud-Writer-x86_64.apk.sha256`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer-x86_64.apk.sha256) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Writer-x86_64.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer-x86_64.apk.source) | 0 KB | 0 | Oct 17, 2026 |
+| [`Cloud-Writer.apk.source`](https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer.apk.source) | 0 KB | 0 | Oct 17, 2026 |
 
 <sub>[Source (zip)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/latest.zip) · [Source (tar.gz)](https://github.com/diegonmarcos/cloud-u-android/archive/refs/tags/latest.tar.gz)</sub>
 
@@ -5011,7 +5363,7 @@
 
 ---
 
-### 📁 <a href="https://github.com/diegonmarcos/cloud-u-linux/releases">cloud-u-linux</a> &nbsp;<sup>13 releases · 1,097 downloads</sup>
+### 📁 <a href="https://github.com/diegonmarcos/cloud-u-linux/releases">cloud-u-linux</a> &nbsp;<sup>13 releases · 1,175 downloads</sup>
 
 <details>
 <summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-webserver-f795a4e4"><b>my-webserver f795a4e4</b></a> &nbsp;<code>my-webserver-f795a4e4</code> &nbsp;<sub>Published 12 days ago · 2 assets · 2 downloads</sub></summary>
@@ -5062,13 +5414,13 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-linux/releases/tag/c3-watchdog-latest"><b>c3-watchdog (rolling)</b></a> &nbsp;<code>c3-watchdog-latest</code> &nbsp;<sub>Published 1 month ago · 10 assets · 182 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-linux/releases/tag/c3-watchdog-latest"><b>c3-watchdog (rolling)</b></a> &nbsp;<code>c3-watchdog-latest</code> &nbsp;<sub>Published 1 month ago · 10 assets · 236 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`c3-watchdog-aarch64`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/c3-watchdog-latest/c3-watchdog-aarch64) | 708 KB | 71 | Oct 4, 2026 |
-| [`c3-watchdog-tui-aarch64`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/c3-watchdog-latest/c3-watchdog-tui-aarch64) | 1.4 MB | 68 | Oct 4, 2026 |
-| [`c3-watchdog-app.html`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/c3-watchdog-latest/c3-watchdog-app.html) | 44 KB | 38 | Oct 4, 2026 |
+| [`c3-watchdog-aarch64`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/c3-watchdog-latest/c3-watchdog-aarch64) | 708 KB | 89 | Oct 4, 2026 |
+| [`c3-watchdog-tui-aarch64`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/c3-watchdog-latest/c3-watchdog-tui-aarch64) | 1.4 MB | 86 | Oct 4, 2026 |
+| [`c3-watchdog-app.html`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/c3-watchdog-latest/c3-watchdog-app.html) | 44 KB | 56 | Oct 4, 2026 |
 | [`c3-watchdog-x86_64`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/c3-watchdog-latest/c3-watchdog-x86_64) | 813 KB | 3 | Oct 4, 2026 |
 | [`c3-watchdog-tui-x86_64`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/c3-watchdog-latest/c3-watchdog-tui-x86_64) | 1.7 MB | 2 | Oct 4, 2026 |
 | [`c3-watchdog-d`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/c3-watchdog-latest/c3-watchdog-d) | 2.2 MB | 0 | Oct 4, 2026 |
@@ -5117,15 +5469,15 @@
 </details>
 
 <details>
-<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-watchdog-latest"><b>my-watchdog (rolling)</b></a> &nbsp;<code>my-watchdog-latest</code> &nbsp;<sub>Published 1 month ago · 10 assets · 771 downloads</sub></summary>
+<summary>🟢 <a href="https://github.com/diegonmarcos/cloud-u-linux/releases/tag/my-watchdog-latest"><b>my-watchdog (rolling)</b></a> &nbsp;<code>my-watchdog-latest</code> &nbsp;<sub>Published 1 month ago · 10 assets · 795 downloads</sub></summary>
 
 | Asset | Size | Downloads | Updated |
 |:---|:---|:---|:---|
-| [`my-watchdog-aarch64`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/my-watchdog-latest/my-watchdog-aarch64) | 708 KB | 234 | Sep 3, 2026 |
-| [`my-watchdog-tui-aarch64`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/my-watchdog-latest/my-watchdog-tui-aarch64) | 1.4 MB | 227 | Sep 3, 2026 |
+| [`my-watchdog-aarch64`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/my-watchdog-latest/my-watchdog-aarch64) | 708 KB | 240 | Sep 3, 2026 |
+| [`my-watchdog-tui-aarch64`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/my-watchdog-latest/my-watchdog-tui-aarch64) | 1.4 MB | 233 | Sep 3, 2026 |
 | [`watchdog-app.html`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/my-watchdog-latest/watchdog-app.html) | 44 KB | 150 | Sep 3, 2026 |
-| [`my-watchdog-x86_64`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/my-watchdog-latest/my-watchdog-x86_64) | 809 KB | 79 | Sep 3, 2026 |
-| [`my-watchdog-tui-x86_64`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/my-watchdog-latest/my-watchdog-tui-x86_64) | 1.7 MB | 78 | Sep 3, 2026 |
+| [`my-watchdog-x86_64`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/my-watchdog-latest/my-watchdog-x86_64) | 809 KB | 85 | Sep 3, 2026 |
+| [`my-watchdog-tui-x86_64`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/my-watchdog-latest/my-watchdog-tui-x86_64) | 1.7 MB | 84 | Sep 3, 2026 |
 | [`my-watchdog`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/my-watchdog-latest/my-watchdog) | 2.2 MB | 1 | Sep 3, 2026 |
 | [`my-watchdog-dist.tar.gz`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/my-watchdog-latest/my-watchdog-dist.tar.gz) | 1.2 MB | 1 | Sep 3, 2026 |
 | [`my-watchdog-tui`](https://github.com/diegonmarcos/cloud-u-linux/releases/download/my-watchdog-latest/my-watchdog-tui) | 1.6 MB | 1 | Sep 3, 2026 |
@@ -5206,4 +5558,4 @@
 
 ---
 
-<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Oct 16, 2026</sub>
+<sub>Auto-generated from GitHub Releases API · <code>releases/src/fetch.ts</code> + <code>releases/src/generate-md.ts</code> · Oct 17, 2026</sub>
