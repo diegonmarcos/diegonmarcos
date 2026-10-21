@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-20T11:51:16.751Z",
+  "fetched_at": "2026-10-21T12:04:56.986Z",
   "owner": "diegonmarcos",
-  "total_releases": 499,
-  "total_assets": 805,
-  "total_downloads": 11678,
+  "total_releases": 514,
+  "total_assets": 886,
+  "total_downloads": 7228,
   "repos": {
     "cloud-infra-desktop": {
       "repo_url": "https://github.com/diegonmarcos/cloud-infra-desktop",
@@ -433,7 +433,7 @@
             {
               "name": "octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
               "size": 27050620,
-              "download_count": 983,
+              "download_count": 987,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-infra-desktop/releases/download/octocode-0.12.2-hf/octocode-0.12.2-huggingface-x86_64-linux-nixos.tar.gz",
               "content_type": "application/x-gtar",
               "updated_at": "2026-03-24T12:47:34Z"
@@ -445,6 +445,321 @@
     "cloud-u-android": {
       "repo_url": "https://github.com/diegonmarcos/cloud-u-android",
       "releases": [
+        {
+          "tag_name": "cloud-comms-mail-20261021.114129",
+          "name": "Cloud Mail · 20261021.114129",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-10-21T11:40:34Z",
+          "published_at": "2026-10-21T11:50:11Z",
+          "html_url": "https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261021.114129",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/tarball/cloud-comms-mail-20261021.114129",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/zipball/cloud-comms-mail-20261021.114129",
+          "assets": [
+            {
+              "name": "cloud-comms-mail.apk",
+              "size": 4354897,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261021.114129/cloud-comms-mail.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-21T11:50:10Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-mail-20261021.093201",
+          "name": "Cloud Mail · 20261021.093201",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-10-21T09:42:57Z",
+          "published_at": "2026-10-21T09:43:21Z",
+          "html_url": "https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261021.093201",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/tarball/cloud-comms-mail-20261021.093201",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/zipball/cloud-comms-mail-20261021.093201",
+          "assets": [
+            {
+              "name": "cloud-comms-mail.apk",
+              "size": 4354897,
+              "download_count": 2,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261021.093201/cloud-comms-mail.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-21T09:43:20Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-dialer-20261021.114936",
+          "name": "Cloud Dialer · 20261021.114936",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-10-21T11:40:34Z",
+          "published_at": "2026-10-21T11:52:01Z",
+          "html_url": "https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261021.114936",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/tarball/cloud-comms-dialer-20261021.114936",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/zipball/cloud-comms-dialer-20261021.114936",
+          "assets": [
+            {
+              "name": "cloud-comms-dialer.apk",
+              "size": 6749244,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261021.114936/cloud-comms-dialer.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-21T11:52:00Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-matrix-20261020.212635",
+          "name": "Cloud Matrix · 20261020.212635",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-10-20T21:35:54Z",
+          "published_at": "2026-10-20T21:42:27Z",
+          "html_url": "https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261020.212635",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/tarball/cloud-comms-matrix-20261020.212635",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/zipball/cloud-comms-matrix-20261020.212635",
+          "assets": [
+            {
+              "name": "cloud-comms-matrix.apk",
+              "size": 110556268,
+              "download_count": 2,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-matrix-20261020.212635/cloud-comms-matrix.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-20T21:42:26Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-matrix-20261020.202412",
+          "name": "Cloud Matrix · 20261020.202412",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-10-20T20:33:05Z",
+          "published_at": "2026-10-20T20:45:05Z",
+          "html_url": "https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261020.202412",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/tarball/cloud-comms-matrix-20261020.202412",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/zipball/cloud-comms-matrix-20261020.202412",
+          "assets": [
+            {
+              "name": "cloud-comms-matrix.apk",
+              "size": 110556268,
+              "download_count": 2,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-matrix-20261020.202412/cloud-comms-matrix.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-20T20:45:04Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-matrix-20261020.182944",
+          "name": "Cloud Matrix · 20261020.182944",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-10-20T18:45:21Z",
+          "published_at": "2026-10-20T18:46:09Z",
+          "html_url": "https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-matrix-20261020.182944",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/tarball/cloud-comms-matrix-20261020.182944",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/zipball/cloud-comms-matrix-20261020.182944",
+          "assets": [
+            {
+              "name": "cloud-comms-matrix.apk",
+              "size": 110556268,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-matrix-20261020.182944/cloud-comms-matrix.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-20T18:46:08Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-mail-20261020.215406",
+          "name": "Cloud Mail · 20261020.215406",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-10-20T21:53:05Z",
+          "published_at": "2026-10-20T22:02:38Z",
+          "html_url": "https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261020.215406",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/tarball/cloud-comms-mail-20261020.215406",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/zipball/cloud-comms-mail-20261020.215406",
+          "assets": [
+            {
+              "name": "cloud-comms-mail.apk",
+              "size": 4354897,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261020.215406/cloud-comms-mail.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-20T22:02:37Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-mail-20261020.202956",
+          "name": "Cloud Mail · 20261020.202956",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-10-20T20:33:05Z",
+          "published_at": "2026-10-20T20:37:10Z",
+          "html_url": "https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261020.202956",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/tarball/cloud-comms-mail-20261020.202956",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/zipball/cloud-comms-mail-20261020.202956",
+          "assets": [
+            {
+              "name": "cloud-comms-mail.apk",
+              "size": 4354897,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261020.202956/cloud-comms-mail.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-20T20:37:09Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-mail-20261020.185603",
+          "name": "Cloud Mail · 20261020.185603",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-10-20T19:02:18Z",
+          "published_at": "2026-10-20T19:07:06Z",
+          "html_url": "https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-mail-20261020.185603",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/tarball/cloud-comms-mail-20261020.185603",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/zipball/cloud-comms-mail-20261020.185603",
+          "assets": [
+            {
+              "name": "cloud-comms-mail.apk",
+              "size": 4354897,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-mail-20261020.185603/cloud-comms-mail.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-20T19:07:05Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-dialer-20261020.212937",
+          "name": "Cloud Dialer · 20261020.212937",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-10-20T21:25:02Z",
+          "published_at": "2026-10-20T21:33:20Z",
+          "html_url": "https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261020.212937",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/tarball/cloud-comms-dialer-20261020.212937",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/zipball/cloud-comms-dialer-20261020.212937",
+          "assets": [
+            {
+              "name": "cloud-comms-dialer.apk",
+              "size": 6749244,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261020.212937/cloud-comms-dialer.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-20T21:33:19Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-dialer-20261020.203107",
+          "name": "Cloud Dialer · 20261020.203107",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-10-20T20:33:05Z",
+          "published_at": "2026-10-20T20:33:29Z",
+          "html_url": "https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261020.203107",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/tarball/cloud-comms-dialer-20261020.203107",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/zipball/cloud-comms-dialer-20261020.203107",
+          "assets": [
+            {
+              "name": "cloud-comms-dialer.apk",
+              "size": 6749244,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261020.203107/cloud-comms-dialer.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-20T20:33:28Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-dialer-20261020.183518",
+          "name": "Cloud Dialer · 20261020.183518",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-10-20T18:35:35Z",
+          "published_at": "2026-10-20T18:39:31Z",
+          "html_url": "https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-dialer-20261020.183518",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/tarball/cloud-comms-dialer-20261020.183518",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/zipball/cloud-comms-dialer-20261020.183518",
+          "assets": [
+            {
+              "name": "cloud-comms-dialer.apk",
+              "size": 6749244,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-dialer-20261020.183518/cloud-comms-dialer.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-20T18:39:30Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-chat-20261020.212751",
+          "name": "Cloud Chat · 20261020.212751",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-10-20T21:35:54Z",
+          "published_at": "2026-10-20T21:41:57Z",
+          "html_url": "https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261020.212751",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/tarball/cloud-comms-chat-20261020.212751",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/zipball/cloud-comms-chat-20261020.212751",
+          "assets": [
+            {
+              "name": "cloud-comms-chat.apk",
+              "size": 188024854,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-chat-20261020.212751/cloud-comms-chat.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-20T21:41:56Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-chat-20261020.202907",
+          "name": "Cloud Chat · 20261020.202907",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-10-20T20:46:21Z",
+          "published_at": "2026-10-20T20:47:00Z",
+          "html_url": "https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261020.202907",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/tarball/cloud-comms-chat-20261020.202907",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/zipball/cloud-comms-chat-20261020.202907",
+          "assets": [
+            {
+              "name": "cloud-comms-chat.apk",
+              "size": 188024854,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-chat-20261020.202907/cloud-comms-chat.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-20T20:46:59Z"
+            }
+          ]
+        },
+        {
+          "tag_name": "cloud-comms-chat-20261020.183018",
+          "name": "Cloud Chat · 20261020.183018",
+          "draft": false,
+          "prerelease": false,
+          "created_at": "2026-10-20T18:51:27Z",
+          "published_at": "2026-10-20T18:53:32Z",
+          "html_url": "https://github.com/diegonmarcos/cloud-u-android/releases/tag/cloud-comms-chat-20261020.183018",
+          "tarball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/tarball/cloud-comms-chat-20261020.183018",
+          "zipball_url": "https://api.github.com/repos/diegonmarcos/cloud-u-android/zipball/cloud-comms-chat-20261020.183018",
+          "assets": [
+            {
+              "name": "cloud-comms-chat.apk",
+              "size": 188024854,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/cloud-comms-chat-20261020.183018/cloud-comms-chat.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-20T18:53:31Z"
+            }
+          ]
+        },
         {
           "tag_name": "lib-calc-native-20261018.014931",
           "name": "Cloud-Lib-Calc native engine lib-calc-native-20261018.014931",
@@ -4137,7 +4452,7 @@
             {
               "name": "bootstrap-aarch64.zip",
               "size": 68103357,
-              "download_count": 53,
+              "download_count": 59,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/nixdroid-bootstrap-7fc927a68576/bootstrap-aarch64.zip",
               "content_type": "application/zip",
               "updated_at": "2026-10-03T20:41:28Z"
@@ -4153,7 +4468,7 @@
             {
               "name": "bootstrap-x86_64.zip",
               "size": 69592864,
-              "download_count": 54,
+              "download_count": 60,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/nixdroid-bootstrap-7fc927a68576/bootstrap-x86_64.zip",
               "content_type": "application/zip",
               "updated_at": "2026-10-03T20:41:26Z"
@@ -4211,7 +4526,7 @@
             {
               "name": "libqalc-arm64-v8a.so",
               "size": 8019424,
-              "download_count": 62,
+              "download_count": 69,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/lib-calc-native-20261002.105615/libqalc-arm64-v8a.so",
               "content_type": "application/x-sharedlib",
               "updated_at": "2026-10-02T10:59:24Z"
@@ -4219,7 +4534,7 @@
             {
               "name": "libqalc-x86_64.so",
               "size": 8708384,
-              "download_count": 62,
+              "download_count": 69,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/lib-calc-native-20261002.105615/libqalc-x86_64.so",
               "content_type": "application/x-sharedlib",
               "updated_at": "2026-10-02T10:59:24Z"
@@ -6671,7 +6986,7 @@
             {
               "name": "firestack-arm64.aar",
               "size": 7125850,
-              "download_count": 1476,
+              "download_count": 1568,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/firestack-aar-20260910.114222/firestack-arm64.aar",
               "content_type": "application/octet-stream",
               "updated_at": "2026-09-10T11:43:58Z"
@@ -6679,7 +6994,7 @@
             {
               "name": "firestack-x86_64.aar",
               "size": 7720583,
-              "download_count": 541,
+              "download_count": 604,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/firestack-aar-20260910.114222/firestack-x86_64.aar",
               "content_type": "application/octet-stream",
               "updated_at": "2026-09-10T11:43:59Z"
@@ -10210,7 +10525,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T08:58:39Z"
+              "updated_at": "2026-10-21T11:49:06Z"
             },
             {
               "name": "C3-Morpheus-x86_64.apk.sha256",
@@ -10218,7 +10533,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:58:38Z"
+              "updated_at": "2026-10-21T11:49:05Z"
             },
             {
               "name": "C3-Morpheus-x86_64.apk.source",
@@ -10226,23 +10541,23 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:58:41Z"
+              "updated_at": "2026-10-21T11:49:10Z"
             },
             {
               "name": "C3-Morpheus.apk",
               "size": 11695325,
-              "download_count": 157,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T08:56:43Z"
+              "updated_at": "2026-10-21T11:48:35Z"
             },
             {
               "name": "C3-Morpheus.apk.sha256",
               "size": 65,
-              "download_count": 19,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:56:42Z"
+              "updated_at": "2026-10-21T11:48:34Z"
             },
             {
               "name": "C3-Morpheus.apk.source",
@@ -10250,7 +10565,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Morpheus.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:56:47Z"
+              "updated_at": "2026-10-21T11:48:39Z"
             },
             {
               "name": "C3-Watchdog-x86_64.apk",
@@ -10258,7 +10573,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T08:57:12Z"
+              "updated_at": "2026-10-21T11:47:08Z"
             },
             {
               "name": "C3-Watchdog-x86_64.apk.sha256",
@@ -10266,7 +10581,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:57:11Z"
+              "updated_at": "2026-10-21T11:47:07Z"
             },
             {
               "name": "C3-Watchdog-x86_64.apk.source",
@@ -10274,23 +10589,23 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:57:16Z"
+              "updated_at": "2026-10-21T11:47:12Z"
             },
             {
               "name": "C3-Watchdog.apk",
               "size": 13960632,
-              "download_count": 157,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T08:56:57Z"
+              "updated_at": "2026-10-21T11:50:35Z"
             },
             {
               "name": "C3-Watchdog.apk.sha256",
               "size": 65,
-              "download_count": 19,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:56:57Z"
+              "updated_at": "2026-10-21T11:50:34Z"
             },
             {
               "name": "C3-Watchdog.apk.source",
@@ -10298,7 +10613,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-Watchdog.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:57:02Z"
+              "updated_at": "2026-10-21T11:50:40Z"
             },
             {
               "name": "C3-WatchTower-x86_64.apk",
@@ -10306,7 +10621,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:11:37Z"
+              "updated_at": "2026-10-21T11:44:25Z"
             },
             {
               "name": "C3-WatchTower-x86_64.apk.sha256",
@@ -10314,7 +10629,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:11:36Z"
+              "updated_at": "2026-10-21T11:44:24Z"
             },
             {
               "name": "C3-WatchTower-x86_64.apk.source",
@@ -10322,23 +10637,23 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:11:41Z"
+              "updated_at": "2026-10-21T11:44:28Z"
             },
             {
               "name": "C3-WatchTower.apk",
               "size": 11166879,
-              "download_count": 153,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:10:55Z"
+              "updated_at": "2026-10-21T11:44:23Z"
             },
             {
               "name": "C3-WatchTower.apk.sha256",
               "size": 65,
-              "download_count": 19,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:10:54Z"
+              "updated_at": "2026-10-21T11:44:23Z"
             },
             {
               "name": "C3-WatchTower.apk.source",
@@ -10346,15 +10661,15 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/C3-WatchTower.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:10:58Z"
+              "updated_at": "2026-10-21T11:44:27Z"
             },
             {
               "name": "Cloud-Account-x86_64.apk",
-              "size": 34981250,
+              "size": 35014018,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T11:26:48Z"
+              "updated_at": "2026-10-21T11:46:23Z"
             },
             {
               "name": "Cloud-Account-x86_64.apk.sha256",
@@ -10362,7 +10677,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T11:26:47Z"
+              "updated_at": "2026-10-21T11:46:22Z"
             },
             {
               "name": "Cloud-Account-x86_64.apk.source",
@@ -10370,23 +10685,23 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T11:26:51Z"
+              "updated_at": "2026-10-21T11:46:27Z"
             },
             {
               "name": "Cloud-Account.apk",
-              "size": 34579851,
-              "download_count": 111,
+              "size": 34612619,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T11:28:15Z"
+              "updated_at": "2026-10-21T11:48:11Z"
             },
             {
               "name": "Cloud-Account.apk.sha256",
               "size": 65,
-              "download_count": 17,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T11:28:14Z"
+              "updated_at": "2026-10-21T11:48:10Z"
             },
             {
               "name": "Cloud-Account.apk.source",
@@ -10394,7 +10709,31 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T11:28:19Z"
+              "updated_at": "2026-10-21T11:48:15Z"
+            },
+            {
+              "name": "Cloud-Account.wasm.zip",
+              "size": 4506837,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:54:43Z"
+            },
+            {
+              "name": "Cloud-Account.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:54:43Z"
+            },
+            {
+              "name": "Cloud-Account.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Account.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:54:46Z"
             },
             {
               "name": "Cloud-Agenda-x86_64.apk",
@@ -10446,11 +10785,11 @@
             },
             {
               "name": "Cloud-Browser-x86_64.apk",
-              "size": 42629839,
+              "size": 42679050,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T16:11:35Z"
+              "updated_at": "2026-10-21T11:50:56Z"
             },
             {
               "name": "Cloud-Browser-x86_64.apk.sha256",
@@ -10458,7 +10797,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T16:11:34Z"
+              "updated_at": "2026-10-21T11:50:53Z"
             },
             {
               "name": "Cloud-Browser-x86_64.apk.source",
@@ -10466,39 +10805,63 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T16:11:38Z"
+              "updated_at": "2026-10-21T11:51:00Z"
             },
             {
               "name": "Cloud-Browser.apk",
-              "size": 42154709,
-              "download_count": 15,
+              "size": 42203920,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T16:11:31Z"
+              "updated_at": "2026-10-21T11:55:29Z"
             },
             {
               "name": "Cloud-Browser.apk.sha256",
               "size": 65,
-              "download_count": 14,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T16:11:30Z"
+              "updated_at": "2026-10-21T11:55:28Z"
             },
             {
               "name": "Cloud-Browser.apk.source",
               "size": 106,
-              "download_count": 5,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T16:11:35Z"
+              "updated_at": "2026-10-21T11:55:32Z"
+            },
+            {
+              "name": "Cloud-Browser.wasm.zip",
+              "size": 4505151,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:53:33Z"
+            },
+            {
+              "name": "Cloud-Browser.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:53:32Z"
+            },
+            {
+              "name": "Cloud-Browser.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Browser.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:53:35Z"
             },
             {
               "name": "Cloud-C3-WebServer-x86_64.apk",
-              "size": 3008680,
+              "size": 3033256,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:36:17Z"
+              "updated_at": "2026-10-21T11:53:53Z"
             },
             {
               "name": "Cloud-C3-WebServer-x86_64.apk.sha256",
@@ -10506,7 +10869,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:36:16Z"
+              "updated_at": "2026-10-21T11:53:53Z"
             },
             {
               "name": "Cloud-C3-WebServer-x86_64.apk.source",
@@ -10514,47 +10877,47 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:36:20Z"
+              "updated_at": "2026-10-21T11:53:57Z"
             },
             {
               "name": "Cloud-C3-WebServer.apk",
-              "size": 2951339,
-              "download_count": 14,
+              "size": 2971819,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:35:34Z"
+              "updated_at": "2026-10-21T11:53:05Z"
             },
             {
               "name": "Cloud-C3-WebServer.apk.sha256",
               "size": 65,
-              "download_count": 14,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:35:34Z"
+              "updated_at": "2026-10-21T11:53:05Z"
             },
             {
               "name": "Cloud-C3-WebServer.apk.source",
               "size": 106,
-              "download_count": 6,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3-WebServer.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:35:37Z"
+              "updated_at": "2026-10-21T11:53:09Z"
             },
             {
               "name": "Cloud-C3.apk",
-              "size": 23161194,
-              "download_count": 149,
+              "size": 23243173,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:20:28Z"
+              "updated_at": "2026-10-21T11:48:58Z"
             },
             {
               "name": "Cloud-C3.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:20:27Z"
+              "updated_at": "2026-10-21T11:48:57Z"
             },
             {
               "name": "Cloud-C3.apk.source",
@@ -10562,7 +10925,31 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:20:31Z"
+              "updated_at": "2026-10-21T11:49:01Z"
+            },
+            {
+              "name": "Cloud-C3.wasm.zip",
+              "size": 4507768,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:52:23Z"
+            },
+            {
+              "name": "Cloud-C3.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:52:23Z"
+            },
+            {
+              "name": "Cloud-C3.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-C3.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:52:26Z"
             },
             {
               "name": "Cloud-Calc-x86_64.apk",
@@ -10570,7 +10957,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:07:41Z"
+              "updated_at": "2026-10-21T11:50:26Z"
             },
             {
               "name": "Cloud-Calc-x86_64.apk.sha256",
@@ -10578,7 +10965,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:07:39Z"
+              "updated_at": "2026-10-21T11:50:25Z"
             },
             {
               "name": "Cloud-Calc-x86_64.apk.source",
@@ -10586,23 +10973,23 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:07:44Z"
+              "updated_at": "2026-10-21T11:50:29Z"
             },
             {
               "name": "Cloud-Calc.apk",
               "size": 24676838,
-              "download_count": 154,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:03:48Z"
+              "updated_at": "2026-10-21T11:55:11Z"
             },
             {
               "name": "Cloud-Calc.apk.sha256",
               "size": 65,
-              "download_count": 20,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:03:47Z"
+              "updated_at": "2026-10-21T11:55:10Z"
             },
             {
               "name": "Cloud-Calc.apk.source",
@@ -10610,23 +10997,47 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:03:51Z"
+              "updated_at": "2026-10-21T11:55:14Z"
+            },
+            {
+              "name": "Cloud-Calc.wasm.zip",
+              "size": 4470546,
+              "download_count": 5,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:54:19Z"
+            },
+            {
+              "name": "Cloud-Calc.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:54:18Z"
+            },
+            {
+              "name": "Cloud-Calc.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Calc.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:54:21Z"
             },
             {
               "name": "Cloud-Camera.apk",
               "size": 5332691,
-              "download_count": 155,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Camera.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:04:08Z"
+              "updated_at": "2026-10-21T11:53:09Z"
             },
             {
               "name": "Cloud-Camera.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Camera.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:04:08Z"
+              "updated_at": "2026-10-21T11:53:09Z"
             },
             {
               "name": "Cloud-Camera.apk.source",
@@ -10634,71 +11045,119 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Camera.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:04:10Z"
+              "updated_at": "2026-10-21T11:53:11Z"
+            },
+            {
+              "name": "Cloud-Camera.wasm.zip",
+              "size": 4505111,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Camera.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:53:15Z"
+            },
+            {
+              "name": "Cloud-Camera.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Camera.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:53:15Z"
+            },
+            {
+              "name": "Cloud-Camera.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Camera.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:53:17Z"
             },
             {
               "name": "Cloud-Code.apk",
               "size": 25588406,
-              "download_count": 153,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Code.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:05:32Z"
+              "updated_at": "2026-10-21T11:49:30Z"
             },
             {
               "name": "Cloud-Code.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Code.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:05:31Z"
+              "updated_at": "2026-10-21T11:49:29Z"
             },
             {
               "name": "Cloud-Code.apk.source",
               "size": 106,
-              "download_count": 7,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Code.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:05:35Z"
+              "updated_at": "2026-10-21T11:49:33Z"
+            },
+            {
+              "name": "Cloud-Code.wasm.zip",
+              "size": 4314635,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Code.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:52:50Z"
+            },
+            {
+              "name": "Cloud-Code.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Code.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:52:50Z"
+            },
+            {
+              "name": "Cloud-Code.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Code.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:52:53Z"
             },
             {
               "name": "cloud-comms-chat.apk",
               "size": 188024854,
-              "download_count": 152,
+              "download_count": 65,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-chat.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:11:11Z"
+              "updated_at": "2026-10-20T21:42:05Z"
             },
             {
               "name": "cloud-comms-chat.apk.sha256",
               "size": 65,
-              "download_count": 19,
+              "download_count": 9,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-chat.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:11:04Z"
+              "updated_at": "2026-10-20T21:41:59Z"
             },
             {
               "name": "cloud-comms-chat.apk.source",
               "size": 106,
-              "download_count": 0,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-chat.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:11:13Z"
+              "updated_at": "2026-10-20T21:42:07Z"
             },
             {
               "name": "cloud-comms-dialer.apk",
               "size": 6749244,
-              "download_count": 156,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-dialer.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T08:59:56Z"
+              "updated_at": "2026-10-21T11:52:03Z"
             },
             {
               "name": "cloud-comms-dialer.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-dialer.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:59:56Z"
+              "updated_at": "2026-10-21T11:52:03Z"
             },
             {
               "name": "cloud-comms-dialer.apk.source",
@@ -10706,23 +11165,23 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-dialer.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:59:59Z"
+              "updated_at": "2026-10-21T11:52:06Z"
             },
             {
               "name": "cloud-comms-mail.apk",
               "size": 4354897,
-              "download_count": 152,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-mail.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:09:16Z"
+              "updated_at": "2026-10-21T11:50:13Z"
             },
             {
               "name": "cloud-comms-mail.apk.sha256",
               "size": 65,
-              "download_count": 19,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-mail.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:09:15Z"
+              "updated_at": "2026-10-21T11:50:13Z"
             },
             {
               "name": "cloud-comms-mail.apk.source",
@@ -10730,7 +11189,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-mail.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:09:18Z"
+              "updated_at": "2026-10-21T11:50:15Z"
             },
             {
               "name": "cloud-comms-matrix-x86_64.apk",
@@ -10738,7 +11197,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-matrix-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:16:27Z"
+              "updated_at": "2026-10-21T12:04:25Z"
             },
             {
               "name": "cloud-comms-matrix-x86_64.apk.sha256",
@@ -10746,23 +11205,23 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-matrix-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:16:24Z"
+              "updated_at": "2026-10-21T12:04:20Z"
             },
             {
               "name": "cloud-comms-matrix.apk",
               "size": 110556268,
-              "download_count": 150,
+              "download_count": 64,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-matrix.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:17:02Z"
+              "updated_at": "2026-10-20T21:42:33Z"
             },
             {
               "name": "cloud-comms-matrix.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 8,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-matrix.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:16:57Z"
+              "updated_at": "2026-10-20T21:42:30Z"
             },
             {
               "name": "cloud-comms-matrix.apk.source",
@@ -10770,15 +11229,15 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-comms-matrix.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:17:07Z"
+              "updated_at": "2026-10-21T12:04:30Z"
             },
             {
               "name": "Cloud-Contacts-x86_64.apk",
-              "size": 14929780,
+              "size": 14950319,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:05:36Z"
+              "updated_at": "2026-10-21T11:51:55Z"
             },
             {
               "name": "Cloud-Contacts-x86_64.apk.sha256",
@@ -10786,7 +11245,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:05:35Z"
+              "updated_at": "2026-10-21T11:51:54Z"
             },
             {
               "name": "Cloud-Contacts-x86_64.apk.source",
@@ -10794,23 +11253,23 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:05:39Z"
+              "updated_at": "2026-10-21T11:51:58Z"
             },
             {
               "name": "Cloud-Contacts.apk",
-              "size": 14929783,
-              "download_count": 154,
+              "size": 14946226,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:04:42Z"
+              "updated_at": "2026-10-21T11:53:03Z"
             },
             {
               "name": "Cloud-Contacts.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:04:42Z"
+              "updated_at": "2026-10-21T11:53:02Z"
             },
             {
               "name": "Cloud-Contacts.apk.source",
@@ -10818,15 +11277,39 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Contacts.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:04:45Z"
+              "updated_at": "2026-10-21T11:53:06Z"
+            },
+            {
+              "name": "Cloud-Dialer.wasm.zip",
+              "size": 4504950,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Dialer.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:51:20Z"
+            },
+            {
+              "name": "Cloud-Dialer.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Dialer.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:51:19Z"
+            },
+            {
+              "name": "Cloud-Dialer.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Dialer.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:51:22Z"
             },
             {
               "name": "Cloud-Drive-x86_64.apk",
-              "size": 70297030,
+              "size": 38768570,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:25:57Z"
+              "updated_at": "2026-10-21T11:45:23Z"
             },
             {
               "name": "Cloud-Drive-x86_64.apk.sha256",
@@ -10834,7 +11317,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:25:55Z"
+              "updated_at": "2026-10-21T11:45:21Z"
             },
             {
               "name": "Cloud-Drive-x86_64.apk.source",
@@ -10842,31 +11325,55 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:26:00Z"
+              "updated_at": "2026-10-21T11:45:27Z"
             },
             {
               "name": "Cloud-Drive.apk",
-              "size": 66754008,
-              "download_count": 145,
+              "size": 38764489,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:27:05Z"
+              "updated_at": "2026-10-21T11:45:46Z"
             },
             {
               "name": "Cloud-Drive.apk.sha256",
               "size": 65,
-              "download_count": 17,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:27:02Z"
+              "updated_at": "2026-10-21T11:45:45Z"
             },
             {
               "name": "Cloud-Drive.apk.source",
               "size": 106,
-              "download_count": 7,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:27:09Z"
+              "updated_at": "2026-10-21T11:45:49Z"
+            },
+            {
+              "name": "Cloud-Drive.wasm.zip",
+              "size": 4507358,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:50:45Z"
+            },
+            {
+              "name": "Cloud-Drive.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:50:44Z"
+            },
+            {
+              "name": "Cloud-Drive.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Drive.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:50:47Z"
             },
             {
               "name": "cloud-gallery-x86_64.apk",
@@ -10874,7 +11381,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:06:12Z"
+              "updated_at": "2026-10-20T21:44:32Z"
             },
             {
               "name": "cloud-gallery-x86_64.apk.sha256",
@@ -10882,79 +11389,79 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:06:08Z"
+              "updated_at": "2026-10-20T21:44:28Z"
             },
             {
               "name": "cloud-gallery-x86_64.apk.source",
               "size": 106,
-              "download_count": 0,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:06:15Z"
+              "updated_at": "2026-10-20T21:44:34Z"
             },
             {
               "name": "cloud-gallery.apk",
-              "size": 104204475,
-              "download_count": 150,
+              "size": 93292731,
+              "download_count": 65,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:13:23Z"
+              "updated_at": "2026-10-20T21:48:38Z"
             },
             {
               "name": "cloud-gallery.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 8,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:13:19Z"
+              "updated_at": "2026-10-20T21:48:35Z"
             },
             {
               "name": "cloud-gallery.apk.source",
               "size": 106,
-              "download_count": 0,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-gallery.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:13:25Z"
+              "updated_at": "2026-10-20T21:48:40Z"
             },
             {
               "name": "Cloud-Keyboard-Libs.apk",
               "size": 94981613,
-              "download_count": 106,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard-Libs.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-17T20:16:22Z"
+              "updated_at": "2026-10-21T11:45:09Z"
             },
             {
               "name": "Cloud-Keyboard-Libs.apk.sha256",
               "size": 65,
-              "download_count": 32,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard-Libs.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-17T20:16:19Z"
+              "updated_at": "2026-10-21T11:45:06Z"
             },
             {
               "name": "Cloud-Keyboard-Libs.apk.source",
               "size": 106,
-              "download_count": 1,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard-Libs.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-17T20:16:24Z"
+              "updated_at": "2026-10-21T11:45:12Z"
             },
             {
               "name": "Cloud-Keyboard.apk",
-              "size": 24017182,
-              "download_count": 156,
+              "size": 24049950,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T08:59:52Z"
+              "updated_at": "2026-10-21T11:46:56Z"
             },
             {
               "name": "Cloud-Keyboard.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:59:52Z"
+              "updated_at": "2026-10-21T11:46:55Z"
             },
             {
               "name": "Cloud-Keyboard.apk.source",
@@ -10962,31 +11469,31 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Keyboard.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:59:55Z"
+              "updated_at": "2026-10-21T11:47:00Z"
             },
             {
               "name": "Cloud-Lib-Analytics-Sink.apk",
               "size": 2360952,
-              "download_count": 13,
+              "download_count": 14,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Analytics-Sink.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:38:41Z"
+              "updated_at": "2026-10-21T09:49:43Z"
             },
             {
               "name": "Cloud-Lib-Analytics-Sink.apk.sha256",
               "size": 65,
-              "download_count": 14,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Analytics-Sink.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:44Z"
+              "updated_at": "2026-10-21T09:49:48Z"
             },
             {
               "name": "Cloud-Lib-Analytics-Sink.apk.source",
               "size": 106,
-              "download_count": 0,
+              "download_count": 3,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Analytics-Sink.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:48Z"
+              "updated_at": "2026-10-21T09:49:53Z"
             },
             {
               "name": "Cloud-Lib-Cal.apk",
@@ -10994,23 +11501,23 @@
               "download_count": 14,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Cal.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:38:41Z"
+              "updated_at": "2026-10-21T09:49:43Z"
             },
             {
               "name": "Cloud-Lib-Cal.apk.sha256",
               "size": 65,
-              "download_count": 13,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Cal.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:44Z"
+              "updated_at": "2026-10-21T09:49:48Z"
             },
             {
               "name": "Cloud-Lib-Cal.apk.source",
               "size": 106,
-              "download_count": 0,
+              "download_count": 3,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Cal.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:49Z"
+              "updated_at": "2026-10-21T09:49:55Z"
             },
             {
               "name": "Cloud-Lib-Calc.apk",
@@ -11018,247 +11525,319 @@
               "download_count": 14,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Calc.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:38:42Z"
+              "updated_at": "2026-10-21T09:49:44Z"
             },
             {
               "name": "Cloud-Lib-Calc.apk.sha256",
               "size": 65,
-              "download_count": 14,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Calc.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:45Z"
+              "updated_at": "2026-10-21T09:49:48Z"
             },
             {
               "name": "Cloud-Lib-Calc.apk.source",
               "size": 106,
-              "download_count": 0,
+              "download_count": 3,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Calc.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:51Z"
+              "updated_at": "2026-10-21T09:49:57Z"
             },
             {
               "name": "Cloud-Lib-Decisions-Engine.apk",
-              "size": 2426731,
-              "download_count": 13,
+              "size": 2443115,
+              "download_count": 14,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Decisions-Engine.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:38:41Z"
+              "updated_at": "2026-10-21T09:49:44Z"
             },
             {
               "name": "Cloud-Lib-Decisions-Engine.apk.sha256",
               "size": 65,
-              "download_count": 13,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Decisions-Engine.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:45Z"
+              "updated_at": "2026-10-21T09:49:48Z"
             },
             {
               "name": "Cloud-Lib-Decisions-Engine.apk.source",
               "size": 106,
-              "download_count": 0,
+              "download_count": 3,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Decisions-Engine.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:52Z"
+              "updated_at": "2026-10-21T09:49:58Z"
             },
             {
               "name": "Cloud-Lib-Feed.apk",
               "size": 2352760,
-              "download_count": 12,
+              "download_count": 14,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Feed.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:38:41Z"
+              "updated_at": "2026-10-21T09:49:44Z"
             },
             {
               "name": "Cloud-Lib-Feed.apk.sha256",
               "size": 65,
-              "download_count": 12,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Feed.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:45Z"
+              "updated_at": "2026-10-21T09:49:49Z"
             },
             {
               "name": "Cloud-Lib-Feed.apk.source",
               "size": 106,
-              "download_count": 0,
+              "download_count": 3,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Feed.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:54Z"
+              "updated_at": "2026-10-21T09:50:00Z"
             },
             {
               "name": "Cloud-Lib-Fleetconfig.apk",
               "size": 2344510,
-              "download_count": 13,
+              "download_count": 15,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Fleetconfig.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:38:42Z"
+              "updated_at": "2026-10-21T09:49:45Z"
             },
             {
               "name": "Cloud-Lib-Fleetconfig.apk.sha256",
               "size": 65,
-              "download_count": 12,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Fleetconfig.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:45Z"
+              "updated_at": "2026-10-21T09:49:49Z"
             },
             {
               "name": "Cloud-Lib-Fleetconfig.apk.source",
               "size": 106,
-              "download_count": 0,
+              "download_count": 3,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Fleetconfig.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:55Z"
+              "updated_at": "2026-10-21T09:50:02Z"
             },
             {
               "name": "Cloud-Lib-Gh.apk",
               "size": 34286145,
-              "download_count": 13,
+              "download_count": 14,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Gh.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:38:45Z"
+              "updated_at": "2026-10-21T09:49:46Z"
             },
             {
               "name": "Cloud-Lib-Gh.apk.sha256",
               "size": 65,
-              "download_count": 13,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Gh.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:45Z"
+              "updated_at": "2026-10-21T09:49:49Z"
             },
             {
               "name": "Cloud-Lib-Gh.apk.source",
               "size": 106,
-              "download_count": 0,
+              "download_count": 3,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Gh.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:57Z"
+              "updated_at": "2026-10-21T09:50:04Z"
+            },
+            {
+              "name": "Cloud-Lib-Git-Sync-Engine.apk",
+              "size": 20652995,
+              "download_count": 14,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Git-Sync-Engine.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-21T09:49:45Z"
+            },
+            {
+              "name": "Cloud-Lib-Git-Sync-Engine.apk.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Git-Sync-Engine.apk.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-21T09:49:49Z"
+            },
+            {
+              "name": "Cloud-Lib-Git-Sync-Engine.apk.source",
+              "size": 106,
+              "download_count": 3,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Git-Sync-Engine.apk.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-21T09:50:05Z"
             },
             {
               "name": "Cloud-Lib-Ml-L-Image-Mlkit.apk",
               "size": 64248983,
-              "download_count": 12,
+              "download_count": 21,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Image-Mlkit.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:38:44Z"
+              "updated_at": "2026-10-21T09:49:47Z"
             },
             {
               "name": "Cloud-Lib-Ml-L-Image-Mlkit.apk.sha256",
               "size": 65,
-              "download_count": 12,
+              "download_count": 7,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Image-Mlkit.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:45Z"
+              "updated_at": "2026-10-21T09:49:50Z"
             },
             {
               "name": "Cloud-Lib-Ml-L-Image-Mlkit.apk.source",
               "size": 106,
-              "download_count": 0,
+              "download_count": 3,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Image-Mlkit.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:58Z"
+              "updated_at": "2026-10-21T09:50:07Z"
             },
             {
               "name": "Cloud-Lib-Ml-L-Sound-Yamnet.apk",
               "size": 16975776,
-              "download_count": 12,
+              "download_count": 21,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Sound-Yamnet.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:38:43Z"
+              "updated_at": "2026-10-21T09:49:46Z"
             },
             {
               "name": "Cloud-Lib-Ml-L-Sound-Yamnet.apk.sha256",
               "size": 65,
-              "download_count": 12,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Sound-Yamnet.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:46Z"
+              "updated_at": "2026-10-21T09:49:50Z"
             },
             {
               "name": "Cloud-Lib-Ml-L-Sound-Yamnet.apk.source",
               "size": 106,
-              "download_count": 0,
+              "download_count": 3,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ml-L-Sound-Yamnet.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:39:00Z"
+              "updated_at": "2026-10-21T09:50:08Z"
+            },
+            {
+              "name": "Cloud-Lib-Mounts-Engine.apk",
+              "size": 23207947,
+              "download_count": 14,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Mounts-Engine.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-21T09:49:48Z"
+            },
+            {
+              "name": "Cloud-Lib-Mounts-Engine.apk.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Mounts-Engine.apk.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-21T09:49:50Z"
+            },
+            {
+              "name": "Cloud-Lib-Mounts-Engine.apk.source",
+              "size": 106,
+              "download_count": 3,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Mounts-Engine.apk.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-21T09:50:10Z"
             },
             {
               "name": "Cloud-Lib-Net-Wg.apk",
               "size": 19933225,
-              "download_count": 12,
+              "download_count": 14,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Net-Wg.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:38:43Z"
+              "updated_at": "2026-10-21T09:49:47Z"
             },
             {
               "name": "Cloud-Lib-Net-Wg.apk.sha256",
               "size": 65,
-              "download_count": 12,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Net-Wg.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:46Z"
+              "updated_at": "2026-10-21T09:49:50Z"
             },
             {
               "name": "Cloud-Lib-Net-Wg.apk.source",
               "size": 106,
-              "download_count": 0,
+              "download_count": 3,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Net-Wg.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:39:01Z"
+              "updated_at": "2026-10-21T09:50:12Z"
             },
             {
               "name": "Cloud-Lib-News.apk",
               "size": 2442872,
-              "download_count": 12,
+              "download_count": 14,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-News.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:38:43Z"
+              "updated_at": "2026-10-21T09:49:47Z"
             },
             {
               "name": "Cloud-Lib-News.apk.sha256",
               "size": 65,
-              "download_count": 12,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-News.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:46Z"
+              "updated_at": "2026-10-21T09:49:51Z"
             },
             {
               "name": "Cloud-Lib-News.apk.source",
               "size": 106,
-              "download_count": 0,
+              "download_count": 3,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-News.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:39:02Z"
+              "updated_at": "2026-10-21T09:50:13Z"
             },
             {
               "name": "Cloud-Lib-Ops-Engine.apk",
               "size": 11783963,
-              "download_count": 13,
+              "download_count": 14,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ops-Engine.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:38:44Z"
+              "updated_at": "2026-10-21T09:49:48Z"
             },
             {
               "name": "Cloud-Lib-Ops-Engine.apk.sha256",
               "size": 65,
-              "download_count": 13,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ops-Engine.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:38:46Z"
+              "updated_at": "2026-10-21T09:49:51Z"
             },
             {
               "name": "Cloud-Lib-Ops-Engine.apk.source",
               "size": 106,
-              "download_count": 0,
+              "download_count": 3,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Ops-Engine.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:39:04Z"
+              "updated_at": "2026-10-21T09:50:15Z"
+            },
+            {
+              "name": "Cloud-Lib-Rclone-Engine.apk",
+              "size": 79252372,
+              "download_count": 14,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rclone-Engine.apk",
+              "content_type": "application/vnd.android.package-archive",
+              "updated_at": "2026-10-21T09:49:50Z"
+            },
+            {
+              "name": "Cloud-Lib-Rclone-Engine.apk.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rclone-Engine.apk.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-21T09:49:51Z"
+            },
+            {
+              "name": "Cloud-Lib-Rclone-Engine.apk.source",
+              "size": 106,
+              "download_count": 3,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rclone-Engine.apk.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-21T09:50:16Z"
             },
             {
               "name": "Cloud-Lib-Rootfs-Nixdroid-x86_64.apk",
-              "size": 641258197,
-              "download_count": 1,
+              "size": 617362133,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Nixdroid-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:17:08Z"
+              "updated_at": "2026-10-20T19:30:18Z"
             },
             {
               "name": "Cloud-Lib-Rootfs-Nixdroid-x86_64.apk.sha256",
@@ -11266,47 +11845,47 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Nixdroid-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:16:51Z"
+              "updated_at": "2026-10-20T19:29:57Z"
             },
             {
               "name": "Cloud-Lib-Rootfs-Nixdroid-x86_64.apk.source",
               "size": 106,
-              "download_count": 1,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Nixdroid-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:17:10Z"
+              "updated_at": "2026-10-20T19:30:30Z"
             },
             {
               "name": "Cloud-Lib-Rootfs-Nixdroid.apk",
-              "size": 628806357,
-              "download_count": 41,
+              "size": 604443349,
+              "download_count": 73,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Nixdroid.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:17:02Z"
+              "updated_at": "2026-10-20T19:34:40Z"
             },
             {
               "name": "Cloud-Lib-Rootfs-Nixdroid.apk.sha256",
               "size": 65,
-              "download_count": 16,
+              "download_count": 9,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Nixdroid.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:16:48Z"
+              "updated_at": "2026-10-20T19:34:12Z"
             },
             {
               "name": "Cloud-Lib-Rootfs-Nixdroid.apk.source",
               "size": 106,
-              "download_count": 1,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Nixdroid.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:17:04Z"
+              "updated_at": "2026-10-20T19:34:42Z"
             },
             {
               "name": "Cloud-Lib-Rootfs-Termux-x86_64.apk",
-              "size": 505995990,
-              "download_count": 13,
+              "size": 468710102,
+              "download_count": 5,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Termux-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-17T23:30:25Z"
+              "updated_at": "2026-10-20T19:07:58Z"
             },
             {
               "name": "Cloud-Lib-Rootfs-Termux-x86_64.apk.sha256",
@@ -11314,47 +11893,47 @@
               "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Termux-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-17T23:30:11Z"
+              "updated_at": "2026-10-20T19:07:42Z"
             },
             {
               "name": "Cloud-Lib-Rootfs-Termux-x86_64.apk.source",
               "size": 106,
-              "download_count": 4,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Termux-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-17T23:30:27Z"
+              "updated_at": "2026-10-20T19:08:00Z"
             },
             {
               "name": "Cloud-Lib-Rootfs-Termux.apk",
-              "size": 488276694,
-              "download_count": 79,
+              "size": 460956374,
+              "download_count": 84,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Termux.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-17T23:28:56Z"
+              "updated_at": "2026-10-20T19:09:15Z"
             },
             {
               "name": "Cloud-Lib-Rootfs-Termux.apk.sha256",
               "size": 65,
-              "download_count": 28,
+              "download_count": 10,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Termux.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-17T23:28:40Z"
+              "updated_at": "2026-10-20T19:09:05Z"
             },
             {
               "name": "Cloud-Lib-Rootfs-Termux.apk.source",
               "size": 106,
-              "download_count": 4,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Lib-Rootfs-Termux.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-17T23:28:58Z"
+              "updated_at": "2026-10-20T19:09:18Z"
             },
             {
               "name": "Cloud-Me-x86_64.apk",
-              "size": 25903133,
+              "size": 25935960,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T08:58:24Z"
+              "updated_at": "2026-10-21T11:48:36Z"
             },
             {
               "name": "Cloud-Me-x86_64.apk.sha256",
@@ -11362,7 +11941,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:58:23Z"
+              "updated_at": "2026-10-21T11:48:35Z"
             },
             {
               "name": "Cloud-Me-x86_64.apk.source",
@@ -11370,23 +11949,23 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:58:27Z"
+              "updated_at": "2026-10-21T11:48:40Z"
             },
             {
               "name": "Cloud-Me.apk",
-              "size": 25903136,
-              "download_count": 157,
+              "size": 25935963,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T08:59:12Z"
+              "updated_at": "2026-10-21T11:50:14Z"
             },
             {
               "name": "Cloud-Me.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:59:11Z"
+              "updated_at": "2026-10-21T11:50:13Z"
             },
             {
               "name": "Cloud-Me.apk.source",
@@ -11394,7 +11973,31 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:59:15Z"
+              "updated_at": "2026-10-21T11:50:18Z"
+            },
+            {
+              "name": "Cloud-Me.wasm.zip",
+              "size": 4509995,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:51:43Z"
+            },
+            {
+              "name": "Cloud-Me.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:51:42Z"
+            },
+            {
+              "name": "Cloud-Me.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Me.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:51:45Z"
             },
             {
               "name": "cloud-media-center-x86_64.apk",
@@ -11402,7 +12005,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:04:43Z"
+              "updated_at": "2026-10-21T11:47:26Z"
             },
             {
               "name": "cloud-media-center-x86_64.apk.sha256",
@@ -11410,7 +12013,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:04:42Z"
+              "updated_at": "2026-10-21T11:47:26Z"
             },
             {
               "name": "cloud-media-center-x86_64.apk.source",
@@ -11418,23 +12021,23 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:04:46Z"
+              "updated_at": "2026-10-21T11:47:29Z"
             },
             {
               "name": "cloud-media-center.apk",
               "size": 3029250,
-              "download_count": 154,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:05:43Z"
+              "updated_at": "2026-10-21T11:46:27Z"
             },
             {
               "name": "cloud-media-center.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:05:43Z"
+              "updated_at": "2026-10-21T11:46:27Z"
             },
             {
               "name": "cloud-media-center.apk.source",
@@ -11442,39 +12045,63 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-media-center.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:05:46Z"
+              "updated_at": "2026-10-21T11:46:31Z"
             },
             {
               "name": "Cloud-MyTerminal.apk",
               "size": 17746022,
-              "download_count": 13,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-MyTerminal.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T16:11:10Z"
+              "updated_at": "2026-10-21T11:45:20Z"
             },
             {
               "name": "Cloud-MyTerminal.apk.sha256",
               "size": 65,
-              "download_count": 13,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-MyTerminal.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T16:11:09Z"
+              "updated_at": "2026-10-21T11:45:19Z"
             },
             {
               "name": "Cloud-MyTerminal.apk.source",
               "size": 106,
-              "download_count": 5,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-MyTerminal.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T16:11:13Z"
+              "updated_at": "2026-10-21T11:45:42Z"
+            },
+            {
+              "name": "Cloud-Myterminal.wasm.zip",
+              "size": 4313814,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Myterminal.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:51:39Z"
+            },
+            {
+              "name": "Cloud-Myterminal.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Myterminal.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:51:38Z"
+            },
+            {
+              "name": "Cloud-Myterminal.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Myterminal.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:51:40Z"
             },
             {
               "name": "Cloud-Nav-x86_64.apk",
-              "size": 48056603,
+              "size": 48093526,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:05:03Z"
+              "updated_at": "2026-10-21T11:46:37Z"
             },
             {
               "name": "Cloud-Nav-x86_64.apk.sha256",
@@ -11482,7 +12109,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:05:02Z"
+              "updated_at": "2026-10-21T11:46:35Z"
             },
             {
               "name": "Cloud-Nav-x86_64.apk.source",
@@ -11490,23 +12117,23 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:05:06Z"
+              "updated_at": "2026-10-21T11:46:41Z"
             },
             {
               "name": "Cloud-Nav.apk",
-              "size": 47802657,
-              "download_count": 154,
+              "size": 47835484,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:05:12Z"
+              "updated_at": "2026-10-21T11:46:43Z"
             },
             {
               "name": "Cloud-Nav.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:05:10Z"
+              "updated_at": "2026-10-21T11:46:41Z"
             },
             {
               "name": "Cloud-Nav.apk.source",
@@ -11514,15 +12141,39 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:05:14Z"
+              "updated_at": "2026-10-21T11:46:47Z"
+            },
+            {
+              "name": "Cloud-Nav.wasm.zip",
+              "size": 4504327,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:50:41Z"
+            },
+            {
+              "name": "Cloud-Nav.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:50:40Z"
+            },
+            {
+              "name": "Cloud-Nav.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Nav.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:50:43Z"
             },
             {
               "name": "Cloud-News-x86_64.apk",
-              "size": 14942064,
+              "size": 14974891,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T08:57:18Z"
+              "updated_at": "2026-10-21T11:46:10Z"
             },
             {
               "name": "Cloud-News-x86_64.apk.sha256",
@@ -11530,7 +12181,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:57:17Z"
+              "updated_at": "2026-10-21T11:46:09Z"
             },
             {
               "name": "Cloud-News-x86_64.apk.source",
@@ -11538,23 +12189,23 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:57:21Z"
+              "updated_at": "2026-10-21T11:46:14Z"
             },
             {
               "name": "Cloud-News.apk",
-              "size": 14942067,
-              "download_count": 156,
+              "size": 14974894,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T08:57:13Z"
+              "updated_at": "2026-10-21T11:45:24Z"
             },
             {
               "name": "Cloud-News.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:57:13Z"
+              "updated_at": "2026-10-21T11:45:23Z"
             },
             {
               "name": "Cloud-News.apk.source",
@@ -11562,15 +12213,39 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:57:16Z"
+              "updated_at": "2026-10-21T11:45:27Z"
+            },
+            {
+              "name": "Cloud-News.wasm.zip",
+              "size": 4313469,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:50:13Z"
+            },
+            {
+              "name": "Cloud-News.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:50:13Z"
+            },
+            {
+              "name": "Cloud-News.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-News.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:50:16Z"
             },
             {
               "name": "cloud-nixdroid-x86_64.apk",
-              "size": 11018950,
+              "size": 11023046,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:30:06Z"
+              "updated_at": "2026-10-21T12:01:59Z"
             },
             {
               "name": "cloud-nixdroid-x86_64.apk.sha256",
@@ -11578,7 +12253,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:30:05Z"
+              "updated_at": "2026-10-21T12:01:59Z"
             },
             {
               "name": "cloud-nixdroid-x86_64.apk.source",
@@ -11586,71 +12261,95 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:30:08Z"
+              "updated_at": "2026-10-21T12:02:02Z"
             },
             {
               "name": "cloud-nixdroid.apk",
               "size": 11018950,
-              "download_count": 14,
+              "download_count": 65,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:35:17Z"
+              "updated_at": "2026-10-20T21:46:00Z"
             },
             {
               "name": "cloud-nixdroid.apk.sha256",
               "size": 65,
-              "download_count": 13,
+              "download_count": 8,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:35:16Z"
+              "updated_at": "2026-10-20T21:46:00Z"
             },
             {
               "name": "cloud-nixdroid.apk.source",
               "size": 106,
-              "download_count": 6,
+              "download_count": 3,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-nixdroid.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:35:19Z"
+              "updated_at": "2026-10-20T21:46:03Z"
             },
             {
               "name": "Cloud-Notes.apk",
               "size": 126501774,
-              "download_count": 149,
+              "download_count": 67,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Notes.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:21:14Z"
+              "updated_at": "2026-10-20T21:52:27Z"
             },
             {
               "name": "Cloud-Notes.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 9,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Notes.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:21:10Z"
+              "updated_at": "2026-10-20T21:52:23Z"
             },
             {
               "name": "Cloud-Notes.apk.source",
               "size": 106,
-              "download_count": 0,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Notes.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:21:17Z"
+              "updated_at": "2026-10-20T21:52:30Z"
+            },
+            {
+              "name": "Cloud-Notes.wasm.zip",
+              "size": 4505510,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Notes.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:55:19Z"
+            },
+            {
+              "name": "Cloud-Notes.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Notes.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:55:19Z"
+            },
+            {
+              "name": "Cloud-Notes.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Notes.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:55:21Z"
             },
             {
               "name": "Cloud-Office.apk",
               "size": 262703655,
-              "download_count": 163,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Office.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:13:20Z"
+              "updated_at": "2026-10-21T12:01:07Z"
             },
             {
               "name": "Cloud-Office.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Office.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:13:12Z"
+              "updated_at": "2026-10-21T12:01:00Z"
             },
             {
               "name": "Cloud-Office.apk.source",
@@ -11658,7 +12357,31 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Office.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:13:30Z"
+              "updated_at": "2026-10-21T12:01:14Z"
+            },
+            {
+              "name": "Cloud-Office.wasm.zip",
+              "size": 4313922,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Office.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:52:22Z"
+            },
+            {
+              "name": "Cloud-Office.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Office.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:52:22Z"
+            },
+            {
+              "name": "Cloud-Office.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Office.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:52:25Z"
             },
             {
               "name": "Cloud-Search-x86_64.apk",
@@ -11666,7 +12389,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:09:59Z"
+              "updated_at": "2026-10-21T11:51:58Z"
             },
             {
               "name": "Cloud-Search-x86_64.apk.sha256",
@@ -11674,7 +12397,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:09:58Z"
+              "updated_at": "2026-10-21T11:51:57Z"
             },
             {
               "name": "Cloud-Search-x86_64.apk.source",
@@ -11682,23 +12405,23 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:10:03Z"
+              "updated_at": "2026-10-21T11:52:02Z"
             },
             {
               "name": "Cloud-Search.apk",
               "size": 21486245,
-              "download_count": 152,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:08:28Z"
+              "updated_at": "2026-10-21T11:56:04Z"
             },
             {
               "name": "Cloud-Search.apk.sha256",
               "size": 65,
-              "download_count": 19,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:08:28Z"
+              "updated_at": "2026-10-21T11:56:03Z"
             },
             {
               "name": "Cloud-Search.apk.source",
@@ -11706,7 +12429,31 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:08:31Z"
+              "updated_at": "2026-10-21T11:56:07Z"
+            },
+            {
+              "name": "Cloud-Search.wasm.zip",
+              "size": 4505370,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:53:21Z"
+            },
+            {
+              "name": "Cloud-Search.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:53:20Z"
+            },
+            {
+              "name": "Cloud-Search.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Search.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:53:23Z"
             },
             {
               "name": "Cloud-Sheets.apk",
@@ -11734,11 +12481,11 @@
             },
             {
               "name": "Cloud-Store-x86_64.apk",
-              "size": 31124390,
+              "size": 31157158,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:50:03Z"
+              "updated_at": "2026-10-21T11:48:49Z"
             },
             {
               "name": "Cloud-Store-x86_64.apk.sha256",
@@ -11746,7 +12493,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:50:02Z"
+              "updated_at": "2026-10-21T11:48:48Z"
             },
             {
               "name": "Cloud-Store-x86_64.apk.source",
@@ -11754,15 +12501,15 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:50:06Z"
+              "updated_at": "2026-10-21T11:48:52Z"
             },
             {
               "name": "Cloud-Store.apk",
-              "size": 30722991,
-              "download_count": 116,
+              "size": 30755759,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:50:36Z"
+              "updated_at": "2026-10-21T11:52:02Z"
             },
             {
               "name": "Cloud-Store.apk.sha256",
@@ -11770,7 +12517,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:50:34Z"
+              "updated_at": "2026-10-21T11:52:01Z"
             },
             {
               "name": "Cloud-Store.apk.source",
@@ -11778,15 +12525,15 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:50:39Z"
+              "updated_at": "2026-10-21T11:52:06Z"
             },
             {
               "name": "Cloud-Store.wasm.zip",
-              "size": 4527535,
-              "download_count": 0,
+              "size": 4527634,
+              "download_count": 5,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.wasm.zip",
               "content_type": "application/zip",
-              "updated_at": "2026-10-18T09:49:07Z"
+              "updated_at": "2026-10-20T20:54:36Z"
             },
             {
               "name": "Cloud-Store.wasm.zip.sha256",
@@ -11794,7 +12541,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.wasm.zip.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:49:07Z"
+              "updated_at": "2026-10-20T20:54:35Z"
             },
             {
               "name": "Cloud-Store.wasm.zip.source",
@@ -11802,15 +12549,15 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Store.wasm.zip.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:49:09Z"
+              "updated_at": "2026-10-20T20:54:38Z"
             },
             {
               "name": "Cloud-SuperApp-x86_64.apk",
-              "size": 41694800,
+              "size": 41776720,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T12:39:40Z"
+              "updated_at": "2026-10-21T11:22:26Z"
             },
             {
               "name": "Cloud-SuperApp-x86_64.apk.sha256",
@@ -11818,47 +12565,47 @@
               "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T12:39:39Z"
+              "updated_at": "2026-10-21T11:22:24Z"
             },
             {
               "name": "Cloud-SuperApp-x86_64.apk.source",
               "size": 106,
-              "download_count": 2,
+              "download_count": 4,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T12:39:45Z"
+              "updated_at": "2026-10-21T11:22:31Z"
             },
             {
               "name": "Cloud-SuperApp.apk",
-              "size": 39966300,
-              "download_count": 26,
+              "size": 40048220,
+              "download_count": 8,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T12:36:08Z"
+              "updated_at": "2026-10-21T11:25:19Z"
             },
             {
               "name": "Cloud-SuperApp.apk.sha256",
               "size": 65,
-              "download_count": 16,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T12:36:06Z"
+              "updated_at": "2026-10-21T11:25:17Z"
             },
             {
               "name": "Cloud-SuperApp.apk.source",
               "size": 106,
-              "download_count": 2,
+              "download_count": 4,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-SuperApp.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T12:36:13Z"
+              "updated_at": "2026-10-21T11:25:23Z"
             },
             {
               "name": "Cloud-Tasks-x86_64.apk",
-              "size": 23860596,
+              "size": 23897519,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T08:59:30Z"
+              "updated_at": "2026-10-21T11:53:35Z"
             },
             {
               "name": "Cloud-Tasks-x86_64.apk.sha256",
@@ -11866,7 +12613,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:59:28Z"
+              "updated_at": "2026-10-21T11:53:34Z"
             },
             {
               "name": "Cloud-Tasks-x86_64.apk.source",
@@ -11874,23 +12621,23 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:59:33Z"
+              "updated_at": "2026-10-21T11:53:39Z"
             },
             {
               "name": "Cloud-Tasks.apk",
-              "size": 23860599,
-              "download_count": 155,
+              "size": 23893426,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T08:58:04Z"
+              "updated_at": "2026-10-21T11:55:31Z"
             },
             {
               "name": "Cloud-Tasks.apk.sha256",
               "size": 65,
-              "download_count": 19,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:58:03Z"
+              "updated_at": "2026-10-21T11:55:30Z"
             },
             {
               "name": "Cloud-Tasks.apk.source",
@@ -11898,7 +12645,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tasks.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:58:07Z"
+              "updated_at": "2026-10-21T11:55:34Z"
             },
             {
               "name": "cloud-terminal-x86_64.apk",
@@ -11906,7 +12653,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:35:31Z"
+              "updated_at": "2026-10-20T21:54:30Z"
             },
             {
               "name": "cloud-terminal-x86_64.apk.sha256",
@@ -11914,7 +12661,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:35:30Z"
+              "updated_at": "2026-10-20T21:54:28Z"
             },
             {
               "name": "cloud-terminal-x86_64.apk.source",
@@ -11922,31 +12669,31 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:35:34Z"
+              "updated_at": "2026-10-20T21:54:32Z"
             },
             {
               "name": "cloud-terminal.apk",
               "size": 39875669,
-              "download_count": 15,
+              "download_count": 65,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T14:35:08Z"
+              "updated_at": "2026-10-20T21:55:10Z"
             },
             {
               "name": "cloud-terminal.apk.sha256",
               "size": 65,
-              "download_count": 14,
+              "download_count": 9,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:35:06Z"
+              "updated_at": "2026-10-20T21:55:08Z"
             },
             {
               "name": "cloud-terminal.apk.source",
               "size": 106,
-              "download_count": 6,
+              "download_count": 1,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/cloud-terminal.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T14:35:10Z"
+              "updated_at": "2026-10-20T21:55:13Z"
             },
             {
               "name": "Cloud-Tools-Small-LLMs-x86_64.apk",
@@ -11954,7 +12701,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:00:21Z"
+              "updated_at": "2026-10-21T11:54:31Z"
             },
             {
               "name": "Cloud-Tools-Small-LLMs-x86_64.apk.sha256",
@@ -11962,7 +12709,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:00:19Z"
+              "updated_at": "2026-10-21T11:54:30Z"
             },
             {
               "name": "Cloud-Tools-Small-LLMs-x86_64.apk.source",
@@ -11970,23 +12717,23 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:00:24Z"
+              "updated_at": "2026-10-21T11:54:35Z"
             },
             {
               "name": "Cloud-Tools-Small-LLMs.apk",
               "size": 21819578,
-              "download_count": 155,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:00:01Z"
+              "updated_at": "2026-10-21T11:47:21Z"
             },
             {
               "name": "Cloud-Tools-Small-LLMs.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:00:00Z"
+              "updated_at": "2026-10-21T11:47:20Z"
             },
             {
               "name": "Cloud-Tools-Small-LLMs.apk.source",
@@ -11994,12 +12741,36 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:00:04Z"
+              "updated_at": "2026-10-21T11:47:24Z"
+            },
+            {
+              "name": "Cloud-Tools-Small-LLMs.wasm.zip",
+              "size": 4505511,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:50:17Z"
+            },
+            {
+              "name": "Cloud-Tools-Small-LLMs.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:50:16Z"
+            },
+            {
+              "name": "Cloud-Tools-Small-LLMs.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Tools-Small-LLMs.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:50:19Z"
             },
             {
               "name": "Cloud-Unix-Termux-Boot.apk",
               "size": 578894,
-              "download_count": 69,
+              "download_count": 165,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Unix-Termux-Boot.apk",
               "content_type": "application/vnd.android.package-archive",
               "updated_at": "2026-10-18T01:47:44Z"
@@ -12007,7 +12778,7 @@
             {
               "name": "Cloud-Unix-Termux-Boot.apk.sha256",
               "size": 65,
-              "download_count": 23,
+              "download_count": 32,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Unix-Termux-Boot.apk.sha256",
               "content_type": "application/octet-stream",
               "updated_at": "2026-10-18T01:47:43Z"
@@ -12026,7 +12797,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Vault-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:13:06Z"
+              "updated_at": "2026-10-21T11:52:56Z"
             },
             {
               "name": "Cloud-Vault-x86_64.apk.sha256",
@@ -12034,31 +12805,55 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Vault-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:13:02Z"
+              "updated_at": "2026-10-21T11:52:53Z"
             },
             {
               "name": "Cloud-Vault.apk",
               "size": 113183747,
-              "download_count": 151,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Vault.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:12:59Z"
+              "updated_at": "2026-10-21T11:52:49Z"
             },
             {
               "name": "Cloud-Vault.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Vault.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:12:55Z"
+              "updated_at": "2026-10-21T11:52:45Z"
+            },
+            {
+              "name": "Cloud-Vault.wasm.zip",
+              "size": 4505107,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Vault.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:52:18Z"
+            },
+            {
+              "name": "Cloud-Vault.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Vault.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:52:17Z"
+            },
+            {
+              "name": "Cloud-Vault.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Vault.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:52:20Z"
             },
             {
               "name": "Cloud-Wallet-x86_64.apk",
-              "size": 22510505,
+              "size": 22543332,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T08:59:24Z"
+              "updated_at": "2026-10-21T11:46:02Z"
             },
             {
               "name": "Cloud-Wallet-x86_64.apk.sha256",
@@ -12066,7 +12861,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:59:23Z"
+              "updated_at": "2026-10-21T11:46:01Z"
             },
             {
               "name": "Cloud-Wallet-x86_64.apk.source",
@@ -12074,23 +12869,23 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:59:27Z"
+              "updated_at": "2026-10-21T11:46:06Z"
             },
             {
               "name": "Cloud-Wallet.apk",
-              "size": 22510508,
-              "download_count": 157,
+              "size": 22543335,
+              "download_count": 2,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T08:59:59Z"
+              "updated_at": "2026-10-21T11:46:25Z"
             },
             {
               "name": "Cloud-Wallet.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:59:58Z"
+              "updated_at": "2026-10-21T11:46:25Z"
             },
             {
               "name": "Cloud-Wallet.apk.source",
@@ -12098,15 +12893,39 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:00:03Z"
+              "updated_at": "2026-10-21T11:46:29Z"
+            },
+            {
+              "name": "Cloud-Wallet.wasm.zip",
+              "size": 4505050,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:52:11Z"
+            },
+            {
+              "name": "Cloud-Wallet.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:52:10Z"
+            },
+            {
+              "name": "Cloud-Wallet.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Wallet.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:52:13Z"
             },
             {
               "name": "Cloud-Writer-x86_64.apk",
-              "size": 19634682,
+              "size": 19651125,
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer-x86_64.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T09:00:59Z"
+              "updated_at": "2026-10-21T11:51:43Z"
             },
             {
               "name": "Cloud-Writer-x86_64.apk.sha256",
@@ -12114,7 +12933,7 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer-x86_64.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:00:57Z"
+              "updated_at": "2026-10-21T11:51:42Z"
             },
             {
               "name": "Cloud-Writer-x86_64.apk.source",
@@ -12122,23 +12941,23 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer-x86_64.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T09:01:02Z"
+              "updated_at": "2026-10-21T11:51:47Z"
             },
             {
               "name": "Cloud-Writer.apk",
-              "size": 19634682,
-              "download_count": 156,
+              "size": 19651125,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer.apk",
               "content_type": "application/vnd.android.package-archive",
-              "updated_at": "2026-10-18T08:59:46Z"
+              "updated_at": "2026-10-21T11:54:28Z"
             },
             {
               "name": "Cloud-Writer.apk.sha256",
               "size": 65,
-              "download_count": 18,
+              "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer.apk.sha256",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:59:45Z"
+              "updated_at": "2026-10-21T11:54:27Z"
             },
             {
               "name": "Cloud-Writer.apk.source",
@@ -12146,7 +12965,31 @@
               "download_count": 0,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer.apk.source",
               "content_type": "application/octet-stream",
-              "updated_at": "2026-10-18T08:59:49Z"
+              "updated_at": "2026-10-21T11:54:31Z"
+            },
+            {
+              "name": "Cloud-Writer.wasm.zip",
+              "size": 4505172,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer.wasm.zip",
+              "content_type": "application/zip",
+              "updated_at": "2026-10-20T20:52:04Z"
+            },
+            {
+              "name": "Cloud-Writer.wasm.zip.sha256",
+              "size": 65,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer.wasm.zip.sha256",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:52:03Z"
+            },
+            {
+              "name": "Cloud-Writer.wasm.zip.source",
+              "size": 106,
+              "download_count": 0,
+              "browser_download_url": "https://github.com/diegonmarcos/cloud-u-android/releases/download/latest/Cloud-Writer.wasm.zip.source",
+              "content_type": "application/octet-stream",
+              "updated_at": "2026-10-20T20:52:07Z"
             }
           ]
         },
@@ -12516,7 +13359,7 @@
             {
               "name": "c3-watchdog-aarch64",
               "size": 725296,
-              "download_count": 107,
+              "download_count": 115,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-linux/releases/download/c3-watchdog-latest/c3-watchdog-aarch64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-10-04T11:03:41Z"
@@ -12524,7 +13367,7 @@
             {
               "name": "c3-watchdog-app.html",
               "size": 45210,
-              "download_count": 74,
+              "download_count": 82,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-linux/releases/download/c3-watchdog-latest/c3-watchdog-app.html",
               "content_type": "text/html; charset=utf-8",
               "updated_at": "2026-10-04T11:04:31Z"
@@ -12556,7 +13399,7 @@
             {
               "name": "c3-watchdog-tui-aarch64",
               "size": 1511984,
-              "download_count": 104,
+              "download_count": 112,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-linux/releases/download/c3-watchdog-latest/c3-watchdog-tui-aarch64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-10-04T11:03:42Z"
@@ -12696,7 +13539,7 @@
             {
               "name": "my-watchdog-aarch64",
               "size": 725168,
-              "download_count": 249,
+              "download_count": 252,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-linux/releases/download/my-watchdog-latest/my-watchdog-aarch64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-09-03T13:08:51Z"
@@ -12720,7 +13563,7 @@
             {
               "name": "my-watchdog-tui-aarch64",
               "size": 1511856,
-              "download_count": 242,
+              "download_count": 245,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-linux/releases/download/my-watchdog-latest/my-watchdog-tui-aarch64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-09-03T13:08:53Z"
@@ -12728,7 +13571,7 @@
             {
               "name": "my-watchdog-tui-x86_64",
               "size": 1733568,
-              "download_count": 94,
+              "download_count": 97,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-linux/releases/download/my-watchdog-latest/my-watchdog-tui-x86_64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-09-03T13:08:44Z"
@@ -12736,7 +13579,7 @@
             {
               "name": "my-watchdog-x86_64",
               "size": 828080,
-              "download_count": 95,
+              "download_count": 98,
               "browser_download_url": "https://github.com/diegonmarcos/cloud-u-linux/releases/download/my-watchdog-latest/my-watchdog-x86_64",
               "content_type": "application/octet-stream",
               "updated_at": "2026-09-03T13:08:42Z"
