@@ -7,7 +7,7 @@
   <a href="ghcr-byrepocodespc.md"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20By%20Codespace-30363d?style=for-the-badge" alt="By Codespace" height="28"></a>
 </p>
 
-<p align="center"><sub><b>494</b> packages · <b>144.36 GB</b> total</sub></p>
+<p align="center"><sub><b>497</b> packages · <b>144.44 GB</b> total</sub></p>
 
 # 📦 Packages — By Source Repository
 
@@ -32,9 +32,9 @@
 
 | Package | Visibility | Arch | Tags | Size | Updated |
 |:---|:---|:---|:---|:---|:---|
-| [unix-boot-cache-mc](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache-mc) | private | — | 4 | — | 20 days ago |
-| [unix-hm-cache-mc](https://github.com/users/diegonmarcos/packages/container/package/unix-hm-cache-mc) | private | — | 1 | — | 20 days ago |
-| [waydroid-container-mc](https://github.com/users/diegonmarcos/packages/container/package/waydroid-container-mc) | private | — | 1 | — | 20 days ago |
+| [unix-boot-cache-mc](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache-mc) | private | — | 4 | — | 21 days ago |
+| [unix-hm-cache-mc](https://github.com/users/diegonmarcos/packages/container/package/unix-hm-cache-mc) | private | — | 1 | — | 21 days ago |
+| [waydroid-container-mc](https://github.com/users/diegonmarcos/packages/container/package/waydroid-container-mc) | private | — | 1 | — | 21 days ago |
 
 ---
 
@@ -43,9 +43,9 @@
 | Package | Visibility | Arch | Tags | Size | Updated |
 |:---|:---|:---|:---|:---|:---|
 | [cgc-db-cloud-data](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-data) | private | — | 2 | — | today |
-| [cgc-db-cloud-data-my-ai-memory](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-data-my-ai-memory) | private | — | 1 | — | 2 days ago |
+| [cgc-db-cloud-data-my-ai-memory](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-data-my-ai-memory) | private | — | 1 | — | 3 days ago |
 | [cgc-db-cloud-me-my-ai](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-me-my-ai) | private | — | 1 | — | today |
-| [vault-db-backup](https://github.com/users/diegonmarcos/packages/container/package/vault-db-backup) | private | — | 5 | — | 16 days ago |
+| [vault-db-backup](https://github.com/users/diegonmarcos/packages/container/package/vault-db-backup) | private | — | 5 | — | 17 days ago |
 
 ---
 
@@ -53,134 +53,134 @@
 
 | Package | Visibility | Arch | Tags | Size | Updated |
 |:---|:---|:---|:---|:---|:---|
-| [cgc-db-cloud-my-ai_memory](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-my-ai_memory) | private | — | 1 | — | 1 month ago |
+| [cgc-db-cloud-my-ai_memory](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-my-ai_memory) | private | — | 1 | — | 2 months ago |
 
 ---
 
-### 📁 [cloud-t-infra](https://github.com/diegonmarcos/cloud-t-infra) <sup>343 · 67.74 GB</sup>
+### 📁 [cloud-t-infra](https://github.com/diegonmarcos/cloud-t-infra) <sup>346 · 67.82 GB</sup>
 
 | Package | Visibility | Arch | Tags | Size | Updated |
 |:---|:---|:---|:---|:---|:---|
-| [agents-tmp-reaper](https://github.com/users/diegonmarcos/packages/container/package/agents-tmp-reaper) | public | linux/arm64 | 71 | 12.4 MB | yesterday |
-| [agents-tmp-reaper-binaries](https://github.com/users/diegonmarcos/packages/container/package/agents-tmp-reaper-binaries) | public | linux/arm64 | 70 | 12.4 MB | yesterday |
+| [agents-tmp-reaper](https://github.com/users/diegonmarcos/packages/container/package/agents-tmp-reaper) | public | linux/arm64 | 73 | 12.4 MB | yesterday |
+| [agents-tmp-reaper-binaries](https://github.com/users/diegonmarcos/packages/container/package/agents-tmp-reaper-binaries) | public | linux/arm64 | 72 | 12.4 MB | yesterday |
 | [agents-tmp-reaper-configs](https://github.com/users/diegonmarcos/packages/container/package/agents-tmp-reaper-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
-| [alerts-api](https://github.com/users/diegonmarcos/packages/container/package/alerts-api) | public | linux/amd64 | 5 | 50.2 MB | yesterday |
-| [alerts-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/alerts-api-binaries) | public | linux/amd64 | 16 | 50.2 MB | yesterday |
-| [alerts-api-configs](https://github.com/users/diegonmarcos/packages/container/package/alerts-api-configs) | public | linux/amd64 | 1 | 2.2 MB | yesterday |
-| [auth-broker](https://github.com/users/diegonmarcos/packages/container/package/auth-broker) | public | linux/arm64 | 26 | 43.8 MB | yesterday |
-| [auth-broker-binaries](https://github.com/users/diegonmarcos/packages/container/package/auth-broker-binaries) | public | linux/arm64 | 25 | 43.8 MB | yesterday |
+| [alerts-api](https://github.com/users/diegonmarcos/packages/container/package/alerts-api) | public | linux/amd64 | 5 | 50.2 MB | 2 days ago |
+| [alerts-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/alerts-api-binaries) | public | linux/amd64 | 16 | 50.2 MB | 2 days ago |
+| [alerts-api-configs](https://github.com/users/diegonmarcos/packages/container/package/alerts-api-configs) | public | linux/amd64 | 1 | 2.2 MB | 2 days ago |
+| [auth-broker](https://github.com/users/diegonmarcos/packages/container/package/auth-broker) | public | linux/arm64 | 28 | 43.8 MB | yesterday |
+| [auth-broker-binaries](https://github.com/users/diegonmarcos/packages/container/package/auth-broker-binaries) | public | linux/arm64 | 27 | 43.8 MB | yesterday |
 | [auth-broker-configs](https://github.com/users/diegonmarcos/packages/container/package/auth-broker-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
-| [authelia](https://github.com/users/diegonmarcos/packages/container/package/authelia) | public | linux/amd64 | 32 | 24.5 MB | yesterday |
-| [authelia-binaries](https://github.com/users/diegonmarcos/packages/container/package/authelia-binaries) | public | linux/amd64 | 31 | 24.5 MB | yesterday |
+| [authelia](https://github.com/users/diegonmarcos/packages/container/package/authelia) | public | linux/amd64 | 35 | 24.5 MB | yesterday |
+| [authelia-binaries](https://github.com/users/diegonmarcos/packages/container/package/authelia-binaries) | public | linux/amd64 | 34 | 24.5 MB | yesterday |
 | [authelia-configs](https://github.com/users/diegonmarcos/packages/container/package/authelia-configs) | public | linux/amd64 | 1 | 2.2 MB | yesterday |
-| [backup-borg](https://github.com/users/diegonmarcos/packages/container/package/backup-borg) | public | linux/arm64 | 36 | 3.2 MB | yesterday |
-| [backup-borg-binaries](https://github.com/users/diegonmarcos/packages/container/package/backup-borg-binaries) | public | linux/arm64 | 35 | 3.2 MB | yesterday |
-| [backup-borg-configs](https://github.com/users/diegonmarcos/packages/container/package/backup-borg-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
-| [backup-bup](https://github.com/users/diegonmarcos/packages/container/package/backup-bup) | public | linux/arm64 | 35 | 3.9 MB | yesterday |
-| [backup-bup-binaries](https://github.com/users/diegonmarcos/packages/container/package/backup-bup-binaries) | public | linux/arm64 | 34 | 3.9 MB | yesterday |
-| [backup-bup-configs](https://github.com/users/diegonmarcos/packages/container/package/backup-bup-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
+| [backup-borg](https://github.com/users/diegonmarcos/packages/container/package/backup-borg) | public | linux/arm64 | 41 | 3.2 MB | today |
+| [backup-borg-binaries](https://github.com/users/diegonmarcos/packages/container/package/backup-borg-binaries) | public | linux/arm64 | 40 | 3.2 MB | today |
+| [backup-borg-configs](https://github.com/users/diegonmarcos/packages/container/package/backup-borg-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
+| [backup-bup](https://github.com/users/diegonmarcos/packages/container/package/backup-bup) | public | linux/arm64 | 40 | 3.9 MB | today |
+| [backup-bup-binaries](https://github.com/users/diegonmarcos/packages/container/package/backup-bup-binaries) | public | linux/arm64 | 39 | 3.9 MB | today |
+| [backup-bup-configs](https://github.com/users/diegonmarcos/packages/container/package/backup-bup-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
 | [backup-gitea](https://github.com/users/diegonmarcos/packages/container/package/backup-gitea) | public | linux/amd64 | 1 | 72.0 MB | 6 months ago |
 | [backup-gitea-configs](https://github.com/users/diegonmarcos/packages/container/package/backup-gitea-configs) | public | linux/amd64 | 1 | 2.2 MB | 6 months ago |
 | [c3-analytics-api](https://github.com/users/diegonmarcos/packages/container/package/c3-analytics-api) | public | linux/amd64 | 43 | 137.9 MB | 2 months ago |
 | [c3-analytics-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-analytics-api-binaries) | public | linux/amd64 | 1 | 137.9 MB | 2 months ago |
 | [c3-analytics-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-analytics-api-configs) | public | linux/amd64 | 1 | 2.2 MB | 2 months ago |
-| [c3-infra-api](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api) | public | linux/arm64 | 362 | 238.8 MB | today |
-| [c3-infra-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-binaries) | public | linux/arm64 | 186 | 238.8 MB | today |
-| [c3-infra-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
+| [c3-infra-api](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api) | public | linux/arm64 | 364 | 238.8 MB | yesterday |
+| [c3-infra-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-binaries) | public | linux/arm64 | 188 | 238.8 MB | yesterday |
+| [c3-infra-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-api-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [c3-infra-mcp](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp) | public | linux/arm64 | 175 | 357.3 MB | 2 months ago |
 | [c3-infra-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp-binaries) | public | linux/arm64 | 1 | 357.3 MB | 2 months ago |
 | [c3-infra-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-infra-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | 2 months ago |
-| [c3-public-api](https://github.com/users/diegonmarcos/packages/container/package/c3-public-api) | public | linux/amd64 | 113 | 123.6 MB | yesterday |
-| [c3-public-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-public-api-binaries) | public | linux/amd64 | 112 | 123.6 MB | yesterday |
+| [c3-public-api](https://github.com/users/diegonmarcos/packages/container/package/c3-public-api) | public | linux/amd64 | 116 | 123.6 MB | yesterday |
+| [c3-public-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-public-api-binaries) | public | linux/amd64 | 115 | 123.6 MB | yesterday |
 | [c3-public-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-public-api-configs) | public | linux/amd64 | 1 | 2.2 MB | yesterday |
-| [c3-services-api](https://github.com/users/diegonmarcos/packages/container/package/c3-services-api) | public | linux/arm64 | 347 | 102.1 MB | yesterday |
-| [c3-services-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-services-api-binaries) | public | linux/arm64 | 166 | 102.1 MB | yesterday |
+| [c3-services-api](https://github.com/users/diegonmarcos/packages/container/package/c3-services-api) | public | linux/arm64 | 350 | 102.1 MB | yesterday |
+| [c3-services-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-services-api-binaries) | public | linux/arm64 | 169 | 102.1 MB | yesterday |
 | [c3-services-api-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-services-api-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [c3-services-mcp](https://github.com/users/diegonmarcos/packages/container/package/c3-services-mcp) | public | linux/arm64 | 185 | 134.7 MB | 2 months ago |
 | [c3-services-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/c3-services-mcp-binaries) | public | linux/arm64 | 1 | 134.7 MB | 2 months ago |
 | [c3-services-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/c3-services-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | 2 months ago |
-| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | linux/amd64 | 175 | 41.3 MB | yesterday |
-| [caddy-binaries](https://github.com/users/diegonmarcos/packages/container/package/caddy-binaries) | public | linux/amd64 | 132 | 41.3 MB | yesterday |
+| [caddy](https://github.com/users/diegonmarcos/packages/container/package/caddy) | public | linux/amd64 | 175 | 41.3 MB | 2 days ago |
+| [caddy-binaries](https://github.com/users/diegonmarcos/packages/container/package/caddy-binaries) | public | linux/amd64 | 132 | 41.3 MB | 2 days ago |
 | [caddy-configs](https://github.com/users/diegonmarcos/packages/container/package/caddy-configs) | public | linux/amd64 | 1 | 2.2 MB | 2 months ago |
 | [caddy-custom](https://github.com/users/diegonmarcos/packages/container/package/caddy-custom) | public | linux/amd64 | 31 | 38.8 MB | 7 months ago |
 | [caddy-l4](https://github.com/users/diegonmarcos/packages/container/package/caddy-l4) | public | linux/amd64 | 38 | 22.8 MB | 3 months ago |
 | [caddy-l4-public-configs](https://github.com/users/diegonmarcos/packages/container/package/caddy-l4-public-configs) | public | linux/amd64 | 1 | 2.2 MB | 4 months ago |
-| [caddy-public](https://github.com/users/diegonmarcos/packages/container/package/caddy-public) | public | linux/amd64 | 97 | 45.3 MB | yesterday |
-| [caddy-public-binaries](https://github.com/users/diegonmarcos/packages/container/package/caddy-public-binaries) | public | linux/amd64 | 96 | 45.3 MB | yesterday |
+| [caddy-public](https://github.com/users/diegonmarcos/packages/container/package/caddy-public) | public | linux/amd64 | 99 | 45.3 MB | yesterday |
+| [caddy-public-binaries](https://github.com/users/diegonmarcos/packages/container/package/caddy-public-binaries) | public | linux/amd64 | 98 | 45.3 MB | yesterday |
 | [caddy-public-configs](https://github.com/users/diegonmarcos/packages/container/package/caddy-public-configs) | public | linux/amd64 | 1 | 2.2 MB | yesterday |
-| [calendar-radicale](https://github.com/users/diegonmarcos/packages/container/package/calendar-radicale) | public | linux/arm64 | 59 | 45.3 MB | today |
-| [calendar-radicale-binaries](https://github.com/users/diegonmarcos/packages/container/package/calendar-radicale-binaries) | public | linux/arm64 | 59 | 45.3 MB | today |
-| [calendar-radicale-configs](https://github.com/users/diegonmarcos/packages/container/package/calendar-radicale-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
+| [calendar-radicale](https://github.com/users/diegonmarcos/packages/container/package/calendar-radicale) | public | linux/arm64 | 62 | 45.3 MB | yesterday |
+| [calendar-radicale-binaries](https://github.com/users/diegonmarcos/packages/container/package/calendar-radicale-binaries) | public | linux/arm64 | 62 | 45.3 MB | yesterday |
+| [calendar-radicale-configs](https://github.com/users/diegonmarcos/packages/container/package/calendar-radicale-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [cgc-db-base](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-base) | public | linux/amd64 | 2 | 2.2 MB | 2 months ago |
 | [cgc-db-cloud-android](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-android) | public | linux/amd64 | 1 | 555.8 MB | 1 month ago |
 | [cgc-db-cloud-infra](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-infra) | public | linux/amd64 | 1 | 236.2 MB | today |
-| [cgc-db-cloud-infra-desktop](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-infra-desktop) | public | linux/amd64 | 1 | 124.8 MB | yesterday |
-| [cgc-db-cloud-mykonsole-dtk](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-mykonsole-dtk) | public | linux/amd64 | 1 | 18.6 MB | 1 month ago |
-| [cgc-db-cloud-u-android](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-u-android) | public | linux/amd64 | 1 | 2.50 GB | today |
-| [cgc-db-cloud-u-containers](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-u-containers) | public | linux/amd64 | 2 | 549.5 MB | today |
+| [cgc-db-cloud-infra-desktop](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-infra-desktop) | public | linux/amd64 | 1 | 124.8 MB | 2 days ago |
+| [cgc-db-cloud-mykonsole-dtk](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-mykonsole-dtk) | public | linux/amd64 | 1 | 18.6 MB | 2 months ago |
+| [cgc-db-cloud-u-android](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-u-android) | public | linux/amd64 | 1 | 2.58 GB | today |
+| [cgc-db-cloud-u-containers](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-u-containers) | public | linux/amd64 | 2 | 514.7 MB | today |
 | [cgc-db-cloud-unix](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-cloud-unix) | public | linux/amd64 | 1 | 445.4 MB | 1 month ago |
-| [cgc-db-front](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-front) | public | linux/amd64 | 1 | 454.9 MB | 3 days ago |
-| [cgc-db-front-data](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-front-data) | public | linux/amd64 | 1 | 4.2 MB | 2 days ago |
+| [cgc-db-front](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-front) | public | linux/amd64 | 1 | 454.9 MB | 4 days ago |
+| [cgc-db-front-data](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-front-data) | public | linux/amd64 | 1 | 4.2 MB | 3 days ago |
 | [cgc-db-front-diegonmarcos](https://github.com/users/diegonmarcos/packages/container/package/cgc-db-front-diegonmarcos) | public | linux/amd64 | 1 | 197.6 MB | today |
-| [chat-mattermost](https://github.com/users/diegonmarcos/packages/container/package/chat-mattermost) | public | linux/arm64 | 204 | 671.1 MB | today |
-| [chat-mattermost-binaries](https://github.com/users/diegonmarcos/packages/container/package/chat-mattermost-binaries) | public | linux/arm64 | 203 | 671.1 MB | today |
+| [chat-mattermost](https://github.com/users/diegonmarcos/packages/container/package/chat-mattermost) | public | linux/arm64 | 208 | 671.1 MB | today |
+| [chat-mattermost-binaries](https://github.com/users/diegonmarcos/packages/container/package/chat-mattermost-binaries) | public | linux/arm64 | 207 | 671.1 MB | today |
 | [chat-mattermost-configs](https://github.com/users/diegonmarcos/packages/container/package/chat-mattermost-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
 | [claude-api-superset-configs](https://github.com/users/diegonmarcos/packages/container/package/claude-api-superset-configs) | public | linux/arm64 | 1 | 4.4 MB | 4 months ago |
 | [claude-openai-bridge-configs](https://github.com/users/diegonmarcos/packages/container/package/claude-openai-bridge-configs) | public | linux/arm64 | 1 | 1.9 MB | 4 months ago |
-| [claude-superset-api](https://github.com/users/diegonmarcos/packages/container/package/claude-superset-api) | public | linux/arm64 | 137 | 529.1 MB | today |
-| [claude-superset-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/claude-superset-api-binaries) | public | linux/arm64 | 137 | 529.1 MB | today |
+| [claude-superset-api](https://github.com/users/diegonmarcos/packages/container/package/claude-superset-api) | public | linux/arm64 | 140 | 529.1 MB | yesterday |
+| [claude-superset-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/claude-superset-api-binaries) | public | linux/arm64 | 140 | 529.1 MB | yesterday |
 | [claude-superset-api-configs](https://github.com/users/diegonmarcos/packages/container/package/claude-superset-api-configs) | public | linux/arm64 | 1 | 4.4 MB | 1 month ago |
 | [cloud-builder-x-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-configs) | public | linux/amd64 | 1 | 2.2 MB | 2 months ago |
 | [cloud-cgc-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp) | public | linux/arm64 | 13 | 2.57 GB | 2 months ago |
 | [cloud-cgc-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp-binaries) | public | linux/arm64 | 1 | 2.57 GB | 2 months ago |
 | [cloud-cgc-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | 2 months ago |
-| [cloud-cgc-pub-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-pub-mcp) | public | linux/arm64 | 254 | 374.1 MB | today |
-| [cloud-cgc-pub-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-pub-mcp-binaries) | public | linux/arm64 | 253 | 374.1 MB | today |
+| [cloud-cgc-pub-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-pub-mcp) | public | linux/arm64 | 258 | 374.2 MB | today |
+| [cloud-cgc-pub-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-pub-mcp-binaries) | public | linux/arm64 | 257 | 374.2 MB | today |
 | [cloud-cgc-pub-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-cgc-pub-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
-| [cloud-data-reports](https://github.com/users/diegonmarcos/packages/container/package/cloud-data-reports) | public | linux/amd64, linux/arm64 | 322 | 213.9 MB | today |
-| [cloud-drive-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-drive-mcp) | public | linux/arm64 | 121 | 303.9 MB | yesterday |
-| [cloud-drive-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-drive-mcp-binaries) | public | linux/arm64 | 120 | 303.9 MB | yesterday |
+| [cloud-data-reports](https://github.com/users/diegonmarcos/packages/container/package/cloud-data-reports) | public | linux/amd64, linux/arm64 | 341 | 214.1 MB | today |
+| [cloud-drive-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-drive-mcp) | public | linux/arm64 | 124 | 303.9 MB | yesterday |
+| [cloud-drive-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-drive-mcp-binaries) | public | linux/arm64 | 123 | 303.9 MB | yesterday |
 | [cloud-drive-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-drive-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
-| [cloud-infra-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-infra-mcp) | public | linux/arm64 | 206 | 529.2 MB | today |
-| [cloud-infra-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-infra-mcp-binaries) | public | linux/arm64 | 205 | 529.2 MB | today |
-| [cloud-infra-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-infra-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
-| [cloud-mail-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-mail-mcp) | public | linux/arm64 | 237 | 133.8 MB | today |
-| [cloud-mail-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-mail-mcp-binaries) | public | linux/arm64 | 236 | 133.8 MB | today |
+| [cloud-infra-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-infra-mcp) | public | linux/arm64 | 208 | 529.2 MB | yesterday |
+| [cloud-infra-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-infra-mcp-binaries) | public | linux/arm64 | 207 | 529.2 MB | yesterday |
+| [cloud-infra-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-infra-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
+| [cloud-mail-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-mail-mcp) | public | linux/arm64 | 241 | 133.8 MB | today |
+| [cloud-mail-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-mail-mcp-binaries) | public | linux/arm64 | 240 | 133.8 MB | today |
 | [cloud-mail-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-mail-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
-| [cloud-mattermost-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-mattermost-mcp) | public | linux/arm64 | 176 | 105.4 MB | today |
-| [cloud-mattermost-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-mattermost-mcp-binaries) | public | linux/arm64 | 175 | 105.4 MB | today |
-| [cloud-mattermost-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-mattermost-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
-| [cloud-me-api](https://github.com/users/diegonmarcos/packages/container/package/cloud-me-api) | public | linux/amd64 | 41 | 110.5 MB | yesterday |
-| [cloud-me-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-me-api-binaries) | public | linux/amd64 | 40 | 110.5 MB | yesterday |
-| [cloud-me-api-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-me-api-configs) | public | linux/amd64 | 1 | 2.2 MB | yesterday |
-| [cloud-notes-sync-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-notes-sync-binaries) | public | linux/arm64 | 46 | 88.0 MB | today |
-| [cloud-notes-sync-binaries-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-notes-sync-binaries-binaries) | public | linux/arm64 | 46 | 88.0 MB | today |
-| [cloud-notes-sync-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-notes-sync-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
-| [cloud-notes-web-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-notes-web-binaries) | public | linux/arm64 | 46 | 105.0 MB | today |
-| [cloud-notes-web-binaries-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-notes-web-binaries-binaries) | public | linux/arm64 | 46 | 105.0 MB | today |
-| [cloud-notes-web-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-notes-web-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
-| [cloud-services-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-services-mcp) | public | linux/arm64 | 114 | 134.0 MB | yesterday |
-| [cloud-services-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-services-mcp-binaries) | public | linux/arm64 | 113 | 134.0 MB | yesterday |
+| [cloud-mattermost-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-mattermost-mcp) | public | linux/arm64 | 179 | 105.4 MB | yesterday |
+| [cloud-mattermost-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-mattermost-mcp-binaries) | public | linux/arm64 | 178 | 105.4 MB | yesterday |
+| [cloud-mattermost-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-mattermost-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
+| [cloud-me-api](https://github.com/users/diegonmarcos/packages/container/package/cloud-me-api) | public | linux/amd64 | 45 | 110.5 MB | today |
+| [cloud-me-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-me-api-binaries) | public | linux/amd64 | 44 | 110.5 MB | today |
+| [cloud-me-api-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-me-api-configs) | public | linux/amd64 | 1 | 2.2 MB | today |
+| [cloud-notes-sync-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-notes-sync-binaries) | public | linux/arm64 | 49 | 88.0 MB | yesterday |
+| [cloud-notes-sync-binaries-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-notes-sync-binaries-binaries) | public | linux/arm64 | 49 | 88.0 MB | yesterday |
+| [cloud-notes-sync-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-notes-sync-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
+| [cloud-notes-web-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-notes-web-binaries) | public | linux/arm64 | 49 | 105.0 MB | yesterday |
+| [cloud-notes-web-binaries-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-notes-web-binaries-binaries) | public | linux/arm64 | 49 | 105.0 MB | yesterday |
+| [cloud-notes-web-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-notes-web-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
+| [cloud-services-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-services-mcp) | public | linux/arm64 | 117 | 134.0 MB | yesterday |
+| [cloud-services-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-services-mcp-binaries) | public | linux/arm64 | 116 | 134.0 MB | yesterday |
 | [cloud-services-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-services-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
-| [cloud-spec](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec) | public | linux/arm64 | 36 | 1.8 MB | today |
-| [cloud-spec-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec-binaries) | public | linux/arm64 | 35 | 1.8 MB | today |
-| [cloud-spec-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec-configs) | public | linux/arm64 | 1 | 3.2 MB | today |
-| [cloud-superapp-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp-mcp) | public | linux/arm64 | 110 | 100.5 MB | yesterday |
-| [cloud-superapp-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp-mcp-binaries) | public | linux/arm64 | 109 | 100.5 MB | yesterday |
+| [cloud-spec](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec) | public | linux/arm64 | 37 | 1.8 MB | yesterday |
+| [cloud-spec-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec-binaries) | public | linux/arm64 | 36 | 1.8 MB | yesterday |
+| [cloud-spec-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-spec-configs) | public | linux/arm64 | 1 | 3.2 MB | yesterday |
+| [cloud-superapp-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp-mcp) | public | linux/arm64 | 113 | 100.5 MB | yesterday |
+| [cloud-superapp-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp-mcp-binaries) | public | linux/arm64 | 112 | 100.5 MB | yesterday |
 | [cloud-superapp-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
-| [cloud-vault-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault-mcp) | public | linux/arm64 | 106 | 110.0 MB | yesterday |
-| [cloud-vault-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault-mcp-binaries) | public | linux/arm64 | 105 | 110.0 MB | yesterday |
+| [cloud-vault-mcp](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault-mcp) | public | linux/arm64 | 109 | 110.0 MB | yesterday |
+| [cloud-vault-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault-mcp-binaries) | public | linux/arm64 | 108 | 110.0 MB | yesterday |
 | [cloud-vault-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
-| [cloud-webmail-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-webmail-binaries) | public | linux/arm64 | 77 | 94.2 MB | today |
-| [cloud-webmail-binaries-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-webmail-binaries-binaries) | public | linux/arm64 | 76 | 94.2 MB | today |
-| [cloud-webmail-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-webmail-configs) | public | linux/arm64 | 1 | 5.3 MB | today |
+| [cloud-webmail-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-webmail-binaries) | public | linux/arm64 | 79 | 94.2 MB | yesterday |
+| [cloud-webmail-binaries-binaries](https://github.com/users/diegonmarcos/packages/container/package/cloud-webmail-binaries-binaries) | public | linux/arm64 | 78 | 94.2 MB | yesterday |
+| [cloud-webmail-configs](https://github.com/users/diegonmarcos/packages/container/package/cloud-webmail-configs) | public | linux/arm64 | 1 | 5.3 MB | yesterday |
 | [cloudflared-configs](https://github.com/users/diegonmarcos/packages/container/package/cloudflared-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
-| [code-server](https://github.com/users/diegonmarcos/packages/container/package/code-server) | public | linux/arm64 | 37 | 293.5 MB | today |
-| [code-server-binaries](https://github.com/users/diegonmarcos/packages/container/package/code-server-binaries) | public | linux/arm64 | 37 | 293.5 MB | today |
-| [code-server-configs](https://github.com/users/diegonmarcos/packages/container/package/code-server-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
-| [contacts-radicale](https://github.com/users/diegonmarcos/packages/container/package/contacts-radicale) | public | linux/arm64 | 58 | 45.3 MB | today |
-| [contacts-radicale-binaries](https://github.com/users/diegonmarcos/packages/container/package/contacts-radicale-binaries) | public | linux/arm64 | 58 | 45.3 MB | today |
-| [contacts-radicale-configs](https://github.com/users/diegonmarcos/packages/container/package/contacts-radicale-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
+| [code-server](https://github.com/users/diegonmarcos/packages/container/package/code-server) | public | linux/arm64 | 39 | 293.5 MB | yesterday |
+| [code-server-binaries](https://github.com/users/diegonmarcos/packages/container/package/code-server-binaries) | public | linux/arm64 | 39 | 293.5 MB | yesterday |
+| [code-server-configs](https://github.com/users/diegonmarcos/packages/container/package/code-server-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
+| [contacts-radicale](https://github.com/users/diegonmarcos/packages/container/package/contacts-radicale) | public | linux/arm64 | 61 | 45.3 MB | yesterday |
+| [contacts-radicale-binaries](https://github.com/users/diegonmarcos/packages/container/package/contacts-radicale-binaries) | public | linux/arm64 | 61 | 45.3 MB | yesterday |
+| [contacts-radicale-configs](https://github.com/users/diegonmarcos/packages/container/package/contacts-radicale-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [crawlee-cloud-api](https://github.com/users/diegonmarcos/packages/container/package/crawlee-cloud-api) | public | linux/arm64 | 1 | 67.1 MB | 3 months ago |
 | [crawlee-cloud-configs](https://github.com/users/diegonmarcos/packages/container/package/crawlee-cloud-configs) | public | linux/arm64 | 1 | 2.2 MB | 3 months ago |
 | [crawlee-cloud-dashboard](https://github.com/users/diegonmarcos/packages/container/package/crawlee-cloud-dashboard) | public | linux/arm64 | 1 | 69.6 MB | 3 months ago |
@@ -189,82 +189,85 @@
 | [crawlee-minio](https://github.com/users/diegonmarcos/packages/container/package/crawlee-minio) | public | linux/amd64 | 1 | 59.4 MB | 6 months ago |
 | [crawlee-minio-mc](https://github.com/users/diegonmarcos/packages/container/package/crawlee-minio-mc) | public | linux/amd64 | 1 | 28.4 MB | 6 months ago |
 | [crawlee-redis](https://github.com/users/diegonmarcos/packages/container/package/crawlee-redis) | public | linux/amd64 | 1 | 16.4 MB | 6 months ago |
-| [crowdsec](https://github.com/users/diegonmarcos/packages/container/package/crowdsec) | public | linux/arm64 | 28 | 126.1 MB | yesterday |
-| [crowdsec-binaries](https://github.com/users/diegonmarcos/packages/container/package/crowdsec-binaries) | public | linux/arm64 | 28 | 126.1 MB | yesterday |
+| [crowdsec](https://github.com/users/diegonmarcos/packages/container/package/crowdsec) | public | linux/arm64 | 30 | 126.1 MB | yesterday |
+| [crowdsec-binaries](https://github.com/users/diegonmarcos/packages/container/package/crowdsec-binaries) | public | linux/arm64 | 30 | 126.1 MB | yesterday |
 | [crowdsec-configs](https://github.com/users/diegonmarcos/packages/container/package/crowdsec-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [cypht-binaries](https://github.com/users/diegonmarcos/packages/container/package/cypht-binaries) | public | linux/amd64 | 19 | 291.8 MB | 5 months ago |
 | [cypht-binaries-binaries](https://github.com/users/diegonmarcos/packages/container/package/cypht-binaries-binaries) | public | linux/amd64 | 1 | 291.8 MB | 5 months ago |
 | [cypht-configs](https://github.com/users/diegonmarcos/packages/container/package/cypht-configs) | public | linux/amd64 | 1 | 2.2 MB | 3 months ago |
-| [dagu](https://github.com/users/diegonmarcos/packages/container/package/dagu) | public | linux/arm64 | 173 | 67.7 MB | today |
-| [dagu-binaries](https://github.com/users/diegonmarcos/packages/container/package/dagu-binaries) | public | linux/arm64 | 111 | 67.7 MB | today |
-| [dagu-configs](https://github.com/users/diegonmarcos/packages/container/package/dagu-configs) | public | linux/arm64 | 1 | 2.0 MB | today |
-| [dbgate](https://github.com/users/diegonmarcos/packages/container/package/dbgate) | public | linux/arm64 | 101 | 140.9 MB | yesterday |
-| [dbgate-binaries](https://github.com/users/diegonmarcos/packages/container/package/dbgate-binaries) | public | linux/arm64 | 99 | 140.9 MB | yesterday |
+| [dagu](https://github.com/users/diegonmarcos/packages/container/package/dagu) | public | linux/arm64 | 175 | 67.7 MB | yesterday |
+| [dagu-binaries](https://github.com/users/diegonmarcos/packages/container/package/dagu-binaries) | public | linux/arm64 | 113 | 67.7 MB | yesterday |
+| [dagu-configs](https://github.com/users/diegonmarcos/packages/container/package/dagu-configs) | public | linux/arm64 | 1 | 2.0 MB | yesterday |
+| [dbgate](https://github.com/users/diegonmarcos/packages/container/package/dbgate) | public | linux/arm64 | 104 | 140.9 MB | yesterday |
+| [dbgate-binaries](https://github.com/users/diegonmarcos/packages/container/package/dbgate-binaries) | public | linux/arm64 | 102 | 140.9 MB | yesterday |
 | [dbgate-configs](https://github.com/users/diegonmarcos/packages/container/package/dbgate-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
-| [disk-janitor](https://github.com/users/diegonmarcos/packages/container/package/disk-janitor) | public | linux/arm64 | 74 | 18.5 MB | yesterday |
-| [disk-janitor-binaries](https://github.com/users/diegonmarcos/packages/container/package/disk-janitor-binaries) | public | linux/arm64 | 73 | 18.5 MB | yesterday |
+| [disk-janitor](https://github.com/users/diegonmarcos/packages/container/package/disk-janitor) | public | linux/arm64 | 76 | 18.5 MB | yesterday |
+| [disk-janitor-binaries](https://github.com/users/diegonmarcos/packages/container/package/disk-janitor-binaries) | public | linux/arm64 | 75 | 18.5 MB | yesterday |
 | [disk-janitor-configs](https://github.com/users/diegonmarcos/packages/container/package/disk-janitor-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [dozzle-configs](https://github.com/users/diegonmarcos/packages/container/package/dozzle-configs) | public | linux/amd64 | 1 | 2.3 MB | 6 months ago |
-| [etherpad](https://github.com/users/diegonmarcos/packages/container/package/etherpad) | public | linux/arm64 | 33 | 187.3 MB | today |
-| [etherpad-binaries](https://github.com/users/diegonmarcos/packages/container/package/etherpad-binaries) | public | linux/arm64 | 33 | 187.3 MB | today |
-| [etherpad-configs](https://github.com/users/diegonmarcos/packages/container/package/etherpad-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
+| [embeddings-api](https://github.com/users/diegonmarcos/packages/container/package/embeddings-api) | public | linux/arm64 | 5 | 310.3 MB | today |
+| [embeddings-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/embeddings-api-binaries) | public | linux/arm64 | 4 | 310.3 MB | today |
+| [embeddings-api-configs](https://github.com/users/diegonmarcos/packages/container/package/embeddings-api-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
+| [etherpad](https://github.com/users/diegonmarcos/packages/container/package/etherpad) | public | linux/arm64 | 35 | 187.3 MB | yesterday |
+| [etherpad-binaries](https://github.com/users/diegonmarcos/packages/container/package/etherpad-binaries) | public | linux/arm64 | 35 | 187.3 MB | yesterday |
+| [etherpad-configs](https://github.com/users/diegonmarcos/packages/container/package/etherpad-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [etherpad-db](https://github.com/users/diegonmarcos/packages/container/package/etherpad-db) | public | linux/amd64 | 1 | 104.9 MB | 6 months ago |
-| [filebrowser](https://github.com/users/diegonmarcos/packages/container/package/filebrowser) | public | linux/arm64 | 31 | 15.2 MB | today |
-| [filebrowser-binaries](https://github.com/users/diegonmarcos/packages/container/package/filebrowser-binaries) | public | linux/arm64 | 31 | 15.2 MB | today |
-| [filebrowser-configs](https://github.com/users/diegonmarcos/packages/container/package/filebrowser-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
-| [fin-api](https://github.com/users/diegonmarcos/packages/container/package/fin-api) | public | linux/arm64 | 93 | 33.0 MB | today |
-| [fin-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/fin-api-binaries) | public | linux/arm64 | 92 | 33.0 MB | today |
-| [fin-api-configs](https://github.com/users/diegonmarcos/packages/container/package/fin-api-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
+| [filebrowser](https://github.com/users/diegonmarcos/packages/container/package/filebrowser) | public | linux/arm64 | 34 | 15.2 MB | yesterday |
+| [filebrowser-binaries](https://github.com/users/diegonmarcos/packages/container/package/filebrowser-binaries) | public | linux/arm64 | 34 | 15.2 MB | yesterday |
+| [filebrowser-configs](https://github.com/users/diegonmarcos/packages/container/package/filebrowser-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
+| [fin-api](https://github.com/users/diegonmarcos/packages/container/package/fin-api) | public | linux/arm64 | 96 | 33.0 MB | yesterday |
+| [fin-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/fin-api-binaries) | public | linux/arm64 | 95 | 33.0 MB | yesterday |
+| [fin-api-configs](https://github.com/users/diegonmarcos/packages/container/package/fin-api-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [fluent-bit-configs](https://github.com/users/diegonmarcos/packages/container/package/fluent-bit-configs) | public | linux/amd64 | 1 | 2.2 MB | 6 months ago |
-| [gha-runner](https://github.com/users/diegonmarcos/packages/container/package/gha-runner) | public | linux/arm64 | 29 | 4.0 MB | yesterday |
-| [gha-runner-binaries](https://github.com/users/diegonmarcos/packages/container/package/gha-runner-binaries) | public | linux/arm64 | 29 | 4.0 MB | yesterday |
+| [gha-runner](https://github.com/users/diegonmarcos/packages/container/package/gha-runner) | public | linux/arm64 | 31 | 4.0 MB | yesterday |
+| [gha-runner-binaries](https://github.com/users/diegonmarcos/packages/container/package/gha-runner-binaries) | public | linux/arm64 | 31 | 4.0 MB | yesterday |
 | [gha-runner-configs](https://github.com/users/diegonmarcos/packages/container/package/gha-runner-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
-| [git-proxy-api](https://github.com/users/diegonmarcos/packages/container/package/git-proxy-api) | public | linux/amd64 | 91 | 79.6 MB | yesterday |
-| [git-proxy-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/git-proxy-api-binaries) | public | linux/amd64 | 90 | 79.6 MB | yesterday |
-| [git-proxy-api-configs](https://github.com/users/diegonmarcos/packages/container/package/git-proxy-api-configs) | public | linux/amd64 | 1 | 2.2 MB | yesterday |
-| [gitea](https://github.com/users/diegonmarcos/packages/container/package/gitea) | public | linux/arm64 | 29 | 66.0 MB | yesterday |
-| [gitea-binaries](https://github.com/users/diegonmarcos/packages/container/package/gitea-binaries) | public | linux/arm64 | 28 | 66.0 MB | yesterday |
-| [gitea-configs](https://github.com/users/diegonmarcos/packages/container/package/gitea-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
-| [google-personal-mcp](https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp) | public | linux/arm64 | 233 | 134.4 MB | today |
-| [google-personal-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp-binaries) | public | linux/arm64 | 225 | 134.4 MB | today |
+| [git-proxy-api](https://github.com/users/diegonmarcos/packages/container/package/git-proxy-api) | public | linux/amd64 | 91 | 79.6 MB | 2 days ago |
+| [git-proxy-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/git-proxy-api-binaries) | public | linux/amd64 | 90 | 79.6 MB | 2 days ago |
+| [git-proxy-api-configs](https://github.com/users/diegonmarcos/packages/container/package/git-proxy-api-configs) | public | linux/amd64 | 1 | 2.2 MB | 2 days ago |
+| [gitea](https://github.com/users/diegonmarcos/packages/container/package/gitea) | public | linux/arm64 | 30 | 66.0 MB | today |
+| [gitea-binaries](https://github.com/users/diegonmarcos/packages/container/package/gitea-binaries) | public | linux/arm64 | 29 | 66.0 MB | today |
+| [gitea-configs](https://github.com/users/diegonmarcos/packages/container/package/gitea-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
+| [google-personal-mcp](https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp) | public | linux/arm64 | 237 | 134.4 MB | today |
+| [google-personal-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp-binaries) | public | linux/arm64 | 229 | 134.4 MB | today |
 | [google-personal-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/google-personal-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
-| [google-workspace-mcp](https://github.com/users/diegonmarcos/packages/container/package/google-workspace-mcp) | public | linux/arm64 | 315 | 134.4 MB | yesterday |
-| [google-workspace-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/google-workspace-mcp-binaries) | public | linux/arm64 | 108 | 134.4 MB | yesterday |
+| [google-workspace-mcp](https://github.com/users/diegonmarcos/packages/container/package/google-workspace-mcp) | public | linux/arm64 | 317 | 134.4 MB | yesterday |
+| [google-workspace-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/google-workspace-mcp-binaries) | public | linux/arm64 | 110 | 134.4 MB | yesterday |
 | [google-workspace-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/google-workspace-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
-| [grist](https://github.com/users/diegonmarcos/packages/container/package/grist) | public | linux/arm64 | 52 | 287.3 MB | today |
-| [grist-binaries](https://github.com/users/diegonmarcos/packages/container/package/grist-binaries) | public | linux/arm64 | 52 | 287.3 MB | today |
-| [grist-configs](https://github.com/users/diegonmarcos/packages/container/package/grist-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
-| [hedgedoc](https://github.com/users/diegonmarcos/packages/container/package/hedgedoc) | public | linux/arm64 | 32 | 186.2 MB | today |
-| [hedgedoc-binaries](https://github.com/users/diegonmarcos/packages/container/package/hedgedoc-binaries) | public | linux/arm64 | 32 | 186.2 MB | today |
-| [hedgedoc-configs](https://github.com/users/diegonmarcos/packages/container/package/hedgedoc-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
+| [grist](https://github.com/users/diegonmarcos/packages/container/package/grist) | public | linux/arm64 | 55 | 287.3 MB | yesterday |
+| [grist-binaries](https://github.com/users/diegonmarcos/packages/container/package/grist-binaries) | public | linux/arm64 | 55 | 287.3 MB | yesterday |
+| [grist-configs](https://github.com/users/diegonmarcos/packages/container/package/grist-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
+| [hedgedoc](https://github.com/users/diegonmarcos/packages/container/package/hedgedoc) | public | linux/arm64 | 35 | 186.2 MB | yesterday |
+| [hedgedoc-binaries](https://github.com/users/diegonmarcos/packages/container/package/hedgedoc-binaries) | public | linux/arm64 | 35 | 186.2 MB | yesterday |
+| [hedgedoc-configs](https://github.com/users/diegonmarcos/packages/container/package/hedgedoc-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [hedgedoc-db](https://github.com/users/diegonmarcos/packages/container/package/hedgedoc-db) | public | linux/amd64 | 1 | 104.9 MB | 6 months ago |
-| [hermes-agent](https://github.com/users/diegonmarcos/packages/container/package/hermes-agent) | public | linux/arm64 | 95 | 1.65 GB | yesterday |
-| [hermes-agent-binaries](https://github.com/users/diegonmarcos/packages/container/package/hermes-agent-binaries) | public | linux/arm64 | 94 | 1.65 GB | yesterday |
+| [hermes-agent](https://github.com/users/diegonmarcos/packages/container/package/hermes-agent) | public | linux/amd64, linux/arm64 | 98 | 1010.3 MB | today |
+| [hermes-agent-binaries](https://github.com/users/diegonmarcos/packages/container/package/hermes-agent-binaries) | public | linux/arm64 | 96 | 1.68 GB | yesterday |
 | [hermes-agent-configs](https://github.com/users/diegonmarcos/packages/container/package/hermes-agent-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
-| [hickory-dns](https://github.com/users/diegonmarcos/packages/container/package/hickory-dns) | public | linux/amd64 | 36 | 11.5 MB | today |
-| [hickory-dns-binaries](https://github.com/users/diegonmarcos/packages/container/package/hickory-dns-binaries) | public | linux/amd64 | 34 | 11.5 MB | today |
+| [hickory-dns](https://github.com/users/diegonmarcos/packages/container/package/hickory-dns) | public | linux/amd64 | 40 | 11.5 MB | today |
+| [hickory-dns-binaries](https://github.com/users/diegonmarcos/packages/container/package/hickory-dns-binaries) | public | linux/amd64 | 38 | 11.5 MB | today |
 | [hickory-dns-configs](https://github.com/users/diegonmarcos/packages/container/package/hickory-dns-configs) | public | linux/amd64 | 1 | 2.2 MB | 5 months ago |
 | [hm-gcp-proxy](https://github.com/users/diegonmarcos/packages/container/package/hm-gcp-proxy) | public | linux/amd64 | 10 | 3.25 GB | 6 months ago |
 | [hm-gcp-t4](https://github.com/users/diegonmarcos/packages/container/package/hm-gcp-t4) | public | linux/amd64 | 38 | 3.20 GB | 6 months ago |
 | [hm-oci-analytics](https://github.com/users/diegonmarcos/packages/container/package/hm-oci-analytics) | public | linux/amd64 | 39 | 3.20 GB | 6 months ago |
 | [hm-oci-mail](https://github.com/users/diegonmarcos/packages/container/package/hm-oci-mail) | public | linux/amd64 | 41 | 3.20 GB | 6 months ago |
-| [http-to-smtp-proxy-api](https://github.com/users/diegonmarcos/packages/container/package/http-to-smtp-proxy-api) | public | linux/amd64 | 155 | 32.5 MB | yesterday |
-| [http-to-smtp-proxy-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/http-to-smtp-proxy-api-binaries) | public | linux/amd64 | 154 | 32.5 MB | yesterday |
-| [introspect-proxy](https://github.com/users/diegonmarcos/packages/container/package/introspect-proxy) | public | linux/amd64 | 363 | 54.5 MB | yesterday |
-| [introspect-proxy-binaries](https://github.com/users/diegonmarcos/packages/container/package/introspect-proxy-binaries) | public | linux/amd64 | 94 | 54.5 MB | yesterday |
+| [http-to-smtp-proxy-api](https://github.com/users/diegonmarcos/packages/container/package/http-to-smtp-proxy-api) | public | linux/amd64 | 161 | 32.5 MB | today |
+| [http-to-smtp-proxy-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/http-to-smtp-proxy-api-binaries) | public | linux/amd64 | 160 | 32.5 MB | today |
+| [introspect-proxy](https://github.com/users/diegonmarcos/packages/container/package/introspect-proxy) | public | linux/amd64 | 366 | 54.5 MB | yesterday |
+| [introspect-proxy-binaries](https://github.com/users/diegonmarcos/packages/container/package/introspect-proxy-binaries) | public | linux/amd64 | 97 | 54.5 MB | yesterday |
 | [introspect-proxy-configs](https://github.com/users/diegonmarcos/packages/container/package/introspect-proxy-configs) | public | linux/amd64 | 1 | 2.2 MB | yesterday |
-| [jev-sidecar](https://github.com/users/diegonmarcos/packages/container/package/jev-sidecar) | public | linux/arm64 | 66 | 41.4 MB | yesterday |
-| [jev-sidecar-binaries](https://github.com/users/diegonmarcos/packages/container/package/jev-sidecar-binaries) | public | linux/arm64 | 65 | 41.4 MB | yesterday |
+| [jev-sidecar](https://github.com/users/diegonmarcos/packages/container/package/jev-sidecar) | public | linux/arm64 | 69 | 41.4 MB | yesterday |
+| [jev-sidecar-binaries](https://github.com/users/diegonmarcos/packages/container/package/jev-sidecar-binaries) | public | linux/arm64 | 68 | 41.4 MB | yesterday |
 | [jev-sidecar-configs](https://github.com/users/diegonmarcos/packages/container/package/jev-sidecar-configs) | public | linux/arm64 | 1 | 2.0 MB | yesterday |
 | [kg-bridge-configs](https://github.com/users/diegonmarcos/packages/container/package/kg-bridge-configs) | public | linux/arm64 | 1 | 1.9 MB | 4 months ago |
 | [kg-graph](https://github.com/users/diegonmarcos/packages/container/package/kg-graph) | public | linux/arm64 | 1 | 28.0 MB | 4 months ago |
 | [kg-graph-configs](https://github.com/users/diegonmarcos/packages/container/package/kg-graph-configs) | public | linux/arm64 | 1 | 1.9 MB | 4 months ago |
 | [kg-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/kg-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | 4 months ago |
-| [kg-store](https://github.com/users/diegonmarcos/packages/container/package/kg-store) | public | linux/arm64 | 31 | 28.3 MB | yesterday |
-| [kg-store-binaries](https://github.com/users/diegonmarcos/packages/container/package/kg-store-binaries) | public | linux/arm64 | 31 | 28.3 MB | yesterday |
+| [kg-store](https://github.com/users/diegonmarcos/packages/container/package/kg-store) | public | linux/arm64 | 34 | 28.3 MB | yesterday |
+| [kg-store-binaries](https://github.com/users/diegonmarcos/packages/container/package/kg-store-binaries) | public | linux/arm64 | 34 | 28.3 MB | yesterday |
 | [kg-store-configs](https://github.com/users/diegonmarcos/packages/container/package/kg-store-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
-| [kg-store-pub](https://github.com/users/diegonmarcos/packages/container/package/kg-store-pub) | public | linux/arm64 | 35 | 28.3 MB | yesterday |
-| [kg-store-pub-binaries](https://github.com/users/diegonmarcos/packages/container/package/kg-store-pub-binaries) | public | linux/arm64 | 35 | 28.3 MB | yesterday |
+| [kg-store-pub](https://github.com/users/diegonmarcos/packages/container/package/kg-store-pub) | public | linux/arm64 | 38 | 28.3 MB | yesterday |
+| [kg-store-pub-binaries](https://github.com/users/diegonmarcos/packages/container/package/kg-store-pub-binaries) | public | linux/arm64 | 38 | 28.3 MB | yesterday |
 | [kg-store-pub-configs](https://github.com/users/diegonmarcos/packages/container/package/kg-store-pub-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [languagetool-configs](https://github.com/users/diegonmarcos/packages/container/package/languagetool-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [lgtm-configs](https://github.com/users/diegonmarcos/packages/container/package/lgtm-configs) | public | linux/amd64 | 1 | 2.2 MB | 6 months ago |
@@ -273,25 +276,25 @@
 | [lgtm-mimir](https://github.com/users/diegonmarcos/packages/container/package/lgtm-mimir) | public | linux/arm64 | 1 | 28.9 MB | 6 months ago |
 | [lgtm-tempo](https://github.com/users/diegonmarcos/packages/container/package/lgtm-tempo) | public | linux/arm64 | 1 | 50.6 MB | 6 months ago |
 | [maddy](https://github.com/users/diegonmarcos/packages/container/package/maddy) | public | linux/amd64 | 3 | 28.2 MB | 6 months ago |
-| [maddy-binaries](https://github.com/users/diegonmarcos/packages/container/package/maddy-binaries) | public | linux/amd64 | 123 | 33.1 MB | yesterday |
-| [maddy-binaries-binaries](https://github.com/users/diegonmarcos/packages/container/package/maddy-binaries-binaries) | public | linux/amd64 | 92 | 33.1 MB | yesterday |
+| [maddy-binaries](https://github.com/users/diegonmarcos/packages/container/package/maddy-binaries) | public | linux/amd64 | 125 | 33.1 MB | yesterday |
+| [maddy-binaries-binaries](https://github.com/users/diegonmarcos/packages/container/package/maddy-binaries-binaries) | public | linux/amd64 | 94 | 33.1 MB | yesterday |
 | [mail-mcp](https://github.com/users/diegonmarcos/packages/container/package/mail-mcp) | public | linux/arm64 | 212 | 131.4 MB | 2 months ago |
 | [mail-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/mail-mcp-binaries) | public | linux/arm64 | 1 | 131.4 MB | 2 months ago |
 | [mail-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/mail-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | 2 months ago |
-| [mail-puller-binaries](https://github.com/users/diegonmarcos/packages/container/package/mail-puller-binaries) | public | linux/amd64 | 142 | 33.5 MB | yesterday |
-| [mail-puller-binaries-binaries](https://github.com/users/diegonmarcos/packages/container/package/mail-puller-binaries-binaries) | public | linux/amd64 | 83 | 33.5 MB | yesterday |
-| [matomo](https://github.com/users/diegonmarcos/packages/container/package/matomo) | public | linux/arm64 | 120 | 225.7 MB | today |
-| [matomo-binaries](https://github.com/users/diegonmarcos/packages/container/package/matomo-binaries) | public | linux/arm64 | 119 | 225.7 MB | today |
-| [matomo-configs](https://github.com/users/diegonmarcos/packages/container/package/matomo-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
-| [matrix-continuwuity](https://github.com/users/diegonmarcos/packages/container/package/matrix-continuwuity) | public | linux/arm64 | 43 | 37.6 MB | today |
-| [matrix-continuwuity-binaries](https://github.com/users/diegonmarcos/packages/container/package/matrix-continuwuity-binaries) | public | linux/arm64 | 42 | 37.6 MB | today |
-| [matrix-continuwuity-configs](https://github.com/users/diegonmarcos/packages/container/package/matrix-continuwuity-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
-| [matrix-element](https://github.com/users/diegonmarcos/packages/container/package/matrix-element) | public | linux/arm64 | 46 | 69.6 MB | today |
-| [matrix-element-binaries](https://github.com/users/diegonmarcos/packages/container/package/matrix-element-binaries) | public | linux/arm64 | 46 | 69.6 MB | today |
-| [matrix-element-configs](https://github.com/users/diegonmarcos/packages/container/package/matrix-element-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
-| [matrix-mautrix-whatsapp](https://github.com/users/diegonmarcos/packages/container/package/matrix-mautrix-whatsapp) | public | linux/arm64 | 41 | 69.7 MB | today |
-| [matrix-mautrix-whatsapp-binaries](https://github.com/users/diegonmarcos/packages/container/package/matrix-mautrix-whatsapp-binaries) | public | linux/arm64 | 41 | 69.7 MB | today |
-| [matrix-mautrix-whatsapp-configs](https://github.com/users/diegonmarcos/packages/container/package/matrix-mautrix-whatsapp-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
+| [mail-puller-binaries](https://github.com/users/diegonmarcos/packages/container/package/mail-puller-binaries) | public | linux/amd64 | 144 | 33.5 MB | yesterday |
+| [mail-puller-binaries-binaries](https://github.com/users/diegonmarcos/packages/container/package/mail-puller-binaries-binaries) | public | linux/amd64 | 85 | 33.5 MB | yesterday |
+| [matomo](https://github.com/users/diegonmarcos/packages/container/package/matomo) | public | linux/arm64 | 122 | 225.7 MB | yesterday |
+| [matomo-binaries](https://github.com/users/diegonmarcos/packages/container/package/matomo-binaries) | public | linux/arm64 | 121 | 225.7 MB | yesterday |
+| [matomo-configs](https://github.com/users/diegonmarcos/packages/container/package/matomo-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
+| [matrix-continuwuity](https://github.com/users/diegonmarcos/packages/container/package/matrix-continuwuity) | public | linux/arm64 | 46 | 37.6 MB | yesterday |
+| [matrix-continuwuity-binaries](https://github.com/users/diegonmarcos/packages/container/package/matrix-continuwuity-binaries) | public | linux/arm64 | 45 | 37.6 MB | yesterday |
+| [matrix-continuwuity-configs](https://github.com/users/diegonmarcos/packages/container/package/matrix-continuwuity-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
+| [matrix-element](https://github.com/users/diegonmarcos/packages/container/package/matrix-element) | public | linux/arm64 | 49 | 69.6 MB | yesterday |
+| [matrix-element-binaries](https://github.com/users/diegonmarcos/packages/container/package/matrix-element-binaries) | public | linux/arm64 | 49 | 69.6 MB | yesterday |
+| [matrix-element-configs](https://github.com/users/diegonmarcos/packages/container/package/matrix-element-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
+| [matrix-mautrix-whatsapp](https://github.com/users/diegonmarcos/packages/container/package/matrix-mautrix-whatsapp) | public | linux/arm64 | 44 | 69.7 MB | yesterday |
+| [matrix-mautrix-whatsapp-binaries](https://github.com/users/diegonmarcos/packages/container/package/matrix-mautrix-whatsapp-binaries) | public | linux/arm64 | 44 | 69.7 MB | yesterday |
+| [matrix-mautrix-whatsapp-configs](https://github.com/users/diegonmarcos/packages/container/package/matrix-mautrix-whatsapp-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [mattermost](https://github.com/users/diegonmarcos/packages/container/package/mattermost) | public | linux/amd64 | 1 | 487.7 MB | 6 months ago |
 | [mattermost-bots](https://github.com/users/diegonmarcos/packages/container/package/mattermost-bots) | public | linux/amd64 | 1 | 42.2 MB | 6 months ago |
 | [mattermost-bots-configs](https://github.com/users/diegonmarcos/packages/container/package/mattermost-bots-configs) | public | linux/amd64 | 1 | 2.3 MB | 6 months ago |
@@ -299,26 +302,26 @@
 | [mattermost-mcp](https://github.com/users/diegonmarcos/packages/container/package/mattermost-mcp) | public | linux/arm64 | 217 | 103.6 MB | 2 months ago |
 | [mattermost-mcp-binaries](https://github.com/users/diegonmarcos/packages/container/package/mattermost-mcp-binaries) | public | linux/arm64 | 1 | 103.6 MB | 2 months ago |
 | [mattermost-mcp-configs](https://github.com/users/diegonmarcos/packages/container/package/mattermost-mcp-configs) | public | linux/arm64 | 1 | 1.9 MB | 2 months ago |
-| [mcp-oauth](https://github.com/users/diegonmarcos/packages/container/package/mcp-oauth) | public | linux/amd64 | 25 | 49.2 MB | yesterday |
-| [mcp-oauth-binaries](https://github.com/users/diegonmarcos/packages/container/package/mcp-oauth-binaries) | public | linux/amd64 | 24 | 49.2 MB | yesterday |
+| [mcp-oauth](https://github.com/users/diegonmarcos/packages/container/package/mcp-oauth) | public | linux/amd64 | 27 | 49.2 MB | yesterday |
+| [mcp-oauth-binaries](https://github.com/users/diegonmarcos/packages/container/package/mcp-oauth-binaries) | public | linux/amd64 | 26 | 49.2 MB | yesterday |
 | [mcp-oauth-configs](https://github.com/users/diegonmarcos/packages/container/package/mcp-oauth-configs) | public | linux/amd64 | 1 | 2.2 MB | yesterday |
 | [my-ai_claude-api-configs](https://github.com/users/diegonmarcos/packages/container/package/my-ai_claude-api-configs) | public | linux/arm64 | 1 | 2.0 MB | yesterday |
-| [my-ai-api](https://github.com/users/diegonmarcos/packages/container/package/my-ai-api) | public | linux/arm64 | 103 | 621.0 MB | today |
-| [my-ai-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/my-ai-api-binaries) | public | linux/arm64 | 102 | 621.0 MB | today |
+| [my-ai-api](https://github.com/users/diegonmarcos/packages/container/package/my-ai-api) | public | linux/arm64 | 105 | 621.0 MB | yesterday |
+| [my-ai-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/my-ai-api-binaries) | public | linux/arm64 | 104 | 621.0 MB | yesterday |
 | [my-ai-api-configs](https://github.com/users/diegonmarcos/packages/container/package/my-ai-api-configs) | public | linux/arm64 | 1 | 4.5 MB | yesterday |
-| [news-gdelt](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt) | public | linux/arm64 | 92 | 195.4 MB | today |
-| [news-gdelt-binaries](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt-binaries) | public | linux/arm64 | 87 | 195.4 MB | today |
-| [news-gdelt-configs](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
-| [nixhm-sudo-gcp-proxy](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-gcp-proxy) | public | linux/amd64 | 221 | 733.3 MB | today |
+| [news-gdelt](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt) | public | linux/arm64 | 95 | 195.4 MB | yesterday |
+| [news-gdelt-binaries](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt-binaries) | public | linux/arm64 | 90 | 195.4 MB | yesterday |
+| [news-gdelt-configs](https://github.com/users/diegonmarcos/packages/container/package/news-gdelt-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
+| [nixhm-sudo-gcp-proxy](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-gcp-proxy) | public | linux/amd64 | 223 | 733.3 MB | today |
 | [nixhm-sudo-gcp-t4](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-gcp-t4) | public | linux/amd64 | 16 | 2.44 GB | 6 months ago |
-| [nixhm-sudo-oci-analytics](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-analytics) | public | linux/amd64 | 217 | 708.7 MB | today |
-| [nixhm-sudo-oci-mail](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-mail) | public | linux/amd64 | 179 | 708.9 MB | 11 days ago |
+| [nixhm-sudo-oci-analytics](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-analytics) | public | linux/amd64 | 219 | 708.7 MB | today |
+| [nixhm-sudo-oci-mail](https://github.com/users/diegonmarcos/packages/container/package/nixhm-sudo-oci-mail) | public | linux/amd64 | 179 | 708.9 MB | 12 days ago |
 | [nocodb](https://github.com/users/diegonmarcos/packages/container/package/nocodb) | public | linux/amd64, linux/arm64 | 1 | 397.8 MB | 6 months ago |
 | [nocodb-configs](https://github.com/users/diegonmarcos/packages/container/package/nocodb-configs) | public | linux/amd64 | 1 | 2.2 MB | 6 months ago |
 | [nocodb-db](https://github.com/users/diegonmarcos/packages/container/package/nocodb-db) | public | linux/amd64, linux/arm64 | 1 | 147.9 MB | 6 months ago |
-| [ntfy](https://github.com/users/diegonmarcos/packages/container/package/ntfy) | public | linux/arm64 | 41 | 33.7 MB | today |
-| [ntfy-binaries](https://github.com/users/diegonmarcos/packages/container/package/ntfy-binaries) | public | linux/arm64 | 41 | 33.7 MB | today |
-| [ntfy-configs](https://github.com/users/diegonmarcos/packages/container/package/ntfy-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
+| [ntfy](https://github.com/users/diegonmarcos/packages/container/package/ntfy) | public | linux/arm64 | 43 | 33.7 MB | yesterday |
+| [ntfy-binaries](https://github.com/users/diegonmarcos/packages/container/package/ntfy-binaries) | public | linux/arm64 | 43 | 33.7 MB | yesterday |
+| [ntfy-configs](https://github.com/users/diegonmarcos/packages/container/package/ntfy-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [ntfy-github-rss](https://github.com/users/diegonmarcos/packages/container/package/ntfy-github-rss) | public | linux/amd64 | 1 | 44.3 MB | 6 months ago |
 | [ntfy-syslog-bridge](https://github.com/users/diegonmarcos/packages/container/package/ntfy-syslog-bridge) | public | linux/amd64 | 1 | 44.3 MB | 6 months ago |
 | [octocode-fastembed-graphrag-indexed](https://github.com/users/diegonmarcos/packages/container/package/octocode-fastembed-graphrag-indexed) | public | linux/amd64 | 1 | 278.0 MB | 7 months ago |
@@ -329,33 +332,33 @@
 | [ollama-hai](https://github.com/users/diegonmarcos/packages/container/package/ollama-hai) | public | linux/arm64 | 1 | 2.58 GB | 3 months ago |
 | [ollama-hai-configs](https://github.com/users/diegonmarcos/packages/container/package/ollama-hai-configs) | public | linux/arm64 | 1 | 1.9 MB | 4 months ago |
 | [openclaw-configs](https://github.com/users/diegonmarcos/packages/container/package/openclaw-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
-| [openobserve](https://github.com/users/diegonmarcos/packages/container/package/openobserve) | public | linux/arm64 | 31 | 74.2 MB | yesterday |
-| [openobserve-binaries](https://github.com/users/diegonmarcos/packages/container/package/openobserve-binaries) | public | linux/arm64 | 31 | 74.2 MB | yesterday |
+| [openobserve](https://github.com/users/diegonmarcos/packages/container/package/openobserve) | public | linux/arm64 | 33 | 74.2 MB | yesterday |
+| [openobserve-binaries](https://github.com/users/diegonmarcos/packages/container/package/openobserve-binaries) | public | linux/arm64 | 33 | 74.2 MB | yesterday |
 | [openobserve-configs](https://github.com/users/diegonmarcos/packages/container/package/openobserve-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
-| [paca-configs](https://github.com/users/diegonmarcos/packages/container/package/paca-configs) | public | linux/arm64 | 1 | 1.9 MB | 21 days ago |
-| [photoprism](https://github.com/users/diegonmarcos/packages/container/package/photoprism) | public | linux/arm64 | 30 | 922.3 MB | today |
-| [photoprism-binaries](https://github.com/users/diegonmarcos/packages/container/package/photoprism-binaries) | public | linux/arm64 | 30 | 922.3 MB | today |
-| [photoprism-configs](https://github.com/users/diegonmarcos/packages/container/package/photoprism-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
+| [paca-configs](https://github.com/users/diegonmarcos/packages/container/package/paca-configs) | public | linux/arm64 | 1 | 1.9 MB | 22 days ago |
+| [photoprism](https://github.com/users/diegonmarcos/packages/container/package/photoprism) | public | linux/arm64 | 32 | 922.3 MB | yesterday |
+| [photoprism-binaries](https://github.com/users/diegonmarcos/packages/container/package/photoprism-binaries) | public | linux/arm64 | 32 | 922.3 MB | yesterday |
+| [photoprism-configs](https://github.com/users/diegonmarcos/packages/container/package/photoprism-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [photoprism-db](https://github.com/users/diegonmarcos/packages/container/package/photoprism-db) | public | linux/amd64 | 1 | 102.2 MB | 6 months ago |
 | [photoprism-rclone](https://github.com/users/diegonmarcos/packages/container/package/photoprism-rclone) | public | linux/amd64 | 1 | 29.8 MB | 6 months ago |
 | [photos-webhook](https://github.com/users/diegonmarcos/packages/container/package/photos-webhook) | public | linux/amd64 | 19 | 153.4 MB | 6 months ago |
 | [photos-webhook-configs](https://github.com/users/diegonmarcos/packages/container/package/photos-webhook-configs) | public | linux/arm64 | 1 | 1.9 MB | 5 months ago |
 | [photos-webhook-db](https://github.com/users/diegonmarcos/packages/container/package/photos-webhook-db) | public | linux/amd64 | 1 | 104.9 MB | 6 months ago |
-| [postlite](https://github.com/users/diegonmarcos/packages/container/package/postlite) | public | linux/amd64 | 27 | 37.2 MB | 7 days ago |
-| [postlite-binaries](https://github.com/users/diegonmarcos/packages/container/package/postlite-binaries) | public | linux/amd64 | 15 | 37.2 MB | 7 days ago |
-| [postlite-configs](https://github.com/users/diegonmarcos/packages/container/package/postlite-configs) | public | linux/amd64 | 1 | 2.2 MB | 7 days ago |
+| [postlite](https://github.com/users/diegonmarcos/packages/container/package/postlite) | public | linux/amd64 | 27 | 37.2 MB | 8 days ago |
+| [postlite-binaries](https://github.com/users/diegonmarcos/packages/container/package/postlite-binaries) | public | linux/amd64 | 15 | 37.2 MB | 8 days ago |
+| [postlite-configs](https://github.com/users/diegonmarcos/packages/container/package/postlite-configs) | public | linux/amd64 | 1 | 2.2 MB | 8 days ago |
 | [quant-lab-light-configs](https://github.com/users/diegonmarcos/packages/container/package/quant-lab-light-configs) | public | linux/amd64 | 1 | 2.2 MB | 6 months ago |
 | [quant-light-db](https://github.com/users/diegonmarcos/packages/container/package/quant-light-db) | public | linux/amd64 | 1 | 104.9 MB | 6 months ago |
 | [quant-light-engine](https://github.com/users/diegonmarcos/packages/container/package/quant-light-engine) | public | linux/amd64 | 1 | 42.1 MB | 6 months ago |
 | [quant-light-research](https://github.com/users/diegonmarcos/packages/container/package/quant-light-research) | public | linux/amd64 | 1 | 1.16 GB | 6 months ago |
 | [radicale](https://github.com/users/diegonmarcos/packages/container/package/radicale) | public | linux/arm64 | 1 | 44.7 MB | 4 months ago |
 | [radicale-configs](https://github.com/users/diegonmarcos/packages/container/package/radicale-configs) | public | linux/arm64 | 1 | 1.9 MB | 5 months ago |
-| [redis](https://github.com/users/diegonmarcos/packages/container/package/redis) | public | linux/amd64 | 40 | 37.3 MB | today |
-| [redis-binaries](https://github.com/users/diegonmarcos/packages/container/package/redis-binaries) | public | linux/amd64 | 34 | 37.3 MB | today |
-| [redis-configs](https://github.com/users/diegonmarcos/packages/container/package/redis-configs) | public | linux/amd64 | 1 | 2.2 MB | today |
-| [revealmd](https://github.com/users/diegonmarcos/packages/container/package/revealmd) | public | linux/arm64 | 31 | 387.5 MB | today |
-| [revealmd-binaries](https://github.com/users/diegonmarcos/packages/container/package/revealmd-binaries) | public | linux/arm64 | 31 | 387.5 MB | today |
-| [revealmd-configs](https://github.com/users/diegonmarcos/packages/container/package/revealmd-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
+| [redis](https://github.com/users/diegonmarcos/packages/container/package/redis) | public | linux/amd64 | 42 | 37.3 MB | yesterday |
+| [redis-binaries](https://github.com/users/diegonmarcos/packages/container/package/redis-binaries) | public | linux/amd64 | 36 | 37.3 MB | yesterday |
+| [redis-configs](https://github.com/users/diegonmarcos/packages/container/package/redis-configs) | public | linux/amd64 | 1 | 2.2 MB | yesterday |
+| [revealmd](https://github.com/users/diegonmarcos/packages/container/package/revealmd) | public | linux/arm64 | 34 | 387.5 MB | yesterday |
+| [revealmd-binaries](https://github.com/users/diegonmarcos/packages/container/package/revealmd-binaries) | public | linux/arm64 | 34 | 387.5 MB | yesterday |
+| [revealmd-configs](https://github.com/users/diegonmarcos/packages/container/package/revealmd-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [rig-agentic-hai](https://github.com/users/diegonmarcos/packages/container/package/rig-agentic-hai) | public | linux/amd64 | 17 | 124.1 MB | 6 months ago |
 | [rig-agentic-hai-1.5bq4-configs](https://github.com/users/diegonmarcos/packages/container/package/rig-agentic-hai-1.5bq4-configs) | public | linux/arm64 | 1 | 1.9 MB | 4 months ago |
 | [rig-agentic-sonn](https://github.com/users/diegonmarcos/packages/container/package/rig-agentic-sonn) | public | linux/arm64 | 18 | 100.8 MB | 6 months ago |
@@ -364,13 +367,13 @@
 | [sauron-central-configs](https://github.com/users/diegonmarcos/packages/container/package/sauron-central-configs) | public | linux/amd64 | 1 | 2.2 MB | 6 months ago |
 | [sauron-forwarder-configs](https://github.com/users/diegonmarcos/packages/container/package/sauron-forwarder-configs) | public | linux/amd64 | 1 | 2.2 MB | 6 months ago |
 | [sauron-syslog](https://github.com/users/diegonmarcos/packages/container/package/sauron-syslog) | public | linux/amd64 | 1 | 121.6 MB | 6 months ago |
-| [scrappers-api](https://github.com/users/diegonmarcos/packages/container/package/scrappers-api) | public | linux/arm64 | 106 | 114.8 MB | today |
-| [scrappers-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/scrappers-api-binaries) | public | linux/arm64 | 104 | 114.8 MB | today |
-| [scrappers-api-configs](https://github.com/users/diegonmarcos/packages/container/package/scrappers-api-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
-| [send](https://github.com/users/diegonmarcos/packages/container/package/send) | public | linux/arm64 | 32 | 65.7 MB | today |
-| [send-binaries](https://github.com/users/diegonmarcos/packages/container/package/send-binaries) | public | linux/arm64 | 31 | 65.7 MB | today |
-| [session-memory](https://github.com/users/diegonmarcos/packages/container/package/session-memory) | public | linux/arm64 | 45 | 116.9 MB | today |
-| [session-memory-binaries](https://github.com/users/diegonmarcos/packages/container/package/session-memory-binaries) | public | linux/arm64 | 44 | 116.9 MB | today |
+| [scrappers-api](https://github.com/users/diegonmarcos/packages/container/package/scrappers-api) | public | linux/arm64 | 109 | 114.8 MB | yesterday |
+| [scrappers-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/scrappers-api-binaries) | public | linux/arm64 | 107 | 114.8 MB | yesterday |
+| [scrappers-api-configs](https://github.com/users/diegonmarcos/packages/container/package/scrappers-api-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
+| [send](https://github.com/users/diegonmarcos/packages/container/package/send) | public | linux/arm64 | 35 | 93.0 MB | yesterday |
+| [send-binaries](https://github.com/users/diegonmarcos/packages/container/package/send-binaries) | public | linux/arm64 | 34 | 93.0 MB | yesterday |
+| [session-memory](https://github.com/users/diegonmarcos/packages/container/package/session-memory) | public | linux/arm64 | 48 | 116.9 MB | yesterday |
+| [session-memory-binaries](https://github.com/users/diegonmarcos/packages/container/package/session-memory-binaries) | public | linux/arm64 | 47 | 116.9 MB | yesterday |
 | [session-memory-configs](https://github.com/users/diegonmarcos/packages/container/package/session-memory-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [snappymail](https://github.com/users/diegonmarcos/packages/container/package/snappymail) | public | linux/amd64 | 1 | 74.3 MB | 6 months ago |
 | [snappymail-binaries](https://github.com/users/diegonmarcos/packages/container/package/snappymail-binaries) | public | linux/amd64 | 1 | 74.3 MB | 5 months ago |
@@ -378,32 +381,32 @@
 | [snappymail-configs](https://github.com/users/diegonmarcos/packages/container/package/snappymail-configs) | public | linux/amd64 | 1 | 2.2 MB | 1 month ago |
 | [stalwart](https://github.com/users/diegonmarcos/packages/container/package/stalwart) | public | linux/amd64 | 4 | 108.9 MB | 2 months ago |
 | [stalwart-binaries](https://github.com/users/diegonmarcos/packages/container/package/stalwart-binaries) | public | linux/amd64 | 1 | 108.9 MB | 2 months ago |
-| [stalwart-sorter-binaries](https://github.com/users/diegonmarcos/packages/container/package/stalwart-sorter-binaries) | public | linux/amd64 | 110 | 32.5 MB | yesterday |
-| [stalwart-sorter-binaries-binaries](https://github.com/users/diegonmarcos/packages/container/package/stalwart-sorter-binaries-binaries) | public | linux/amd64 | 109 | 32.5 MB | yesterday |
+| [stalwart-sorter-binaries](https://github.com/users/diegonmarcos/packages/container/package/stalwart-sorter-binaries) | public | linux/amd64 | 112 | 32.5 MB | yesterday |
+| [stalwart-sorter-binaries-binaries](https://github.com/users/diegonmarcos/packages/container/package/stalwart-sorter-binaries-binaries) | public | linux/amd64 | 111 | 32.5 MB | yesterday |
 | [syslog-forwarder](https://github.com/users/diegonmarcos/packages/container/package/syslog-forwarder) | public | linux/amd64 | 1 | 175.1 MB | 6 months ago |
 | [syslog-forwarder-configs](https://github.com/users/diegonmarcos/packages/container/package/syslog-forwarder-configs) | public | linux/amd64 | 1 | 2.2 MB | 6 months ago |
-| [tokens-api](https://github.com/users/diegonmarcos/packages/container/package/tokens-api) | public | linux/arm64 | 22 | 53.9 MB | yesterday |
-| [tokens-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/tokens-api-binaries) | public | linux/arm64 | 21 | 53.9 MB | yesterday |
+| [tokens-api](https://github.com/users/diegonmarcos/packages/container/package/tokens-api) | public | linux/arm64 | 25 | 53.9 MB | yesterday |
+| [tokens-api-binaries](https://github.com/users/diegonmarcos/packages/container/package/tokens-api-binaries) | public | linux/arm64 | 24 | 53.9 MB | yesterday |
 | [tokens-api-configs](https://github.com/users/diegonmarcos/packages/container/package/tokens-api-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [tools-cf-worker-http-to-wg-public-bridge-configs](https://github.com/users/diegonmarcos/packages/container/package/tools-cf-worker-http-to-wg-public-bridge-configs) | public | linux/amd64 | 1 | 2.2 MB | 4 months ago |
 | [tools-maddy-configs](https://github.com/users/diegonmarcos/packages/container/package/tools-maddy-configs) | public | linux/amd64 | 1 | 2.2 MB | 3 months ago |
 | [tools-smtp-proxy-configs](https://github.com/users/diegonmarcos/packages/container/package/tools-smtp-proxy-configs) | public | linux/amd64 | 1 | 2.3 MB | 6 months ago |
 | [tools-stalwart-configs](https://github.com/users/diegonmarcos/packages/container/package/tools-stalwart-configs) | public | linux/amd64 | 1 | 2.2 MB | yesterday |
-| [umami](https://github.com/users/diegonmarcos/packages/container/package/umami) | public | linux/arm64 | 40 | 222.9 MB | yesterday |
-| [umami-binaries](https://github.com/users/diegonmarcos/packages/container/package/umami-binaries) | public | linux/arm64 | 42 | 222.9 MB | yesterday |
+| [umami](https://github.com/users/diegonmarcos/packages/container/package/umami) | public | linux/arm64 | 43 | 222.9 MB | yesterday |
+| [umami-binaries](https://github.com/users/diegonmarcos/packages/container/package/umami-binaries) | public | linux/arm64 | 45 | 222.9 MB | yesterday |
 | [umami-configs](https://github.com/users/diegonmarcos/packages/container/package/umami-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
-| [unbound-dns64](https://github.com/users/diegonmarcos/packages/container/package/unbound-dns64) | public | linux/amd64 | 28 | 6.7 MB | today |
-| [unbound-dns64-binaries](https://github.com/users/diegonmarcos/packages/container/package/unbound-dns64-binaries) | public | linux/amd64 | 28 | 6.7 MB | today |
-| [unbound-dns64-configs](https://github.com/users/diegonmarcos/packages/container/package/unbound-dns64-configs) | public | linux/amd64 | 1 | 2.2 MB | today |
-| [vaultwarden](https://github.com/users/diegonmarcos/packages/container/package/vaultwarden) | public | linux/arm64 | 97 | 86.8 MB | today |
-| [vaultwarden-binaries](https://github.com/users/diegonmarcos/packages/container/package/vaultwarden-binaries) | public | linux/arm64 | 96 | 86.8 MB | today |
-| [vaultwarden-configs](https://github.com/users/diegonmarcos/packages/container/package/vaultwarden-configs) | public | linux/arm64 | 1 | 1.9 MB | today |
+| [unbound-dns64](https://github.com/users/diegonmarcos/packages/container/package/unbound-dns64) | public | linux/amd64 | 30 | 6.7 MB | today |
+| [unbound-dns64-binaries](https://github.com/users/diegonmarcos/packages/container/package/unbound-dns64-binaries) | public | linux/amd64 | 30 | 6.7 MB | today |
+| [unbound-dns64-configs](https://github.com/users/diegonmarcos/packages/container/package/unbound-dns64-configs) | public | linux/amd64 | 1 | 2.1 MB | today |
+| [vaultwarden](https://github.com/users/diegonmarcos/packages/container/package/vaultwarden) | public | linux/arm64 | 100 | 86.8 MB | yesterday |
+| [vaultwarden-binaries](https://github.com/users/diegonmarcos/packages/container/package/vaultwarden-binaries) | public | linux/arm64 | 99 | 86.8 MB | yesterday |
+| [vaultwarden-configs](https://github.com/users/diegonmarcos/packages/container/package/vaultwarden-configs) | public | linux/arm64 | 1 | 1.9 MB | yesterday |
 | [vm-pilot](https://github.com/users/diegonmarcos/packages/container/package/vm-pilot) | public | linux/amd64 | 1 | 69 KB | 6 months ago |
 | [windmill](https://github.com/users/diegonmarcos/packages/container/package/windmill) | public | linux/amd64 | 1 | 1.38 GB | 6 months ago |
 | [windmill-configs](https://github.com/users/diegonmarcos/packages/container/package/windmill-configs) | public | linux/amd64 | 1 | 2.2 MB | 6 months ago |
 | [windmill-db](https://github.com/users/diegonmarcos/packages/container/package/windmill-db) | public | linux/amd64 | 1 | 104.9 MB | 6 months ago |
-| [wireguard-mesh](https://github.com/users/diegonmarcos/packages/container/package/wireguard-mesh) | public | linux/arm64 | 63 | 20.8 MB | today |
-| [wireguard-mesh-binaries](https://github.com/users/diegonmarcos/packages/container/package/wireguard-mesh-binaries) | public | linux/arm64 | 62 | 20.8 MB | today |
+| [wireguard-mesh](https://github.com/users/diegonmarcos/packages/container/package/wireguard-mesh) | public | linux/arm64 | 65 | 20.8 MB | yesterday |
+| [wireguard-mesh-binaries](https://github.com/users/diegonmarcos/packages/container/package/wireguard-mesh-binaries) | public | linux/arm64 | 64 | 20.8 MB | yesterday |
 
 ---
 
@@ -411,84 +414,84 @@
 
 | Package | Visibility | Arch | Tags | Size | Updated |
 |:---|:---|:---|:---|:---|:---|
-| [c3-morpheus](https://github.com/users/diegonmarcos/packages/container/package/c3-morpheus) | public | — | 229 | — | today |
-| [c3-watchdog](https://github.com/users/diegonmarcos/packages/container/package/c3-watchdog) | public | — | 111 | — | today |
-| [c3-watchtower](https://github.com/users/diegonmarcos/packages/container/package/c3-watchtower) | public | — | 222 | — | today |
-| [cloud-account](https://github.com/users/diegonmarcos/packages/container/package/cloud-account) | public | — | 249 | — | today |
+| [c3-morpheus](https://github.com/users/diegonmarcos/packages/container/package/c3-morpheus) | public | — | 249 | — | today |
+| [c3-watchdog](https://github.com/users/diegonmarcos/packages/container/package/c3-watchdog) | public | — | 129 | — | today |
+| [c3-watchtower](https://github.com/users/diegonmarcos/packages/container/package/c3-watchtower) | public | — | 241 | — | today |
+| [cloud-account](https://github.com/users/diegonmarcos/packages/container/package/cloud-account) | public | — | 303 | — | today |
 | [cloud-affine](https://github.com/users/diegonmarcos/packages/container/package/cloud-affine) | public | — | 0 | — | 1 month ago |
-| [cloud-agenda](https://github.com/users/diegonmarcos/packages/container/package/cloud-agenda) | public | — | 153 | — | 11 days ago |
-| [cloud-browser](https://github.com/users/diegonmarcos/packages/container/package/cloud-browser) | public | — | 576 | — | today |
-| [cloud-c3](https://github.com/users/diegonmarcos/packages/container/package/cloud-c3) | public | — | 131 | — | today |
-| [cloud-c3-webserver](https://github.com/users/diegonmarcos/packages/container/package/cloud-c3-webserver) | public | — | 190 | — | today |
-| [cloud-calc](https://github.com/users/diegonmarcos/packages/container/package/cloud-calc) | public | — | 221 | — | today |
+| [cloud-agenda](https://github.com/users/diegonmarcos/packages/container/package/cloud-agenda) | public | — | 153 | — | 12 days ago |
+| [cloud-browser](https://github.com/users/diegonmarcos/packages/container/package/cloud-browser) | public | — | 629 | — | today |
+| [cloud-c3](https://github.com/users/diegonmarcos/packages/container/package/cloud-c3) | public | — | 160 | — | today |
+| [cloud-c3-webserver](https://github.com/users/diegonmarcos/packages/container/package/cloud-c3-webserver) | public | — | 209 | — | today |
+| [cloud-calc](https://github.com/users/diegonmarcos/packages/container/package/cloud-calc) | public | — | 267 | — | today |
 | [cloud-calendar](https://github.com/users/diegonmarcos/packages/container/package/cloud-calendar) | public | — | 182 | — | 1 month ago |
-| [cloud-camera](https://github.com/users/diegonmarcos/packages/container/package/cloud-camera) | public | — | 126 | — | today |
+| [cloud-camera](https://github.com/users/diegonmarcos/packages/container/package/cloud-camera) | public | — | 146 | — | today |
 | [cloud-code](https://github.com/users/diegonmarcos/packages/container/package/cloud-code) | public | — | 0 | — | today |
-| [cloud-comms-chat](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-chat) | public | — | 107 | — | today |
-| [cloud-comms-dialer](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-dialer) | public | — | 135 | — | today |
-| [cloud-comms-mail](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-mail) | public | — | 264 | — | today |
-| [cloud-comms-matrix](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-matrix) | public | — | 179 | — | today |
-| [cloud-contacts](https://github.com/users/diegonmarcos/packages/container/package/cloud-contacts) | public | — | 464 | — | today |
-| [cloud-drive](https://github.com/users/diegonmarcos/packages/container/package/cloud-drive) | public | — | 466 | — | today |
-| [cloud-gallery](https://github.com/users/diegonmarcos/packages/container/package/cloud-gallery) | public | — | 128 | — | today |
+| [cloud-comms-chat](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-chat) | public | — | 117 | — | today |
+| [cloud-comms-dialer](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-dialer) | public | — | 157 | — | today |
+| [cloud-comms-mail](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-mail) | public | — | 289 | — | today |
+| [cloud-comms-matrix](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-matrix) | public | — | 196 | — | today |
+| [cloud-contacts](https://github.com/users/diegonmarcos/packages/container/package/cloud-contacts) | public | — | 525 | — | today |
+| [cloud-drive](https://github.com/users/diegonmarcos/packages/container/package/cloud-drive) | public | — | 525 | — | today |
+| [cloud-gallery](https://github.com/users/diegonmarcos/packages/container/package/cloud-gallery) | public | — | 165 | — | today |
 | [cloud-ide-hub](https://github.com/users/diegonmarcos/packages/container/package/cloud-ide-hub) | public | — | 69 | — | 1 month ago |
-| [cloud-keyboard](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard) | public | — | 191 | — | today |
-| [cloud-keyboard-libs](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard-libs) | public | — | 130 | — | today |
-| [cloud-lib-account](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-account) | public | — | 3 | — | 19 days ago |
-| [cloud-lib-analytics](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-analytics) | public | — | 202 | — | 19 days ago |
-| [cloud-lib-analytics-sink](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-analytics-sink) | public | — | 63 | — | today |
-| [cloud-lib-auth](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-auth) | public | — | 48 | — | 19 days ago |
-| [cloud-lib-bottomnav](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-bottomnav) | public | — | 61 | — | 19 days ago |
-| [cloud-lib-cal](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-cal) | public | — | 34 | — | today |
-| [cloud-lib-calc](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-calc) | public | — | 77 | — | today |
-| [cloud-lib-decisions-engine](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-decisions-engine) | public | — | 60 | — | today |
-| [cloud-lib-feed](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-feed) | public | — | 33 | — | today |
-| [cloud-lib-file-editor](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-file-editor) | public | — | 43 | — | 19 days ago |
-| [cloud-lib-fleetconfig](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-fleetconfig) | public | — | 69 | — | today |
-| [cloud-lib-gh](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-gh) | public | — | 104 | — | today |
-| [cloud-lib-git-sync](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-git-sync) | public | — | 48 | — | 19 days ago |
-| [cloud-lib-git-sync-engine](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-git-sync-engine) | public | — | 24 | — | today |
-| [cloud-lib-gix](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-gix) | public | — | 35 | — | 19 days ago |
-| [cloud-lib-ml-l-image-mlkit](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ml-l-image-mlkit) | public | — | 117 | — | today |
-| [cloud-lib-ml-l-sound-yamnet](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ml-l-sound-yamnet) | public | — | 70 | — | today |
-| [cloud-lib-ml-l-text-mlkit](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ml-l-text-mlkit) | public | — | 50 | — | 19 days ago |
-| [cloud-lib-ml-l-voice-vosk](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ml-l-voice-vosk) | public | — | 50 | — | 19 days ago |
-| [cloud-lib-mounts](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-mounts) | public | — | 47 | — | 19 days ago |
-| [cloud-lib-mounts-engine](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-mounts-engine) | public | — | 23 | — | today |
-| [cloud-lib-net-wg](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-net-wg) | public | — | 31 | — | today |
-| [cloud-lib-news](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-news) | public | — | 31 | — | today |
-| [cloud-lib-ops-engine](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ops-engine) | public | — | 59 | — | today |
-| [cloud-lib-rclone](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-rclone) | public | — | 50 | — | 19 days ago |
-| [cloud-lib-rclone-engine](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-rclone-engine) | public | — | 23 | — | today |
-| [cloud-lib-search](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-search) | public | — | 149 | — | 19 days ago |
-| [cloud-lib-search-page](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-search-page) | public | — | 7 | — | 19 days ago |
-| [cloud-lib-text-tools](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-text-tools) | public | — | 68 | — | 19 days ago |
-| [cloud-lib-ui-kit](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ui-kit) | public | — | 14 | — | 19 days ago |
-| [cloud-lib-watchdog](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-watchdog) | public | — | 147 | — | 19 days ago |
-| [cloud-lib-webserver](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-webserver) | public | — | 53 | — | 19 days ago |
-| [cloud-me](https://github.com/users/diegonmarcos/packages/container/package/cloud-me) | public | — | 438 | — | today |
-| [cloud-media-center](https://github.com/users/diegonmarcos/packages/container/package/cloud-media-center) | public | — | 270 | — | today |
-| [cloud-myterminal](https://github.com/users/diegonmarcos/packages/container/package/cloud-myterminal) | public | — | 215 | — | today |
-| [cloud-nav](https://github.com/users/diegonmarcos/packages/container/package/cloud-nav) | public | — | 507 | — | today |
-| [cloud-news](https://github.com/users/diegonmarcos/packages/container/package/cloud-news) | public | — | 465 | — | today |
+| [cloud-keyboard](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard) | public | — | 200 | — | today |
+| [cloud-keyboard-libs](https://github.com/users/diegonmarcos/packages/container/package/cloud-keyboard-libs) | public | — | 140 | — | today |
+| [cloud-lib-account](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-account) | public | — | 3 | — | 20 days ago |
+| [cloud-lib-analytics](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-analytics) | public | — | 202 | — | 20 days ago |
+| [cloud-lib-analytics-sink](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-analytics-sink) | public | — | 69 | — | today |
+| [cloud-lib-auth](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-auth) | public | — | 48 | — | 20 days ago |
+| [cloud-lib-bottomnav](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-bottomnav) | public | — | 61 | — | 20 days ago |
+| [cloud-lib-cal](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-cal) | public | — | 40 | — | today |
+| [cloud-lib-calc](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-calc) | public | — | 83 | — | today |
+| [cloud-lib-decisions-engine](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-decisions-engine) | public | — | 66 | — | today |
+| [cloud-lib-feed](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-feed) | public | — | 39 | — | today |
+| [cloud-lib-file-editor](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-file-editor) | public | — | 43 | — | 20 days ago |
+| [cloud-lib-fleetconfig](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-fleetconfig) | public | — | 75 | — | today |
+| [cloud-lib-gh](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-gh) | public | — | 110 | — | today |
+| [cloud-lib-git-sync](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-git-sync) | public | — | 48 | — | 20 days ago |
+| [cloud-lib-git-sync-engine](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-git-sync-engine) | public | — | 30 | — | today |
+| [cloud-lib-gix](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-gix) | public | — | 35 | — | 20 days ago |
+| [cloud-lib-ml-l-image-mlkit](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ml-l-image-mlkit) | public | — | 123 | — | today |
+| [cloud-lib-ml-l-sound-yamnet](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ml-l-sound-yamnet) | public | — | 76 | — | today |
+| [cloud-lib-ml-l-text-mlkit](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ml-l-text-mlkit) | public | — | 50 | — | 20 days ago |
+| [cloud-lib-ml-l-voice-vosk](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ml-l-voice-vosk) | public | — | 50 | — | 20 days ago |
+| [cloud-lib-mounts](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-mounts) | public | — | 47 | — | 20 days ago |
+| [cloud-lib-mounts-engine](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-mounts-engine) | public | — | 29 | — | today |
+| [cloud-lib-net-wg](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-net-wg) | public | — | 37 | — | today |
+| [cloud-lib-news](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-news) | public | — | 37 | — | today |
+| [cloud-lib-ops-engine](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ops-engine) | public | — | 65 | — | today |
+| [cloud-lib-rclone](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-rclone) | public | — | 50 | — | 20 days ago |
+| [cloud-lib-rclone-engine](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-rclone-engine) | public | — | 30 | — | today |
+| [cloud-lib-search](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-search) | public | — | 149 | — | 20 days ago |
+| [cloud-lib-search-page](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-search-page) | public | — | 7 | — | 20 days ago |
+| [cloud-lib-text-tools](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-text-tools) | public | — | 68 | — | 20 days ago |
+| [cloud-lib-ui-kit](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ui-kit) | public | — | 14 | — | 20 days ago |
+| [cloud-lib-watchdog](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-watchdog) | public | — | 147 | — | 20 days ago |
+| [cloud-lib-webserver](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-webserver) | public | — | 53 | — | 20 days ago |
+| [cloud-me](https://github.com/users/diegonmarcos/packages/container/package/cloud-me) | public | — | 499 | — | today |
+| [cloud-media-center](https://github.com/users/diegonmarcos/packages/container/package/cloud-media-center) | public | — | 288 | — | today |
+| [cloud-myterminal](https://github.com/users/diegonmarcos/packages/container/package/cloud-myterminal) | public | — | 231 | — | today |
+| [cloud-nav](https://github.com/users/diegonmarcos/packages/container/package/cloud-nav) | public | — | 566 | — | today |
+| [cloud-news](https://github.com/users/diegonmarcos/packages/container/package/cloud-news) | public | — | 525 | — | today |
 | [cloud-notes](https://github.com/users/diegonmarcos/packages/container/package/cloud-notes) | public | — | 6 | — | today |
-| [cloud-notes-sync](https://github.com/users/diegonmarcos/packages/container/package/cloud-notes-sync) | public | linux/amd64, linux/arm64 | 68 | 88.0 MB | today |
-| [cloud-notes-web](https://github.com/users/diegonmarcos/packages/container/package/cloud-notes-web) | public | linux/amd64, linux/arm64 | 62 | 105.0 MB | today |
+| [cloud-notes-sync](https://github.com/users/diegonmarcos/packages/container/package/cloud-notes-sync) | public | linux/amd64, linux/arm64 | 94 | 88.0 MB | today |
+| [cloud-notes-web](https://github.com/users/diegonmarcos/packages/container/package/cloud-notes-web) | public | linux/amd64, linux/arm64 | 87 | 105.0 MB | today |
 | [cloud-office](https://github.com/users/diegonmarcos/packages/container/package/cloud-office) | public | — | 1 | — | today |
-| [cloud-search](https://github.com/users/diegonmarcos/packages/container/package/cloud-search) | public | — | 210 | — | today |
+| [cloud-search](https://github.com/users/diegonmarcos/packages/container/package/cloud-search) | public | — | 238 | — | today |
 | [cloud-sheets](https://github.com/users/diegonmarcos/packages/container/package/cloud-sheets) | public | — | 1 | — | 1 month ago |
-| [cloud-store](https://github.com/users/diegonmarcos/packages/container/package/cloud-store) | public | — | 322 | — | today |
-| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 1156 | — | today |
-| [cloud-superintel](https://github.com/users/diegonmarcos/packages/container/package/cloud-superintel) | public | — | 25 | — | today |
-| [cloud-tasks](https://github.com/users/diegonmarcos/packages/container/package/cloud-tasks) | public | — | 162 | — | today |
-| [cloud-terminal](https://github.com/users/diegonmarcos/packages/container/package/cloud-terminal) | public | — | 115 | — | today |
-| [cloud-tools-small-llms](https://github.com/users/diegonmarcos/packages/container/package/cloud-tools-small-llms) | public | — | 148 | — | today |
-| [cloud-unix-termux-boot](https://github.com/users/diegonmarcos/packages/container/package/cloud-unix-termux-boot) | public | — | 20 | — | 7 days ago |
-| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | 461 | — | today |
-| [cloud-wallet](https://github.com/users/diegonmarcos/packages/container/package/cloud-wallet) | public | — | 503 | — | today |
+| [cloud-store](https://github.com/users/diegonmarcos/packages/container/package/cloud-store) | public | — | 373 | — | today |
+| [cloud-superapp](https://github.com/users/diegonmarcos/packages/container/package/cloud-superapp) | public | — | 1181 | — | today |
+| [cloud-superintel](https://github.com/users/diegonmarcos/packages/container/package/cloud-superintel) | public | — | 80 | — | today |
+| [cloud-tasks](https://github.com/users/diegonmarcos/packages/container/package/cloud-tasks) | public | — | 212 | — | today |
+| [cloud-terminal](https://github.com/users/diegonmarcos/packages/container/package/cloud-terminal) | public | — | 125 | — | today |
+| [cloud-tools-small-llms](https://github.com/users/diegonmarcos/packages/container/package/cloud-tools-small-llms) | public | — | 201 | — | today |
+| [cloud-unix-termux-boot](https://github.com/users/diegonmarcos/packages/container/package/cloud-unix-termux-boot) | public | — | 20 | — | 8 days ago |
+| [cloud-vault](https://github.com/users/diegonmarcos/packages/container/package/cloud-vault) | public | — | 497 | — | today |
+| [cloud-wallet](https://github.com/users/diegonmarcos/packages/container/package/cloud-wallet) | public | — | 542 | — | today |
 | [cloud-watchdog](https://github.com/users/diegonmarcos/packages/container/package/cloud-watchdog) | public | — | 41 | — | 1 month ago |
-| [cloud-webserver](https://github.com/users/diegonmarcos/packages/container/package/cloud-webserver) | public | — | 26 | — | 25 days ago |
-| [cloud-writer](https://github.com/users/diegonmarcos/packages/container/package/cloud-writer) | public | — | 235 | — | today |
+| [cloud-webserver](https://github.com/users/diegonmarcos/packages/container/package/cloud-webserver) | public | — | 26 | — | 26 days ago |
+| [cloud-writer](https://github.com/users/diegonmarcos/packages/container/package/cloud-writer) | public | — | 284 | — | today |
 
 ---
 
@@ -497,56 +500,56 @@
 | Package | Visibility | Arch | Tags | Size | Updated |
 |:---|:---|:---|:---|:---|:---|
 | [bd-cloud-builder-x-configs](https://github.com/users/diegonmarcos/packages/container/package/bd-cloud-builder-x-configs) | public | linux/amd64 | 1 | 2.2 MB | 6 months ago |
-| [cloud-builder-x-deb-apt](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-apt) | public | linux/amd64, linux/arm64 | 42 | 725.6 MB | yesterday |
-| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | linux/amd64, linux/arm64 | 65 | 1.42 GB | yesterday |
+| [cloud-builder-x-deb-apt](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-apt) | public | linux/amd64, linux/arm64 | 42 | 725.6 MB | 3 days ago |
+| [cloud-builder-x-deb-nixhm](https://github.com/users/diegonmarcos/packages/container/package/cloud-builder-x-deb-nixhm) | public | linux/amd64, linux/arm64 | 65 | 1.42 GB | 3 days ago |
 | [cloud-comms-contacts](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-contacts) | public | — | 2 | — | 2 months ago |
 | [cloud-comms-hub](https://github.com/users/diegonmarcos/packages/container/package/cloud-comms-hub) | public | — | 72 | — | 3 months ago |
-| [cloud-lib-appstore](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-appstore) | public | — | 271 | — | 19 days ago |
+| [cloud-lib-appstore](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-appstore) | public | — | 271 | — | 20 days ago |
 | [cloud-lib-apptabs](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-apptabs) | public | — | 20 | — | 2 months ago |
-| [cloud-lib-battery](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-battery) | public | — | 247 | — | 19 days ago |
-| [cloud-lib-browser](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-browser) | public | — | 247 | — | 19 days ago |
-| [cloud-lib-chat](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-chat) | public | — | 245 | — | 19 days ago |
-| [cloud-lib-contacts](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-contacts) | public | — | 239 | — | 19 days ago |
-| [cloud-lib-core](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-core) | public | — | 245 | — | 19 days ago |
-| [cloud-lib-datamanager](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-datamanager) | public | — | 245 | — | 19 days ago |
-| [cloud-lib-devtools](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-devtools) | public | — | 241 | — | 19 days ago |
-| [cloud-lib-fin](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-fin) | public | — | 243 | — | 19 days ago |
-| [cloud-lib-firewall](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-firewall) | public | — | 245 | — | 19 days ago |
-| [cloud-lib-health](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-health) | public | — | 245 | — | 19 days ago |
-| [cloud-lib-kde-connect](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-kde-connect) | public | — | 245 | — | 19 days ago |
-| [cloud-lib-launcher-apptabs](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-launcher-apptabs) | public | — | 226 | — | 19 days ago |
-| [cloud-lib-launcher-onehand](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-launcher-onehand) | public | — | 240 | — | 19 days ago |
-| [cloud-lib-launcher-zoomies](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-launcher-zoomies) | public | — | 220 | — | 19 days ago |
-| [cloud-lib-mail](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-mail) | public | — | 246 | — | 19 days ago |
-| [cloud-lib-maps](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-maps) | public | — | 240 | — | 19 days ago |
-| [cloud-lib-media](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-media) | public | — | 238 | — | 19 days ago |
-| [cloud-lib-net](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-net) | public | — | 246 | — | 19 days ago |
+| [cloud-lib-battery](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-battery) | public | — | 247 | — | 20 days ago |
+| [cloud-lib-browser](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-browser) | public | — | 247 | — | 20 days ago |
+| [cloud-lib-chat](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-chat) | public | — | 245 | — | 20 days ago |
+| [cloud-lib-contacts](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-contacts) | public | — | 239 | — | 20 days ago |
+| [cloud-lib-core](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-core) | public | — | 245 | — | 20 days ago |
+| [cloud-lib-datamanager](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-datamanager) | public | — | 245 | — | 20 days ago |
+| [cloud-lib-devtools](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-devtools) | public | — | 241 | — | 20 days ago |
+| [cloud-lib-fin](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-fin) | public | — | 243 | — | 20 days ago |
+| [cloud-lib-firewall](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-firewall) | public | — | 245 | — | 20 days ago |
+| [cloud-lib-health](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-health) | public | — | 245 | — | 20 days ago |
+| [cloud-lib-kde-connect](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-kde-connect) | public | — | 245 | — | 20 days ago |
+| [cloud-lib-launcher-apptabs](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-launcher-apptabs) | public | — | 226 | — | 20 days ago |
+| [cloud-lib-launcher-onehand](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-launcher-onehand) | public | — | 240 | — | 20 days ago |
+| [cloud-lib-launcher-zoomies](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-launcher-zoomies) | public | — | 220 | — | 20 days ago |
+| [cloud-lib-mail](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-mail) | public | — | 246 | — | 20 days ago |
+| [cloud-lib-maps](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-maps) | public | — | 240 | — | 20 days ago |
+| [cloud-lib-media](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-media) | public | — | 238 | — | 20 days ago |
+| [cloud-lib-net](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-net) | public | — | 246 | — | 20 days ago |
 | [cloud-lib-onehand](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-onehand) | public | — | 20 | — | 2 months ago |
-| [cloud-lib-ops](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ops) | public | — | 246 | — | 19 days ago |
-| [cloud-lib-shizuku-adb-debug-tools](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-shizuku-adb-debug-tools) | public | — | 248 | — | 19 days ago |
-| [cloud-lib-translate](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-translate) | public | — | 239 | — | 19 days ago |
+| [cloud-lib-ops](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-ops) | public | — | 246 | — | 20 days ago |
+| [cloud-lib-shizuku-adb-debug-tools](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-shizuku-adb-debug-tools) | public | — | 248 | — | 20 days ago |
+| [cloud-lib-translate](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-translate) | public | — | 239 | — | 20 days ago |
 | [cloud-lib-translate-mlkit](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-translate-mlkit) | public | — | 189 | — | 1 month ago |
-| [cloud-lib-updater](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-updater) | public | — | 269 | — | 19 days ago |
-| [cloud-lib-voice](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-voice) | public | — | 238 | — | 19 days ago |
+| [cloud-lib-updater](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-updater) | public | — | 269 | — | 20 days ago |
+| [cloud-lib-voice](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-voice) | public | — | 238 | — | 20 days ago |
 | [cloud-lib-voice-vosk](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-voice-vosk) | public | — | 188 | — | 1 month ago |
-| [cloud-lib-wallet](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-wallet) | public | — | 249 | — | 19 days ago |
+| [cloud-lib-wallet](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-wallet) | public | — | 249 | — | 20 days ago |
 | [cloud-lib-zoomies](https://github.com/users/diegonmarcos/packages/container/package/cloud-lib-zoomies) | public | — | 20 | — | 2 months ago |
 | [kali-data](https://github.com/users/diegonmarcos/packages/container/package/kali-data) | public | linux/amd64 | 1 | 814.6 MB | 1 month ago |
 | [kali-lib](https://github.com/users/diegonmarcos/packages/container/package/kali-lib) | public | linux/amd64 | 1 | 14.19 GB | 5 months ago |
 | [kali-linux](https://github.com/users/diegonmarcos/packages/container/package/kali-linux) | public | linux/amd64 | 1 | 14.20 GB | 5 months ago |
 | [kali-os](https://github.com/users/diegonmarcos/packages/container/package/kali-os) | public | linux/amd64 | 1 | 13.79 GB | 1 month ago |
 | [lance-db-octocode-semantic-graph-repo-cloud-front](https://github.com/users/diegonmarcos/packages/container/package/lance-db-octocode-semantic-graph-repo-cloud-front) | public | linux/amd64 | 1 | 14.6 MB | 7 months ago |
-| [my-browser-rust-chromium](https://github.com/users/diegonmarcos/packages/container/package/my-browser-rust-chromium) | public | — | 1 | — | 21 days ago |
-| [qutebrowser-standalone](https://github.com/users/diegonmarcos/packages/container/package/qutebrowser-standalone) | public | — | 1 | — | yesterday |
+| [my-browser-rust-chromium](https://github.com/users/diegonmarcos/packages/container/package/my-browser-rust-chromium) | public | — | 1 | — | 22 days ago |
+| [qutebrowser-standalone](https://github.com/users/diegonmarcos/packages/container/package/qutebrowser-standalone) | public | — | 1 | — | 3 days ago |
 | [redroid-cloud](https://github.com/users/diegonmarcos/packages/container/package/redroid-cloud) | public | — | 1 | — | 3 months ago |
-| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 14 | — | 4 months ago |
+| [superapp](https://github.com/users/diegonmarcos/packages/container/package/superapp) | public | — | 14 | — | 5 months ago |
 | [unix-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-boot-cache) | public | — | 5 | — | 1 month ago |
-| [unix-dev-store-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-dev-store-cache) | public | linux/amd64 | 1 | 7.93 GB | 24 days ago |
-| [unix-hm-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-hm-cache) | public | linux/amd64 | 2 | 8.93 GB | 24 days ago |
+| [unix-dev-store-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-dev-store-cache) | public | linux/amd64 | 1 | 7.93 GB | 25 days ago |
+| [unix-hm-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-hm-cache) | public | linux/amd64 | 2 | 8.93 GB | 25 days ago |
 | [unix-my-konsole-boot-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-my-konsole-boot-cache) | public | — | 1 | — | 2 months ago |
 | [unix-system-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-system-cache) | public | linux/amd64 | 1 | 7.06 GB | 3 months ago |
 | [unix-termux-cache](https://github.com/users/diegonmarcos/packages/container/package/unix-termux-cache) | public | linux/arm64 | 1 | 2.19 GB | 3 months ago |
-| [unix-termux-nixcache](https://github.com/users/diegonmarcos/packages/container/package/unix-termux-nixcache) | public | — | 1 | — | 24 days ago |
+| [unix-termux-nixcache](https://github.com/users/diegonmarcos/packages/container/package/unix-termux-nixcache) | public | — | 1 | — | 25 days ago |
 | [user-dev-x86-deb-apt](https://github.com/users/diegonmarcos/packages/container/package/user-dev-x86-deb-apt) | public | linux/amd64 | 1 | 1.50 GB | 6 months ago |
 | [user-dev-x86-deb-nix-hm](https://github.com/users/diegonmarcos/packages/container/package/user-dev-x86-deb-nix-hm) | public | linux/amd64 | 1 | 1.64 GB | 6 months ago |
 | [user-dev-x86-nixos-nix-hm](https://github.com/users/diegonmarcos/packages/container/package/user-dev-x86-nixos-nix-hm) | public | linux/amd64 | 1 | 2.06 GB | 6 months ago |
@@ -558,9 +561,9 @@
 
 | Package | Visibility | Arch | Tags | Size | Updated |
 |:---|:---|:---|:---|:---|:---|
-| [c3-watchdog-server](https://github.com/users/diegonmarcos/packages/container/package/c3-watchdog-server) | public | linux/amd64, linux/arm64 | 3 | 419 KB | 21 days ago |
+| [c3-watchdog-server](https://github.com/users/diegonmarcos/packages/container/package/c3-watchdog-server) | public | linux/amd64, linux/arm64 | 3 | 419 KB | 22 days ago |
 | [my-watchdog](https://github.com/users/diegonmarcos/packages/container/package/my-watchdog) | public | linux/amd64, linux/arm64 | 38 | 418 KB | 1 month ago |
 
 ---
 
-<sub>Auto-generated from GHCR API · <code>ghrc/src/fetch.ts</code> + <code>ghrc/src/generate-md.ts</code> · Oct 25, 2026</sub>
+<sub>Auto-generated from GHCR API · <code>ghrc/src/fetch.ts</code> + <code>ghrc/src/generate-md.ts</code> · Oct 26, 2026</sub>
