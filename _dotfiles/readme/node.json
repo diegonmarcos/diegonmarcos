@@ -1,0 +1,63 @@
+{
+  "schema": "readme-node/v1",
+  "generated_by": "_git-repos-master readme-render.js nodeData() from projects-repos.json; DO NOT EDIT (node repos-sot.js sync-readmes)",
+  "name": "front-gh-profile-diegonmarcos",
+  "label": "front-gh-profile-diegonmarcos",
+  "code": "7.1.1.1",
+  "kind": "repo",
+  "description": "GitHub Landpage",
+  "visibility": "public",
+  "url": "https://github.com/diegonmarcos/diegonmarcos",
+  "developer": "Gh",
+  "farm": "7.Others",
+  "breadcrumb": [
+    {
+      "code": "7",
+      "kind": "area",
+      "label": "Others",
+      "icon": "🐙"
+    },
+    {
+      "code": "7.1",
+      "kind": "project",
+      "label": "Profile",
+      "icon": "🐙"
+    },
+    {
+      "code": "7.1.1",
+      "kind": "family",
+      "label": "README",
+      "icon": ""
+    }
+  ],
+  "hub": null,
+  "base_dir": "git",
+  "members": [],
+  "tree": [
+    "├── .claude/",
+    "├── .github/",
+    "│   └── workflows/",
+    "├── 0_docs/",
+    "├── 0_hub/",
+    "│   └── Projects-___ (submodule)",
+    "├── 1_workflows/",
+    "│   ├── dist/",
+    "│   │   ├── hooks/",
+    "│   │   ├── modules/",
+    "│   │   ├── scripts/",
+    "│   │   └── test/",
+    "│   └── src/",
+    "│       ├── hooks/",
+    "│       ├── modules/",
+    "│       ├── scripts/",
+    "│       └── test/",
+    "├── ghrc/",
+    "│   ├── dist/",
+    "│   └── src/",
+    "├── img/",
+    "├── releases/",
+    "│   ├── dist/",
+    "│   └── src/",
+    "└── rsc/"
+  ]
+}
