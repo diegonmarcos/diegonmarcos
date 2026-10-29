@@ -5,6 +5,7 @@
   "label": "front-gh-profile-diegonmarcos",
   "code": "7.1.1.1",
   "kind": "repo",
+  "variant": "profile",
   "description": "GitHub Landpage",
   "visibility": "public",
   "url": "https://github.com/diegonmarcos/diegonmarcos",
