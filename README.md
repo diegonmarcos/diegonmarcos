@@ -284,6 +284,12 @@ I am a Software Engineer and a Full Stack Developer <img src="https://media.giph
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegonmarcos&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonmarcos&show_icons=true&theme=dark)](https://github.com/diegonmarcos)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
+  <img alt="Contribution snake" src="dist/github-snake.svg">
+</picture>
+
 <a href="https://profile.intra.42.fr/users/dinepomu"> <p align="center"><img src="https://badge.mediaplus.ma/darkblue/dinepomu?1337Badge=off&UM6P=off"></p>  </a>
 <a href="https://profile.intra.42.fr/users/dnepomuc"> <p align="center"><img src="https://badge.mediaplus.ma/darkblue/dnepomuc?1337Badge=off&UM6P=off"></p>  </a>
 

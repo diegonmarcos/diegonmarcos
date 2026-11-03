@@ -1,0 +1,27 @@
+# Contribution snake (Platane/snk, MIT): the owner's own contribution graph,
+# rendered daily as dark and light SVGs and committed to dist/ on main.
+name: snake
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - name: Commit SVGs to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add dist/github-snake.svg dist/github-snake-dark.svg
+          git diff --cached --quiet || git commit -m "snake: refresh contribution SVGs"
+          git pull --rebase -q origin main && git push origin HEAD:main
